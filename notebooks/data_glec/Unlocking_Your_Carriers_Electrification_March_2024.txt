@@ -1,0 +1,2044 @@
+Unlocking Your Carrier's 
+Electrification Buy-in 
+A  Guide  with  the  3rd  Party  Electrification 
+Framework 
+
+March 2024 
+
+ 
+ 
+ 
+ 
+Unlocking  Your  Carrier's  Electrification 
+Buy-in 
+A Guide with the 3rd Party Electrification Framework 
+
+March 2024 
+
+© Smart Freight Centre, 2024 
+Suggested  citation:  Smart  Freight  Centre.  Unlocking  Your  Carrier's  Electrification  Buy-in.  A  Guide with  the  3rd 
+Party Electrification Framework. 2024. 
+This publication may be reproduced in whole or in part in any form for educational or non-profit purposes without special permission from 
+the copyright holder, provided acknowledgment of the source is made. Smart Freight Centre would appreciate receiving a copy of any 
+publication that uses ‘Unlocking Your Carrier's Electrification Buy-in' as a source.  No use of this publication may be made for resale or 
+for any other commercial purpose whatsoever, without prior permission in writing from Smart Freight Centre. 
+
+Disclaimer 
+The views expressed in this publication are those of Smart Freight Centre and staff, consultants and management, and do not necessarily 
+reflect the views of the Board of Trustees of Smart Freight Centre. Smart Freight Centre does not guarantee the accuracy of the data 
+included in this publication and does not accept responsibility for consequence of their use. 
+
+Acknowledgements 
+This report was written by Tharsis Teoh and Priyansh Doshi of Smart Freight Centre.  
+We  extend  our  sincere  gratitude  to  the  working  members  of  the  Road  Freight  Electrification  Guidance  project,  and  especially  to  the 
+following individuals and organizations for their real-world stories of electrification:  
+▪  Pieter Leonard of Colruyt Group; 
+▪  Rebeca Cruz Mendoza, Katie Deats-Johnson, Claudia Graf-Schmied of ALDI South Group;  
+▪  Oliver Berger and Sara Burkard of Daimler Truck; 
+▪  Matilda Eriksson and Amanda Molina Zoppas of Scania. 
+
+Many thanks to Darren Newman of Low Carbon Truck Consultancy and Chris Saxe of Zeus Labs, for their feedback on an earlier version 
+of this document. 
+
+About Smart Freight Centre 
+Smart Freight Centre is an international non-profit organization focused on reducing greenhouse gas emissions from freight transportation. 
+Smart Freight Centre’s vision is an efficient and zero emission global logistics sector. Smart Freight Centre’s mission is to collaborate with 
+the organization’s global partners to quantify impacts, identify solutions, and propagate logistics decarbonization strategies. Smart Freight 
+Centre’s goal is to guide the global logistics industry in tracking and reducing the industry’s greenhouse gas emissions by one billion 
+tonnes by 2030 and to reach zero emissions by 2050 or earlier, consistent with a 1.5°C future. 
+
+Contact 
+Smart Freight Centre 
+Keizersgracht 560, 1017 EM, Amsterdam, Netherlands 
+P.O. Box 11772, 1001 GT, Amsterdam, Netherlands 
+Tel office: +31 6 4695 4405 
+www.smartfreightcentre.org 
+info@smartfreightcentre.org      
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Unlocking Your Carrier's Electrification Buy-in 
+
+Contents 
+
+Executive Summary 
+
+Glossary 
+
+1 
+
+2 
+
+Introduction 
+
+3rd Party Electrification Framework 
+
+Building a Vision for Electrification 
+
+3 
+
+4 
+
+5 
+
+Internal electrification alignment 
+
+Understanding carriers through dialogue 
+
+Double-loop learning in electrification 
+
+Creating a Supportive Partnership Model 
+
+6 
+
+7 
+
+Attracting the right carriers 
+
+Enhancing contracts for electrification 
+
+Providing Operational Support 
+
+8 
+
+Cooperating through digital integration 
+
+9  Optimizing carriers' charging strategies 
+
+10  Support for vehicle acquisition 
+
+Conclusion 
+
+11  Scaling the e-trucking industry together 
+
+Notes 
+
+5 
+
+7 
+
+8 
+
+10 
+
+13 
+
+14 
+
+15 
+
+16 
+
+19 
+
+20 
+
+21 
+
+23 
+
+24 
+
+25 
+
+26 
+
+28 
+
+29 
+
+31 
+
+3 
+
+  
+ 
+ 
+ 
+Unlocking Your Carrier's Electrification Buy-in 
+
+Tables 
+
+Table 1 Opportunities for digital integration in support of electrification 
+
+24 
+
+Figures 
+
+8 
+Figure 1 Sales and sales shares of zero-emission light, medium and heavy trucks in Europe 
+Figure  2 Interplay between internal alignment,  actions to understand carriers, and  double-loop 
+11 
+learning towards a shared understanding and vision of electrification 
+12 
+Figure 3 3rd Party Electrification Framework 
+14 
+Figure 4 Alignment across departments 
+15 
+Figure 5 Communication approaches tailored to function and context 
+16 
+Figure 6 Double-loop learning 
+16 
+Figure 7 Types of learning channels 
+20 
+Figure 8 Use carrier selection criteria in different modes of communication with carriers 
+20 
+Figure 9 Example criteria to provide a clear description of a carrier's electrification journey 
+21 
+Figure 10 Elements within the contract lifecycle that supports electrification. 
+22 
+Figure 11 Operationally efficient: charging-while-loading! 
+25 
+Figure 12 Charging strategies, descriptions, and purpose 
+26 
+Figure 13 Vehicle acquisition support measures 
+27 
+Figure 14 eActros charged at Wörth plant 
+29 
+Figure 15 Mutual reinforcement of each element in the framework. 
+
+4 
+
+  
+ 
+ 
+ 
+ 
+Unlocking Your Carrier's Electrification Buy-in 
+
+Executive Summary 
+
+Road  freight  accounts  for  a  significant  portion  of  global  greenhouse  gas  emissions,  posing  a 
+substantial  challenge  to  achieving  climate  goals.  E-trucks  offer  a  promising  solution,  reducing 
+emissions dramatically. However, wider adoption faces hurdles due to: 
+▪  Market uncertainty: Carriers hesitate due to concerns about long-term market stability and 
+
+the evolving ecosystem. 
+
+▪  Knowledge gaps: Operating e-trucks requires new skills and strategies, which carriers lack 
+
+and need to learn. 
+
+▪  Limited  resources: Early-stage  experimentation  comes  with 
+
+financial  and  resource 
+
+constraints that carriers struggle with. 
+
+Despite  significant  influence  on  demand  ("pull-effect"),  freight  buyers  have  been  surprisingly 
+overlooked in their potential to drive the electrification of the trucking industry. Traditionally, "push-
+effects"  from  solution  providers  and  policies  have  been  emphasized.  However,  customers 
+ultimately determine market demand, making freight buyers key players in shaping the service 
+landscape. While acknowledging the roles of others, this highlights the crucial and underestimated 
+power of freight buyers in accelerating electrification. 
+This document empowers freight buyers, with their significant influence, to become key drivers 
+of  carrier  electrification.  It  introduces  the  3rd  Party  Electrification  Framework  (3PEF),  a 
+comprehensive  guide  for  freight  buyers  to  engage  carriers  and  overcome  these  challenges. 
+Interspersed between the framework description are stories of decarbonization leaders who have 
+taken the initiative to support their carriers proactively in the joint electrification journey. 
+
+3rd Party Electrification Framework (3PEF) 
+
+The 3PEF is underpinned by three driving questions: 
+▪  What  actions  are  necessary  to  ensure  that  freight  buyers  and  carriers  are  aligned  with  the 
+
+same vision? 
+
+▪  How to establish an effective and efficient partnership model? 
+▪  What are operational ways to support carriers? 
+
+These  questions  lead  to  three  parts  of  the  framework,  each  with  its  own  objectives  and 
+recommendations. Organizations seeking to implement the framework should be driven by the 
+interplay of these questions rather than the recommendations provided here. 
+
+Building a Vision of Electrification 
+
+Alignment  between  freight  buyers  and  carriers  on  the  vision  of  electrification  is  essential  to 
+working  effectively  together.  Freight  buyers  seeking  to  accelerate  fleet  electrification  must 
+navigate  the  challenge  of  bridging  divergent  perspectives  on  anticipated  outcomes  and  the 
+electrification process itself.  
+The 3PEF framework addresses these critical areas through three key actions: 
+▪ 
+
+Internal Electrification Alignment: Ensure internal stakeholders across departments share 
+a unified understanding and commitment to the electrification vision. 
+
+▪  Understanding  Carriers  through  Dialogue:  Establish  open  communication  channels  with 
+carriers to gather insights and tailor engagement strategies based on their unique needs and 
+concerns. 
+
+▪  Double-Loop Learning in Electrification: Foster a collaborative learning environment where 
+knowledge  and  information  are  freely  shared,  enabling  all  parties  to  adapt  and  evolve 
+alongside the dynamic e-truck ecosystem. 
+
+5 
+
+  
+ 
+Unlocking Your Carrier's Electrification Buy-in 
+
+Creating a Supportive Partnership Model 
+
+Building strong partnerships with carriers is crucial after establishing alignment and action plans. 
+This requires a shift from traditional buyer-seller dynamics to a true collaborative model. Freight 
+buyers  must  actively  select  and  guide  suitable  partners,  focusing  on  supplier  selection  and 
+contract negotiations for maximum impact. 
+The 3PEF addresses these critical areas through two key actions: 
+▪  Attracting the Right Carriers: Seek partners committed to electrification and possessing the 
+capabilities to navigate this transition through carefully selected criteria communicated in the 
+sourcing process.  
+
+▪  Enhancing Contracts for Electrification: Craft contracts that incentivize and support carrier 
+
+investment in e-trucks, addressing factors like charging infrastructure and risk sharing. 
+
+Providing Operational Support 
+
+After solidifying partnerships, freight buyers and carriers can move towards collaborative efforts. 
+While beneficial contract terms might suffice for some carriers, many may need further support 
+resembling pseudo-vertical integration. This strategic collaboration creates an electric transport 
+network  with  the  benefits  of  vertical  integration  without  ownership  mergers.  It  offers  mutual 
+advantages  like  improved  coordination,  risk  sharing,  resource  provision,  and  a  learning 
+environment for both parties. 
+Three key areas for collaboration addressed in the 3PEF: 
+▪  Cooperating  through  Digital  Integration:  Streamline  information  flow  and  improve 
+coordination by integrating freight buyer and carrier systems unlocks benefits of e-trucks and 
+helps overcome operational barriers. 
+
+▪  Optimizing  Carriers'  Charging  Strategies:  Facilitate  access  to  charging  services  via 
+partnerships, on-site facilities, or co-development ventures with other stakeholders to enable 
+the most beneficial charging strategies.  
+
+▪  Support for Vehicle Acquisition: Offer financial assistance or partnerships to help carriers 
+
+acquire e-trucks, exploring various ownership models. 
+
+Scaling Up Together 
+
+By implementing the 3PEF and actively collaborating with other stakeholders, freight buyers can 
+become leaders in nurturing the e-trucking market. This begins with consistently addressing 
+carrier needs, updating procurement policies to incentivize electrification, and fostering learning 
+initiatives  that  attract  and  retain  engaged  partners.  Sharing  best  practices  and  leveraging 
+collective strength alongside other freight buyers creates a ripple effect, amplifying the impact 
+of these efforts. 
+But  the  ripple  effect  does  not  stop  there.  Synergies  naturally  emerge  between  individual 
+electrification efforts, encouraging organizations to join forces and tackle shared challenges 
+like  charging  infrastructure  development  and  financing  mechanisms.  Existing  initiatives  like 
+demand signaling, shared infrastructure development, and joint financing exemplify the power of 
+collaboration in overcoming hurdles. 
+The  combined  force  of  leadership  and  collaboration  drives  a  significant  acceleration  in 
+demand  for  e-truck  services.  This  surge  in  demand  fuels  the  establishment  of  a  robust  and 
+continually  innovative  market for zero-emission  logistics solutions. Market growth is driven  not 
+only by societal and legislative pressures to decarbonize, but also by the growing availability and 
+demand for these services. As a result, most carriers are incentivized to transition away from 
+fossil-fuel  vehicles.  This  marks  a  significant  shift  towards  the  dominance  of  low-carbon 
+solutions, actively mitigating the climate impact of road freight transportation. 
+
+6 
+
+  
+ 
+ 
+ 
+Unlocking Your Carrier's Electrification Buy-in 
+
+Glossary 
+
+Carriers: Organizations or individuals who provide freight transportation services. 
+Carrier selection criteria: Specific factors or attributes used to evaluate and choose carriers or 
+logistics  partners,  often  based  on  performance,  capabilities,  and  alignment  with  organizational 
+goals. 
+Charging  services:  Facilities  or  infrastructure  for  recharging  electric  vehicles,  often  including 
+charging stations and related services. 
+Charging strategy: A plan or approach for managing the charging of electric vehicles, including 
+factors such as timing, location, and frequency of charging. 
+Contract lifecycle: The stages involved in the creation, negotiation, execution, performance, and 
+termination of a contract, from initiation to closure. 
+Double-loop learning: A learning process that involves questioning and challenging underlying 
+assumptions,  values,  and  mental  models,  leading  to  fundamental  changes  in  thinking  and 
+behavior. 
+E-trucking industry: Shortened form of electric trucking industry, which refers to the segment of 
+the trucking industry transports goods using electric trucks.  
+Freight buyers: Organizations or individuals who purchase freight transportation services. 
+Framework:  A  structured  set  of  concepts,  principles,  or  guidelines  used  to  address  complex 
+issues or achieve specific objectives. 
+Grid access: The ability to connect to and utilize the electrical grid for charging electric vehicles 
+or accessing electricity. 
+Market demand: The total quantity of a good or service that consumers are willing and able to 
+purchase at a given price. 
+Mental models: Internal representations or cognitive frameworks that individuals use to interpret 
+information and guide their behavior. 
+Opportunity charging: Charging an electric vehicle whenever the opportunity arises, such as 
+during scheduled stops or breaks in operations. 
+Procurement processes: The procedures and methods used by organizations to acquire goods 
+or services, often involving sourcing, negotiation, and contract management. 
+Pseudo-vertical  integration:  Strategic  collaboration  among  companies  to  achieve  benefits 
+similar to vertical integration without merging or acquiring other entities. 
+Pull-effect: The influence of freight buyers on market demand, driving the  electrification of the 
+trucking industry by expressing preferences for sustainable transportation solutions. 
+Push-effect:  Influence  exerted  by  solution  providers  and  policies  to  promote  the  adoption  of 
+electric trucking, traditionally emphasized over the role of freight buyers. 
+Scope  2  emissions:  Indirect  greenhouse  gas  emissions  associated  with  the  generation  of 
+electricity consumed by an organization. 
+Socio-technical  transition:  A  process  involving  changes  in  both  social  practices  and 
+technological systems. 
+Telematics systems: Technology that combines telecommunications and informatics to send, 
+receive, and store information about vehicles' location, movements, and diagnostics. 
+Total cost of ownership: An evaluation method that considers all costs associated with owning 
+and operating a vehicle over its lifetime, including purchase price, maintenance, and fuel. 
+Vehicle acquisition: The process of acquiring vehicles, which may involve purchasing, leasing, 
+or other arrangements. 
+
+7 
+
+  
+ 
+ 
+ 
+Unlocking Your Carrier's Electrification Buy-in 
+
+1 
+
+Introduction 
+
+The  Unlocking  Your  Carrier's  Electrification  Buy-in  guide  is  part  of  Smart  Freight  Centre's 
+collection of resources on road freight electrification.  
+
+Electric trucks (e-trucks) significantly reduce greenhouse gas emissions in road freight, achieving 
+up  to  an  85%  emission  intensity  reduction  in  regions  with  low-carbon  electricityi.  Total  cost  of 
+ownership  analysis  indicates  e-trucks  are  becoming  cost-competitive  with  conventional  diesel 
+trucksii.  Despite  this,  e-trucks  remain  a  niche  technology  used  in  freight,  constituting  a  small 
+percentage of overall sales (Figure 1). Various technical, operational, financial, and infrastructural 
+challenges  act  as  barriers  to  wider  adoptioniii.  Many  of  these  challenges,  such  as  low  vehicle 
+model variety and charging infrastructure availability, are critical barriers but are only short term 
+features of the market. Some of these challenges stem from the entrenched dominance of internal 
+combustion engine truck technology, creating a significant market lock-in.  
+
+Figure  1  Sales  and  sales  shares  of  zero-emission  light,  medium  and  heavy  trucks  in 
+Europeiv  
+
+Transitioning  from  this  lock-in  poses  disruptions  to  carriers'  business  models  and  wider 
+repercussions  for  the  logistics  sector,  which  can  explain  the  inertia  and  hesitation  of  the 
+characteristically  risk-averse  road  freight  sectorv.  The  current  (innovation)  state  is  difficult  to 
+navigate not only because of the existing challenges but also because of the uncertainty of how 
+the ecosystem that e-truck operations rely on will develop, and whether there will be continued 
+market demand for electric trucking (e-trucking) services. The uncertainty hampers decisions that 
+need  to  be  made  now,  namely  those  that  enable  the  sector  to  learn  how  to  create  and  run  a 
+transport business using e-trucks.  
+While it is uncertain how this may look once e-trucks become mainstream, in the transition stage, 
+it  is  expected  that  carriers  will  need  more  than  the  usual  support  from  the  freight  ecosystem: 
+vehicle  and  charging  suppliers,  policymakers,  and  freight  buyers.  This  document  represents  a 
+step towards helping the last group mentioned in that list, the freight buyers, define a systematic 
+support strategy to nudge carriers towards providing or scaling up e-trucking services.  
+
+8 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Unlocking Your Carrier's Electrification Buy-in 
+
+Critical conditions to enable carriers to transition 
+
+Before  diving  into  the  description  of  the  framework  let’s  outline  the  main  challenges  faced  by 
+carriers in the early adoption stage. The themes outlined here lean heavily on the literature on 
+innovation transitions and studies conducted on carrier decarbonizationvi,vii,viii,ix,x. 
+▪  Carriers  seek  assurances  for  the  long-term  development  of  a  stable  market. 
+Transitioning carriers are embarking on a potentially significant overhaul of their business and 
+operating  model  and  may  need  to  invest  heavily  in  new  assets  and  business  partnerships. 
+While legitimacy derived from he regulatory framework is essential, the long-term profitability 
+of  the  business  model  is  primary.  In  this  regard,  both  freight  buyers  and  carriers  must  be 
+aligned as to where the early electrification steps are heading.  
+
+▪  Carriers must be equipped with knowledge about running a successful electric freight 
+operation  and  business.  Swapping  a  conventional  vehicle  with  an  e-truck  is  not  a  simple 
+substitution but involves at the operator level, a variety of new strategies and planning devices, 
+including selecting and implementing charging strategy, based on constraints of the  e-truck, 
+available charging services, and the transport service parameters. These changes impact the 
+co-design of operations with the freight buyer, the viability of the carrier’s business model, and 
+the price of services.  
+
+▪  Carriers need starter resources and an experimental environment to enable the required 
+learning in the early adopter stage of electrification. Entry to the market is not only defined 
+by the significant capital investment but also the need to  learn by doing. Characteristic of a 
+socio-technical transition, the technology, businesses, and practices are all developing at the 
+same  time.  Until  there  is  some  stability,  carriers  will  need  the  space  (i.e.,  timewise, 
+contractually, and financially) to gain a deeper understanding of the new reality.  
+
+None  of  these  challenges  are  insurmountable.  However,  they  do  require  the  proactive 
+engagement of more actors than ‘usual’ in the ecosystem. And one of the key stakeholders that 
+have both the most influence and can receive the most direct benefit out of the transition, is the 
+buyers of logistics services, whether cargo owners or logistics service providers. In this document, 
+this group of actors will be collectively referred to as freight buyers.  
+
+Framework for a new carrier engagement strategy  
+
+Among the various stakeholders that have an influence over the ecosystem transition, the one 
+whose role has traditionally been underestimated is the role of the freight buyer. However, this is 
+a strange phenomenon, especially since in the business relationship between freight buyer and 
+carrier,  the  “pull-effect”,  i.e.,  the  influence  of  demand  for  a  service,  is  much  stronger  than  the 
+“push-effect”, e.g., the promotion of a service towards a customerxi. It is often the customer that 
+defines the environment in which the business and operational relationship takes place. This is 
+not to diminish the role of solution providers or policy makers, which enable or even put pressure 
+on the provision of services, but ultimately, the market demand for services defines the market 
+for service provision.  
+Fortunately, freight buyers, as a broad group, are becoming increasingly aware of and engaged 
+in  their  role  to  push  for  decarbonization  of  logistics,  thanks  in  part  to  the  few  freight 
+decarbonization frontrunners. Nevertheless, a large percentage of organizations - at least 45% 
+according to the Decarbonizing Freight 2022 Surveyxii - do not engage with their subcontractors 
+to decarbonize their transport operations. The development of a market for service provision will 
+require these organizations to be persuaded and to emulate good practices of decarbonization 
+leaders.  
+The framework presented in this document has been put together to provide freight buyers with 
+a feasible means to begin to play their electrification role effectively, that is, to persuade carriers 
+to electrify their operations on their behalf. While presented as a framework, these actions can be 
+taken individually, depending on the context the organization is in. However, the reason why they 
+are put together as a framework is to address the three challenges of a carrier holistically.  
+The  next  chapter  presents  this  framework  and  sets  the  stage  for  identifying  what  to  do  in  the 
+subsequent chapters.  
+
+9 
+
+  
+ 
+ 
+Unlocking Your Carrier's Electrification Buy-in 
+
+2  3rd Party Electrification Framework 
+
+Freight buyers can drive carrier electrification by gradually integrating the 3rd Party Electrification 
+Framework (3PEF) into their essential procurement processes. 
+
+Before delving into the framework's details, let's review the primary challenges encountered by 
+carriers in the early adoption phase: 
+▪  Market uncertainty: Carriers hesitate due to concerns about long-term market stability and 
+
+the evolving ecosystem. 
+
+▪  Knowledge gaps: Operating e-trucks requires new skills and strategies, which carriers lack 
+
+and need to learn. 
+
+▪  Limited  resources:  Early-stage  experimentation  comes  with  financial  and  resource 
+
+constraints that carriers struggle with. 
+
+These  represent  crucial  conditions  for  the  continued  and  accelerated  adoption  of  e-trucks  by 
+carriers. The 3PEF is specifically designed to address these conditions and is built around the 
+following key questions:  
+
+What actions are 
+necessary to 
+ensure that 
+freight buyers 
+and carriers are 
+aligned with the 
+same vision?
+
+How can an 
+effective and 
+efficient 
+partnership 
+model be 
+established?
+
+What are 
+operational ways 
+to support 
+carriers?
+
+While this publication suggests responses to these questions, it is crucial for the implementing 
+organization  to  independently  determine  and  consistently  refine  the  best  answers.  The  next 
+section presents the rationale behind the questions.  
+
+What actions are necessary to ensure that freight buyers and carriers are 
+aligned with the same vision? 
+
+Ensuring  alignment  between  freight  buyers  and  carriers  in  their  electrification  vision  requires 
+addressing key aspects. The term 'vision' pertains to how individuals or organizations perceive 
+the  electrification  outcomes  and  its  process.  Alignment  on  crucial  elements  is  paramount, 
+recognizing that perspectives may differ, encompassing both favorable and unfavorable aspects 
+for  freight  buyers  and  carriers.  Achieving  alignment  involves  collaboratively  strategizing  to 
+mitigate unfavorable aspects and enhance favorable ones. 
+Freight buyers and carriers could also  envision the outcomes differently. For instance, some 
+freight buyers may be aiming for exclusive  e-truck-based logistics by 2030, while their carriers 
+may see e-trucks as just one emissions reduction option among many or do not see the need to 
+
+10 
+
+  
+ 
+ 
+ 
+ 
+Unlocking Your Carrier's Electrification Buy-in 
+
+completely electrify so urgently. While complete alignment of the shared outcomes isn't always 
+necessary, sufficient overlap is needed to justify mutual support. 
+A shared understanding of the electrification process is crucial to avoid misunderstandings. For 
+instance, if freight buyers are unaware of the complexities in applying for vehicle subsidies, they 
+may harbor unrealistic expectations about the cost of the service. On the carrier side, clarity on 
+how to calculate and report logistics emissions from electric vehicles is essential for maximizing 
+the emission reduction value proposition, a key reason freight buyers are interested in e-trucks. 
+These examples underscore the importance of aligning  the understanding of  the electrification 
+process to ensure successful collaboration. 
+The  3PEF  introduces  three  concurrent  actions  aimed  at  resolving  misalignments  in 
+expectations  and  fostering  the  strategic  and  operational  knowledge  crucial  for  a 
+successful partnership and seamless transition (Figure 2). They revolve around a continuous 
+learning model, joint-knowledge production, and they take into intra-company dynamics.  
+
+Figure 2 Interplay between internal alignment, actions to understand carriers, and double-
+loop learning towards a shared understanding and vision of electrification 
+Integrating these three actions in the freight buyer’s engagement strategy  will keep the mental 
+models  of  both  internal  and  external  stakeholders  aligned,  as  well  as  ensure  that  the  overall 
+knowledge about electrification is kept up to date. These actions pave the way for establishing a 
+suitable partnership model and identify necessary areas to collaborate. 
+Details about each action are presented in their separate chapters. 
+▪ 
+▪  Understanding carriers through dialogue 
+▪  Double-loop learning in electrification 
+
+Internal electrification alignment 
+
+How to establish an effective and efficient partnership model? 
+
+With aligned mental models and a clear roadmap of actions, the next phase  is to build strong 
+partnerships with carriers. In this critical second stage, freight buyers must proactively guide 
+the  transformation  of  selected  carriers  into  collaborators.  This  entails  a  reciprocal  shift,  where 
+carriers  are  treated  and  function  as  collaborators,  leading  to  freight  buyers  evolving  into 
+collaborative  partners,  instead  of  just  clients.  While  acknowledging  the  broader  procurement 
+process,  the  3PEF  places  its  primary  emphasis  on  supplier  selection  and  negotiations  on 
+contractual  terms.  These  two  steps  are  deemed  the  most  pivotal  within  the  overarching 
+procurement processxiii.  
+Key questions emerge:  
+▪ 
+▪  Market  signaling  and  transformation: How  can  we  effectively  attract  and  guide  potential 
+
+Identifying ideal partners: Who aligns with our values and electrification goals? 
+
+partners? 
+
+11 
+
+Organizations progressively align the vision and way of working among key internal stakeholder.Internal alignment on electrificationIntentional, systematic and respectful ways to understand carriers are implemented.Understand carriersCarriers and shippers produce knowledgeand learn together about electrification.Double-loop learningInternal vision and approachrevised according to what isunderstood about carriers.Outdated assumptions about electrification are replaced with new.Needs for learning and new knowledge are identified by understanding carriers.   
+ 
+ 
+ 
+Unlocking Your Carrier's Electrification Buy-in 
+
+▪  Mutual  benefit  partnership  model: How  can  we  structure  agreements  that  support  both 
+
+parties' growth? 
+
+▪  Assuring market development and early-stage resources: How can we  provide stability 
+
+and resources during the transition? 
+
+▪  Addressing short-term carrier challenges: What support can we offer in exchange for their 
+
+collaboration? 
+
+These inquiries form the foundation for shaping a partnership that ensures shared success 
+in the electrification journey. 
+Details about each action are presented in their separate chapters. 
+▪  Attracting the right carriers 
+▪  Enhancing contracts for electrification 
+
+What are operational ways to support carriers? 
+
+In  the  subsequent  phase,  once  the  formal  partnership  model  is  solidified,  freight  buyers  and 
+carriers can begin collaborative efforts. At this juncture, carriers may find beneficial contractual 
+terms for e-trucking services sufficient. However, it is more probable that, at this stage, carriers 
+will  seek  enhanced  support  resembling  pseudo-vertical  integration.  Pseudo-vertical 
+integration  involves  strategic  collaboration  among  companies  to  establish  an  electric  transport 
+network  that  replicates  the  advantages  of  vertical  integration  without  actual  mergers  or 
+acquisitions.  These  actions  provide  mutual  benefits  to  both  freight  buyer  and  carrier  which 
+improves coordination, reduces risks inequality, provides resources, and creates an environment 
+for learning by both parties. 
+Three  main  areas  have  been  identified  that  provide  a  clear  opportunity  for  collaboration: 
+integrating logistics management  systems,  provision of  charging services, and  support 
+for  vehicle  acquisition.  These  address  major  barriers  facing  carriers  that  also  are  real-world 
+proven models of support. 
+Details about each action are presented in their separate chapters. 
+▪  Cooperating through digital integration 
+▪  Optimizing carriers’ charging strategies 
+▪  Support for vehicle acquisition 
+
+Combining the pieces 
+
+The 3PEF provides the freight buyer a clear means to begin their journey of electrifying their 3rd 
+party service providers. While each action described above is useful in and of itself, putting them 
+together in a cohesive system for engagement amplifies their effectiveness.  
+
+Figure 3 3rd Party Electrification Framework 
+The rest of the document presents what organizations can do organized under the three main 
+headings described above. These recommendations are not exhaustive and should be taken as 
+template for designing an organization’s unique engagement strategy with carriers. 
+
+12 
+
+Internal electrification alignmentUnderstanding carriers through dialogueDouble-loop learning in electrificationBuilding a Vision for ElectrificationAttractingtherightcarriersEnhancingcontractsforelectrificationCreating a Supportive Partnership ModelCooperatingthroughdigitalintegrationOptimizingcarriers’chargingstrategiesSupportforvehicleacquisitionProviding Operational Support  
+ 
+ 
+ 
+ 
+Unlocking Your Carrier's Electrification Buy-in 
+
+Building a Vision for 
+Electrification 
+What actions are necessary to 
+ensure that freight buyers and 
+carriers are aligned with the same 
+vision?  
+
+13 
+
+  
+ 
+ 
+ 
+ 
+ 
+Unlocking Your Carrier's Electrification Buy-in 
+
+3 
+
+Internal electrification alignment  
+
+To  ensure  effective  electrification,  the  organization's  external  engagement  strategy  must 
+commence  with  a  cohesive  narrative  that  aligns  with  the  mental  models  of  individuals, 
+departments, and implemented business processes.  
+
+The  electrification  of  third-party  logistics  is  a  strategic  decision  with  far-reaching  implications 
+across various aspects of a business, impacting departments from supply chain management to 
+logistics operations and procurement. Organizations that achieve internal alignment on desired 
+outcomes, strategies, and  resource allocation are better positioned to  develop a cohesive and 
+effective carrier engagement strategy in the context of electrification initiatives.  
+
+Electrification strategy alignment 
+
+involves  various  organizational 
+Electrification 
+actors, including sustainability teams, procurement, 
+operations and supply chain, sales and marketing, 
+and finance and legal. Achieving inter-departmental 
+alignment  is  often  challenging,  highlighting  the 
+critical role of executive teams. Their responsibility 
+is 
+“the  company  structure, 
+operational  processes,  capital  planning,  and 
+internal policies support the transition”xiv. 
+To foster alignment, several actions can be taken: 
+▪  Creating  a  safe  environment  for  collaboration 
+
+to  ensure 
+
+that 
+
+within and between departmentsxv. 
+
+▪  Conveying  and  co-creating  a  shared  vision  of 
+sustainable logistics through the electrification of 
+third-party logistics. 
+Identifying  actions,  projects,  and  policies  to 
+support the shared vision. 
+
+▪ 
+
+▪  Aligning 
+
+performance 
+defined actions. 
+
+departmental 
+indicators 
+
+and 
+(KPIs) 
+
+project 
+
+toward 
+
+key 
+the 
+
+Figure 4 Alignment across departments 
+
+Alignment is a continuous process as the understanding of their carriers and fleet electrification 
+deepens.  
+
+Carrier engagement strategy alignment 
+
+Beyond  aligning  with  the  overall  strategy,  organizations  should  embrace  a  new  engagement 
+paradigm  with  carriers.  Presently,  many  carrier  relationships  are  predominantly  'transactional,' 
+particularly  when  centered  on  short-term  contracts  for  transport  services.  As  detailed  in 
+subsequent  chapters,  a  recommended  approach  for  the  decarbonization  of  logistics  involves 
+adopting  a  collaborative  and  relational  modelxvi.  This  shift  in  relationship  format  serves  as  the 
+foundation for building trustxvii, mitigating risks associated with electrification, and facilitating more 
+meaningful two-way knowledge sharing.  
+Different  departments,  particularly  the  operations  and  procurement  departments  that  typically 
+lead  engagement  with  carriers,  will  need  to  be  aligned  on  the  approach  taken,  especially 
+considering their understanding of carriers.  
+By starting small and gradually expanding,  organizations can incrementally  improve alignment 
+and  communication,  ultimately  working  towards  broader  and  more  comprehensive  alignment 
+across teams and departments. 
+
+14 
+
+  
+ 
+ 
+ 
+Unlocking Your Carrier's Electrification Buy-in 
+
+4  Understanding carriers through dialogue 
+
+Electrification necessitates more in-depth conversations - updating and aligning mental models 
+of both freight buyers and carriers. 
+
+The widespread use of e-trucks by carriers is changing the transport service market in ways that 
+are hard to predict. This is happening alongside ongoing trends like a shortage of laborxviii and 
+stricter public policies. Even assumptions about the transport sector before COVID-19 that were 
+considered  safe  may  no  longer  be  valid,  as  industry  and  economy  have  faced  significant 
+geopolitical crises. Freight buyers planning to electrify their carriers need to stay informed about 
+the sector and specifically their carriers because the situation is evolving. 
+
+Building towards two-way communication  
+
+The current norm  involves transactional communication between freight buyers and carriers  in 
+the context of operational planning, sales, and procurement. Electrification necessitates more in-
+depth conversations, even if time-consuming, fostering understanding and collaboration. Buyers 
+electrifying carriers must understand the market, especially with small and medium-sized carriers. 
+Effective  communication  towards  carriers  involves  sharing  visions  and  assumptions  about 
+electrification,  testing  ideas,  and  signaling  intentions.  While  challenging,  a  favorable  outcome 
+would be for alignment between both freight buyers’ and carriers’ mental modelsxix with respect 
+to the end state and process of electrification. 
+To  initiate  the  process,  clearly  convey  the  organization's  vision  for  electrifying  the  road  freight 
+sector, extending beyond environmental performance to include carriers' evolving roles and well-
+being.  Additionally,  emphasize  to  carriers  that  the  collected  information  will  be  utilized 
+productively,  generating  present  value,  particularly  through  survey  results  that  enhance  their 
+understanding of the carrier market. This communication signals a transition from transactional to 
+collaborative engagement.  
+With that in place, other types of communication approaches (Figure 5) could be tailored to fit the 
+situation. 
+
+Workshop and focus groups
+
+Town hall meeting
+
+Anonymized surveys
+
+• Small number of carriers, specific 
+
+questions, physical or virtual locations
+
+• Creates rich information, builds 
+
+stronger relationships, suitable for 
+sensitive information when involving a 
+single party
+
+• Medium number of carriers, physical 
+
+• High number of carriers, widespread 
+
+setting
+
+• Facilitates two-way communication of 
+more superficial information, suitable 
+for introductions and networking
+
+geographic location, third-party 
+neutral survey company needed
+
+• Potential for rich information in terms 
+of breadth, sensitive information can 
+be pseudonymized, 
+
+• Low response rate possible unless 
+
+tied with incentives
+
+Figure 5 Communication approaches tailored to function and context 
+
+Maintaining dialogue 
+
+To  improve  communication  quality  and  maintain  the  dialogue  in  the  long  term.  The  following 
+strategies can be used.  
+▪  Create value based on the dialogue for the active (and passive) network, such as sharing the 
+
+learnings or case studies through a publication. 
+
+▪  Create an environment where individuals feel comfortable sharing their ideas and concerns 
+
+without fear of judgment or repercussions – socially or commerciallyxx. 
+
+▪  Allocate  time  and  resources  for  hosting  events,  training  and  implementing  technology  to 
+
+enhance and improve communication. 
+
+▪  Nudge  carriers  to  participate  in  the  events.  Be  transparent  about  the  role  of  these 
+
+communication channels, while stressing the importance and benefits of participating. 
+
+15 
+
+  
+ 
+ 
+ 
+ 
+Unlocking Your Carrier's Electrification Buy-in 
+
+5  Double-loop learning in electrification 
+
+Navigating  electrification's  early  stages  requires  double  loop  learning  for  freight  buyers  and 
+carriers, integrating mental models and decision-making rules into the adaptive process.  
+
+Staying abreast of the rapid evolution of e-truck technology, charging infrastructure, and business 
+practices,  while  ensuring  alignment  with  each  other,  will  provide  a  competitive  edge  for  both 
+freight  buyers  and  carriers.  Firsthand  learning  by  both  parties,  therefore,  becomes  primary, 
+enabled by the provision of resources and space for real-world experiments that freight buyers 
+can provide. 
+
+Double-loop learning  
+
+Freight  buyers  and  carriers  shape  electric  freight 
+operations  together.  As  electrification  enhances  and 
+constrains  service  parameters  set  by  buyers  and 
+transport services offered by carriers, both parties must 
+engage  in  double-loop  learning  that  continuously 
+updates  assumptions  and  values  that  go  into  design 
+and decision makingxxi.  
+Some  aspects  expected  to  evolve  with  e-truck  use 
+include  transport  service  description,  compensation, 
+buyer  support,  and  evaluation  criteria  for  supplier 
+selection, and contract management. 
+
+Learning channels 
+
+Figure 6 Double-loop learning 
+
+Freight buyers, especially if the trust between buyer and carriers are high, can play an active role 
+to facilitate learning, especially by engaging with trusted 3rd parties, such as universities and non-
+governmental organizations. It is helpful to distinguish between three types of learning channels 
+that could be adopted depending on the function, context, and available resources.  
+These are presented here in decreasing order of priority and present need.  
+
+Real-world Testing
+
+• Offers firsthand experience with operational solutions
+• Demonstrations within research projects, operational pilots, or living labs
+• Typically preceded by in-depth planning, design and evaluation
+
+Firsthand Experience 
+Exchange
+
+• Peer-to-peer sharing of learnings from demonstrations and experiments
+• Credibility of peers lends to high confidence in shared knowledge
+• Instills confidence and helps prevent costly mistakes
+
+• Equips organizations with aggregated knowledge from various firsthand and secondhand 
+
+sources
+
+Training
+
+• Through written or verbal communication: leaflets, in-house or third-party training
+• Highly standardized knowledge, often remains superficial, and can become quickly 
+
+outdated. 
+
+Figure 7 Types of learning channels 
+Organizations  need  to  recognize  that  the  ‘new’  information  is  added  to  the  existing  pool  of 
+knowledge of the individual, within  their organization, and within the sector.  Resistance to new 
+knowledge at various levels necessitates a strategic learning approach to ensure that the quality 
+of the pooled knowledge continually improvesxxii.  
+Embedding  learning  in  the  engagement  strategy,  particularly  through  partnerships  with  freight 
+electrification associations, will greatly benefit the road freight sector and electrification ecosystem 
+by 
+to  policymakers, 
+manufacturers, and infrastructure providers.  
+
+industry  skill  development,  providing  valuable 
+
+fostering 
+
+insights 
+
+16 
+
+Information FeedbackDecisionReal-worldMental modelDecision-makingrules  
+ 
+ 
+ 
+ 
+Unlocking Your Carrier's Electrification Buy-in 
+
+Zero emission transport community building 
+with Colruyt 
+
+Colruyt is steadfast in its commitment to achieving zero-emission logistics operations by 2035 
+through strategic partnerships with subcontractors, transitioning to electric and hydrogen fuel 
+cell trucks. During a December 2022 event hosted by Colruyt, which brought together 150 small 
+and  large  trucking  companies,  including  subcontracted  transport  partners,  the  company 
+unveiled  its  proactive  approach  towards  phased  electrification,  offering  valuable  insights  for 
+other organizations. 
+The company initiated its pilot phase by experimenting with various e-trucks, conducting tests 
+over a 3-to-4-year period.  This phase involved a collaborative  learning process  drawing  and 
+sharing insights from the experiments. 
+In  the  subsequent  preparation  phase,  spanning  up  to  4  years,  Colruyt  plans  to  make  early 
+investments based on the lessons learned, await improved products, and explore the economic 
+aspects of the transition. Colruyt is dedicated to supporting subcontractors in their successful 
+transition by providing operational support, including charging infrastructure and investments. 
+The company also facilitates the shift to e-trucks by aiding carriers in vehicle acquisition through 
+joint truck procurement. 
+In the final adoption phase, Colruyt is committed to an incremental implementation of a zero-
+emission fleet. The initial transition of the company's internal fleet to a zero-emission fleet is set 
+to occur by 2030, followed by the entire fleet, including partnered carriers, by 2035.  
+Such  events,  coupled  with  unwavering  commitments  and  continuous  communication,  foster 
+strong  trust  and  relationships  among  transport  stakeholders,  a  critical  element  for  resilience 
+during the transition period. By signaling that Colruyt will take the lead in decarbonization while 
+also supporting their carriers through the transition, they instill confidence in trucking companies 
+to trust Colruyt and become more open to experimenting with the technology.  
+
+17 
+
+  
+ 
+ 
+Unlocking Your Carrier's Electrification Buy-in 
+
+Piloting Sustainable Technologies at ALDI 
+SOUTH Group 
+
+ALDI SOUTH Group has implemented strategic and systematic learning to lay the foundation 
+for a smooth sustainable transportation journey in each country where they operate. ALDI South 
+Group has defined global sustainability targets. While each individual country is responsible for 
+ensuring the targets are met, a central Supply Chain team provides support to all countries. The 
+central team is focusing on global coordination, knowledge sharing, creating global partnership, 
+and more, all to ensure they are benefitting from synergies and making sure all countries are 
+working  in  the  same  direction.  The  country  teams  support  with  understanding  local 
+requirements, site specific details, and many other topics. The collaboration of central and local 
+teams allows for them to ensure they are looking at the full picture and progressing towards the 
+overall ambition: reducing the company carbon footprint.  
+As  part  of  this  focus,  they  have  investigated  many  technologies,  including  electric  vehicles, 
+which are the focus of this case study. The ambition is to understand the feasibility of electric 
+vehicles within their supply chain and the associated challenges.  Urgent topics that need to be 
+addressed  include  understanding  the  benefits  and  drawbacks  of  the  various  sustainable 
+transportation  options,  maturity  of  market  participants  and  partners  within  the  electrification 
+realm, and the limitations of all the various grids within Europe. Their approach aims to test new 
+technologies within the various regions, compile learnings, and share a best approach to each 
+country  while  considering  their  unique  market  requirements  and  stages  of  technology 
+development.  
+One  of  the  main  challenges  that  they  have  recently  investigated  was  how  to  overcome 
+challenges to provide charging infrastructure- which currently faces structural barriers (e.g. grid 
+capacity), lot size limitations and operational requirements, and significant capital expenditure 
+to retrofit facilities.  They carried out two separate pilots in two different regions to test different 
+types of charging solutions.  
+The summary of the pilots is presented below. Both pilots were used for trucks servicing their 
+outbound flows (from regional distribution centers to stores). 
+
+Both  trials  are  helpful  to  understand  more  about  the  capabilities  of  an  e-truck  without  the 
+implications  of  high  investments  in  charging  infrastructure  or  truck  trials.  The  business  is 
+strategically researching and piloting various set ups to ensure the country teams have a variety 
+of  decarbonising  options  available,  such  as  rental  constructs,  truck-as-a-service  model,  and 
+others. 
+However, there are still major challenges to electrification, namely that any impact on logistics 
+costs can impact other aspects of the business. Challenges range from scalability of  e-trucks 
+due to grid capacity constraints and projections of truck availability not matching the demand, 
+to significantly longer refuelling times when compared to standard diesel operations and a more 
+limited range.  
+The  ALDI  SOUTH  Group  continues  to  share  learnings  among  its  national  teams,  and  will 
+continue to develop its organizational structure to support effective and cost-efficient learning 
+between the central, the regions, and carrier networks serving the different locations. 
+
+18 
+
+Region 2Region 1The ALDI country made an agreement with a stationary charging network operator to help carriers charge their trucks.The carrier used a mobile electric charger to charge its trucksCharging Solution-Eliminates the high investment required to develop charging infrastructure.-Requires less space at the warehouse.Benefits  
+ 
+ 
+ 
+ 
+Unlocking Your Carrier's Electrification Buy-in 
+
+Creating a Supportive 
+Partnership Model 
+How can an effective and efficient 
+partnership model be established?  
+
+19 
+
+  
+ 
+ 
+ 
+ 
+ 
+Unlocking Your Carrier's Electrification Buy-in 
+
+6  Attracting the right carriers 
+
+Organizations  can  embed  expectations  early  into  the  existing  procurement  processes,  using 
+carrier selection criteria, which is a high impact and cost-effective way to kick start electrification. 
+
+Freight  buyers,  armed  with  a  comprehensive  understanding  of  the  steps  they  should  take  to 
+electrify, as well as a realistic understanding of what is feasible in the existing carrier market, can 
+leverage  their  insights  to  articulate  criteria  for  selecting  partners,  described  here  as  carrier 
+selection criteria.  
+
+Amplify criteria across all engagement channels for emphasis.  
+
+Using  carrier  selection  criteria  in  the  logistics  partner  sourcingxxiii  provides  a  clear  target  for 
+carriers to aim for. By embedding expectations early into the procurement process, organizations 
+create a strong link between their stated ambitions and the types of carriers they are looking to 
+partner with. Strive for coherent message from private policy documents to the enforcement of 
+the criteria.  
+
+Promote vision of the industry as a general carrier policy or Third-Party Code of Conduct.
+
+• Establish the framework for collaboration, narrowing down applications to carriers demonstrating both interest and qualification. 
+
+Articulate a comprehensive vision statement for the industry and potential partners, encompassing elements like:
+• Environmental KPIs that are used internally for the logistics procurement department.
+• Public commitments, such as done within the EV100+ and First Movers Coalition.
+• Sustainable logistics roadmap or ambitions. 
+• Social sustainability aspects, such as commitment to fair pay or better working conditions in alignment with CSR Europe's Truck 
+
+Transport Social Guidelines. 
+
+Be transparent about criteria used to obtain environmental performance desired
+
+• Aim to not only successfully procure services, but to also provide a clear demand signal to the industry and to open high-quality 
+
+lines of communication with the industry to aid electrification. 
+• Communicate explicitly your organization’s environmental criteria in any procurement Request-For documents. 
+• In the early phases, allow for information sessions for carriers to understand the changes to past practices and to offer feedback. 
+• Take their feedback into consideration to revise the Request-For documents (see Section 4), as well as the contract terms (see 
+
+Section 7).
+
+Monitor and enforce the criteria in the on-going relationship
+
+• Embed double loop learning in the monitoring and enforcing practices, while maintaining commitment to the terms of the 
+
+agreements.
+• Embed the terms in the contract.
+• Revise the criteria depending on feedback from the logistics and sustainability team.
+
+Figure 8 Use carrier selection criteria in different modes of communication with carriers 
+
+Embed electrification needs in the criteria. 
+
+After  receiving  responses  from  carriers,  the  procurement  department  assesses  each  using 
+predefined  criteria  (Figure  9).  Organizations  should  allow  carriers  to  provide  information  on 
+needed support, which could be part of the commitment offered by the freight buyer.  
+
+General environmental 
+performance
+
+Improvement in 
+environmental performance
+
+Allocation of environmental 
+attributes to the shipper
+
+Support needed for 
+electrification
+
+• Number of e-trucks in the 
+
+fleet.
+
+• Ratio of e-trucks to own 
+
+charging points
+
+• Certified fleet emissions 
+
+intensity
+
+• Past and planned growth 
+
+of e-trucks in the fleet
+• Improvement of fleet 
+emissions intensity 
+compared to the previous 
+year and planned over the 
+next years.
+
+• Availability of e-trucks to 
+be used in the shipper’s 
+operation.
+
+• Certified fleet emissions 
+intensity assigned to the 
+shipper’s operation
+
+• Charging infrastructure 
+
+needs
+
+Figure 9 Example criteria to provide a clear description of a carrier's electrification journey 
+Threshold values that both reflect regional maturity and encourage growth could be used in the 
+evaluation. These criteria should work alongside  other criteria used to assess logistics service 
+quality. 
+
+20 
+
+  
+ 
+ 
+ 
+Unlocking Your Carrier's Electrification Buy-in 
+
+7  Enhancing contracts for electrification 
+
+Organizations can leverage these contract terms to show tangible commitment to electrification, 
+while supporting this growing and maturing service sector.  
+
+In  fostering  electrification  and  ensuring  logistics  performance  through  carrier  agreements, 
+organizations must experiment to optimize their critical elements: the purchased transport service, 
+service level, and environmental performance, along with financial terms. 
+
+Redesign contract lifecycle and terms. 
+
+To  optimize  carrier  agreements  for  electrification  and  improved  logistics  performance,  freight 
+buyers  should  start  by  strategically  considering  using  e-trucks  in  a  transport  service  as  an 
+opportunity rather than just a constraint. In this approach, freight buyers can make electric freight 
+operations  appealing  through  attractive  freight  rates,  longer  and  more  stable  contracts,  and 
+tailored  assistance  for  electrification.  When  both  parties  have  a  long-term  perspective,  freight 
+buyers can incorporate clauses that specifically address the scale-up of electrification over the 
+contracting period. The goal is to gently guide partners towards the right direction without causing 
+long-term harm, balancing the short-term needs of the freight buyer.  
+
+Designing Transport Request 
+based on what the E-truck 
+affords:
+
+• Implement e-trucks for intermodal 
+
+first/last mile. 
+
+• Optimize activities for e-trucks: 
+
+consolidate shipments, optimize routes, 
+lead time. 
+
+• Redesign networks, create urban 
+
+consolidation centers. 
+
+• Why: Shippers should start with the 
+
+best e-truck applications to get carriers 
+started. 
+
+Adjusting Freight Rate for E-
+truck-based Transport:
+• Methods include adding an emissions 
+
+reduction value ($/ kg CO2) or 
+estimating the Total Cost of Ownership 
+(TCO) differential between e-trucks and 
+diesel trucks.
+
+• Why: Reflecting a fair premium for 
+electrification acknowledges the 
+increased value of the service and 
+compensates for the unique category of 
+e-truck-based services.
+
+Providing Stability of Transport 
+Service Demand
+
+• Negotiations may involve longer 
+
+contracting periods and stable transport 
+volumes.
+
+• Why: e-truck investments require 
+
+longer payback periods, and stable 
+contracts help carriers with credit 
+scores and contract searches.
+
+Committing to Optimize 
+Operations with Current E-truck 
+Capabilities:
+• Negotiations around service levels align 
+
+with technology immaturity.
+
+• Examples include priority and flexible 
+
+rescheduling at loading bays to 
+optimize e-truck use and charging 
+activity.
+
+• Why: Considering the growing 
+
+competence of e-truck technology, 
+flexibility in operations eases anxiety for 
+e-truck operators.
+
+Allowing for a Reasonably-Paced 
+Transition, if Necessary:
+• Phasing in e-truck adoption for specific 
+transport operations and the carrier's 
+fleet.
+
+• Compensation should align with actual 
+
+performance.
+
+• Why: Guides carriers to transition 
+
+financially stable and avoids abrupt, 
+unwise adoption of e-trucks from both 
+shipper and carrier perspectives.
+
+Figure 10 Elements within the contract lifecycle that supports electrification. 
+
+Nudge carriers towards terms that align with internal priorities. 
+
+While conventional transport contracts primarily involve monetary transactions for services, the 
+landscape  shifts  in  electrification.  In  this  context,  where  freight  buyers  actively  contribute  to  a 
+carrier's  business  model  transformation,  their  role  extends  beyond  the  norm.  Therefore,  it 
+becomes imperative for freight buyers to ensure that contractual terms safeguard their interests, 
+particularly in bolstering future electrification endeavors. This could include:  
+▪  securing detailed emissions and energy data for an enhanced emission reduction roadmap,  
+▪ 
+▪  aiding procurement with comprehensive cost data. 
+
+facilitating operational learning about electric vehicles that can be transferred to other carriers,  
+
+This, however, necessitates deep trust and legal protections between both parties. 
+
+21 
+
+  
+ 
+ 
+ 
+Unlocking Your Carrier's Electrification Buy-in 
+
+Towards normalizing electric road freight 
+procurement at Scania 
+
+Scania has the vision to drive the shift towards a sustainable transport system. The company 
+sees electrification as an important part of its sustainability journey. The first step Scania has 
+taken in this journey has been to develop a company-level electrification strategy. Based on the 
+strategy, further initiatives and actions will be taken.  
+
+One  key  aspect  Scania  has  addressed  is  the  question  of  how  to  integrate  procurement  of 
+electric  road  freight  services  into  its  usual  procurement  processes.  To  develop  a  deeper 
+understanding,  the  company  conducted  a  pilot  on  one  of  its  inbound  transport  lanes  in 
+Södertälje, Sweden. The approach taken had five main steps and ended with a detailed post-
+pilot evaluation of the learnings.  
+
+The first step in the pilot involved identifying a suitable transport flow to electrify. Scania’s team 
+has  identified  one  transport  flow  with  a  short  distance  and  a  high  volume  of  goods,  which 
+represents the highest potential of feasibility for electrification and simplicity of use in the pilot. 
+Moreover, the company has performed a detailed analysis of the driving capability of the vehicle 
+while simultaneously identifying when and where the vehicle would need to be charged.  
+
+Based on this analysis, Scania was able to be concrete about the demand for the transport flow, 
+request  that  within  a  tender,  and  issue  a  request  for  quotation.  The  request  for  quotation 
+included electrification and charging station requirements. The process for signing on a carrier 
+was  successful.  Negotiation  with  the  carrier 
+resulted in a clearer understanding of the route 
+the  vehicle  needed  to  take  and  the  charging 
+station  requirements.  Before  implementation, 
+Scania  and  the  selected  carrier  performed  a 
+vehicle simulation. The simulation helped ensure 
+the  vehicle  and  charging 
+and  assure 
+that 
+infrastructure  could  perform 
+transport 
+required  and  that  the  supply  to  the  production 
+line  would  not  be  impacted.  With  the  pre-work 
+done, the implementation of the pilot went well, 
+resulting in learnings for both Scania, as freight 
+buyer, and for the carrier involved in the project.  
+
+Figure 11 Operationally efficient: 
+charging-while-loading! 
+
+the 
+
+A critical consideration that determined the success of the  pilot was  identifying collaborative 
+and forward-looking carriers that would be in line with Scania’s way of working. Scania, while 
+willing  to  support  carriers,  was  clear  that  carriers  needed  to  contribute  to  a  successful 
+collaboration in the pilot. For instance, in this pilot, the carriers were expected to provide their 
+charging infrastructure. In addition, Scania provided the carrier with priority for loading slots to 
+help maintain operational efficiency and reduce the impact of any transport delays. 
+
+Scania’s  pilot  was  very  successful,  for  both  them  and  the  carrier.  Taking  an  incremental 
+approach to slowly build up competence and design a new electric road freight business model 
+was very successful. One critical challenge that remains is to get buy-in from carriers at an early 
+stage, as well as to perform a rigorous analysis of transport flows that fit the EV and charging 
+infrastructure profile. 
+
+22 
+
+  
+ 
+ 
+ 
+ 
+Unlocking Your Carrier's Electrification Buy-in 
+
+Providing Operational 
+Support 
+What are operational ways to 
+support carriers? 
+
+23 
+
+  
+ 
+ 
+ 
+ 
+ 
+Unlocking Your Carrier's Electrification Buy-in 
+
+8  Cooperating through digital integration 
+
+Developing  a  digital  integration  strategy  is  pivotal  for  advancing  electrification  efforts  and 
+optimizing logistics operations.  
+
+Digital  integration  in  road  freight,  a  longstanding  strategy  to  mitigate  operational  risks  and 
+inefficiencies, encounters added complexity and urgency with the introduction of electric vehicles 
+and  charging  infrastructure.  This  necessitates  enhanced  communication  and  data-driven 
+decision-making, ultimately building resilience into e-truck-based logistics operations. 
+
+Supporting electrification through digital technology. 
+
+Within the logistics domain, multiple digital management systems, including fleet, transport, and 
+warehouse  management,  coexist.  The  ongoing  technological  progress  aims  to  integrate  these 
+systems,  enhancing  visibility  and  decision-making  capabilities,  particularly  in  responding  to 
+disruptions. Despite advancements, industry implementation still lags. The integration of electric 
+vehicles, equipped with telematics systems, and charging infrastructure, incorporating payment 
+and reservation systems, remains an outstanding challenge.  
+Below,  we  outline  potential  opportunities  arising  from  integration  or  data  analysis  within  this 
+context.  
+
+Table 1 Opportunities for digital integration in support of electrification 
+
+Opportunities  
+
+How  
+
+Why 
+
+Improve precision of vehicle-
+to-route operational and 
+energetical match 
+
+Analyze telematics and battery state-
+of-charge data per route to improve 
+vehicle routing strategies and make 
+use of heterogeneous fleets. 
+
+Reduce energy consumption, 
+optimize battery use, suggest eco-
+driving behaviors, will extend the 
+economic value of each vehicle. 
+
+Extend vehicle capabilities 
+by integrating charging 
+services 
+
+Include available charging points in 
+the routing and scheduling plan, while 
+reserving the charging points.  
+
+Mitigate congestion and 
+delay risks in transport with 
+flexible charging reservation 
+system. 
+
+Update charging point (or loading 
+bay) reservations based on estimated 
+time of arrival based on real-time 
+vehicle telematics. 
+
+Benefit from lower prices and 
+emissions of electricity  
+
+Analyze historical data or receive real-
+time updates to determine optimal 
+charging schedule, and integrating in 
+route and scheduling optimization 
+
+Selecting an appropriate charging 
+strategy extends daily driving range of 
+the vehicle, while reducing range 
+anxietyxxiv. 
+
+Ensure charging availability by 
+dynamically adjusting charging point 
+or loading bay reservations with short 
+time windows according to dynamic 
+estimated time of arrivalsxxv. 
+
+Exploit benefits of the prices of and 
+availability of renewable electricity 
+which vary during the dayxxvi.  
+
+Note  that  the  prerequisite  for  the  integration  is  that  carriers  are  persuaded  to  share  data  or 
+integrate the systems. Establishing trust and incorporating safeguards in contracts can mitigate 
+these challenges. 
+
+Streamlining digital integration as it develops 
+
+Ongoing enhancements in technical communication protocols pose another obstacle, requiring 
+alignment with evolving market and technology. In addressing these challenges, freight buyers 
+play  a  pivotal  role.  They  must  advocate  for  interoperability  in  emerging  standards,  preventing 
+issues like lock-in and compatibility. Moreover, emphasis on quality implementation is crucial to 
+ensure practical effectiveness. Freight buyers can contribute by supporting carriers and solution 
+providers in experimenting with digital solutions before widespread migration to new systems.  
+
+24 
+
+  
+ 
+ 
+Unlocking Your Carrier's Electrification Buy-in 
+
+9  Optimizing carriers' charging strategies 
+
+Companies face a dual opportunity in ensuring the success of their carriers' electrification efforts: 
+infrastructure provision or facilitating their access to charging services. 
+
+The  reliance  of  electric  vehicle  systems  on  charging  infrastructure  poses  challenges  in 
+purchasing, installing, and accessing it, acting as a significant hurdle for fleets.xxvii Despite truck 
+operators expected to manage their own infrastructure, freight buyers can enhance the appeal of 
+electrification collaboration by actively providing support here.  
+
+Types of charging strategy and infrastructure 
+
+The charging strategy refers to the carrier's method of incorporating charging services into vehicle 
+operations, typically characterized by the driver's activities, the vehicle's operating condition, and 
+the charging locationxxviii. The main types of charging strategies, expected to be used in most truck 
+operations, are described briefly below.  
+
+Overnight (or downtime):
+
+Opportunity fast:
+
+Opportunity ultra-fast:
+
+• How: 50-150 kW at depots or 
+long-duration truck parking.
+• Why: Default charging during 
+
+the truck's idle period of 8 to 10 
+hours daily, especially in single-
+shift operations. This is not 
+easily available to trucks used in 
+multi-shift operations.
+
+• How: 150 – 350 kW at 
+
+destination locations (loading 
+bays, temporary parking, 
+depots).
+
+• Why: Quick top-up during 
+
+logistics activities, mandatory 
+breaks, or between shift 
+changes, crucial in long-haul 
+operations.
+
+• How: 750 kW – 3 MW at 
+
+destination locations and truck 
+break sites. Technology still in 
+development.
+
+• Why: Similar to opportunity fast 
+
+but suited for larger battery 
+vehicles with higher charging 
+demand, particularly critical in 
+long-haul operations.
+
+Figure 12 Charging strategies, descriptions, and purposexxix  
+
+Opportunities that make investment in charging infrastructure appealing 
+
+Freight buyers could facilitate access to the above charging services in different ways. 
+▪  Establishing  a  partnership  with  (semi-)  public  charging  service  operators  involves 
+negotiating  rates  for  charging  services  before  the  actual  implementation  and  securing 
+exclusive access for co-owned charging sites. 
+
+▪  Providing charging services on their premises can include the installation of chargers at 
+loading  bays  to  facilitate  opportunity  charging  and  the  sharing  of  charging  points  at  freight 
+buyer-owned depots. 
+
+▪  Exploring co-development or joint-financing of semi-public charging hubs entails freight 
+buyers  and  carriers  collaborating  to  install  chargers  and  receiving  potentially  favorable 
+financing terms from institutions based on the quality of their relationship. 
+
+Supporting  carriers  in  establishing  charging  infrastructure  offers  advantages  like  securing  grid 
+access early and avoiding higher costs associated with public charging. The investments which 
+carry higher costs and risks to the company, could be introduced into cost-sharing terms or energy 
+price indexing in carrier compensation contracts. In addition, freight buyers can exploit synergies 
+with their Scope 2 emission reduction measures, such as securing renewable energy, if charging 
+takes place on-site.  
+Despite  the  benefits,  companies  must  navigate  this  support  mechanism  with  care.  Obtaining 
+governmental  permission  to  sell  charging  services  and  building  approvals  from  facility  owners 
+may add to the complexity. Implementing reservation systems for charging is essential for optimal 
+infrastructure use. However, if chargers are installed at loading bays, it may complicate logistics 
+loading bay scheduling optimization. 
+
+25 
+
+  
+ 
+ 
+ 
+ 
+Unlocking Your Carrier's Electrification Buy-in 
+
+10  Support for vehicle acquisition 
+
+Companies  providing  vehicle  acquisition  support  mitigate  financial  risks  and  expedite  market 
+development, addressing a key obstacle in electrification efforts. 
+
+Fleet  operators  are  primarily  concerned  about  the  profitability  and  affordability  of  providing  e-
+trucking services. Buyers are focused on the long-term cost-efficiency of electric freight services, 
+seeking  the  best  CO2  reduction  per  price  efficiency  and  affordability  relative  to  transportation 
+needs. There is a significant opportunity for collaboration between carriers and buyers to mutually 
+support each other as electrification gains traction. 
+
+Understand the carrier’s vehicle acquisition model 
+
+Despite  significant  improvements  in  the  value-intensity  of  e-trucks  (e.g.,  trucks  are  becoming 
+better and cheaper) in recent years, with expectations for continued enhancement in the coming 
+decade,  carriers  aiming  to  electrify  currently  encounter  challenging  financial  risks.  These  risks 
+primarily  include  high  initial  capital  investment,  limited  availability  of  public  subsidiesxxx,  and 
+uncertainties regarding total cost of ownership (TCO) and potential revenuexxxi.  
+The  method  of  acquiring  vehicles  within  a  transportation  business  can  vary,  ranging  from 
+purchases or leases of new or secondhand vehicles, and may rely on external financing or the 
+use  of  internal  funds.  Large  operators  are  more  likely  than  small  and  medium  operators  to 
+purchase or lease new vehicles and to depend on external financingxxxii, and would therefore be 
+more likely to acquire electric freight vehicles as the market develops. 
+
+Ways to support vehicle acquisition 
+
+Depending on the circumstances and available resources, companies have the ability to assist 
+carriers with vehicle  acquisition.  Figure 13 illustrates  several examples of how companies can 
+offer  support,  such  as  facilitating  access  to  financing  or  fleet  leasing  services,  or  actively 
+participating in vehicle ownership.  
+
+Joint application for subsidies 
+and grants:
+• Shippers can submit joint applications 
+
+on behalf of carriers and handle 
+administrative tasks collectively.
+• Why: This approach reduces the 
+
+administrative burden for carriers and 
+ensures clarity regarding the legal 
+requirements for the applications.
+
+Negotiating with fleet leasing 
+services:
+
+Serve as guarantor in vehicle 
+financing:
+
+• Shippers have the opportunity to 
+
+leverage their financial strength to 
+negotiate lower rates and more 
+favorable terms with truck-as-a-service 
+and leasing companies.
+
+• Why: This strategy has the potential to 
+enhance the carrier's profitability and 
+mitigate risks during the transition 
+phase.
+
+• Shippers can leverage their financial 
+strength to negotiate lower rates and 
+more favorable terms with financial 
+institutions.
+
+• Why: This allows them to serve as 
+
+guarantors in case the financial risk 
+profile of carriers is not positive, 
+thereby mitigating risk for financial 
+services.
+
+Leasing vehicles to carriers:
+• Shippers could purchase and lease 
+vehicles to carriers, enabling shared 
+vehicle usage among multiple carriers 
+to facilitate learning. 
+
+• Why: This approach places almost all 
+financial risk on the shipper, which is 
+attractive to carriers. Enabling more 
+carriers to field test the vehicles will 
+accelerate the transition.
+
+Guaranteeing buyback solution 
+for old e-trucks:
+
+• Including a clause in contract to 
+
+guarantee that the shipper will facilitate 
+a buyback at the end of the vehicle's 
+life, in the event that the secondhand 
+market does not develop as expected.
+• Why: Including this clause will mitigate 
+concerns about the resale value of the 
+vehicles and the risk of ending up with 
+stranded assets.
+
+Figure 13 Vehicle acquisition support measures 
+Freight  buyers  are  reminded  that  ownership  costs  and  risks  are  shared  between  them  and 
+carriers, prompting a caution in selecting partners (Section  6) and ensuring explicit protections 
+espoused in contracts (Section 7).  
+
+26 
+
+  
+ 
+ 
+ 
+ 
+Unlocking Your Carrier's Electrification Buy-in 
+
+Daimler  Truck’s  goal  to  electrify  delivery  to 
+Wörth plant and deploy charging infrastructure 
+
+Daimler Truck has set itself the ambitious goal of 100% electrification of delivery traffic to its 
+largest truck plant by the end of 2026, to make a significant part of its direct supply chain CO2-
+neutral. 
+Together with logistics service providers and freight forwarders who supply the German Daimler 
+Truck  plants  daily,  the  company  is  working  to  integrate  e-trucks  into  their  fleet.  The  core 
+elements  of  the  approach  revolve  around  piloting  vehicles,  deploying  charging  infrastructure 
+tied with the most fitting charging strategy for their logistics operations, and providing planning 
+advice to their freight forwarders. 
+Both  the  eActros  300  and  eActros  600  models  will  be  used  in  real-world  conditions.  In 
+December  2023,  twelve  eActros  tractors  were  handed  over  to  forwarders  and  are  currently 
+employed  in  transporting  goods  to  the  plants.  Starting  from  the  first  quarter  of  2024,  these 
+vehicles will conduct  approximately  50  all-electric transports to German plants daily. Moving 
+forward they aim to  build on the learnings  of the  pilots to electrify  all transport  within  a 200-
+kilometer radius as an interim goal.  
+The  most  challenging  aspect  of  the 
+ambition  was 
+to  deploy  charging 
+infrastructure.  These  were  deployed  at 
+the Wörth site and the German plants in 
+Kassel,  Mannheim,  and  Gaggenau. 
+Charging  columns,  including  megawatt 
+charging  stations  for  high-performance 
+battery  charging,  are  planned  at  key 
+the 
+points 
+production plants.  
+It is crucial to not lose valuable process 
+time  for  additional  charging  so  that  the 
+e-truck  can  be  used  as  efficiently  as  a 
+diesel  truck.  Hence,  each  route  has  to 
+be analyzed in detail to find the optimized 
+combination of routes, charging stations, 
+and time slots for delivery. This is only possible if the freight buyer, forwarder and, if necessary, 
+further  involved  parties,  e.g.  suppliers,  work  together  in  partnership  and  at  eye  level.  The 
+ambition is that the time during which the e-truck's cargo is unloaded will be used to recharge 
+the vehicle's battery. In this way, the vehicle ideally does not have to schedule further downtime 
+and can resume its route directly after parts delivery. 
+To develop a targeted concept for zero-emission delivery logistics to  the Wörth  plant and to 
+further  plants  in  Daimler  Truck’s  production  network  the  first  step  is  to  work  with  freight 
+forwarders  to  analyze  their  regular  routes.  This  provides  information  on  travel  times  and 
+distances between delivery locations, charging options, and individual truck ranges. They also 
+receive  support  integrating  e-trucks  into  their  existing  fleets  and  in  realigning  their  logistics 
+centers, including advice on setting up the appropriate in-house charging infrastructure. 
+Realizing that a collaborative approach is required to reach their own sustainability goals, they 
+have launched the Sustainable Logistics Consulting program. In this program, Daimler Truck 
+will leverage the insights from the Wörth plant pilots to support other organizations to electrify 
+their logistics processes. 
+
+Figure 14 eActros charged at Wörth plant 
+
+for  delivery 
+
+traffic  near 
+
+27 
+
+  
+ 
+ 
+ 
+Unlocking Your Carrier's Electrification Buy-in 
+
+Conclusion  
+
+28 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Unlocking Your Carrier's Electrification Buy-in 
+
+11  Scaling the e-trucking industry together  
+
+The  publication  outlines  a  carrier  engagement  strategy  to  accelerate  electrification  of  the 
+shipper’s carrier network by addressing fundamental concerns that carriers have that hinder 
+electrification.  
+▪  Market uncertainty: Carriers hesitate due to concerns about long-term market stability and 
+
+the evolving ecosystem. 
+
+▪  Knowledge gaps: Operating e-trucks requires new skills and strategies, which carriers lack 
+
+and need to learn. 
+
+▪  Limited  resources:  Early-stage  experimentation  comes  with  financial  and  resource 
+
+constraints that carriers struggle with. 
+
+While some markets are slightly further along the transition than others, it is safe to say that the 
+trucking industry around the world is merely at the early adopter stage of electrification. 
+Any  practice  or  business  model  with  e-trucks  at  its  core  is  out  of  place  in  the  current  freight 
+ecosystem.  Hence,  many  elements  that  previously  supported  the  ICE-based  trucking  industry 
+need  to  be  revamped  or  replaced  to  support  e-truck  operations  instead.  This  includes  the 
+transformation of market expectations, competence of all logistics actors, and business norms.  
+The 3rd Party Electrification Framework (3PEF) offers a comprehensive approach to address 
+electrification concerns within existing freight buyer-carrier relationships and help freight 
+buyers navigate the transition at the early adopter stage. It emphasizes three main questions: 
+aligning  the  vision  of  electrification,  designing  a  suitable  partnership  model,  and  providing 
+operational support to carriers. The framework comprises eight types of actions that enhance a 
+freight  buyer's  carrier  engagement  or  procurement  strategy  for  electrification.  It  is  essential  to 
+consider that the actions are most effective when integrated into a cohesive system of behavior, 
+rather than implemented piecemeal, but also that they are not necessarily part of a linear process. 
+The elements mutually reinforce each other.  
+
+Figure 15 Mutual reinforcement of each element in the framework. 
+
+The  result  of  implementing  the  framework  stack  up.  Through  consistent  addressing  of  carrier 
+needs, updating  procurement  policies, and fostering  learning initiatives, the freight buyer will 
+gradually be identified as a leader in nurturing the e-trucking market, with effects extending 
+beyond their own network. The leadership role effectively inspires other freight buyers to adopt 
+similar ambitions and approaches, fostering collaboration and cooperation with their suppliers.  
+Eventually, synergies between the electrification efforts of other freight buyers and large 
+carriers  will  begin  to  emerge  and  organizations  will  recognize  opportunities  for 
+collaboration  to  address  other  persistent  ecosystem  barriers.  Several  effective  collaborative 
+
+29 
+
+Building a Vision for ElectrificationCreating a Supportive Partnership ModelProviding Operational Support▪Internal electrification alignment▪Understanding carriers through dialogue▪Double-looplearning in electrification▪Attracting the right carriers▪Enhancing contracts for electrification▪Cooperating through digital integration▪Optimizing carriers' charging strategies▪Support for vehicle acquisition  
+ 
+ 
+ 
+ 
+Unlocking Your Carrier's Electrification Buy-in 
+
+initiatives have already begun spurred by the commitment of freight decarbonization leaders to 
+truck  electrification.  These  include  activities  like  demand  signaling,  development  of  shared 
+charging infrastructure, joint development of instruments to finance the transition, support for zero 
+emission trucking policies, and adoption of zero emission logistics procurement guidelines. These 
+align with the strategy outlined in this publication and address these challenges from a different 
+angle. 
+This  will  drive  a  significant  acceleration  in  demand  for  e-trucking  services  across  diverse 
+regions, establishing a robust yet continually innovating market for zero-emission logistics. Market 
+growth will be fueled not only by societal and legislative pressures to decarbonize but also by the 
+growing  availability  and  demand  of  these  services.  As  a  result,  the  majority  of  carriers  will 
+transition away from fossil-fuel vehicles, marking a shift towards low-carbon solutions dominance 
+and mitigating climate impact.  
+In conclusion, the 3PEF framework goes beyond a simple set of guidelines; it acts as a catalyst 
+for positive change across the entire e-trucking ecosystem. By fostering leadership, encouraging 
+collaboration, and ultimately accelerating market demand, it paves the way for a more sustainable 
+electrified future for all actors and stakeholders. 
+
+30 
+
+  
+ 
+ 
+ 
+ 
+ 
+Unlocking Your Carrier's Electrification Buy-in 
+
+Notes 
+
+and 
+
+Change, 
+
+Forecasting 
+
+technological  change:  Empirical  evidence 
+Social 
+
+i Smart Freight Centre. 2024. Measuring and Reporting the Carbon Footprint of Electric Freight 
+Vehicle Operations: Whitepaper. 
+ii ICCT. 2023. A total cost of ownership comparison of truck decarbonization pathways in Europe. 
+Working paper 2023-28 
+iii Smart Freight Centre, Calstart, & RVO. 2023. Financing the transition to electric trucks: Framing 
+paper for the start of a dialogue. Transforming Transportation 2023: Accelerating Toward Green 
+and Inclusive Mobility. https://www.flexmail.eu/f-7dcc9769db7ff029  
+iv ICCT. 2023. European heavy-duty vehicle market development quarterly: January-March 2023. 
+v Allen, J., Piecyk, M., & Cao, M. 2023. Road Freight Transport SMEs: Trading, Operational and 
+Decarbonisation Perspectives (ENG-TR.030). 
+vi Elzinga, R., Janssen, M. J., Wesseling, J., Negro, S. O., & Hekkert, M. P. (2023).  Assessing 
+mission-specific innovation systems: Towards an analytical framework. Environmental Innovation 
+and Societal Transitions, 48, 100745. https://doi.org/10.1016/j.eist.2023.100745 
+vii  Hekkert,  M.  P.,  &  Negro,  S.  O.  (2009).  Functions  of  innovation  systems  as  a  framework  to 
+for  earlier  claims. 
+understand  sustainable 
+Technological 
+584–594. 
+76(4), 
+https://doi.org/10.1016/j.techfore.2008.04.013 
+viii  Melander,  L.,  Nyquist-Magnusson,  C.,  &  Wallström,  H.  (2022).  Drivers  for  and  barriers  to 
+electric  freight  vehicle  adoption  in  Stockholm.  Transportation  Research  Part  D:  Transport  and 
+Environment, 108, 103317. https://doi.org/10.1016/j.trd.2022.103317 
+ix  Smart  Freight  Centre.  (2016).  Barriers  for  Carriers  to  adopt  fuel-saving  technologies  and 
+measures. 
+x  Tölke,  M.,  &  McKinnon,  A.  (2021).  Decarbonizing  the  operations  of  small  and  medium-sized 
+road carriers in Europe. 
+xi Jazairy, A., von Haartman, R., & Björklund, M. (2021). Unravelling collaboration mechanisms 
+for  green  logistics:  The  perspectives  of  shippers  and  logistics  service  providers.  International 
+Journal 
+423–448. 
+https://doi.org/10.1108/IJPDLM-09-2019-0274 
+xii Transporeon. (2022). Decarbonizing Freight 2022: Where shippers and carriers stand on the 
+road to net zero. https://www.transporeon.com/en/reports/decarbonizing-freight-2022 
+xiii For a comprehensive approach to incorporating sustainability into logistics procurement, refer 
+to  the  "Procurement  Playbook  toward  Zero  Emissions  Logistics  Services,"  which  outlines  a 
+systematic  approach  and  leverages  established  standards  for  both  outsourced  services  and 
+across all transportation modes. Smart Freight Centre. 2024. "Procurement Playbook. Towards 
+Zero Emissions Logistics Services". 
+xiv  WBCSD.  2022.  “Incentives  for  Scope  3  Supply  Chain  Decarbonization:  Accelerating 
+Implementation.” 
+xv  Edmondson,  Amy.  1999.  “Psychological  Safety  and  Learning  Behavior  in  Work  Teams.” 
+Administrative Science Quarterly 44 (2): 350–83.  
+xvi  Jazairy,  Amer,  Robin  von  Haartman,  and  Maria  Björklund.  2021.  “Unravelling  Collaboration 
+Mechanisms for Green Logistics: The Perspectives of Shippers and Logistics Service Providers.” 
+International Journal of Physical Distribution & Logistics Management 51 (4): 423–48.  
+xvii Lewis, J. David, and Andrew Weigert. 1985. “Trust as a Social Reality.” Social Forces 63 (4): 
+967–85. 
+xviii IRU. 2023. “Driver Shortage Report 2023: Freight – Global: Executive Summary.”  
+
+of  Physical  Distribution  & 
+
+Logistics  Management, 
+
+51(4), 
+
+31 
+
+  
+ 
+ 
+ 
+Unlocking Your Carrier's Electrification Buy-in 
+
+xix Mental models are defined as “deeply ingrained assumptions, generalizations, or images that 
+influence how market actors understand the world and how they take action”. Storbacka, Kaj, and 
+Suvi Nenonen. 2011. “Markets as Configurations.” European Journal of Marketing 45 (1/2): 241–
+58.  
+xx  Edmondson,  Amy.  1999.  “Psychological  Safety  and  Learning  Behavior  in  Work  Teams.” 
+Administrative Science Quarterly 44 (2): 350–83. https://doi.org/10.2307/2666999  
+xxi Argyris, Chris. (1977. “Double Loop Learning in Organizations”. In Harvard Business Review. 
+https://hbr.org/1977/09/double-loop-learning-in-organizations. 
+xxii  Cowan,  Robin,  and  Nicolas  Jonard.  2001.  “Knowledge  Creation,  Knowledge  Diffusion  and 
+Network Structure.” In , 503:327–43. https://doi.org/10.1007/978-3-642-56472-7_20.  
+xxiii WBCSD provides an overview of how decarbonization criteria in supplier selection fits in the 
+broader procurement process (WBCSD 2020) 
+xxiv  The  selection  of  charging  strategy  is  a  decision  taken  by  transport  operator  but  to  a  large 
+extent,  enabled  by  the  shipper’s  transport  requirements.  See  Teoh,  T.  (2022).  Electric  vehicle 
+charging strategies for Urban freight transport: Concept and typology. Transport Reviews, 42(2), 
+Article 2. https://doi.org/10.1080/01441647.2021.1950233   
+xxv Charging point reservations could use approaches in truck slot management. See Prakoso, E. 
+F., Maknoon, Y., Pel, A., Tavasszy, L. A., & Vanga, R. (2022). A Predictive–Proactive Approach 
+for  Slot  Management  of  a  Loading  Facility  With  Truck  ETA  Information.  Frontiers  in  Future 
+Transportation, 3. https://www.frontiersin.org/articles/10.3389/ffutr.2022.815267 .  
+xxvi These benefits are only available in regions, where energy providers implement dynamic retail 
+tariffs, 
+advance” 
+(https://www.raponline.org/blog/flex-and-the-city-cities-need-dynamic-pricing-for-public-
+charging/, Accessed 20.06.2023). 
+xxvii ICCT. (2022b). Road freight decarbonization in Europe: Readiness of the European fleets for 
+zero-emission trucking. 
+xxviii Teoh, T. (2022). “Electric Vehicle Charging Strategies for Urban Freight Transport: Concept 
+and Typology.” Transport Reviews 42 (2): 157–80.  
+xxix ICCT. (2022a). Charging solutions for battery-electric trucks.; Teoh, T. (2022). “Electric Vehicle 
+Charging Strategies for Urban Freight Transport: Concept and Typology.” Transport Reviews 42 
+(2): 157–80. https://doi.org/10.1080/01441647.2021.1950233 . 
+xxx  ACEA.  (2023).  “Electric  Commercial  Vehicles:  Tax  Benefits  and  Purchase  Incentives.” 
+https://www.acea.auto/files/Electric_commercial_vehicles_Tax_benefits-
+and_purchase_incentives_2023.pdf.  
+xxxi  Smart  Freight  Centre,  Calstart,  &  RVO.  (2023).  Financing  the  transition  to  electric  trucks: 
+Framing paper for the start of a dialogue. Transforming Transportation 2023: Accelerating Toward 
+Green and Inclusive Mobility. https://www.flexmail.eu/f-7dcc9769db7ff029  
+xxxii Allen, Julian, Maja Piecyk, and Mengqiu Cao. (2023). “Road Freight Transport SMEs: Trading, 
+Operational and Decarbonisation Perspectives.” ENG-TR.030. 
+
+communicated 
+
+hourly 
+
+prices 
+
+e.g., 
+
+day 
+
+“in 
+
+in 
+
+a 
+
+32 
+
+  
+ 
+ 
+Join our journey towards 
+efficient and zero-emission 
+global freight and logistics 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

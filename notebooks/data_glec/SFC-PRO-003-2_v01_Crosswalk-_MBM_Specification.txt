@@ -1,0 +1,397 @@
+Crosswalk: MBM 
+Specification 
+
+Edition 
+
+01 
+
+Date 
+
+11-10-24 
+
+Page 
+
+1 
+
+1. Introduction  
+
+1.1. This is an informative document, which summarizes how the MBM Specification (SFC-
+SPEC-001-02) compares to Smart Freight Centre´s Voluntary Market Based Measures 
+Framework for Logistics Emissions Accounting and Reporting (MBM Framework, v.1.0, 
+October 2023). It was prepared to support those who are already familiar with the MBM 
+Framework  in  identifying  the  topics  where  the  MBM  Specification  contains  clearer 
+definitions, supplementary notes and additional requirements.  
+
+1.2. This document becomes effective on the date of issue indicated above. 
+
+2. Key 
+
+2.1. The following key applies to the colours used in the table below. The word “requirement” 
+is mentioned in inverted commas because the MBM Framework does not really contain 
+requirements, given it is a guidance - not normative - document. 
+
+No change 
+Clarification  
+Existing “requirements” expanded 
+Existing “requirements” reduced  
+“Requirement” added 
+“Requirement” removed 
+
+3. References 
+
+2.2. The following documents are referred to in this crosswalk. For dated references, only the 
+edition  cited  applies.  For  undated  references,  the  latest  edition  of  the  referenced 
+document (including any amendments) applies.  
+a)  ISO  14083:2023  -  Greenhouse  gases  - Quantification  and reporting  of greenhouse 
+
+gas emissions arising from transport chain operations   
+
+b)  Voluntary  Market  Based  Measures  Framework  for  Logistics  Emissions  Accounting 
+
+and Reporting, 2023   
+
+c)  ISO14064-1:2018  -  Greenhouse  gases  -  Part  1:  Specification  with  guidance  at  the 
+organization level for quantification and reporting of greenhouse gas emissions and 
+removals  
+
+SFC-PRO-003-2 v01 Crosswalk- MBM Specification                editor: Assurance Manager              Page 1 of 4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+Crosswalk: MBM 
+Specification 
+
+Edition 
+
+01 
+
+Date 
+
+11-10-24 
+
+Page 
+
+2 
+
+4. Crosswalk 
+
+MBM Specification clause  
+1. Scope  
+2. Normative references  
+
+3. Terms and definitions  
+Chain of Custody System  
+Low 
+Emissions 
+(Solution)  
+Solution Production Date  
+Solution Production Point  
+Transportation Service 
+
+Solution 
+
+Low  Emissions  Transportation 
+Service (LETS)  
+LETS Generation  
+
+LETS Generation Date  
+LETS Generation Point  
+Book  
+
+Registry  
+
+Internal ledger  
+Booking date  
+Rebook  
+Claim  
+
+Inventory Inclusion Date  
+Shipper  
+
+Carrier  
+LSP  
+
+Emissions 
+Low 
+Provider (Solution Provider)  
+Intended User  
+
+Solution 
+
+Additionality  
+Double Counting  
+Emission Profile  
+
+Summary of change   
+New section but no change to scope or general approach.  
+Clarification  that  compliance  with  ISO  14083  and  ISO 
+14064-1 is required, which was not explicit but assumed.   
+--  
+One verb improved for clarification.   
+Reworded and linked to LETS for clarification.  
+
+New definition but no change of meaning used.  
+New definition but no change of meaning used.  
+Revised  to  avoid  using  the  word  being  defined  but  no 
+change of meaning used.  
+New definition but no change of meaning used.  
+
+Merge  of  previous  2  definitions  of  Direct  and  Indirect 
+Generation  of  a  Low  Emission  Transportation  Service. 
+Improved wording.  
+New definition but no change of meaning used.  
+New definition but no change of meaning used.  
+Improved  for  clarity  and  mentions  “emissions  profile” 
+instead of “characteristics”.  
+Simplification of the definition, and “requirement” moved to 
+section 6.1.   
+New definition but no change of meaning used.   
+New definition but no change of meaning used.  
+New definition but no change of meaning used.  
+No  change  except  using  “emissions  profile”  instead  of 
+“characteristics” (changed to improve clarity).  
+New definition but no change of meaning used.  
+Improved  definition  but  no  change  of  meaning.  Notes 
+added.   
+Note added.   
+Improved  definition  but  no  change  of  meaning.  Notes 
+added.   
+Wording reorganized into notes but no change.   
+
+New definition of basic concept relevant to GHG reporting, 
+sourced from ISO 14064-1:2018.   
+No change.   
+New definition but no change of meaning used.  
+New term used instead of “characteristics”, for clarity.   
+
+SFC-PRO-003-2 v01 Crosswalk- MBM Specification                editor: Assurance Manager              Page 2 of 4 
+
+ 
+ 
+ 
+ 
+Crosswalk: MBM 
+Specification 
+
+Edition 
+
+01 
+
+Date 
+
+11-10-24 
+
+Page 
+
+3 
+
+Sustainability Profile  
+
+General 
+
+Unit  
+MBM Emissions Report  
+4. 
+principles  
+5. Scope of reporting  
+5.1 Reporter type  
+
+Accounting 
+
+5.2 Level of reporting  
+
+5.3 Solutions and/or LETS  
+5.4 Accounting period  
+
+6. Quantification Approach  
+6.1 Sustainability Profile  
+6.2 
+LETS 
+minimum parameters  
+
+characteristics 
+
+6.3 Physically vs non-physically 
+tied  
+6.4 Primary & secondary data  
+
+to 
+
+the  Specification;  sourced 
+
+New  definition to  improve clarity.  Formerly referred  to  as 
+“characteristics” of a solution or service.  
+New definition but no change of meaning used.  
+New definition but no change of meaning used.  
+Added 
+14083:2023.  
+--  
+New  requirement  to  explicitly  disclose  the  role  of  the 
+reporter, but no change of meaning.  
+New requirement, but was implicit in MBM Framework and 
+follows ISO 14083 requirements.   
+New requirement, but was implicit in MBM Framework.  
+New requirement, but was implicit in MBM Framework and 
+follows ISO 14083 requirements.  
+
+from 
+
+ISO 
+
+--  
+Improved wording regarding declaration and reporting.  
+Clarification  that  the  baseline  scenario  shall  also  be 
+reported and verified as part of the minimum parameters 
+mentioned in the MBM Framework.  
+No  change  except  using  “Solution”  to  refer  to  Low 
+Emission Fuel. 
+Improved  clarification  on  the  usage  of  primary  and 
+secondary data. Notes added.  
+--  
+No change.  
+Reworded to improve understanding.  
+
+7. Constraints  
+7.1 Modal constraint  
+7.2  Vintage  Constraint  -  profile 
+book or claim  
+7.3 Vintage Constraint - dates   Existing requirements expanded to facilitate tracking and 
+
+Transport 
+
+7.4 
+Constraint  
+7.5 Additionality Constraint  
+
+Activity 
+
+traceability.  
+No change.  
+
+Clarification  on  the  assessment  and  documentation  of 
+additionality.  
+Clarification  on  the  assessment  and  documentation  of 
+additionality regulation under a particular action or specific 
+outcome.   
+
+7.6  Additionality  Regulation  – 
+particular  action  or  specific 
+outcome  
+7.7 Cross-modal credit creation   No change.  
+7.8 Erroneous double counting  Clarification  on  the  assessment  and  documentation  of 
+
+8. Bundling/ Unbundling  
+8.1 Unbundling  
+
+erroneous double counting.  
+--  
+Clarification on documentation and reporting. 
+
+SFC-PRO-003-2 v01 Crosswalk- MBM Specification                editor: Assurance Manager              Page 3 of 4 
+
+ 
+ 
+ 
+Crosswalk: MBM 
+Specification 
+
+Edition 
+
+01 
+
+Date 
+
+11-10-24 
+
+Page 
+
+4 
+
+8.2  Unbundling 
+detection  
+
+– 
+
+Error 
+
+9. Monitoring Plan  
+
+10. Reporting  
+
+11. Internal Controls and Data 
+Retention  
+
+12. Verification  
+
+New  requirement, translating the  implicit requirements  of 
+the  MBM  Framework 
+transparency  and 
+regarding 
+Business to Business Declarations. 
+New  requirement  to  specify  how  general  requirements 
+contained  in  ISO  14064-1  apply  to  MBM,  specifying 
+minimum  content  for  the  Monitoring  Plan,  including 
+omissions and any applicable constraints.  
+New  requirement  specific  to  the  SFC  CAS  reporting 
+process, to specify how general requirements contained in 
+ISO  14064-1  and  ISO  14083  apply  to  MBM.  Defines 
+minimum content for the MBM Emissions Report, mentions 
+the SFC Emissions Reporter report template and specifies 
+that organizations using the emissions profile of the LETS 
+and not using it should receive different information.    
+New  requirement  specific  to  the  SFC  CAS  reporting 
+process,  to  define  that  compliance  with  clause  8  of  ISO 
+14064-1: 2018 is expected, and that supporting data must 
+be  retained  for  5  years  in  case  there  is  a  dispute  about 
+disclosed data.   
+New requirement explaining how verification of the MBM 
+Emissions  Report  shall  be  carried  out,  if  the  Reporter 
+decides 
+third-party  Verification  Body. 
+However,  verification  is  not  mandatory  for  users  of  the 
+Specification who do not wish to pursue Listing by Smart 
+Freight Centre.  
+
+to  engage  a 
+
+Version history 
+1  
+
+11/10/2024   First edition  
+
+_________________________________________________________________________ 
+© 2024 Smart Freight Centre (SFC) 
+This work is copyright of SFC. It may be reproduced for fair use by those seeking SFC approval, or those wishing 
+to learn more about the SFC CAS, but may not be used by others without the written permission of SFC. 
+
+SFC-PRO-003-2 v01 Crosswalk- MBM Specification                editor: Assurance Manager              Page 4 of 4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

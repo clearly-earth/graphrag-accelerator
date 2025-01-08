@@ -1,0 +1,578 @@
+Barriers for Carriers to adopt 
+fuel-saving technologies and 
+measures  
+Mapping barriers relevant to road freight carriers 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+© Smart Freight Centre 2016. Barriers for Carriers to adopt fuel saving technologies and measures – 
+mapping barriers relevant to road freight carriers 
+
+This  publication  may  be  reproduced  in  whole  or  in  part  in  any  form  for  educational  or  non-profit  purposes 
+without special permission from the copyright holder, provided acknowledgment of the source is made. Smart 
+Freight Centre would appreciate receiving a copy of any publication that uses State of Play: Green Freight in 
+Asia  as  a  source.  No  use  of  this  publication  may  be  made for  resale  or  for  any  other  commercial  purpose 
+whatsoever, without prior permission in writing from Smart Freight Centre. 
+
+Disclaimer 
+The  views  expressed  in  this  publication  are  those  of  Smart  Freight  Centre  and  staff,  consultants  and 
+management, and do not necessarily reflect the views of the Board of Trustees of Smart Freight Centre. Smart 
+Freight Centre does not guarantee the accuracy of the data included in this publication and does not accept 
+responsibility for consequence of their use. 
+
+SFC Authors 
+Sophie Punte, Executive Director 
+Floor Bollee, Manager Communication 
+
+SFC Team 
+Boyong Wang, Director Strategic Relations 
+Su Li, Office Manager and Project Coordinator SFC China 
+
+About Smart Freight Centre 
+Smart  Freight  Centre  (SFC)  is  a  global  non-profit  organization  leading  the  way  to  a  more  efficient  and 
+environmentally  sustainable  global  freight  sector.  SFC  works  with  partners  and  existing  initiatives  to  help 
+businesses gain competitive advance from smarter freight and catalyze sector-wide action.  
+
+SFC focuses on three approaches: 
+▪  Define and drive business leadership and collaboration between the private sector, government and civil 
+
+society (Smart Freight Leadership) 
+
+▪  Create and implement a universal and transparent way of calculating logistics emissions across the global 
+
+supply chain through the Global Logistics Emissions Council (GLEC) 
+
+▪  Catalyze  the  sector-wide  adoption  of  proven  and  cost-effective  technologies  and  solutions  starting  with 
+
+road freight through SFC’s Smart Trucks Platform.  
+
+Contact 
+Smart Freight Centre 
+Vijzelstraat  68-78,  1017  HL,  Amsterdam, Netherlands 
+P.O. Box 11772, 1001 GT, Amsterdam, Netherlands 
+Tel office: +31 6 4695 4405 
+www.smartfreightcentre.org 
+info@smartfreightcentre.org 
+
+Smart Freight Centre Beijing Office 
+Room 817, ULO Park  
+Wang Jing, Chaoyang district 
+Beijing, China 
+Tel office: +86 10 8476 6376 
+
+ 
+  
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+Barriers for Carriers to adopt fuel-saving technologies and measures  
+
+Contents 
+1. Introduction .................................................................................................................................................... 2 
+
+2. Barriers for carriers: an overview ................................................................................................................... 3 
+
+3. External Barriers ............................................................................................................................................ 5 
+
+3.1 Market Forces .......................................................................................................................................... 5 
+
+3.2 Policies and Infrastructure ....................................................................................................................... 5 
+
+3.3 Partners and Programs ............................................................................................................................ 6 
+
+3.4 Technologies and Measures .................................................................................................................... 7 
+
+4. Internal Barriers ............................................................................................................................................. 8 
+
+4.1 Reactive Management ............................................................................................................................. 8 
+
+4.2 Management Systems ............................................................................................................................. 9 
+
+4.3 Finance .................................................................................................................................................. 10 
+
+4.4 Awareness and Capacity ....................................................................................................................... 11 
+
+References ...................................................................................................................................................... 12 
+
+1. Introduction 
+
+Road  freight  is  growing  exponentially,  especially  in  developing  countries.  Road  freight  is  also  inefficient, 
+represents two-thirds of global freight CO2 emissions and a main contributor to local air pollution. Fuel costs 
+money -- in many developing countries fuel bills are anywhere between 30 and 60% of operating costs. Driving 
+empty trucks costs money – in countries like China and Thailand up to 40% of trucks are empty. Poor driving 
+behavior costs money – the difference in fuel efficiency between the best and worst driver can be as high as 
+25%. Carriers have a choice of ample technologies and measures to improve fuel efficiency and reduce costs 
+and emissions at the same time. Then why are so many carriers not do the smart thing and adopt these? 
+
+Smart Freight Centre (SFC) was established  in 2013 as a global non-profit organization to make the global 
+freight sector more efficient and environmentally sustainable. One of SFC’s priorities is to remove barriers that 
+prevent carriers from adopting fuel saving technologies and measures, especially those that are proven and 
+market ready. 
+
+Opportunities for more efficient trucking exist in every market around the world. The urgency to act is in fast 
+growing  economies  where  freight  grows  most  rapidly  and  is  inefficient:  China,  India,  Brazil,  Mexico,  South 
+Africa and several more. SFC first focused on mapping the current freight situation in Asia and in particular 
+China and India. The “State of Play  – Green Freight in Asia” report (SFC, 2013) described the road freight 
+sector, trucking developments, fuel and emissions, and touched on barriers and opportunities for green freight 
+and technologies for trucks.  
+
+Now  it  is  important  to  get  a  better  understanding  of  what  really  stops  carriers  from  investing  in  trucking 
+efficiency. This paper aims to provide a framework of barriers based on existing barrier studies in the freight 
+sector from around the world supplemented with SFC interviews with carriers and experience in working with 
+Chinese carriers.  
+
+It does not provide rock solid conclusions on barriers backed by statistics. We wanted to know enough for us 
+to start confidently with the next phase: design and roll out a Smart Trucks Platform that works bottom-up to 
+help carriers that want to lead moving forward.  We encourage all stakeholders to join our effort to help road 
+freight  carriers  to  adopt  smart  freight  solutions:  cargo  owners,  truck  manufacturers,  technology  suppliers, 
+industry  associations,  research  institutes,  governments,  NGOs,  foundations,  development  banks  and 
+institutions. 
+
+2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Barriers for Carriers to adopt fuel-saving technologies and measures  
+
+2. Barriers for carriers: an overview 
+
+SFC developed a map of barriers for carriers to adopting fuel saving and emission reducing technologies and 
+measures as shown in Figure 1. The identification of these barriers draws from SFC’s own work and other 
+existing projects and studies (see references at the end of this report). 
+
+A distinction  needs to be  made between  internal  and external  barriers. Internal barriers relate  to  obstacles 
+within the company boundaries of a carrier and that are mostly within management’s control. There are four 
+categories of internal barriers: decision-making, management systems, finance, and awareness and capacity.  
+
+External barriers relate to outside factors and players over which a carrier has little or no influence. The four 
+categories  of  external  barriers  are:  market  forces,  institutions  and  policies,  partners  and  programs,  and 
+technologies and measures. 
+
+Figure 1. Map of barriers to at scale adoption of fuel-saving technologies and measures by road 
+freight carriers 
+
+All these barriers are interconnected and often re-enforce each other. It is essential to understand relations 
+between these barriers to get a holistic understanding of why carriers fail to adopt fuel-saving technologies 
+and measures at scale. The most relevant connections are shown in Figure 2. 
+
+The road freight sector is first and foremost a commercial sector driven by market forces. It is therefore not 
+surprising that the root cause of barriers identified lies in the freight market itself: an oversupply of carriers and 
+trucks combined with high fragmentation leads to a cut-throat competitive market that puts carriers under an 
+enormous pressure to survive. This in turn heavily influences a business decision making, the ability of carriers 
+to finance technologies and measures and invest in management systems and internal capacity building. The 
+other external barriers further weaken carriers’ ability to become more fuel efficient. 
+
+3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Barriers for Carriers to adopt fuel-saving technologies and measures  
+
+Figure 2. Most relevant relationships between barriers for carriers  
+
+It is important to focus on what barriers can be realistically addressed,  in a concerted effort that looks at all 
+identified barriers holistically, while involving carriers, their immediate partner and broader stakeholders.  
+
+First, while it is tempting to focus on market forces, this is not realistic. A better approach is to focus on barriers 
+that carriers have more control over, such as management systems or awareness and capacity, or that partner 
+NGOs and government agencies can address, such as policies, infrastructure and programs.  
+
+Second, addressing one barriers is not going to solve the problem. For example, without clear policies and 
+technology standards, carriers don’t have the guarantee that technologies meet minimum requirements, which 
+in turn undermines their trust in technologies available on the market – so carriers won’t invest. Unfortunately, 
+technology standards alone will not be enough. Fleet managers need to be aware of what technologies are 
+available and have the capacity to assess which technologies and suppliers are the best fit, otherwise they 
+cannot  convince  management  to  invest  in  these.  Even  if  fleet  managers  are  capable,  without  good 
+management systems they cannot get reliable data to build a business case that management will want to 
+see. Even if these three barriers are overcome and management wants to purchase fuel-saving technologies, 
+many are unable to come up with funds because of cash flow challenges.  
+
+Third, addressing barriers holistically also means that active collaboration is needed.  For example, a green 
+freight program can provide information on technologies and measures but will be more effective if backed by 
+government and NGOs. Technology providers, industry associations, and academic institutions can  provide 
+fleet  managers  training,  but  this  will  be  more  effective  if  successful  fleet  managers  are  involved  in  training 
+delivery.  
+
+In the next sections, the eight categories and individual barriers are described in more detail.  
+
+4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Barriers for Carriers to adopt fuel-saving technologies and measures  
+
+3. External Barriers 
+
+3.1 Market Forces 
+
+In the context of the freight sector, market forces relate to the economic factors affecting the price of, demand 
+for, and availability  of freight services. Demand by  end-consumers drives the  need for freight services and 
+trickles down to carriers via shippers (i.e. companies selling goods), retailers, and intermediates like logistics 
+service providers and freight forwarders.  
+
+As shown in Figure 3, main barriers caused by market forces are that cargo-owners focus primarily on driving 
+costs of freight down in a fragmented and over-saturated market, the economy and fuel price are volatile and 
+suppliers focus more on sales than on what is best for carriers. As a consequence, carriers hesitate to make 
+long-term investments, lack trust in their suppliers and customers, and/or are given the wrong advice about 
+fuel-saving technologies and measures.   
+
+Market forces are very difficult to influence because it is entrenched in the wider economy and society, and 
+transcends  the  freight  and  logistics  sector. While  it  is  extremely  difficult  to  address  these  specific  barriers, 
+efforts can be made to soften the consequences that lead to reduced uptake of technologies and measures. 
+Given that barriers related to market forces are so fundamental to carriers taking action, these barriers must 
+always be kept in mind when designing solutions related to other barrier categories. 
+
+Figure 3. Market force barriers and consequences for road freight carriers 
+
+3.2 Policies and Infrastructure 
+
+The “policies and infrastructure” barrier relates to the overarching institutional and policy framework, which lies 
+at  the  base  of  the  broader  role  of  government  covering  planning,  infrastructure,  legislation,  regulation, 
+standards; financing and other incentives; and strategic support specific. Government agencies and affiliated 
+organizations at the national, provincial and local levels all have a role to play in policies that affect carriers. 
+
+Main barriers shown in Figure 4 are institutional and policy gaps and overlaps, limited policy enforcement and 
+funding allocation towards policy and infrastructure implementation, and limited supportive infrastructure. As a 
+
+5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Barriers for Carriers to adopt fuel-saving technologies and measures  
+
+consequence,  carriers  are  faced  with  mixed  policy  messages  coming  from  government  and  are  less 
+incentivized  to  comply  with  regulations.  Moreover,  a  minimum  quality  of  technologies  on  the  market  is  not 
+always guaranteed and carriers miss clear guidance on technologies and measures they consider adopting. 
+Lacking supportive  infrastructure, such as intermodal connections or charging points for electric trucks, will 
+delay investments by carriers.  
+
+Policy  and  infrastructure  barriers  can  be  addressed  but  only  under  certain  conditions.  First,  government 
+agencies must support changes and work closely with industry and other stakeholders to ensure feasibility on 
+the  ground.  Second,  success  is  only  achieved  if  the  institutional,  policy  and  implementation  barriers  are 
+addressed in parallel, which is complex. Third, change needs to be followed through from the national to the 
+provincial and local levels, which is a challenge also faced with other policies and plans. 
+
+Figure 4. Policies and infrastructure barriers and consequences for road freight carriers 
+
+3.3 Partners and Programs 
+
+Carriers need many partners to help them adopt fuel-saving technologies and measures: industry associations, 
+OEMs, technology and service providers, customers and subcontractors, NGOs, research/academic institutes, 
+and governments. In this context of this study, “programs” relate to organized programs, platforms and projects 
+with a direct or indirect impact on carriers. These can range from broad climate or energy programs with freight 
+as one of many sectors, to green freight programs or platforms that specifically focus on improving efficiency 
+and reducing emissions from freight, to pilot projects to test specific technologies or measures.  
+
+As shown in Figure 5, carriers, especially smaller ones, often don’t have access to a wide range of technology 
+suppliers and service providers. They could look for help, but miss neutral and trusted organizations they can 
+contact  or  programs  they  can  join.  As  a  result,  carriers  struggle  to  find  the  right  solutions  or  trustworthy 
+information about these. Plus, program support is missing to improve fuel efficiency and find peers and partners 
+to work with.    
+
+The right programs and partners can have a game-changing effect on not only addressing direct barriers but 
+can also trigger change for ALL other internal and external barriers for carriers (see Figure 2 earlier). For this 
+to work it is essential that neutral/trusted organizations and partners are selected carefully and programs are 
+designed to meet the needs of carriers and with all barriers types in mind. 
+
+6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Barriers for Carriers to adopt fuel-saving technologies and measures  
+
+Figure 5. Partners and programs barriers and consequences for road freight carriers 
+
+3.4 Technologies and Measures 
+
+Figure 6. Technologies and measures relevant to road freight carriers 
+
+7 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Barriers for Carriers to adopt fuel-saving technologies and measures  
+
+To significantly reduce emissions from freight, a mix of solutions is needed covering solutions for vehicles and 
+fuels, fleet movement and the transport system. Solutions relevant to road freight are listed in Figure 6. It is 
+acknowledged  that  carriers  do  not  have  an  equal  say  in  all  technologies  and  measures  that  carriers.  For 
+example, a carrier can more easily adopt aerodynamics devices than restructure supply chains. In efforts to 
+help carriers directly to address barriers, greater attention is needed for technologies and measures that they 
+can decide on themselves. 
+
+Figure  7  shows  that  main  barriers  relate  to  the  availability,  market  readiness,  quality  and  reliability  of 
+technologies and measures, in combination with suppliers overstating benefits of adopting these. This poses 
+the risk that carriers do not trust technologies recommended by suppliers, focus on wrong technologies and 
+measures, and are discouraged because of disappointing results. 
+
+It  is  noted  that  all  these  consequences  relate  to  decision-making  especially  of  carrier  management,  and 
+therefore it is critical that something is done about this. These technologies and measures barriers can be best 
+addressed by sound policies, institutional frameworks and supporting programs, all of which should involve a 
+mix of government, private sector and civil society partners.  
+
+Figure 7. Technologies and measures barriers and consequences for road freight carriers 
+
+4. Internal Barriers 
+
+4.1 Reactive Management 
+
+Reactive management in this study relate to reactive decision-making made by carriers, in particular senior 
+management and middle management, including fleet managers. This covers a wide range of decisions that 
+can  have  a  direct  or  indirect  relation  to  fuel  efficiency  and  emissions.  Examples  are  budgeting,  selecting 
+contractors, purchasing equipment, and staff training and development. 
+
+As shown in Figure 8, the main barrier is a short-term thinking mentality of carriers and businesses in general, 
+which amplifies entrenched decision-making based on hierarchy and relations and the tendency to maximize 
+subcontracting. This leads to carriers prioritizing costs and ignoring fuel efficiency when purchasing equipment 
+
+8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Barriers for Carriers to adopt fuel-saving technologies and measures  
+
+and  selecting  contractors.  Furthermore,  carriers  have  limited  influence  on  subcontractors’  decisions  and 
+operational practices relevant to fuel efficiency, and thus the technologies and measures they adopt.  
+
+Reactive management is the most significant internal barrier, yet very difficult to overcome because it requires 
+a change in behavior. Equally important is that the root cause of current management practices and decisions 
+lies in market pressures that reinforces short-term thinking. More practical may be an indirect approach that 
+focuses  on  other  barriers,  such  as  management  systems,  awareness  and  capacity  and  technologies  and 
+measures. 
+
+Figure 8. Reactive management barriers and consequences for road freight carriers 
+
+4.2 Management Systems 
+
+Management  systems  cover  all  policies,  processes  and  procedures  that  carriers  need  to  ensure  that  the 
+organization and its operations run smoothly. Management systems are important to various aspects of fuel 
+efficiency, such as data, trucks maintenance, equipment (e.g. tires), fuel, and drivers. 
+
+Figure 9 shows that most carriers resist change which contributes to underdeveloped fleet management (and 
+broader management) systems. Related to underdeveloped systems is that data are often not available and 
+reliable, or are not used within the organization. Carriers are therefore less open to consider, and less proactive 
+and able to identify opportunities fuel efficiency and track results. 
+
+Management systems are important because they affect other internal barriers by informing decisions, tracking 
+finances,  and  increasing  the  awareness  and  capacity  of  management  and  staff.  In  addition,  carriers  can 
+improve  management  systems  largely  by  themselves,  build  on  what  already  exists,  and  quickly  generate 
+results  that  justify  their  further  development.  Developing  management  systems  thus  provides  an  outright 
+opportunity to catalyze change within carriers that leads to greater adoption of fuel-saving technologies and 
+measures. 
+
+9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Barriers for Carriers to adopt fuel-saving technologies and measures  
+
+Figure 9. Management system barriers and consequences for road freight carriers 
+
+4.3 Finance 
+
+In this study, finance relates to the overall financial health of a carrier thus covering reserves, cash flow, debts, 
+credit ratings and other financial factors. A carrier’s financial situation is heavily influenced by market forces 
+and management strategy and decision-making.   
+
+Figure 10. Finance barriers and consequences for road freight carriers 
+
+Figure 10 shows that carriers find themselves in a vicious cycle of poor financial health: carriers have poor 
+credit ratings and are unable to solve this because of continuous low reserves and cash flow challenges as 
+
+10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Barriers for Carriers to adopt fuel-saving technologies and measures  
+
+they try to stay afloat. They are also uncertain about return on investments of technologies, which is linked to 
+technology quality and reliability. Carriers thus lack funding, hesitate or delay investing, and resort to buying 
+the cheapest equipment. Faced with slim margins, the slightest mistake can threaten a carriers’ survival. 
+
+Management is responsible for the financial health of the organization and it is therefore not desirable, if at all 
+possible, to influence this. However, opportunities do exist to help carriers overcome the investment barrier of 
+specific fuel-saving technologies and measures. For  example, technology suppliers could offer carriers “try 
+before  you  pay” options or allow  them to pay  in installments. Programs and trusted partners could provide 
+cost-benefit  information  for  technologies  and  measures  to  increase  carrier  confidence  to  invest,  ideally 
+supported by actual cases from peer carriers. 
+
+4.4 Awareness and Capacity 
+
+In this study, awareness relates to the knowledge or perception of fuel efficiency by carrier management, fleet 
+managers  and  drivers.  Capacity  on  the  other  hand  refers  to  the  skills  and  ability  to  improve  fuel  efficiency 
+through,  for  example,  knowing  what  questions  to  ask  technology  suppliers,  building  a  business  case  to 
+convince management to invest, or strengthening management systems to prove that fuel efficiency leads to 
+cost reductions.  
+
+Figure 11 shows that while carriers are aware that fuel is one of the largest operational costs, awareness of 
+the  potential  of  to  improve  fuel  efficiency  is  generally  lacking,  especially  with  management.  Although  fleet 
+managers are usually more aware, they lack capacity to improve fuel efficiency. Finally, drivers only care about 
+fuel efficiency when it directly affects them financially, which is not helped by subcontracting practices of most 
+carriers. As a result, management does not prioritize fuel efficiency, fleet managers are unequipped to improve 
+fuel efficiency or convince  management of opportunities, and drivers don’t put efforts into fuel savings that 
+benefit the carrier. 
+
+“Give a man a fish and  you feed him for a day. Teach a man to fish and  you feed him for a lifetime.” This  
+proverb definitely applies to carriers – by raising awareness and increasing capacity, carriers can themselves 
+identify and implement fuel saving solutions and thus take control of reducing fuel costs and emissions. The 
+potential  to  improve  awareness  and  capacity  is  significant  and  should  thus  be  a  main  focus  of  especially 
+programs and management systems.  
+
+Figure 11. Awareness and capacity barriers and consequences for road freight carriers 
+
+11 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+References 
+
+Barriers for Carriers to adopt fuel-saving technologies and measures  
+
+Beijing Transport, Energy and Environment Center (BTEC), 2015. “Survey Report on Green Tires of 
+Operating Freight Vehicles in Beijing.” 
+
+Clean Air Asia, 2013. “China Green Freight Policy and Institutional Analysis Report” 
+http://cleanairasia.org/wp-content/uploads/2015/07/China-Green-Freight-Policy-and-Institutional-Analysis-
+Report.pdf 
+
+China Road Transport Association (CRTA), 2014. "China Green Freight Initiative Seminar (2014) - Exploring 
+Green Freight Development in the Process of Reform." 
+
+Smart Freight Centre (SFC), 2013. “State of Play – Green Freight in Asia”. 
+http://www.smartfreightcentre.org/main/info/publications 
+
+International Council on Clean Transportation (ICCT), North American Council for Fuel Efficiency (NACFE), 
+Cascade Sierra Solutions (CSS), 2013. “Barriers to the Increased Adoption of Fuel Efficiency Technologies 
+in the North American On-Road Freight Sector” http://www.theicct.org/sites/default/files/publications/ICCT-
+NACFE-CSS_Barriers_Report_Final_20130722.pdf  
+
+International Council on Clean Transportation (ICCT), CE Delft, 2012. “Market Barriers to Increased 
+Efficiency in the European On-road Freight Sector.” 
+http://www.theicct.org/sites/default/files/publications/CE_Delft_4780_Market_Barriers_Increased_Efficiency_
+European_Onroad_Freight_Sector_def-2.pdf 
+
+Yueng-Hsiang Huang,Pei-Luen Patrick Rau,Bin Zhang,Matthias Roetting, 2008. “ truck drivers’ attitudes 
+toward feedback by technology: A quantitative approach", Accident Analysis & Prevention 
+
+Yong Zhang, Russell G. Thompson, Xiangtai Bao, Yunjian Jiang, 2014. “Analyzing the Promoting Factors for 
+Adopting Green Logistics Practices: A Case Study of Road Freight Industry in Nanjing, China", Procedia - 
+Social and Behavioral Sciences 
+
+Hong,  Junjie  &  Liu,  Binglian,  2007.  "Logistics  development 
+Transportation Journal  
+
+in  China:  a  provider  perspective", 
+
+12 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OMSLAG FOTO 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

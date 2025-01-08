@@ -1,0 +1,4305 @@
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+B O O S T L O G   P R O J E C T  
+
+D E L I V E R A B L E   R E P O R T  
+
+Document identifier: 
+
+BOOSTLOG – D2.10 
+
+Due Date of Delivery to EC 
+
+30. 09. 2023 
+
+Actual Date of Delivery to EC 
+
+27.10.2023 
+
+Title: 
+
+Dissemination level: 
+
+Work package: 
+
+Lead Beneficiary: 
+
+Other Beneficiaries: 
+
+Document status: 
+
+report 
+
+Cloud 
+and 
+implementing  Efficient  and  Zero-Emission 
+Freight Transport  
+
+VII:  Monitoring 
+
+PU 
+
+WP2 
+
+ALICE 
+
+SFC, CLOSER 
+
+Final 
+
+Document link: 
+
+https://www.etp-logistics.eu/boostlog/ 
+
+Disclaimer  
+
+This report is part of the BOOSTLOG project that has received funding by the European Union’s Horizon 2020 
+research and innovation programme under grant agreement 101006902. The content of this report reflects 
+only the authors’ view. European Climate, Infrastructure and Environment Executive Agency (CINEA) and the 
+European Commission are not responsible for any use that may be made of the information it contains. 
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+The BOOSTLOG project consortium consists of: 
+
+Part. No  
+
+Participant organisation name (short name) 
+
+Country 
+
+1 
+(Coordinator) 
+
+Alliance for Logistics Innovation through Collaboration in Europe, 
+ALICE AISBL (ALICE) 
+
+BE 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+STICHTING SMART FREIGHT CENTRE (SFC) 
+
+FUNDACION ZARAGOZA LOGISTICS CENTER (ZLC) 
+
+STICHTING TKI LOGISTIEK (TKI Dinalog) 
+
+HACON INGENIEURGESELLSCHAFT MBH (HACON) 
+
+NL 
+
+ES 
+
+NL 
+
+BE 
+
+INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS (ICCS)  GR 
+
+Vlaams Instituut voor de Logistiek VZW (VIL) 
+
+FRAUNHOFER  GESELLSCHAFT 
+ANGEWANDTEN FORSCHUNG E.V. (Fraunhofer) 
+
+ZUR 
+
+FOERDERUNG 
+
+BE 
+
+DER 
+
+GE 
+
+FIT Consulting SRL (FIT) 
+
+FUNDACION  DE  LA  COMUNIDAD  VALENCIANA  PARA  LA 
+INVESTIGACION,  PROMOCION  Y  ESTUDIOS  COMERCIALES  DE 
+VALENCIAPORT (VPF) 
+
+TECHNISCHE UNIVERSITEIT DELFT (TU Delft) 
+
+EUROPEAN  ROAD  TRANSPORT  TELEMATICSIMPLEMENTATION 
+COORDINATION  ORGANISATION  - 
+INTELLIGENT  TRANSPORT 
+SYSTEMS & SERVICES EUROPE (ERTICO ITS EUR) 
+
+LINDHOLMEN SCIENCE PARK AKTIEBOLAG (LSP) 
+
+IT 
+
+ES 
+
+NL 
+
+BE 
+
+SW 
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+Document History: 
+
+Version 
+
+Date 
+
+Modification reason 
+
+Author(s) 
+
+1.0 
+
+1.1 
+
+1.3 
+
+2.0 
+
+11/09/2023  First version send to experts 
+
+22/09/2023  Version send for review 
+
+Stefanie Van Damme, Tharsis Teoh, 
+Rodrigue Alfahel 
+
+Stefanie Van Damme, Tharsis Teoh, 
+Rodrigue Alfahel 
+
+10/10/2023  Reviewed version 
+
+Lori Tavasszy 
+
+20/10/2023  Version ready for submission 
+
+Stefanie Van Damme 
+
+Final 
+
+27/10/2023  Final 
+
+Carolina Cipres and Yanying Li  
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+Contents 
+
+EXECUTIVE SUMMARY 
+
+1 
+
+THE BOOSTLOG PROJECT AND SCOPE OF THE DELIVERABLE 
+1.1  The BOOSTLOG project 
+1.2  Scope of this deliverable 
+1.3  Methodology 
+
+2  WHY EFFICIENT AND ZERO-EMISSION FREIGHT TRANSPORT 
+
+3 
+
+Introduction 
+
+2.1 
+2.2  What is emission monitoring and reporting? 
+2.3  What is efficient freight transport? 
+2.4  What is zero-emission freight transport? 
+2.5  Expected positive impacts 
+2.6  Barriers and guidelines 
+ANALYSIS OF CURRENT MARKET PRACTICES AND TRENDS 
+3.1  Overview 
+3.2  Market practices: efficient freight transport 
+3.3  Market practices: zero-emission freight transport 
+3.4  Market practices: emission reporting 
+PROJECTS TO IMPROVE EFFICIENT AND ZERO-EMISSION LOGISTICS 
+4.1 
+4.2  Overview on the selected projects 
+4.3  Expected impacts of the selected projects 
+4.4  Description of the selected projects 
+IMPLEMENTATION CASES 
+5.1  Overview on Outcomes and Implementation cases 
+5.2 
+5.3  Demonstrations and temporary implementations 
+6 
+POTENTIAL IMPLEMENTATION PATHS 
+ANNEX I – SEMI-STRUCTURED INTERVIEW GUIDE 
+
+Implementation cases 
+
+Identification and selection of relevant R&I projects 
+
+5 
+
+4 
+
+5 
+
+6 
+6 
+6 
+8 
+9 
+9 
+9 
+12 
+14 
+17 
+20 
+23 
+23 
+23 
+25 
+34 
+38 
+38 
+38 
+41 
+42 
+49 
+49 
+50 
+53 
+53 
+56 
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+EXECUTIVE SUMMARY  
+
+In order to optimise European investments in R&I projects in the field of transport and logistics, BOOSTLOG 
+carries out a thorough evaluation process of concluded Research and Innovation (R&I) projects financed with 
+EU-funds. 
+
+This evaluation is conducted from the perspective of different key domains of transport and logistics (T&L), 
+(defined  by  BOOSTLOG  as  “Logistics  clouds”)  to  identify  R&I  gaps  in  T&L  and  prioritise  the  needs  to  be 
+addressed  in  future  research  programmes,  thus  contributing  to  develop  an  innovation  ecosystem  for  the 
+logistics sector that also contributes to the EU policy objectives. 
+
+The present deliverable focuses on “Efficient and zero-emission freight transport”, showing the main results 
+and impacts derived from European-funded projects on this area. The BOOSTLOG project maps more than 160 
+EU-funded R&I projects, from the FP5 to H2020. This deliverable has selected 8 projects regarding ‘Efficient 
+and zero-emission logistics’ and two projects focusing on the correct reporting of emissions related to T&L 
+(Figure 1). 
+
+Selected project discussed in this Cloud Report. All projects are finished, except H2Haul. 
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+1  The BOOSTLOG project and scope of the deliverable 
+
+1.1  The BOOSTLOG project 
+
+Freight transport and logistics is facing critical challenges to address climate change, ensure supply chains are 
+well functioning and people is served with required type of goods and services. In particular, cope with the 
+expected  growth  of  freight  transportation  and  transition  to  zero  emission  logistics  up  to  2030  requires 
+collaboration speeding up innovation.  
+
+The  transport  sector  is  the  only sector  where  CO2 emissions  are  still  rising  (See  Section 2.1).  BOOSTLOG`s 
+vision is transforming European freight transport and logistics R&I ecosystem to perform optimally by boosting 
+impact generation out of R&I investment contributing to i) EU policy objectives towards climate neutrality, 
+pollution, congestion and noise reduction, free movement of goods, internal security, digital transformation 
+of logistics chains and data sharing logistics ecosystems and ii) Companies sustainability and competitiveness 
+generating value for society.  
+
+In  order  to  do  so,  BOOSTLOG  has  identified  4  main  areas  of  action:  i)  increase  visibility  and  support 
+valorisation of R&I project Results, Outcomes and Implementation Cases in the freight transport and logistics 
+field  ii)  develop  and  implement  valorisation  strategies  and  guidelines  to  speed  up  the  technological  and 
+organisational  innovation  uptake,  including  the  creation  of  the  Innovation  Marketplace  and  issue 
+recommendations to increase impact of R&I public funding, iii) Define high potential & priority R&I gaps to 
+make  efficient  uses  of  R&I  investments  and  iv)  Strengthen  R&I  impacts  communication  and  Stakeholders 
+engagement in the innovation process.  
+
+In the framework of the first of those actions, BOOSTLOG has mapped and assessed more than 160 EU-funded 
+R&I since FP5 in different freight transport and logistics domains (i.e., the Logistics Clouds), so as to develop 8 
+comprehensive  and  industry  actionable  reports  (i.e.,  Cloud  reports).  6  cloud  reports  have  already  been 
+published focusing on i) Coordination & collaboration ii) Urban logistics, iii) Logistics nodes, iv) Freight and 
+logistics data sharing, v) Logistics network and, vi) Physical internet. This document is the 7th (vii) cloud report 
+focusing  on  efficient  and  zero-emission  logistics/freight  transport.  The  last  cloud  report  (viii)  will  focus  on 
+digitalisation.  These  reports  will  be  later  complemented  by  deliverables  on  valorisation  strategies  and 
+guidelines for public R&I uptake (WP3), an innovation marketplace for R&I uptake (D3.3) and the identification 
+of high-priority and potential R&I gaps that need to be prioritized in future R&I actions targeting policymakers 
+(WP4).  
+
+1.2  Scope of this deliverable  
+
+The  scope  of  this  report  was  decided  by  the  task  coordinators,  consulted  by  the  BOOSTLOG  consortium. 
+Defining the scope was mainly influenced by i) whether it lay within the scope of BOOSTLOG ii) how well the 
+report complements the other 7 cloud reports iii) the availability of relevant R&I projects to be covered with 
+this topic and, (iv) the time and resources available to conduct the report. Based on these factors, additional 
+demarcation was made.  
+
+This cloud report will complement the other 7 cloud reports by focusing on greenhouse gas (GHG) emissions 
+in  freight  transport.  This  includes  i)  monitoring  and  reporting  on  GHG  emissions  in  freight  transport  ii) 
+developing and implementing efficient solutions for freight transport, that directly or indirectly decrease 
+GHG emissions and, iii) developing and implementing zero-emission freight transport solutions.  
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+Monitoring and reporting on GHG emissions in freight transport 
+
+The  report  will  cover  a  broad  perspective  including  the  full  life  cycle,  i.e.,  GHG  emissions  related  to  the 
+production  of  vehicles  and  energy,  and  to  tailpipe  GHG  emissions.  Several  freight  transport  modes  are 
+included, enabling a comparison between different transport modes.   
+
+Developing and implementing energy efficient solutions for freight transport 
+
+The report will cover efficient solutions related to trucks categorised in EU as vehicle types N2 and N3, i.e., 
+trucks  that  are  3.5  tonnes  or  heavier.  Lighter  trucks  (N1)  are  covered  in  the  cloud  report  Urban  Logistics. 
+Refused trucks are also excluded, since their operation is very different from heavy-duty road trucks. Other 
+transport modes are not covered in this report CCAM projects are not covered in this report since they will be 
+included in the cloud report on Digitalisation. Other projects that are within scope are those focusing on the 
+improvement affecting the overall energy efficiency of the truck and/or the freight transport system, excluding 
+those that only focus on one element such as tyres. Solutions focusing on human behaviour such as eco-driving 
+are also included.  
+
+Developing and implementing zero-emission freight transport solutions 
+
+The project defines zero-emission vehicles as vehicles with zero tailpipe emissions, not taking into account 
+emissions from production or the emission to produce the energy source used as fuel. These emissions will 
+however be taken into account in projects with the main focus on emissions reporting.  The report includes 
+the  development  and  implementation  of  electric  and  hydrogen  heavy-duty  trucks  and  the  supporting 
+infrastructure. Hybrid drive line technologies for heavy-duty trucks will not be part of the scope, although the 
+report  will  acknowledge  some  of  the  projects  covering  this  topic.  Biofuels  or  Renewable  Fuels  from  Non-
+Biological Origin (RFNBO), with the exception of hydrogen, will not be assessed in this report as the technology 
+to use these fuels in internal combustion engines (ICE) is available and no impact on the logistic operation is 
+expected. Figure 2 below summarizes what will be in scope and what is out of scope in this report. 
+
+Scope  definition  for  Cloud  Report  VII  “Monitoring  and  implementing  efficient  and  zero-
+emission freight transport”. 
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       7 
+
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+1.3  Methodology 
+
+These cloud reports include a brief highlight of the main Challenges, past and current specific pain points in a 
+given  Cloud,  key  R&I  results,  that  have  resulted  in  Outcomes  and  key  milestones  achieved  such  as 
+Implementation Cases, establishing causal links between the EU R&I funding and innovation supporting the 
+seamless  integration  and  harmonization  of  transport  modes,  the  more  efficient  management  of  physical 
+information and financial flows, reducing negative impacts, such as carbon emission and congestion, ensuring 
+free and seamless movement of goods and enhancing digital transformation.   
+
+This report contains clear actionable items, such as cases on how to implement the Outcomes or build on the 
+Implementation  Cases  for  the  Cloud  ‘Monitoring  and  implementing  efficient  and  zero-emission  freight 
+transport’.   
+
+The methodology to develop this report is shown in Figure 3. First, BOOSTLOG analyses the EU R&I results to 
+identify  key outcomes. The  Outcomes are then analysed based on the achieved  Technical Readiness Level 
+(TRL) of the project results and further development. The organizations with most frequent participation in 
+projects, for each Cloud, are mapped, as well as individual people from those organizations participating in 
+the projects considered (i.e., notably our “experts”).   
+
+Semi-structured interviews (see Annex I) have been undertaken with the experts (a list of the experts can be 
+also be found in Annex I), to validate the outcomes and gather additional missing information that are relevant 
+to the scope of the analysis, as well as to investigate which Outcomes have rolled out into Implementation 
+cases (i.e. they have been implemented and adopted by the freight transport and logistics stakeholders).   
+The survey results have been the primary input for a BOOSTLOG cloud report, and it is complemented with 
+desk research carried out on most relevant projects deliverables and communications, market/sector current 
+practice analysis and the market solutions implemented and adopted including examples of Implementation 
+Cases.  
+
+The first release of a report is submitted to the experts to get their feedback. Additionally, a complementary 
+discussion is done in an online cloud-related working session (workshop) for final validation of the report. The 
+final  (validated)  report  will  be  presented  in  a  webinar,  where  the  ALICE  members  and  other  relevant 
+influencing stakeholders are invited as BOOSTLOG partners networks.  
+
+Methodology for the development of a BOOSTLOG cloud report  
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+2  Why Efficient and Zero-emission freight transport 
+
+2.1 
+
+Introduction 
+
+The Paris Agreement, adopted in 2015, set a target to limit the rise in mean global temperature to well below 
+2  °C  (3.6  °F)  above  pre-industrial  levels,  and  preferably  limit  the  increase  to  1.5  °C1.  Reaching  the  more 
+ambitious goal of 1.5 °C is appreciated to require that GHG emissions are reduced by 45% by 2030 and reach 
+net zero by 2050. Under the European Climate Law, the European Union (EU) is committed to reducing its 
+GHG  emissions  by  a minimum of  55%  by  2030,  compared  to  the  levels  in  1990, with  the  ultimate  goal  of 
+achieving climate neutrality by 2050.  
+
+It is appreciated that transport is responsible for about a quarter of the EU’s total GHG emissions. However, 
+until recent initiatives, CountEmissions EU, there has not been any common framework to calculate and report 
+transport-related GHG emissions. 
+
+The road freight sector, and especially the heavy-duty sector, has increased its CO2 emissions factor by 5,5% 
+(2019) compared to the levels in 2000. This is mainly due to an increase in activity, e.g., transporting goods 
+with heavy-duty vehicles increased by 31% in the same period. Meanwhile, the increase in activity transporting 
+goods by rail and inland waterways was only 5% combined.  Rail and inland waterways are much more efficient 
+modes of transport to carry goods compared to road transport,  having an  intensity of one-sixth, and one-
+quarter respectively, compared to heavy goods vehicles.  
+
+Shifting logistics operations from heavy-duty road transport to rail and inland waterways has huge potential 
+to decrease CO2 emissions in the logistics sector. However, this shift is operationally challenging and there are 
+benefits of using road transport, such as flexibility, that the other modes have not been able to compete with.  
+
+The logistics sector is still highly reliant on road transport and heavy-duty vehicles, and serious actions must 
+be taken to both decarbonise and make road transport more efficient. This transition is already happening, 
+led  and  supported  by  several  legislative  actions  from  the  EC,  such  as  the  Revision  of  the  CO2  emission 
+standards  for  Heavy-Duty  Vehicles  (HDV)2,  the  Renewable  Energy  Directive  II  (  RED  II)3,  Emissions  Trading 
+System 2 (ETS 2)4, c, and The alternative fuels infrastructure regulation (AFIR)5 .  
+
+2.2  What is emission monitoring and reporting? 
+
+Just as important as adopting mitigation measures, companies must become better at identifying the actual 
+emissions reduction potential of these measures, and be better at gauging the cost-efficiency of the solutions 
+they ultimately use. For example, liquid natural gas (LNG) trucks receive financial benefits in some Member 
+States in the EU, but actually show little to no climate benefit6. LNG trucks are still touted as climate-friendly 
+by trucking operators. What could have caused the confusion in this case? Two possible factors, as illustrated 
+by the Figure 4 below, are i) the neglect of other GHG besides CO2 and ii) the neglect of upstream emissions 
+
+1 The Paris Agreement, 2015, https://unfccc.int/process-and-meetings/the-paris-agreement 
+2 https://ec.europa.eu/commission/presscorner/detail/en/qanda_23_763 
+3https://energy.ec.europa.eu/topics/renewable-energy/renewable-energy-directive-targets-and-rules/renewable-energy-
+directive_en 
+4https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets/ets-2-buildings-road-transport-and-additional-
+sectors_en 
+5 https://ec.europa.eu/commission/presscorner/detail/en/ip_23_1867 
+6 Oeko-Institut e.V. & ICCT, 2020: https://www.oeko.de/en/up-to-date/2020/lng-trucks-not-an-option-for-climate-protection 
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+caused by the production of the fuels. This and other challenges have made the topic of emissions calculation 
+a lot more important in actually mitigating climate change. 
+
+Transport emission calculation is typically shorthand for a lifecycle assessment of the operational emissions 
+from transport activity. The scope of what is included is dependent on the purpose of the calculation and the 
+requirements set by the industry, standards or legislation. For instance, the lifecycle assessment could include 
+the emissions from the vehicle lifecycle (i.e. materials processing, vehicle production, logistics, and end-of-life 
+method).  Similarly,  the  GHG  Protocol  differentiates  between  Scope  1  and  Scope  3,  when  it  comes  to  fuel 
+combustion.  Scope  1  only  includes  tailpipe  emissions,  while  the  upstream  emissions  fall  under  Scope  3 
+Category 3. For the logistics sector, a standardized methodology is required as well that fulfils the needs of 
+the industry and can be applied in the industry.  
+
+ The  emitted  Green  House  Gasses  (GHG,  gCO2/km)  for  diesel  and  LNG  burned  in  a  spark 
+ignition (SI) engine and a high-pressure direct injection (HPDI) engine on a 100 and 20 years 
+scale. It is clear that the CO2 tailpipe emissions are not only emissions, also other GHG (NOx, 
+and CH4) need be taken into account, just as the venting and boil-off of CH47  
+
+Some of the purposes are listed below. 
+
+•  Monitor progress and mitigate emissions. Companies may use a widely accepted methodology to 
+calculate the emissions within their own transport chains, whether conducted by their own fleet or 
+outsourced. Based on which, especially if they calculated the emissions with sufficient granularity, they 
+would be able to create a mitigation plan. As the transport system is still predominantly dependent on 
+fossil fuels, reducing emissions was synonymous with reducing fuel combustion, which served as an 
+economic motivation for businesses. 
+
+7 https://www.oeko.de/fileadmin/oekodoc/LNG-in-trucks.pdf 
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+•  Evaluation of emission reduction projects. Evaluating emission reduction projects, whether conducted 
+
+internally, within the value chain8, or purchased through carbon offsetting programs, require a 
+standardized methodology to increase transparency and trust.  
+
+• 
+
+•  Sustainability reporting. Many organizations carry out voluntary sustainability reporting according to 
+the GHG Protocol. These may be published in their own (annual) sustainability reports, or through 
+initiatives such as the Carbon Disclosure Project or the Science Based Target Initiative.  
+Legislative requirements. While a significant portion of companies already report their emissions 
+voluntarily, many, especially smaller organizations, do not. Further, many may not include emissions 
+from transport, which often falls under Scope 3 reporting9. However, the legislative landscape is 
+changing with the EU’s Corporate Sustainability Reporting Directive (CSRD), which came into effect early 
+2023, and the US Securities and Exchange Commission proposal for climate-related disclosures. Notably, 
+the EC has proposed the CountEmissionsEU legislation, which focuses specifically on standardizing the 
+emissions calculation and reporting in the transport sector.  
+
+In  the  logistics  sector,  the  de  facto  standard  is  the  ISO  14083  "  Greenhouse  gases  —  Quantification  and 
+reporting  of  greenhouse  gas  emissions arising  from transport  chain operations",  which  launched  in March 
+2023, as well as the industry standard GLEC Framework10 on which the ISO 14083 was based on. The GLEC 
+Framework  itself  was  developed  to  align  with  the  GHG  Protocol  –  a  broad  cross-sector  framework  for 
+calculating and reporting emissions from economic activity. Some of the principles that unique to the GLEC 
+Framework are presented below. 
+
+•  The  system  boundary  encompasses  all  transport  operations  by  all  freight  modes  (e.g.,  road,  rail, 
+pipeline), as well as the hubs (e.g., distribution centers or maritime ports) that precede, follow or link 
+them together (International Organization for Standardization, 2023).  
+
+Production 
+site
+
+Freight rail 
+hub
+
+Freight rail 
+hub
+
+Distribution 
+Centre
+
+Customer 
+warehouse
+
+Example how the scope of calculation covers the full transport chain 
+
+•  The emissions calculation takes a full energy lifecycle perspective, or the well-to-wheel (WTW), that 
+takes both the well-to-tank (WTT) and the tank-to-wheel (TTW) stages. The WTT incorporates all the 
+emissions from producing, storing, processing, and distributing of the energy-carrier (both fuel and 
+electricity), while the TTW incorporates all the emissions from the operations of the vehicle or hub. 
+While alternative energy carriers often had zero (or compensated) TTW emissions, the WTT emissions 
+varied significantly depending on the type of fuel, production process, and feedstock.  
+
+•  Emissions allocation to customers or shipments were based on transport activity, not using currency 
+as a functional indicator. For instance, emissions in a road transport trip were allocated based on an 
+indicator of transport activity calculated based on the weight of the shipment and transport distance.  
+
+8  Smart  Freight  Centre.  2023.  “Voluntary  Market  Based  Measures  Framework  for  Logistics  Emissions  Accounting  and  Reporting.” 
+https://www.flexmail.eu/f-902b8a2dc48f0681. 
+9 Smart Freight Centre and CDP. 2020. “Closing the Logistics Emissions Disclosure Gap: An Analysis of Emissions Disclosure to CDP by 
+Corporations Worldwide.” 
+10  Global  Logistics  Emissions  Council  (GLEC):  https://www.smartfreightcentre.org/en/our-programs/global-logistics-emissions-
+council/ 
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       11 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+These principles, while broad, allow for companies to at the very least, get better at monitoring their own 
+climate change impact. There are other aspects that could be included that have been identified, which would 
+allow companies to more accurately understand its impact, not just from the vehicle operations but also from 
+the manufacturing of vehicles and transport infrastructure, the emissions from digital infrastructure, and the 
+emissions from packaging. Besides these activities, there are also other types of emissions that cause climate 
+change but through different means, such as the short-lived climate pollutants or the impact of water vapour 
+from aviation emissions.  
+
+2.3  What is efficient freight transport? 
+
+There are several definitions for efficiency in (freight) transportation partly depending on what is meant by 
+efficiency  and  also  efficiency  at  what  level,  e.g.,  from  a  logistics  operator  point  of  view  or  from  a  road 
+authority? It is worth highlighting some of the different perspectives before mentioning what will be the main 
+focus of this report.  
+
+Transportation efficiency in society  
+
+This definition, used by e.g., the Swedish Transport Administration and the Swedish Energy Agency, takes a 
+broader perspective and defines "A society where the transportation system is used more resource-efficiently 
+and where actions and actors are based on the perspective of primarily improving the accessibility within the 
+transportation system". Some of the proposed measures to increase transportation efficiency are actions that 
+reduce the number of vehicle movements, measures to better utilize the infrastructure through, for example, 
+deliveries at times other than during rush hours, and measures to reduce emissions and noise from vehicles.  
+
+Examples of indicators that are relevant to increasing transportation efficiency are i) time precision, a physical 
+shipment or delivery takes place within specified timeframes ii) arrives at the right location iii) in the right 
+condition,  iv)  provided  with  the  right  services  to  conduct  the  shipment/delivery  v)  optimizing  the  use  of 
+current  infrastructure  vi)  while  minimizing  the  wear  and  tear  of  roads  vii)  reducing  noise  emissions  and 
+emissions  of  harmful  substances  (such  as  GHG)  viii) not  contributing  to  traffic accidents  etc.  Furthermore, 
+additional indicators such as i) resilience,  by having alternative  transport solutions available  in the case  of 
+(un)foreseeable  disruptions  in  society,  ii)  reducing  the  harm  of  the  transport  system  on  biodiversity  and 
+protected  land  and  iii)  that  the  execution  of  transportation  does  not  significantly  contribute  to  actual  or 
+perceived barriers for the rest of society, can also be included.  
+
+This definition, with examples of measures and indicators, showcases that increasing transportation efficiency 
+in society is a complex process connected to many factors such as traffic safety, health and land protection. 
+However,  this  perspective  on  transportation  efficiency  has  also  been  criticised  by  several  actors  in  the 
+transport  sector.  One  of  the  criticisms  is  that  transportation  should  be  able  to  increase,  but  the  overall 
+emissions and other negative effects of transportation should be reduced.  
+
+Energy efficiency in (freight) transport  
+
+Energy efficiency in transport is defined by the European Environment Agency as  i) the energy intensity of 
+passenger and freight transport, i.e. energy consumption per unit of transport activity (MJ/passenger-km and 
+MJ/tonne-km), and by mode and, ii) the fuel efficiency of new cars and of the total cars fleet i.e. fuel use per 
+km (litre/100 km) or (kWh/km). Increasing energy efficiency in freight transport are measure used to reduce 
+the energy used per transport unit, in this case, tonne-km.   
+
+Trucks,  including  heavy-duty  trucks,  consume  significantly  more  energy  per  tonne-km  than  rail  or  ship 
+transport.  However,  as  mentioned  earlier,  shifting  operations  from  heavy-duty  road  transport  to  rail  and 
+inland waterways is challenging, and in many cases not realistic to do in the short term. There is a need to 
+make heavy-duty trucks and HD fleets more energy-efficient. There are several promising solutions, some of 
+them covered in other Cloud reports, such as Physical Internet, digital solutions, and potentially cooperative, 
+connected and automated mobility (CCAM) solutions. Other solutions, such as the technical improvements of 
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       12 
+
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+the  vehicles  to  increase  the  payload  (e.g.,  High-capacity  transport)  and  to  improve  the  driveline  and 
+aerodynamics,  solutions  contributing  to  route  optimisation  of  vehicles  and  fleets,  and  human  behaviour 
+factors, e.g., solutions enabling more efficient driving (e.g., eco-driving), will be included in this report.  
+
+Energy efficiency and reduction of GHG emissions 
+
+There  is a clear correlation between energy  and GHG emissions:  less energy used usually means less GHG 
+emissions are emitted, if all the other factors are the same. This is also true for zero-emission vehicles since 
+zero-emission  only  refers  to  pipeline  emissions.  Increased  efficiency  is  hence  needed,  no  matter  if  zero-
+emission vehicles are used or not. However, zero-emission vehicles such as electric trucks, do impose new 
+opportunities  and  challenges  to  become  more  energy-efficient,  compared  to  ICE  trucks.  This  means  that 
+insights made on e.g., route optimizations, eco-driving in ICE trucks etc. cannot simply be fully transferred to 
+electric trucks without any adaptations. 
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       13 
+
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+2.4  What is zero-emission freight transport?  
+
+ACEA (2022) appreciates that there are approximately 6,2 million trucks (N2 and N3), of which the majority 
+are run on diesel. Only 0,5% of all new trucks sold today are electrically chargeable (battery electric, plug-in 
+hybrid) which accounts for 0,2% of all the trucks on the road in the EU. Only 0.1% have a full zero-emission 
+powertrain11. 
+
+Zero-emission  freight  transport  includes  in  this  report  trucks  with  electrified  powertrains.  with  two 
+technologies,  battery  electric  and  hydrogen  fuel  cell  electric,  which  are  being  or  will  be  demonstrated  in 
+several European R&I projects, will be discussed further in this Cloud Report. 
+
+The use of biofuels, such as Hydrotreated Vegetable Oil (HVO) and biomethane can lead to a reduction in GHG 
+emissions, especially Tank-To-Wheel (TTW) emissions. Nevertheless, as explained in Section 1.2, we will not 
+assess biofuels, as their implementation can be done by conventional ICE and will not have an impact on the 
+logistic operations. 
+
+Both zero-emission truck technologies have an electric motor instead of an ICE. They also have high power 
+components and battery packs installed in between the axles and under the fifth wheel. However, the total 
+battery capacity of the Battery electric heavy-duty road vehicles (BE-HDV) will be higher than the FCE-HDV. 
+The main difference between BE-HDV and FCE-HDV is that fuel cell packs and hydrogen storage vessels are 
+also mounted on a FCE-HDV. Mostly, the fuel cell packs are mounted in between the axles and the hydrogen 
+storage vessels at the back of the drivers’ cabin. 
+
+First of all, the energy source of both should be  chosen wisely. Depending on the energy source the WTW 
+emissions could be even worse than conventional ICE technology. The JEC study shows that with electricity 
+from  wind  energy  emission,  a  emission  reduction  can  be  attained  for  both  battery  and  fuel  cell  electric 
+technology 12. Nevertheless, when the electricity is produced from a coal-fired gas plant, there is no positive 
+effect on the overall emissions.  
+
+BE-HDV will be used for missions with a relatively shorter distance. The commercial battery electric trucks now 
+available  have  a  range  up  to  300km.  Battery  electric  trucks  with  a  range  of  up  to  700km  are  under 
+development. Hydrogen could be a solution for use cases where a minimal fuelling time is of importance or 
+electric  grid  restrictions  are  in  play.  The  current  fuel  cell  trucks  (in  demonstration  phase)  with  a  working 
+pressure of 350 bar have a driving range of around 400km. Further increase of the driving range up to 700km 
+is expected, when 700 bar technology is implemented. Next to the technical specification, the actual market 
+uptake of zero-emission trucks is also dependent on policy framework. ACEA states that the registrations of 
+zero-emission  vehicles  (BEV,  FCEV)  have  accelerated  from  692  (in  2019)  to  1,239  (in  2020)  and  >2,500  in 
+202213. 
+
+Also, the availability of the infrastructure to fuel and charge the trucks need to be considered to assess the 
+readiness to implement zero-emission trucks. The new Alternative Fuels Infrastructure Regulation (AFIR) sets 
+mandatory deployment targets for both electric recharging and hydrogen refuelling infrastructure for the road 
+sector14. 
+
+We see that existing and new companies are bringing the regulation in practice. One example of a joint venture 
+is Milence (Daimler Trucks, the TRATON GROUP and Volvo Group). The joint venture is committed to build and 
+
+11 https://www.acea.auto/files/ACEA-report-vehicles-in-use-europe-2023.pdf 
+12 https://joint-research-centre.ec.europa.eu/welcome-jec-website_en 
+https://publications.jrc.ec.europa.eu/repository/bitstream/JRC121213/jec_wtw_v5_121213_final.pdf 
+13 https://www.acea.auto/files/Fact-sheet-CO2_standards_for_heavy_duty_vehicles.pdf 
+14 https://ec.europa.eu/commission/presscorner/detail/en/ip_23_1867 
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       14 
+
+ 
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+operate 1700 high-capacity public charging points by 2027 in Europe15. Amazon developed an open-source 
+tool CHALET, that can identify priority locations for charging infrastructure across Europe16.    
+
+Diesel truck 
+
+A diesel truck has a driving range of at least 1000 kilometre, some versions have a fuel tank up to 1200 liter 
+and  can  drive  more  than  4000  km  on  one  refuelling.  The  high  energy  density  of  diesel,  in  both  mass  and 
+volume, make it an ideal energy carrier, which can be stored on the truck in a compact way, without affecting 
+the payload.  In addition, with high capacity pumps the truck can be refuelled in minutes. All these aspects, 
+the long driving range, compact fuel storage, fast refuelling time and full payload available, make the diesel 
+truck a solution for all missions. Unfortunately, not the same amount of energy can be stored on zero-emission 
+trucks  in the form of electricity or hydrogen, since  the  current storage methods are less volume  dense. In 
+addition, the energy flow of charging or refuelling is significantly smaller than fuelling a diesel. This leads to 
+more time needed to charge or fuel and lower driving ranges for zero-emission trucks. There currently is no 
+one zero-emission truck solution that can do all missions. 
+
+Battery electric trucks  
+
+The availability of battery electric vehicles is increasing rapidly. All European truck manufacturers have either 
+already started or are about to start series production of their new zero emission trucks. The driving range 
+and loading capacity of BE trucks are limited in comparison to diesel trucks. The heavy battery pack is the main 
+reason for this17.  
+
+BE-HDV vehicles will be charged at DC/DC chargers. At the moment 350 kW chargers are commonly being 
+built, also for the passenger market. However, it is not sure that trucks will be capable to use the chargers 
+intended for the passenger market, due to height, weight and turning circle restrictions. A trend to megawatt 
+charging systems (MCS) for freight transport applications is visible. 
+
+The charging power will depend on the logistic use case. Overnight charging at a relatively low power will be 
+possible for some use cases, while for others charging time needs to be minimized to achieve optimal logistic 
+operations and opportunity charging with MCS is the way to go. With the current technology charging time 
+will vary between hours to half an hour, depending on charging power, battery size and the battery state of 
+charge starting value. 
+
+Currently,  European  R&I  project  are  trying  to  identify  the  main  corridor  and  hubs  were  the  charging 
+infrastructure needs to be installed, plus specifying the power and amount of chargers. AFIR provides an initial 
+planning but needs refinement (e.g. upscaling of chargers, emerging charging technologies). To achieve a more 
+sophisticated planning for infrastructure, the energy need for logistics needs to be mapped. The energy need 
+is  related  to  the  truck  specifications,  optimal  route,  the  resting  period  for  drivers,  traffic  and  weather 
+conditions etc. This can be done by for example building innovative Digital Twins (DT) and adopting planning 
+and fleet management systems. 
+
+Overall, the battery electric powertrain will have a high efficiency, especially when looking from TTW and WTT 
+perspective. For BE trucks the renewable energy can be transported by the grid and charged to the vehicle 
+without any further conversion to a molecule, grid losses and losses by (fast) charging should be accounted 
+for. The order of magnitude of these losses are estimated to be between 10% and 15%. In the vehicle itself 
+
+https://www.aboutamazon.eu/news/job-creation-and-investment/amazon-boosts-european-charging-infrastructure-planning-
+
+15 https://milence.com/about/ 
+16 
+with-new-technology 
+17 https://www.acea.auto/files/Getting_ZeroEmissionTrucks_on_the_road.pdf 
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+there will be losses due to DC/AC conversion and overall engine and transmission losses, with a total loss of 
+around 10%. In total the efficiency will be around 75 to 80%. This energy efficiency is the main benefit of BE 
+trucks, it is significantly more efficient than diesel trucks, meaning that less primary energy will be needed to 
+power BE trucks. At the moment, the main barriers for BE truck implementation are still limited capabilities to 
+fulfil long distance missions, uncertainty about availability of sufficient (MW) charging infrastructure and the 
+uncertainty about how its implementation will affect the logistic operation.  
+
+Fuel cell electric vehicles  
+
+At this moment, European Tier I Truck OEMs do not have fuel cell electric hydrogen trucks in their portfolio. 
+Only the Hyundai Xcient FC is on the market18. Nevertheless, several demonstration projects are ongoing. 
+
+If  we  look  to  the  hydrogen  pathway,  water  or  steam  can  be  transformed  to  hydrogen  and  oxygen  by 
+electrolysis. Current efficiencies of water electrolysis are ranging between 70 to 80%, you than need to take 
+into account the efficiencies of the hydrogen transport, storage and fuelling. In the vehicles itself you have a 
+fuel cell (70 to 80% efficient) and again the needed DC/AC conversion and engine and transmission losses. In 
+total the efficiency of the full chain is estimated to be around 25 to 30%. 
+
+The driving range of a FCE trucks is determined by the amount of hydrogen that can be stored on the vehicle, 
+which on its turn is depending on the state of the hydrogen and the working pressure. Currently, there are 
+two working pressures seen as standard: 350 and 700 bar. 700 bar is the standard of passenger vehicles, while 
+busses,  refuse  trucks  and the  already  in Europe  demonstrated trucks have  a working pressure  of 350 bar. 
+Trucks with a working pressure of 700 bar are still under development and will be first demonstrated in the 
+ongoing H2Haul project (Section 4.4 for more information).  
+
+Some  Truck  OEMs  are  also  looking  into  liquid  hydrogen.  Liquifying  hydrogen  will  demand  energy  (8-13 
+kWh/kg), however transporting liquid hydrogen is more efficient than gaseous one due to the higher energy 
+density. Also, the design of the liquid hydrogen refuelling station is expected to have a smaller footprint and 
+be more  cost-effective than hydrogen in gas form.  Liquid hydrogen vessels are also cylindrical shaped and 
+could be placed between the axles, which is beneficial for the truck design and capabilities. Daimler is the only 
+European truck manufacturer that is demonstrating liquid hydrogen for trucks. 
+
+FCE trucks working on gaseous hydrogen are refuelled at hydrogen refuelling station (HRS). Most of the current 
+HRS are working following the cascade principle. A cascade HRS consists of 4 or 5 parts. The first part is the 
+hydrogen supply for the station. The hydrogen can be delivered by tube trailers, pipeline or it can be produced 
+on site by electrolysis. The second part is the hydrogen storage, the third part is hydrogen compression, the 
+forth part is cooling (which is at this moment not mandatory for heavy-duty HRS at 350 bar) and the last part 
+is the dispenser for refuelling. The storage and compressor should be designed in such way that the refuelling 
+demand, expressed in total amount of hydrogen refuelled during a day combined with the peak demand at a 
+certain  moment  during  the  day,  can  be  met.  Cooling  is  mandatory  for  700  bar  stations,  since  cooling  is 
+necessary to prevent the hydrogen storage vessels in the vehicle to overheat. 
+
+At the moment, barriers for 700 bar truck refuelling are: 
+
+-  Development and standardisation of components that can withstand hydrogen at 700 bar and are 
+
+safe to be mounted on a driving vehicle 
+
+-  Development and standardisation of components for high flow (at least 120 g/s) hydrogen refuelling 
+
+stations with a fuelling capacity of more than 40 kg at once 
+
+-  Development of a refuelling protocol for 700 bar trucks (PRHYDE project19) 
+
+18 https://www.acea.auto/files/Getting_ZeroEmissionTrucks_on_the_road.pdf 
+19 https://cordis.europa.eu/project/id/874997 
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       16 
+
+ 
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+The main benefit of FCE-HDV is it charging time. It is expected that fuelling a FCE-truck will be less than 20 
+minutes. The main barriers for widespread deployment are its low WTW energy efficiency and the absence of 
+green hydrogen in sufficient quantities at feasible price. 
+
+2.5  Expected positive impacts 
+
+In this section the expected positive impacts on logistics related to ‘monitoring and implementing efficient 
+and zero-emission freight transport’ are given. We will not focus on emission monitoring and reporting, as 
+there will no direct impact on logistics. 
+
+As  stated  in  before  the  main  goals  for  efficient  freight  is  to  increase  the  transport  capacity  and  the  fuel 
+efficiency. We identified three action areas for more research in efficient freight transport.  
+
+Aerodynamics 
+Improvement of the aerodynamics of trucks and trailers impacts the fuel consumption significantly. A positive 
+impact on the environment, the energy consumption and the transport cost will be the result. 
+
+Load efficiency  
+The load efficiency can be improved in many ways design of trailer, improve the logistic process, integrating 
+Physical internet (Cloud Report VI), high capacity vehicles (EMS)… These improvements will have a positive 
+impact on transport cost, emission reduction and congestion. 
+
+Eco driving electric driveline 
+The driving behaviour impacts fuel consumption, therefore eco-driving is investigated in several R&I projects. 
+However, changes in eco-driving rules are expected when the driveline of the trucks becomes electric, and 
+regenerative breaking is possible, which should be assessed further. When implemented, a positive impact on 
+transport costs, energy consumption and emissions is expected. 
+
+The shift to zero-emission road transport is done to lower the emissions. Nevertheless, since the capabilities 
+of a zero-emission trucks are different than for a diesel truck the impact of the implementation will not have 
+an unambiguous positive impact. We therefore also define action areas for zero-emission trucks that need 
+further research and innovations.  
+
+Zero emission Truck and trailers 
+
+Currently, battery electric trucks are commercially available. Hydrogen trucks with a combustion engine or a 
+fuel  cell are  being  demonstrated  at  small scale  in  R&I  projects.  Nevertheless,  their  capabilities  differ  from 
+diesel  trucks  –  less  driving  range,  more  time  needed  to  charge/fuel  –  so  further  research  to  improve  the 
+capabilities and mature the technology are needed. 
+
+In addition to the trucks, we should also include innovations in trailers. At this moment, cooled trailers or 
+trailers with a tailgate use energy generated by the diesel engine. If we want full zero-emission truck-trailer 
+combinations innovations to electrify the trailer will be needed.  
+
+The  implementation  of  zero-emission  trucks  and  trailers  will  have  a  positive  impact  on  the  environment. 
+However, due to the higher investment cost and different capabilities compared to the current technologies, 
+we expect that the cost will be higher and the capacity will decrease. Further research to develop the next, 
+improved generation of zero-emission trucks and trailers.  
+
+The  development  of  new  generations  of  zero-emission  trucks  and  trailers  will  have  positive  impact  on 
+emissions, energy consumption and overall transport efficiency and cost. 
+
+Charging and fuelling infrastructure 
+
+The success of the implementation of zero-emission truck-trailer combination is strongly depending on the 
+availability of charging and fuelling infrastructure. Next to availability, the concept and capabilities of both will 
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       17 
+
+ 
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+improve. New charging concepts, such as Megawatt Charging System (MCS), dynamic charging and electric 
+road systems (ERS) are emerging. While HRS with a daily capacity of 6 tonnes and 700 bar refuelling for trucks 
+are in development. 
+
+On the short term, the development of new concepts for charging and fuelling will not have a positive impact 
+on  logistics  itself  but  will  make  zero-emission  trucks  more  deployable.  On  the  longer  term,  trucks  will 
+contribute to vehicle-to-grid charging and storage, which can provide cost benefits for the combined energy-
+transport system20.  
+
+Fleet integration and route optimisation 
+
+Since the capabilities of zero-emission trucks differ from diesel trucks adaptations in planning, dispatching and 
+route selection are expected. New software that is able to take into account the limitations and opportunities 
+of zero-emission trucks is needed. The software will have a positive impact on capacity utilisation, the overall 
+cost, improve the energy utilisation and the transport efficiency. It will also improve the data quality and the 
+means of communication from and with the vehicles, which is an important topic for the further digitalisation 
+of logistics. 
+
+Ecosystem building 
+
+Although currently the cost to operate of zero-emission trucks does not reach diesel parity, it is expected to 
+reach this level in the near future for battery-electric trucks, hydrogen technology will be later21. Ecosystem 
+building to reach economy of scale is crucial In addition, further assessment of innovative business models like 
+(pay-per-use, Transport as a Service) is necessary, as the end customer may be willing to pay more for zero-
+emission transport.  
+
+Legislation 
+
+Legislation is the main driver for the implementation of zero-emission trucks. Until now, the zero-emission 
+road transport ecosystem is not mature, further legislative incentives will be needed. This also includes the 
+adaptation of technical regulations and making national legislation more uniform.  
+
+Digitalisation 
+
+Digitalisation  of  logistics  is  necessary  to  achieve  further  improvements.  Currently,  the  concept  of  V2X, 
+communication with the vehicle (both truck and trailer) with something else, is a concept in development that 
+will  be  needed  to  ease  the  implementation  of  zero-emission  trucks  and  CCAM.  Concepts  as  bidirectional 
+charging,  route  optimisation  using  GPS  data,  fleet  management  with  the  remaining  driving  range  of  zero-
+emission trucks as input, V2G communication during charging and communication with HRS to improve the 
+refuelling, are only possible when the vehicles can communicate and share qualitative, well-defined data to 
+infrastructure or the cloud. Definition of parameters and how to measure and communicate them across the 
+whole industry are necessary.  
+
+20 Gaete-Morales, C., Jöhrens, J., Heining, F., & Schill, W. P. (2023). Power sector effects of alternative options for 
+electrifying heavy-duty vehicles: go electric, and charge smartly.  https://arxiv.org/abs/2303.16629 
+
+21 The potential of e-fuels for heavy duty road transport in the Netherlands, TNO 2023 R10213 
+https://uploads-ssl.webflow.com/6144857e3aac5ad07ebf212f/63e6520e75c09309becdc952_2023_TNO_smartport_e-
+fuels%20for%20road%20transport.pdf 
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       18 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+Table 1: Action areas for efficient and zero-emission freight transport and expected impacts 
+
+Action area 
+
+Aerodynamics 
+
+Load efficiency 
+
+Eco  driving  electric 
+driveline 
+
+Zero emission Truck 
+and trailers 
+
+and 
+
+Charging 
+fuelling 
+infrastructure 
+
+Fleet integration and 
+route optimisation 
+
+Ecosystem building 
+
+Digitalisation 
+
+Expected impacts 
+
+Decreased 
+environmental  impact 
+(including,  but  not 
+limited to reduction of 
+noise) 
+
+Improved  capacity 
+utilisation  of  barge, 
+train and truck 
+
+Decreased cost of 
+transport 
+& 
+overall logistics 
+
+Improve 
+energy 
+consumption 
+
+Increase 
+transport 
+efficiency 
+
+quality 
+
+Data 
+and 
+communication 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       19 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+2.6  Barriers and guidelines  
+
+In the previous section the expected positive impacts are described of the identified action areas. We also 
+mentioned some of challenges and barriers that need to be overcome. In this section, we will give a structured 
+overview of the challenges, barriers and their solution 
+
+Table 2 Barriers hindering efficient and zero-emission logistics 
+
+Monitoring and reporting emissions 
+
+Challenges / Action areas 
+
+Barriers 
+
+Solutions 
+
+Increase the uptake of the ISO 
+14083 standard in industry 
+
+Lack of awareness or training 
+
+Activate  via  non-profits  and 
+green freight programs 
+
+of  motivation 
+
+Lack 
+implement 
+
+to 
+
+Apply 
+through 
+pressure 
+legislation or financial markets 
+
+Improve  the  quality  of  the 
+calculations 
+
+Lack  of  ease  to  capture  fuel 
+consumption data  
+
+(e.g., 
+
+automate  data 
+to 
+Tools 
+collection 
+fuel 
+consumption  data  collected 
+through 
+connected  vehicle 
+telematics based on ISO 23795)  
+
+Carriers  are  not  motivated  to 
+share the data 
+
+Make 
+it 
+obligation 
+
+a 
+
+contractual 
+
+Difficult  and  inconvenient  to 
+examine all published data  
+
+Implement 
+assurance 
+an 
+scheme and make it mandatory 
+for all reporting 
+
+Lack  of  consensus  on  how  to 
+produce 
+emission 
+energy 
+factors  
+
+Mobilize  the  LCA  database 
+producers  to  harmonize  the 
+approach. 
+
+Expand the scope to holistically 
+capture climate change impact 
+
+Lack  of  consensus  on  what 
+other  types  of  impacts  to  be 
+from 
+such 
+included, 
+digitalization or packaging. 
+
+as 
+
+Lack  of  established  emission 
+for  many  types  of 
+factors 
+impacts 
+change 
+climate 
+beyond 
+dioxide 
+carbon 
+emissions  (e.g.  black  carbon, 
+aviation water vapor) 
+
+High-level 
+climate 
+community  
+
+discussion  with 
+scientific 
+
+change 
+
+Mobilize  the  LCA  database 
+scientific 
+and 
+producers 
+community. 
+
+Monitoring and implementing efficient freight transport 
+
+Challenges / Action areas 
+
+Barriers 
+
+Solutions 
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       20 
+
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+Aerodynamics 
+
+risk  of 
+
+The 
+aerodynamic 
+additions breaking off or being 
+not 
+anymore, 
+impacts 
+application 
+negatively 
+
+adjustable 
+
+the 
+
+Load efficiency 
+
+High  capacity  vehicles, 
+like 
+EMS,  can  not  be  deployed  in 
+international missions 
+
+framework 
+
+Regulative 
+innovative  trailer  design 
+missing 
+
+for 
+is 
+
+Eco-driving electric driveline 
+
+that 
+
+Unsure 
+eco-driving 
+guidelines still apply for trucks 
+with electric driveline 
+
+Change  driving  behaviour  to 
+drive more eco-friendly 
+
+Location of infrastructure is not 
+defined 
+
+Route  optimisation  for  trucks 
+with an electric driveline 
+
+The  real  energy  consumption 
+of 
+is 
+unknown 
+
+zero-emission 
+
+trucks 
+
+The  durability  of  aerodynamic 
+their 
+and 
+additions 
+adjustability  need 
+to  be 
+improved,  so  the  risk  of  a 
+negative  business 
+is 
+minimised 
+
+case 
+
+necessary, 
+
+Legal support on national level 
+is 
+the 
+European directive on ‘Weight 
+and  dimensions’  is  voted  and 
+offer a solution 
+
+until 
+
+and 
+to 
+
+The  regulative  frameworks  is 
+innovative 
+drafted 
+load 
+concepts 
+efficiency 
+trailer 
+are  made 
+electrification 
+possible. 
+
+improve 
+and 
+
+A  project 
+to  assess  how 
+regenerative  breaking  of  the 
+engine  and  e-axles  can  be 
+incorporated 
+in  eco-driving 
+guidelines can be conducted. 
+
+Awareness 
+campaigns, 
+apps/services  to  support  eco-
+driving should be developed so 
+the integration of eco-driving is 
+not  an  extra  burden  for  the 
+driver. 
+
+infrastructure 
+
+Currently, 
+is 
+accomplished  on  a  project 
+basis. More research is needed 
+to  define  the  corridors  and 
+hubs  where  infrastructure  can 
+be build. Digital twins that take 
+into account logistic operation 
+and  planning,  grid  availability, 
+truck  capabilities…  could  help 
+with defining suitable locations 
+
+for 
+Demonstration  project 
+different  use  cases  under 
+(routes, 
+varying 
+conditions 
+to 
+weather…)  are  needed 
+determine  what  the  energy 
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       21 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+consumption  of  zero-emission 
+trucks in real life is 
+
+Renewable energy, in the form 
+of  electricity  and  hydrogen,  is 
+not always easily available, plus 
+at an acceptable price 
+
+should 
+
+renewable 
+
+energy 
+More 
+sources 
+be 
+implemented  in  the  European 
+import  of 
+energy  grid.  The 
+renewable  energy  should  be 
+further  investigated.  Business 
+scenarios on how diesel parity 
+can be met in the future needs 
+to be done. 
+
+Monitoring and implementing zero-emission freight transport 
+
+Challenges / Action areas 
+
+Barriers 
+
+Solutions 
+
+Capabilities  and  availability 
+trucks  and 
+zero  emission 
+trailers 
+
+Hydrogen  truck  with  fuel  cell 
+technology are not commercial 
+available. 
+
+Further  research  to  develop 
+mature  fuel  cell  technology  is 
+needed.  
+
+the 
+
+zero-
+Capabilities  of 
+emission 
+trailer 
+combination are insufficient to 
+fulfill certain use cases.  
+
+truck 
+
+Charging 
+infrastructure 
+
+and 
+
+fuelling 
+
+are  no 
+
+There 
+large-scale 
+investments  in  infrastructure, 
+since  the  zero-emission  truck 
+market  is  just  starting  scaling 
+up. 
+
+Legislation 
+
+framework 
+
+Regulative 
+to 
+operate zero-emission trucks is 
+missing.  
+
+trucks 
+
+Further  development  of  the 
+zero-emission 
+and 
+technically. 
+trailers 
+of  modular 
+Development 
+be 
+can 
+solutions,  which 
+adapted to the use case.  
+
+AFIR  regulations  instruct  that 
+both  charging  and  hydrogen 
+infrastructure is built along the 
+European TEN-T network.  
+
+Joint  ventures  and  ecosystem 
+building  is  happening.  Front 
+runners  are  working  together. 
+Nevertheless,  this 
+is  mostly 
+done  on  a  project  basis, while 
+further upscaling is needed. 
+
+Sharing  of  assets  can  have  a 
+positive aspect on TCO 
+
+for 
+
+Clear  legislation  that  makes  it 
+zero-emission 
+possible 
+to  do  cross-border, 
+trucks 
+and 
+transport 
+multimodal 
+enter  all 
+is 
+logistic  nodes 
+necessary. 
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       22 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+3  Analysis of current market practices and trends 
+
+3.1  Overview 
+
+ALICE has published the ‘Roadmap toward Zero Emission Logistics 205022. The roadmap has defined a 
+framework for r a decarbonisation roadmap, consisting of identified solution areas, stakeholder groups 
+and  transition  management  measures  where  stakeholders  need  to  collaborate  over  time.  This 
+framework has been applied by businesses and other innovation developers to advance zero emission 
+logistics.  
+
+This chapter provides a compilation of market practices which can be considered as “innovative” in the 
+sense  that  they  contribute  to  further  development  of  Efficient  and  zero-emission  logistics.  Such 
+practices encompass 
+
+Innovations already in place, 
+Innovations under development in dedicated projects or research programs, 
+
+• 
+• 
+•  Rules, guidelines and technical documentations that pave the way for subsequent application 
+
+of innovative market practices 
+
+We see in Table 3 that for some defined action areas market practices and trends are missing. We did 
+not  find  any  projects  or  initiatives  that  looked  into  eco-driving  for  truck  with  electric  drive  trains. 
+Currently,  eco-driving  training  are  focussing  on  diesel  truck  driving.  We  believe  that  concepts  like 
+regenerative braking will have an effect on eco-driving rules and training. 
+
+Table 3 Current Market practices related to the action areas of ‘Efficient and zero-emission logistics’ 
+
+Action area 
+
+Aerodynamics 
+
+Load efficiency 
+
+Efficient Logistics 
+
+Truck and trailer design 
+
+Efficient and zero-emission freight transport 
+Zero emission logistics 
+
+Trailer design, Light weight trailers, 
+
+High capacity combinations 
+
+Eco-driving electric driveline 
+
+(Trainings of drivers) 
+
+Zero emission Truck and trailers 
+
+Charging and fuelling infrastructure 
+
+Fleet integration and route optimisation 
+
+Electrification of trucks and trailers, 
+
+Retrofitting existing trucks 
+
+AFIR, CEF 
+
+Digital 
+ESCALATE) 
+
+twin 
+
+(ZEFES, 
+
+EMPOWER, 
+
+Digitalisation 
+
+V2X communication 
+
+Bidirectional charging 
+
+3.2  Market practices: efficient freight transport  
+
+Impactful Legislation  
+
+22 https://www.etp-logistics.eu/wp-content/uploads/2019/12/Alice-Zero-Emissions-Logistics-2050-Roadmap-WEB.pdf 
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       23 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+Currently  an  update  of  the  ‘Weight  and  dimensions  directive’  (Council  Directive  96/53/ECEN)  is 
+proposed on 11 July 2023. The update was not voted when this Cloud Report has been completed, we 
+therefore advise you to check for any changes. 
+
+so  alternative  powertrains 
+
+The directive  and its amendments allow  for  deviations from the  authorised weights  of vehicles  and 
+vehicle  combinations, 
+zero-emission),  aerodynamic 
+improvements  and  intermodal  transport  operations  can  be  carried  out.  The  latest  version  aims  to 
+address four barriers: i) the regulative framework for zero-emission trucks and energy saving devices, 
+ii) facilitate  intermodal operations, iii) clear rules  to use  longer and heavier vehicle combinations in 
+cross border activities and iv) more effective and efficient enforcement of the rules. 
+
+(including 
+
+The following derogations regarding zero-emission vehicle combinations are mentioned in the revision: 
+
+- depending on the weight of the zero-emission vehicle combination a derogation of 2 (36 tonnes) or 4 
+(40-44 tonnes) tonnes is granted 
+
+- the weight of the zero-emission truck itself can deviate with a maximum of 2 tonnes.  
+
+- the weight on the driving axle of a zero-emission truck can be 12.5 tonnes 
+
+- the length of the truck can be extended with 90 cm to install zero-emission technology or improve 
+aerodynamics, energy efficiency or safety. 
+
+Overall, the proposed derogation can help to compensate for the load capacity losses due to the weight 
+of zero-emission technology and the extra length can be used to implement hydrogen technology in a 
+safe and more optimal way. 
+
+Aerodynamics and minimizing rolling resistance 
+
+Overcoming resistance, both air and rolling resistance can improve fuel efficiency significantly. All truck 
+OEMs are working on durable solutions to improve aerodynamics, which is reducing air resistance. One 
+of the key elements to improve aerodynamics is to delay flow separation and keep the air layer as long 
+as  possible  in  parallel  to  the  vehicle.  Once  the  flow  detaches  a  wake  is  created,  which  results  in  a 
+pressure drag, minimising and delaying flow separation, and minimises pressure drag and energy loss. 
+The impact of small gaps and splits on the flow separation is important, therefore new seals have been 
+placed to cover small gaps and splits, especially the ones at the vehicle’s front cover.  improvements 
+could be filling the void of the footstep box, wider wheels and mudguards to create more alignment, 
+new mirror design23 or even replacement by cameras. Next to less drag, the replacement of mirrors, 
+can increase safety due to a larger field of vision and improved vision at night24. 
+According to the EU regulations25, truck manufacturers in EU countries can extend the front of vehicles 
+by up to 90 cm and trailers can be extended with 50cm, on the condition that the loading capacity is 
+not increased. Also the extension at the back should be able to retract or fold (manual or automated), 
+so the vehicle does follow sizing regulations when standing still. 
+The rolling resistance can be improved by tyre innovations. 
+
+Trailer design 
+
+23https://www.volvotrucks.com/en-en/news-stories/stories/2022/apr/the-new-aerodynamic-improvemens-to-the-volvo-fh-how-it-was-
+done.html 
+
+24 https://www.orlaco.com/mirroreye-trucks 
+
+25 https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019R1892 
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       24 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+In practice, 60% of the goods in trailers are palletized, which means that volume not optimal used in 
+some  cases.  Innovative  trailer  designs  as  double  decking26  are  brought  on  the  market.  In  the 
+TRANSFORMERS and AEROFLEX, other innovations like aerodynamic shape27, loading optimisation tools 
+and optimised connection to a loading dock so one pallet more can be loaded, were established and 
+are  being  brought  to  the  market.  These  projects  have  shown  that  there  are  still  low  hanging  fruit 
+innovations in terms of trailer design. Light weight trailers are the main innovation for mass-limited 
+missions28,29. 
+
+In addition, some trailer manufacturers and European R&I projects are investigating the electrification 
+of  trailers  (cooling  and  tailgate),  by  e.g.  implementing  solar  panels  in  the  trailers  roof30.  Also,  the 
+integration of regenerative energy axles with cloud technology and the implementation of batteries on 
+the trailer are investigated (cfr. ZEFES project)31. 
+
+High Capacity Combinations – European Modular System 
+
+An example of a high capacity combination is the European Modular System (EMS). EMS allows the 
+combination  of  existing  loading  units  (so-called  modules)  into  longer  and  possibly  heavier  vehicles 
+combinations, which can be used on some parts of the road network32. National authorities can allow 
+vehicle combinations that are longer  the  16.5  meters  (maximum length defined in Europe) and can 
+exceed the weight of 40 tonnes. The fact that national authorities are granting permissions, is the main 
+limitation to bring EMS in practice. Currently, the national legislation is not uniform and cross-border 
+operations are not possible. The proposed ‘Weight and Dimensions’ directive aims to ease the use of 
+EMS by making cross-border operations possible. Nevertheless, this directive is not voted yet and not 
+into force. 
+
+EMS can be divided in EMS1, consisting of combinations of trucks, dolly’s, trailers and swap body’s with 
+a total length not exceeding 25.25 meter, and EMS2, also called duo-trailer or super eco combi, where 
+to semi-trailers can be combined, exceeding the length of EMS1. Overall, both EMS concepts improves 
+road freight transport efficiency and reduces its environmental impact. 
+
+EMS is complementary to other modes, especially EMS2, since  standard  semi-trailers are  used.  The 
+smaller  trailers  used  in  EMS1  combinations  do  not  use  the  slots  on  boats  and  trains  optimally.  All 
+interviewees mentioning EMS, stated that EMS should not be seen as a competitor to other modes of 
+transport, it is complementary and it is spurring innovation in related modes, such as rail, benefitting 
+consumers33. 
+
+3.3  Market practices: zero-emission freight transport 
+
+Impactful Legislation  
+
+26 https://www.krone-trailer.com/en/news/detail/aus-der-praxis-fuer-die-praxis-vorstellung-des-vario-line 
+27 https://www.cargobull.com/en/-/media/project/scb-sites/scb-global-site/media-center-en/test-report-scs-ecoflex.pdf 
+
+28 https://www.cargobull.com/en/products/curtainsider/curtainsider-semi-trailer/x-light 
+29 https://www.compositesworld.com/articles/recycled-carbon-fiber-for-lower-priced-lightweight-in-heavy-trucks 
+30 https://cordis.europa.eu/article/id/421568-smart-solar-solution-delivers-cleaner-mobility-on-the-road 
+31 https://www.cargobull.com/en/press/2023/typgenehmigung_skoe_cool 
+32 https://www.acea.auto/fact/european-modular-system/ 
+33 https://www.acea.auto/fact/european-modular-system/ 
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       25 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+The European Commission is committed to reduce its CO2 emission as stated in Section 2.1. Since road 
+transport is a significant contributor, with 6% of the total emissions, the Regulation on CO2 emissions 
+standards for heavy-duty vehicles was implemented and states that a reduction with 15% needs to be 
+reached by 2025 and 30% by 203034.  In 2023, the Commission proposed to raise the ambition even 
+more and go for a reduction of 45% by 2030 and by 2040 a reduction of 90%. These new targets need 
+to voted. 
+
+Low emission zones are implied in more than 250 European cities to achieve better air quality. These 
+zones  also  apply  for  heavy  duty  transport  for  urban  deliveries.  Transport  companies  are  therefore 
+implementing zero-emissions trucks35.  
+
+34 https://climate.ec.europa.eu/eu-action/transport/road-transport-reducing-co2-emissions-vehicles/reducing-co2-emissions-heavy-duty-vehicles_en 
+35 https://breytner.com/#zero-emission 
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       26 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+Battery electric and fuel cell electric vehicles 
+
+Battery electric trucks  are commercially available.  All European manufacturers are taking orders for 
+battery electric trucks36,37,38. They have sold more than 4000 truck in the last 12 months in Europe39. 
+The first fleets of battery electric are emerging in Europe40,41. Most studies agree that battery electric 
+trucks will be cost-competitive with diesel trucks in the near future for certain use cases42. 
+
+Fuel cell electric hydrogen trucks are not commercially available. Only in Switzerland a fleet of hydrogen 
+trucks is operational. Hyundai wants to bring 1600 FC Xcient trucks on the Swiss road by 202543. In 2020 
+the  first  units  arrived.  A  pay-per-use  system  was  applied  together  with  H2Energy.  One  of  the  HRS 
+developed in the H2Haul project is also used to refuel the Hyundai trucks. Currently, there should be 
+47 trucks in operations. Reasons why the trucks are implemented slower than previous planned, are 
+the limited availability of green hydrogen and the energy crisis which has led to higher prices, which 
+putted pressure on the economic viability of the implementation of FCE-HDV. However, Hyundai and 
+H2Energy  state  that  the  partners  will  continue  the  project.  Overall,  it  is  not  expected  that  fuel  cell 
+electric trucks will be competitive in the near future. One reason is that green hydrogen is not available, 
+and certainly not at an acceptable price.  
+
+Retrofitting of existing trucks and hydrogen combustion engines 
+
+Several  companies  are  specialising  in  retrofitting of  diesel truck  to  battery  electric,  fuel  cell  electric 
+hydrogen or even hydrogen combustion engine propelled trucks44.  
+
+Hydrogen can not only be used in fuel cells, it can also be combusted in ICE. The use of a combustion 
+engine  has  some  advantages  compared  to  fuel  cell  electric.  The  driveline  of  combustion  engines  is 
+known, is more robust and has a longer lifetime than the existing fuel cells. Also, the quality of the 
+hydrogen  does  not  need  to  be  fuel  cell  quality.  Hydrogen  combustion  engines  are  seen  as  a 
+complementary zero-emission option45. However, a major drawback is that they emit NOx . In addition, 
+they have the same drawback of other hydrogen solutions (low efficiency and lack of supply of green 
+hydrogen).  
+
+Route and mission planning optimisations 
+
+We  see  that  with  the  emerging  of  zero-emission  truck,  the  interest  in  route  and  mission  planning 
+optimisation is again rising. Previous the planning of a ICE fleet took only into consideration of following 
+missions  characteristics:  distance,  volume  or weight payload,  time  and  the  overall  utilisation of  the 
+
+36https://www.volvotrucks.com/en-en/news-stories/press-releases/2023/mar/volvo-delivers-20-electric-trucks-to-dfds-in-gothenburg.html 
+
+37 https://www.scania.com/ph/en/home/about-scania/newsroom/news/2023/Scania-secures-significant-truck-order-in-the-UK.html 
+
+38https://press.mantruckandbus.com/corporate/already-more-than-500-order-enquiries-man-to-launch-electric-truck-for-long-distance-
+transport-in-2024/ 
+
+39 Webinar ALICE – Decarbonizing Road Freight Transport vehicles roadmap 
+
+40 https://www.primafrio.com/grupo-primafrio-incorpora-a-su-flota-15-camiones-volvo-fh-electric/ 
+
+41 https://bett.cenex.co.uk/bett-learnings 
+
+42https://www.transportenvironment.org/wp-content/uploads/2022/10/202210_TNO_-
+techno_economic_uptake_potential_of_zero_emission_trucks_in_Europe.pdf 
+
+43 https://hyundai-hm.com/en/2022/10/21/statement-concerning-hyundai-hydrogen-mobility-business-case-in-switzerland/ 
+
+44 https://cordis.europa.eu/article/id/442780-retrofitted-zero-emission-trucks-to-hit-the-road-in-2023 
+
+45 https://www.transportenvironment.org/wp-content/uploads/2023/04/202304_HDV_CO2_position_paper_final.pdf 
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       27 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+fleet. When zero-emission trucks come into play, also charging or more regular hydrogen refuellings 
+should be taken into account, together with the reduced driving range compared to diesel trucks.  
+
+In  addition,  the  driving  range  of  both  technologies  can  be  affected  by  the  weather  conditions.  The 
+fuelling of gaseous hydrogen will be more optimal at colder conditions, since the mass of hydrogen 
+refuelled is inverse correlated to ambient temperature. Battery technology will work more efficient in 
+environments  at  ambient  temperature.  All  these  variables,  even  degeneration  of  the  fuel  cell  and 
+battery capacity, should be taken into account in future planning and dispatching software that can 
+calculate the optimal route for a mission. Currently, R&I projects (ESCALATE, EMPOWER and ZEFES) are 
+working on digital twins, which can be the basis of these software. Another aspect of route optimisation 
+that should be taken into account is the availability of infrastructure.  
+
+Penalties Truck OEMs 
+
+Most truck OEMs are investing in ZERO-EMISSION TRUCKS, since heavy penalties will be applied if their 
+fleet does not meet the CO2 target (set to 15% emission reduction by 2025 and 30% by 203046, stricter 
+targets are proposed). The current penalties are set at €4,250 per g CO2/t∙km in 2025 and €6,800 per 
+gCO2/t∙km  in  2030.  The  penalties  are  already  in  force,  even  when  the  targets  are  missed  by  1g 
+CO2/t∙km. Currently, the penalties only apply on truck OEMs, not to other stakeholders in the transport 
+and logistics value chain47. 
+
+Infrastructure 
+
+The market developments of infrastructure are defined of what is technological feasible and what is 
+implied by regulation. 
+
+Electric charging at a power of 350kW is available with CCS technology. However, this amount of power 
+is not enough to charge a battery electric truck fast. It will take a hour to recharge the current trucks, 
+and the upcoming truck with greater battery capacity, will take multiple hours to charge. Therefore we 
+see the  development  of  ultra-fast  charging,  MCS,  charging  at megawatt48.  With this  technology  the 
+future truck will be recharged in less than an hour. Also, bidirectional charging is in development for 
+passenger cars49, and will be for trucks. Finally, pilots are being held in several countries with dynamic 
+charging technology, with overhead lines and induction charging50,51,52.  
+
+Also,  the  HRS  technology  is  evolving.  HRS  with  a  working  pressure  of  350  bar  for  trucks  and  other 
+vehicles are available. The first ones were built for buses (JIVE project) or other applications than trucks. 
+Hydrogen  fuel  cell  electric  trucks  with  a  working  pressure  of  350  bar  have  been  demonstrated  in 
+national  and  regional  R&I  (H2Share).  Now,  the  switch  to  700  bar  is  made,  with  as  main  reason  to 
+increase the mass of hydrogen on the truck and the driving range. In the H2Haul project a first 700 bar 
+HRS for trucks was built. Others are in development. Also, the daily refuelling capacity of the station is 
+increasing to tonnes of hydrogen per day. 
+
+The implementation of the infrastructure is currently is not economically straightforward. Therefore, 
+regulation  and  funding  schemes  is  an  important  driver  for  investments.  The  AFIR  sets  targets  for 
+recharging and hydrogen refuelling infrastructure for the road sector, for shore-side electricity supply 
+in maritime and inland waterway ports, and for electricity supply to stationary aircraft. In this way, a 
+
+46 https://climate.ec.europa.eu/eu-action/transport/road-transport-reducing-co2-emissions-vehicles/reducing-co2-emissions-heavy-duty-vehicles_en 
+47 https://www.acea.auto/files/Fact-sheet-CO2_standards_for_heavy_duty_vehicles.pdf 
+48 https://hochleistungsladen-lkw.de/hola-en/project/ 
+49 https://cordis.europa.eu/project/id/101056934 
+50 https://cordis.europa.eu/project/id/774833 
+51 https://press.siemens.com/global/en/feature/ehighway-solutions-electrified-road-freight-transport 
+52 https://www.transportenvironment.org/wp-content/uploads/2021/07/2020_02_RechargeEU_trucks_paper.pdf 
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       28 
+
+ 
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+minimal amount of infrastructure will be available in Europe, enabling the use of zero-emission trucks. 
+In  addition,  the  regulations  also  state  best  practices  for  user  experience,  price  transparency  and 
+payment options at the station and coherent customer information across the EU53.  
+
+The regulations states that for zero-emission trucks dedicated recharging stations need to be deployed 
+every 60 km along the TEN-T core network. The minimum power output must be 350 kW. On the larger 
+TEN-T comprehensive network every 100 km dedicated charging equipment should be available. Just 
+as, infrastructure for overnight charging at parking areas an in urban nodes for delivery vehicles. The 
+coverage of the complete network should be completed by 2030. 
+
+In addition, AFIR states that HRS that can both serve zero-emission trucks and lorries must be deployed 
+every 200 km along the TEN-T core network and all urban nodes by 2030, to ensure a sufficiently dense 
+network. 
+
+Funding to achieve these charging stations and HRS can be achieved through the Connecting Europe 
+Facility (CEF) program. The CEF transport call already selected more than 60 project across Europe for 
+funding. When this Cloud Report was written only one remaining cut-off date existed to apply for CEF 
+Transport, under  the existing rules. It is expected that  a new  series of calls will be  published in the 
+future, however changes in application rules are expected.   
+
+Vehicle Energy Consumption Calculation Tool (VECTO) for trucks and trailers 
+
+The European Commission developed in close collaboration with stakeholders the VECTO tool, which 
+is a simulation software that can be used measure the CO2 emissions and fuel consumption of heavy-
+duty vehicles (GVW above 3500kg) for specific loads, fuels and mission profiles (e.g., long haul, regional 
+delivery, urban delivery, etc.) in a reliable and cost-effective way. Input for the simulation tool are the 
+relevant  vehicle  components54.  Since  1  January  2019,  the  tool  is  mandatory  for  new  trucks  under 
+certain vehicle categories. From 2024 onwards, trailers will also be certified. Bonus factors for trailers 
+will be steering axles and lightweight running gear55.  
+
+Past European projects 
+In  this  paragraph  we  mention  some  finished  project  about  hybrid  powertrain  demonstrations  and 
+electric  vehicles  and  infrastructure  for  urban  conditions.  We  decided  that  these  projects  are  not  in 
+scope.  Nevertheless,  a  lot  of  innovations  were  established  in  these  project  that  helped  to  develop 
+current zero-emission truck technology. At the time of the hybrid powertrain projects, the technology 
+for full electric trucks with high payloads was not available. Therefore we mention them in this chapter.  
+
+EcoChamp 
+
+EcoChamp56  aimed  to  achieve  efficient,  compact,  low-weight,  robust  and  cost-effective  hybrid 
+powertrains for both passenger cars and commercial vehicles (buses, medium and heavy-duty trucks) 
+with increased functionality, improved performance, comfort, safety and emissions below Euro 6 or VI, 
+all proven under real driving conditions. The project was ongoing between 2015 and 2018, financed 
+under H2020, and included 26 partners representing the European automotive industry OEMs (EUCAR), 
+suppliers  (CLEPA),  ESPs  and  universities  (EARPA)  including  members of  ERTRAC  and  EGVIA.  The call 
+expected  an  impact  to  deliver  demonstrator  vehicles  that  achieve  a  20%  powertrain  efficiency 
+
+53 https://ec.europa.eu/commission/presscorner/detail/en/ip_23_1867 
+
+54 https://climate.ec.europa.eu/eu-action/transport-emissions/road-transport-reducing-co2-emissions-vehicles/reducing-co2-emissions-heavy-duty-vehicles_en 
+
+55 https://newsroom-en.bpw.de/pressreleases/eu-requires-climate-friendly-trailers-from-2024-onwards-bpw-products-fulfil-the-requirements-for-vecto-certification-of-trailers-3216797 
+56 https://cordis.europa.eu/project/id/653468 
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       29 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+improvement and 20% powertrain weight and volume reductions with respect to the ‘best in class’ full 
+hybrid  vehicles  on  the  market  in  2013,  whilst  having  a  maximum  10%  cost  premium  over  the 
+conventional model upon which the demonstrators are based. Five demonstrators were conducted in 
+EcoChamp including two demonstrators with trucks, one delivery truck, IVECO Daily Hybrid, 7.5 tonnes 
+and one long-haul truck, DAF XF Long Haulage Hybrid Truck.  
+
+The  result  of the  assessment  was  positive  with the delivery  truck  with  a  30% increased  powertrain 
+efficiency  compared  to  Daily  Diesel,  and  a  decrease  in  powertrain  mass  (-27%)  and  volume  (-36%) 
+compared to Daily Electric, and with noxious emissions reaching Euro VI. The long-haul truck almost 
+met the aimed target for powertrain efficiency with a 17% increase compared to DAF XF Diesel, and a 
+decrease  in powertrain mass (-17%) and volume  (-13%) compared to a DAF XF (reference from FP7 
+project Convenient since no hybrid long haul truck was available in the market).  
+
+ORCA 
+
+Orca, Optimised Real-world Cost-Competitive Modular Hybrid Architecture for Heavy Duty Vehicles, 
+aimed to design a clear and greener yet affordable hybrid drivetrain for heavy-duty vehicles57,58. The 
+project  was  ongoing  between  2016-2021,  financed  under  H2020,  and  included  10  partners  from  6 
+different European Members States representing all requested competencies in the field of powertrain 
+optimization for Heavy- Duty vehicles. The consortium comprises OEMs with IVECO-ALTRA, CRF and 
+VOLVO  (also  members  of  EUCAR,  suppliers  VSCM,  BOSCH  and  BLUWAYS,  leading  Engineering  and 
+Technology Companies/organizations and Universities with TNO, FRAUNHOFER, and VUB (EARPA). The 
+majority are also active members of ERTRAC and EGVIA. The objective of Orca was to:  
+• Reduce the Total Cost of Ownership (TCO) to the same diesel vehicle TCO level, targeting over 10% 
+system cost premium reduction compared to actual IVECO hybrid bus and VOLVO conventional truck 
+with the same performances, same functionalities and operative cost, and also targeting up to 10% 
+rechargeable energy storage (RES) lifetime/energy throughput improvement. 
+•  Improve  the  hybrid  powertrain  efficiency  up  to  5%  compared  to  actual  IVECO  hybrid  bus  and 
+conventional  truck  through  optimized  RES  selection  &  sizing  and  by  improving  the  energy  and  ICE 
+management. 
+•  Reduce  the fuel consumption by 40%  compared to an equivalent conventional HD vehicle  (bus & 
+truck). 
+• Downsize the ICE by at least 50% compared to actual IVECO hybrid bus and VOLVO conventional truck. 
+• Improve the electric range from 10km to 30km by adding the PHEV capabilities and optimising the 
+capacity. 
+RES 
+• Case study assessment to replace a diesel engine by a CNG engine for future heavy-duty vehicles. 
+
+One of the results of the project was developing a Volvo distribution hybrid truck with an extended full-
+electric range from 10 km to 30 km, improving the performance of batteries in terms of power and 
+energy density as well as cost-enabling vehicle platforms with increased energy storage that facilitate 
+further  electric  range,  and  sizing  the  internal  combustion  engine  towards  more  average  operation 
+rather than the peak-power vehicle requirement benefits fuel efficiency and emission reduction. The 
+vehicle  was  equipped  with  innovative  plug-in  hybrid  electric  vehicle  (PHEV)  rechargeable  energy 
+storage (RES) systems, designed specifically for vehicle application. It featured an improved range for 
+operation in low-emission zones using advanced control systems. 
+
+ASSURED 
+
+57 https://cordis.europa.eu/project/id/724087  
+
+58 https://h2020-orca.eu/  
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       30 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+Assured aimed at boosting the electrification of urban commercial vehicles and their integration with 
+high-power fast-charging infrastructure and evaluating several infrastructures in different cities across 
+Europe59. The project was ongoing between 2017 – 2022 and included 39 partners from 12 different 
+EU Member States.  
+
+The  main  goal  was  to  charge  different  vehicles  using  the  same  infrastructure,  making  ASSURED 
+innovative in this approach since this would be the first time a project set out to test the interoperability 
+of  the  charging  solutions  applied.  If  successful,  this  would  help  reduce  costs  and  support  the 
+standardisation of the elements of the infrastructure. Assured tested six public transport buses, two 
+garbage  trucks,  one  delivery  truck,  and  one  light  commercial  delivery  vehicle  with  automatic  fast 
+charging, which meant that there was no human interaction during the charging process. The charging 
+solutions tested by the project included different types of pantographs, plug-ins and wireless charging.  
+
+Some of the main results of the project were i) better understanding of the effects on battery ageing 
+and  lifetime  due  to  fast  charging,  ii)  effects  on  electric  grids  due  to  the  installation  of  high-power 
+chargers  (up  to  600  kW),  iii)  a  common  standard,  laying  out  the  guidelines  for  the  interoperable 
+operation of HD vehicles with chargers, iv) test results from interoperability, v) results from use cases 
+and demonstrations of the vehicles in cities, and vi) a simulation tool to complement all the above, 
+basically a virtual platform for anyone wanting to use the ASSURED solution. 
+
+CONVENIENT 
+
+Within  the  CONVENIENT  project  a  suite  of  innovative  energy-saving  solutions  were  developed  to 
+achieve a 30% reduction target regarding the fuel consumption of long-haul heavy duty trucks60. Three 
+major EU truck manufacturers (IVECO, VOLVO and DAF) built 3 trucks, together with 19 project partners 
+(research  and  suppliers).  The  aim  was  to  demonstrate  and  validate  the  fuel-saving  capabilities  of 
+technologies like: hybrid transmission, electrified auxiliaries, aerodynamics61, photovoltaic solar roof 
+for truck and semitrailer and more. 
+
+Current European projects  
+
+NextEtruck  
+
+The NextEtruck project aims to play a pioneering role in the decarbonisation of vehicle fleets, with the 
+focus on medium-duty trucks, and accelerating sustainable market replenishment, by bringing zero-
+electric medium freight haulage into practice. Some of the main objectives are: 10% improvement of 
+overall efficiency, efficient sizing of the components based on the use case by using a digital twin, fast 
+charging and fleet integration of the zero-emission trucks. 
+
+Again,  lowering  emissions  is  one  of  the  main  reasons  for  this  project.  Medium-duty  trucks  are 
+responsible for about 25% of transport industry emissions and in Europe a fleet of 1.1 million medium-
+duty trucks is present. So changing this segment of vehicles to zero-emission can have a substantial 
+impact on emissions. 
+
+pilot 
+
+Three 
+cities: 
+Istanbul (Turkey), Utrecht (Netherlands), and Barcelona (Spain). Two electric trucks (built by TVV and 
+Ford OTOSAN) and one electric refuse truck (build by IRIZAR) will be demonstrated. The DC chargers 
+
+sites  will 
+
+developed 
+
+project, 
+
+three 
+
+the 
+
+be 
+
+in 
+
+in 
+
+59 https://cordis.europa.eu/project/id/769850 
+60 https://cordis.europa.eu/project/id/312314/reporting 
+61 https://www.2zeroemission.eu/wp-content/uploads/2018/02/04-CONVENIENT-IVECO.pdf  
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       31 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+will  be  provided  by  JEMA  and  ABB  (Panion).  Overall  a  driving  range  of  at  least  200  km  will  be 
+demonstrated. 
+
+The refuse truck will be demonstrated in Barcelona. Electric vehicles can help to protect the historic 
+city centre. The impact on noise will be assessed. 
+
+In  Istanbul,  a  truck  from  Ford  OTOSAN  will  be  demonstrated  for  six  months on  urban  and  intercity 
+roads. The pilot will address, among other things, tailored eco-routing strategies with real-time mission, 
+load and charging planning.  
+The last demonstration will be done in Utrecht. From 2025 Utrecht will have a Low Emission Zone and 
+only  zero-emission  trucks  will  be  allowed  to  enter  the  city  to  deliver  goods.  Therefore,  the 
+demonstration will give insights in how it can be done 
+
+The project is ongoing and the demonstrations will start in 2025.    
+
+H2Accelerate  
+
+H2Accelerate is a Horizon2020 project that aims to deploy hydrogen trucks with fuel cell technology 
+and the related fuelling infrastructure  at large scale in Europe62.  The consortium exists of hydrogen 
+infrastructure players (Linde, OMV, Shell and Total Energies) and truck manufacturers (Daimler truck, 
+IVECO and VOLVO). The first phase will be the deployment of 150 trucks in Europe and more than 20 
+high capacity HRS. The roll-out will be done at carefully selected locations and clusters.  The second 
+phase will focus on the coverage of the major European corridors, reaching volume manufacturing of 
+more than thousand trucks yearly. 
+
+Projects selected under HORIZON-CL5-2022-D5-01-08   
+Modular multi-powertrain zero-emission systems for HDV (BEV and FCEV) for efficient and economic 
+operation (2ZERO) 
+
+Three  projects  were  selected  under  this  call:  ESCALATE,  EMPOWER  and  ZEFES.  They  all  focus  on 
+technical  objectives  like  scalable,  modular  powertrains,  improved  efficiency  of  the  energy/thermal 
+management, a load capacity of not less than 90%, improved fuel cell operations… In combination with 
+the  development  of  tools  to  integrate  the  ZERO-EMISSION  TRUCKS  in  existing  fleet,  digital  twin 
+development and scenarios to achieve price reduction resulting from economies of scale. All projects 
+are part of the AEVETO cluster. The project call can be found online63.  
+
+ESCALATE  
+
+The ESCALATE project aims to demonstrate zero-emission long-haul applications with a driving range 
+of more than 800 km without refuelling or recharging. A daily operation that covers at least 500 km is 
+targeted64.  
+
+The three targeted innovation areas are:  
+
+▪ 
+
+Standardized well-designed, cost effective modular and scalable multi-powertrain 
+components; 
+
+62 https://h2accelerate.eu/ 
+
+63 https://cordis.europa.eu/programme/id/HORIZON_HORIZON-CL5-2022-D5-01-08/en 
+
+64 https://www.escalate-eu.com/ 
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       32 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+Fast Fuelling & Grid-friendly charging solutions; and 
+
+▪ 
+▪  Digital Twin (DT) & AI-based management tools considering capacity, availability, speed, and 
+
+nature of the charging infrastructures as well as the fleet structures 
+
+The ultimate goals is to develop a business model for three types of zero-emission trucks with 
+innovative modular building blocks. 
+
+Five pilots, five digital twins and five TCO case studies will be conducted during the project. Special 
+attention will be given to the environmental impact via the project TranSensusLCA. The pilots will 
+demonstrate regional and cross-border logistics during a 24 month demonstration under real-world 
+conditions and more than 500 000 km will be driven. 
+
+The project will also showcase 3 pioneering infrastructure pilots: a mobile HRS, a green-fix multi-fuel 
+station and a 1 MW fast charger65. 
+
+EMPOWER 
+
+The objective of the EMPOWER project is to deliver two modular zero-emission trucks, with a GVW of 
+at least 40 tons for the truck-trailer combinations66. Two demonstrations will be done with a FCE-HDV 
+(range  of  750  km  unfuelled)  and  BE-HDV  (400  km  uncharged)  from  IVECO.  The  vehicles  will  be 
+demonstrated in 5 long-haul and regional distribution use-cases, including cross-border corridors.  
+
+Other innovations will be a highly reliable fuel cell system, optimised thermal and energy management, 
+digital twin models of the demonstrations, fleet management systems and optimised routing. 
+
+ZEFES  
+
+During ZEFES 9 long-haul truck configuration (3 BEV and 6 FCEV) will be deployed in various use cases 
+covering  important  TEN-T  corridors  in  Europe67.  In  addition,  innovations  in  trailers  and  megawatt 
+charging systems will be demonstrated. The demonstrations also include multi-modal, cross-border use 
+cases  and  in  total  more  than  2  million  kilometres  will  be  driven.  The  vehicle  combinations  will  be 
+demonstrated in 15 use case, for at least 6 months per use case. Daily routes up to 1300 km will be 
+showcased together with a digital twin and fleet integration tools. A description of all the use cases and 
+the truck trailer combinations can be found on the project website68. The uses cases will be done from 
+the  north  of  Europe,  to  the  south.  In  Sweden/Norway  a  VOLVO  hydrogen  fuel  cell  truck  will  be 
+demonstrated,  to  check  if  fuel  cell  technology  is  less  restricted  than  battery  technology  in  a  cold 
+environment. The other hydrogen trucks will be demonstrated in the Alpine region and in an use case 
+in Spain where the technology will be directly compared to battery electric. We expect that in Spain, 
+both technologies will be pushed to their limits. Since both technologies will be pushed to their limits 
+in warm weather conditions (cooling of batteries and lower gas density at higher temperatures). 
+
+65 https://www.etp-logistics.eu/wp-content/uploads/2023/05/1-ESCALATE-Transport-and-Logistic-Fair-11-May-2023.pdf 
+
+66 https://www.ait.ac.at/en/news-events/single-view/detail/7610?cHash=36ff38b1736d0e1e681f20646748f2eb 
+
+67 https://zefes.eu/ 
+68 https://zefes.eu/wp-content/uploads/sites/9/2023/06/ZEFES_D1.2-NeedsRequirements_PUB_FINAL_website_.pdf 
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       33 
+
+ 
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+3.4  Market practices: emission reporting  
+
+Currently, in the market there are two important standards that have been produced, relevant to the 
+logistics sector. The ISO 14083:2022 “Greenhouse gases — Quantification and reporting of greenhouse 
+gas  emissions  arising  from  transport chain  operations”  provides  a  general  framework  for  emissions 
+calculations. Since it was only launched March 2023, much of the industry is ‘practically’ only using the 
+industry standard GLEC Framework (2019) “Global Logistics Emissions Council Framework for Logistics 
+Emissions  Accounting  and  Reporting.  Version  2.0”,  although  there  are  not  significant  differences 
+between both standards. The second important formal standard that is the upcoming EN 17837:2023 
+“Postal  Services  -  Parcel  Delivery  Environmental  Footprint  -  Methodology  for  calculation  and 
+declaration of GHG emissions and air pollutants of parcel logistics delivery services”69, which can be 
+understood as the application of the ISO 14083 to the distribution of goods in a parcel delivery service, 
+“namely the collection and delivery rounds, the trunking and the operations due to processing and the 
+physical handling of parcels”.  
+
+Both  of  these  standards  are  currently  not  mandatory  to  be  adopted  in  internal  calculation  or  for 
+reporting purposes. The are aligned with the GHG Protocol, which is in turn used in the industry for 
+sustainability reporting, submission to Science Based Targets, or Carbon Disclosure Project. However, 
+the CountEmissionsEU proposal has adopted the CEN ISO 14083 (which is the ISO 14083 transposed to 
+the  European  Committee  for  Standardization)  as  the  standard  to  be  used  for  transport  emissions 
+calculations  for  the  instances  applicable  under  the  proposed  legislation.  The  applicability  of  the 
+proposed legislation is under a “binding opt-in” system, i.e., only for those that calculate and disclose 
+GHG emissions data of transport services. In other words, if the data is not disclosed, the company does 
+not need to use this. Other aspects have been included in the proposal, including management and 
+verification of fuel emission factor and emission intensity data by the European Environment Agency 
+(EEA), as well as other rules on communication and transparency, the use of certified calculation tools 
+and the assurance  scheme. The  legislation strengthens the impact that the ISO 14083 standard can 
+bring  to  the  industry  and  climate  change  goals  by  enforcing  the  uniformity  and  increasing  the 
+trustworthiness of the emissions disclosure. Other regulations that are soon to be passed or come into 
+effect that may use this framework are the Corporate Sustainability Reporting Directive (CSRD), the SEC 
+proposal for scope 3 emissions, and the Streamlined Energy and Carbon Reporting (SECR), and even 
+proposals  for  Unfair  Commercial  Practices  Directive  (UCPD).  This  is  to  increase  the  prominence  of 
+climate impact and risks in the financial sector, as well as to reduce greenwashing practices. This could 
+see a large number of organizations being required to use the calculation framework to fulfill different 
+legislative requirements in the coming years. For instance, the expected number of companies that the 
+CSRD will initially apply to are 49,000 large or listed companies in the EU70. SMEs will also eventually 
+fall  under  CSRD  requirements.  While only  some  of  the  companies will  be  required  to  disclose  their 
+freight  transport  emissions,  this  will  nevertheless  be  a  significant  increase  in organizations  that  will 
+apply the calculation framework. 
+
+It  is  important  to  note  that  just  like  the  standard  for  the  parcel  sector,  different  sectors,  whether 
+differentiated  by  transport  or  economic  activity  have  found  the  need  to  develop  supplementary 
+guidance (or industry standards) specific to their use case. These methodologies are aligned with the 
+GLEC Framework. Some examples include the Clean Cargo methods71, Calculating GHG transport and 
+
+69 https://standards.iteh.ai/catalog/standards/cen/1ecb279f-4529-486b-9342-fb4d463ee666/pren-17837 
+70 https://www.bsr.org/en/blog/what-business-needs-to-know-eu-corporate-sustainability-reporting-directive 
+71 https://www.smartfreightcentre.org/en/skills/library/clean-cargo-emissions-calculation-method/ 
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       34 
+
+ 
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+logistics  emissions  for  the  European  Chemical  Industry72,  and  Ro-Ro  GHG  Emissions  Accounting 
+Guidance73.  These  are  voluntarily  adopted  within  a  certain  sector  as  pushed  by  the  relevant  trade 
+association. The bodies that regulate and are very influential in the aviation and maritime sector are 
+also adopting calculation methods that align well with the GLEC Framework. These are global initiatives 
+that have the potential to expand the scope of application around the world. 
+
+Another trend in this space is the need for a standardized emissions accounting system to enable an 
+emerging  lever of  transport  decarbonization,  that  is the  book-and-claim  of  low  emissions  transport 
+solutions. The idea behind this is that a company would like to pay for the right to claim lower emissions 
+in their emissions disclosures than is actually carried out within their transport chain, especially that 
+which  falls  under  their  Scope  3  operations.  Depending  on  the  type  of  system,  the  lower  emissions 
+profile  could  be  taken  from  a  fuel  provider  or  a  carrier  carrying  out  the  low  emission  transport 
+operation. In each case, the emissions profile associated with the fuel or operation is separated from 
+the actual physical fuel or operations, and is sold to a buyer. This is an emerging practice,  which is 
+offered by a couple of carriers and fuel suppliers.  
+
+3rd party marketplaces and tools to support this type of transaction, typically called carbon insets, are 
+cropping  up  and  provide  services  to  verify  and  book  the  claims  (e.g.  CarbonLeap  and  123Carbon). 
+However, to enable a transparent transaction, i.e., to avoid double counting, and to provide an accurate 
+estimation of the amount of low emission transport ‘credits’ that can be claimed, a fair and transparent 
+emissions calculation framework will need to be adopted by all parties involved. These typically would 
+follow the calculation methods used in the GLEC Framework. 
+
+While the ISO 14083 standard has been released, there has been movement to also ensure that other 
+countries  and  continents  are  enabled  to  use  them.  SFC  China  will  be  launching  a  GLEC  Framework 
+specifically for implementation in China. Similar initiatives are being launched by SFC in India and East 
+Africa.  While  the  groundwork  of  defining  energy  emission  factors  and  emission  intensities  that 
+represent the region’s transport operations still needs to be done, what is hopeful is that the awareness 
+of the importance of carrying this out is growing globally.  
+
+https://cefic.org/media-corner/newsroom/updated-guidance-available-to-support-the-chemical-sector-further-reduce-
+
+72 
+its-environmental-impact-of-freight-transportation/ 
+73 
+ecg-publish-the-first-ever-methodology-harmonizing-emissions-accounting-in-the-ro-ro-segment/ 
+
+https://www.smartfreightcentre.org/en/about-sfc/news/driving-decarbonization-in-shipping-smart-freight-centre-and-
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       35 
+
+ 
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+A book and claim chain of custody model (Smart Freight Centre, 2023) 
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       36 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+Table 4 Summary of market status 
+
+Current 
+
+Short term 
+
+Medium to long term 
+
+ISO14083,  GLEC  v2  (voluntary 
+for sustainability reporting and 
+target setting.)  
+
+proposal 
+CountEmissionsEU 
+adopts CEN ISO 14083 (binding 
+opt-in) 
+
+Other  regulations  CSRD,  SEC 
+Scope 3 emission, SECR, UCPD 
+likely to adopt.  
+
+EN 17837 launched end 2023. 
+
+CSRD:  now 
+companies --> SMEs 
+
+large/listed  EU 
+
+More sectoral guidance as driven by industry.  
+
+Regional guidance driven by different markets (China, India, East 
+Africa). 
+
+Book and Claim framework adoption (uncertain) 
+
+Sectoral guidance and defaults 
+aligned  with  standards  (Clean 
+Cargo 
+GHG 
+methods, 
+emissions  calculations  for  the 
+European  Chemical  Industry, 
+and  Ro-Ro  GHG  Emissions 
+Accounting Guidance) 
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       37 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+4  Projects to improve Efficient and Zero-emission logistics  
+
+4.1 
+
+Identification and selection of relevant R&I projects  
+
+The selection of projects was performed within a three-step project mapping (see Figure 3). The aim of 
+this exercise was to identify those R&I projects that shall be incorporated into the subsequent work 
+steps of this Cloud Report. In practical terms, the almost 300 projects of the overall R&I project list were 
+filtered according to following criteria: 
+
+•  Step  1  (initial  mapping):  the  titles  and  other  entries  of  the  project  list  were  screened  for 
+logistics“, 
+relevant  keywords  and  classifications,  such  as  “zero-emission“,  “efficient 
+“aerodynamics“, “transport emissions“ or “load efficiency“. Additionally, the summaries of the 
+projects  were  checked  for  these  keywords.  In  total,  16  projects  have  been  identified  to  be 
+tackled within the next step. Sources used were CORDIS, TRIMIS and the project’s website, if 
+still existing. 
+
+•  Step  2  (relevance  mapping):  all  projects  of  the  R&I  project  list  had  received  a  relevance 
+assessment  (“high”,  “medium”,  “low”),  referring  to  the  general  significance  for  the  Cloud 
+Reports. Basically, only projects with “high” relevance were further considered. After this work 
+step, 11 projects remained. 
+
+•  Step 3 (content mapping): in the final step, the content of the 8 projects was analysed in detail. 
+
+More specifically, the project documentations were checked regarding 
+
+o  Compliance with the identified action areas and expected impacts (see Table 1); 
+o  Consideration  in  one  of  the  other  Cloud  Reports.  Generally,  this  was  no  exclusion 
+criterion; however, it should be ensured that the projects were properly allocated to 
+the Cloud Reports according to their content focus 
+
+As a result, the mapping exercise led to the identification of 8 projects relevant for this Cloud Report 
+(see Table 5). The characteristics of efficient transport also imply a high likeliness of overlapping with 
+projects  and  specific  outcomes  tackled  by  other  Cloud  Reports  (Urban  mobility,  Physical  internet, 
+logistics networks…). Also, the strict scope of this Cloud Report led a lower number of selected projects, 
+since only project with demonstration are selected. In addition, project on zero-emission trucks are just 
+starting  and  are  therefore  not  selected.  Therefore,  the  low  number  of  identified  projects  is 
+understandable and plausible.  
+
+4.2  Overview on the selected projects 
+
+A visualisation of the projects is given in Figure 7. Three projects of the 7th European Framework were 
+selected, two on efficient and zero-emission transport and one on emission reporting. UDRIVE focus on 
+naturalistic  driving  behaviour,  which  can  be  used  as  an  input  for  eco-driving.  TRANSFORMERS 
+demonstrated trailer  innovations, for both loading efficiency and electric drive train.  In COFRET  the 
+GLEC  framework  (methodology  to  calculate  the  greenhouse  gas  emissions  from  freight  transport 
+activity) was developed. 
+
+Five projects of Horizon 2020 were selected, four on efficient and zero-emission transport and one on 
+emission reporting. AEROFLEX is the successor of TRANSFORMERS and focussed on the efficiency gains 
+by aerodynamic adaptations. ENSEMBLE demonstrated multibrand platooning and Modales focussed 
+on eco-driving. H2Haul is the only selected project that is still ongoing. It will demonstrate 16 fuel cell 
+electric trucks at the related fuelling infrastructure. LEARN is the successor of COFRET and wanted to 
+test  the  GLEC  framework  in  real  life  and  elevate  it  from  an  industry  standard  to  an  international 
+standard. 
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       38 
+
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+More detailed project descriptions can be found in Section 4.4. 
+
+Table 5: Overview of the selected projects, the related program, coordinator and period. 
+
+Acronym 
+
+UDRIVE 
+
+Name on CORDIS web page 
+
+Program 
+
+Coordinator 
+
+Period 
+
+eUropean naturalistic Driving and Riding for 
+Infrastructure  &  Vehicle 
+safety  and 
+Environment 
+
+FP7-SST-2012-
+RTD-1 
+
+STICHTING 
+ONDERZOEK 
+(SWOV) 
+
+WETENSCHAPPELIJK 
+VERKEERSVEILIGHEID 
+
+10/2012-
+06/2017 
+
+TRANSFORMERS 
+
+Configurable  and  Adaptable  Trucks  and 
+Trailers for Optimal Transport Efficiency 
+
+FP7-SST-2013-
+RTD-1 
+
+VOLVO TECHNOLOGY AB 
+
+AEROFLEX 
+
+ENSEMBLE 
+
+Aerodynamic  and  Flexible  Trucks  for  Next 
+Generation of Long Distance Road Transport 
+
+H2020-GV-2017   MAN TRUCK & BUS SE 
+
+ENabling  SafE  Multi-Brand  pLatooning  for 
+Europe 
+
+H2020-ART-
+2016-2017 
+
+NEDERLANDSE  ORGANISATIE  VOOR 
+TOEGEPAST 
+NATUURWETENSCHAPPELIJK 
+ONDERZOEK (TNO) 
+
+ROAD 
+
+TRANSPORT 
+EUROPEAN 
+IMPLEMENTATION 
+TELEMATICS 
+COORDINATION  ORGANISATION 
+- 
+INTELLIGENT  TRANSPORT  SYSTEMS  & 
+SERVICES EUROPE 
+
+ELEMENT ENERGY LIMITED 
+
+09/2013-
+08/2017 
+
+10/2017-
+09/2021 
+
+06/2018-
+03/2022 
+
+09/2019-
+05/2023 
+
+02/2019-
+01/2024 
+
+MODALES 
+
+MOdify  Drivers’  behaviour  to  Adapt  for 
+Lower EmissionS 
+
+H2020-MG-
+2018-2019-2020 
+
+H2Haul 
+
+Hydrogen  fuel  cell  trucks  for  heavy-duty, 
+zero emission logistics 
+
+H2020-JTI-FCH-
+2018-1 
+
+COFRET 
+
+Carbon footprint of freight transport 
+
+FP7-SST-2010-
+RTD-1 
+
+DEUTSCHES  ZENTRUM  FUR  LUFT- 
+UND RAUMFAHRT EV (DLR) 
+
+06/2011-
+11/2014 
+
+LEARN 
+
+Logistics 
+Emission 
+Reduction Network 
+
+Accounting 
+
+and 
+
+H2020-MG-
+2016-2017 
+
+STICHTING  SMART  FREIGHT  CENTRE 
+(SFC) 
+
+10/2016-
+03/2019 
+
+Eight  projects  were  selected,  6  regarding  Efficient  and  zero-emission 
+freight transport and 2 regarding emission reporting. 
+
+Project results and outcomes must of course also be mirrored against the received funding, since this 
+consists of public money. In this respect, (R&I) projects are obliged to return adequate benefits to the 
+society  that  feeds  them.  The  8  selected  projects  consumed  more  than  63  million  EUR  of  funding 
+altogether.  
+
+In a next step, the organisations with the highest level of involvement in the selected 8 projects were 
+identified.  The  main  criteria  were  frequency  of  participation  in  the  projects  as  well  as  their  role  as 
+provider  of  substantial  results  or  as  a  project  coordinator.  These  organisations  are  important  for 
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       39 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+understanding and monitoring projects’ outcomes as well as the implementation cases derived from 
+them. Specifically, they form the basis for the selection of the interview partners. As Figure 8 visualises, 
+12 organisations were revealed as particularly involved in European research projects in the area of 
+‘Monitoring and implementing Efficient and zero-emission freight transport’. Most of them are truck 
+or trailer manufacturers, research institutes or associations. 
+
+We  want  to  stress  out  that  many  more  project  partners  contribute  to  the  project  results.  The 
+implementation  of  innovations  in  logistics  is  difficult,  since  the  whole  value  chain  (shipper,  carrier, 
+OEMs, suppliers, authorities, infrastructure…) is strongly interlinked. Innovations by one stakeholder 
+group affects the other. One example for this is the transition to zero-emission trucks. To achieve this, 
+all stakeholders will need to adjust their operations profoundly and it can only be a success when the 
+stakeholders communicate and work together. 
+
+It was identified that projects benefit from a strong advisory board/stakeholder group with members 
+from the full logistics value chain. We therefore want to address that mapping only funded partners, 
+does  not  give  a  complete  picture  of  the  stakeholders  that  contributed  to  the  project.  Unfunded 
+stakeholder group members should get recognition for their contributions to R&I project. 
+
+Especially,  truck  end-users  (carriers)  and  shippers  are  underrepresented  as  partner  in  the  assessed, 
+finished R&I projects. In all finished project, P&G was the only funded shipper. Luckily, we see a change 
+in the newly started projects, were shippers and truck end-users are funded partners. 
+
+  Overview of the main stakeholder groups in European R&I projects and the involved 
+companies. We want to stress the importance of strong advisory boards or stakeholder 
+group involvement. Unfunded partners can impact the project significantly and their 
+contribution should be acknowledged more. 
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       40 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+4.3  Expected impacts of the selected projects 
+
+In the Table 6 the expected impacts for Table 6 are repeated together with related KPIs and the projects 
+who worked on the topic. 
+
+Table 6 Expected impacts of the selected projects 
+
+Expected impacts  
+
+KPIs 
+
+Decreased  environmental  impact  (including,  reduction of 
+noise) 
+
+GHG emissions/Unit of transport 
+
+Energy consumption/Unit of transport 
+
+Improved capacity utilisation of barge, train and truck 
+
+Increase the load capacity of trailers 
+
+Decreased cost of transport & overall logistics 
+
+Decrease the fuel consumption 
+
+Projects 
+
+TRANSFORMERS, 
+AEROFLEX, H2Haul 
+
+TRANSFORMERS, 
+AEROFLEX 
+
+TRANSFORMERS, 
+AEROFLEX, 
+Modales 
+
+UDRIVE, 
+
+Improve energy consumption 
+
+Less driver costs 
+
+ENSEMBLE 
+
+Electrify the drive train 
+
+Regenerative technology 
+
+TRANSFORMERS, 
+AEROFLEX 
+
+Increase transport efficiency 
+
+Compatibility  with  high  capacity  vehicles 
+and other transport modes 
+
+TRANSFORMERS, 
+AEROFLEX, ENSEMBLE 
+
+Data quality and communication 
+
+Connected, cooperative vehicles,  
+
+ENSEMBLE 
+
+V2X, infrastructure 
+
+H2Haul 
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       41 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+4.4  Description of the selected projects 
+
+UDRIVE 
+
+The UDRIVE project aimed to increase the understanding of road user behaviour by systematically studying 
+road user behaviour in real-life conditions. The project was funded by FP7, between 2012 and 2017, with a 
+consortium consisting of 19 partners, representing a good balance between different EU regions, and between 
+expertise  in  the  various  research  areas.  UDRIVE  focused  on  two  aspects:  the  identification  of  relevant 
+measures  to  improve  road  safety, and  on  the  identification of  promising  approaches  for  reducing  harmful 
+emissions and fuel consumption to make road traffic more sustainable. The project conducted a large-scale 
+naturalistic driving study, with participants using their own vehicles, allowing them to drive their cars, trucks 
+and scooters naturally. The project used a specially designed data acquisition system connected to seven or 
+eight  unobtrusive  cameras  installed  throughout  the  vehicle.  Each  vehicle  was  also  equipped  with  a  smart 
+camera capable of automatically identifying nearby objects, such as cars, trucks and pedestrians. 
+
+UDRIVE generated several types of results including technical developments, the UDRIVE database and new 
+behavioural  insights.  The  results  relevant  to  the  cloud  report  were  mainly  related  to  eco-driving  with  the 
+analysis showcasing velocity distributions across drivers and speed limits, the effect of driving styles on eco-
+driving  and  the  potential  effects  of  eco-driving.  One  of  the  insights  was  that  the  analysis  reinforced  the 
+conclusion that energy is being wasted by drivers in the approach to and passage through curves by lack of 
+anticipation of the need to slow down and therefore by over-harsh deceleration. Behaviours regarding gear-
+changing,  braking  and  speed  choice  were  especially  relevant  as  drivers  showed  large  variations  in  those 
+behaviours  with  associated  substantial  variations  in  CO2  emissions.  Recommendations  for  new  measures 
+include enforcement of speed limits with the aim to reduce energy use, regulating the use of in-vehicle systems 
+that  contribute  to eco-driving,  further  awareness  campaigns  promoting the  use  of vehicles  with  gear  shift 
+indicators and automatic engine shutdown systems, promoting driving in the highest gear, and giving feedback 
+to drivers about their eco-driving ‘scores’. Another category of measures is the design of road infrastructure 
+that supports eco-driving (e.g., grade-separated intersections, improved network design, improved traffic light 
+algorithms including communication with vehicles). Traffic management strategies can be adapted to achieve 
+smoother  driving  (less  stop-and-go  traffic).  And  in  the  longer  term,  automation  of  the  driving  task  offers 
+possibilities for programming the vehicles to drive eco-friendly. 
+
+TRANSFORMERS 
+
+Within the TRANSFORMERS project the aim was to reduce the energy consumption with 25% per tonne.km 
+goods transported in real world scenarios, to achieve this, the project assessed four innovations: 
+
+a trailer designed for increased load capacity 
+
+- 
+-  mission planning and adaptation to allow an optimised journey for each vehicle combination 
+- 
+- 
+
+a vehicle that can transform to achieve improved aerodynamics based on the mission 
+‘Hybrid-on-Demand’ (HoD) electric driveline 
+
+In total 13 project partners have worked together to apply a holistic view on aerodynamics improvements of 
+the  tractor-trailer  combination.  Since  a  trailer  is  not  always  filled  to  the  brim  with  goods  (mass  limited 
+missions, goods that  cannot  be  stacked…), a trailer could change shape  and alter the volume available for 
+payload without compromising its loading efficiency. The trailer changes include curved front bulk head, side 
+skirts, boat tail and 4-segments lowerable roof (See figure 9).  
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       42 
+
+ 
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+The adjustments in trailer design implemented the TRANSFORMER 
+
+project 
+
+The demonstrator test results showed that the Hybrid-on-Demand system could result in a fuel consumption 
+(%/ton∙km)  reduction  of  3  to  5%,  and  even  more  in  urban  heavy  traffic  and  steep  elevation  changes.  The 
+aerodynamic features could result in a 14% drag reduction (at 90km/h constant speed), which relate to fuel 
+reduction of 8%. During the product a reduction of 6.5% was demonstrated, without optimised side skirts and 
+bulkhead, so the 8% should be feasible.  The improvements in loading efficiency can have the biggest impact. 
+The use of a double floor, could lead to 10 extra pallets  increase, which with the project assumption of an 
+original cargo payload of 15 tonnes, leads to an energy use reduction up to 17% per t.km.  
+When all TRANSFORMERS innovations are combined, a reduction in energy use per t.km of goods transported 
+of more than 25% can be achieved for almost all mission profiles at average payload (15t). 
+
+AEROFLEX 
+
+The goal of AEROFLEX was to optimize future freight transport and multimodal transport chains, to lower the 
+emissions an increase the transport efficiency74. Therefore flexible and adaptable vehicles and loading unites 
+with optimized aerodynamics were developed. Together with a ‘hybrid’ power  train (ICE engine and electrified 
+powertrain in trailer).  In addition, intelligent access policies, efficient use of road infrastructure  and safety 
+systems were investigated. 
+
+The main objectives were: 
+
+improved safety, comfort, cost efficiency and multimodal transport   
+
+-  Characterize the European freight transport market for 2040  
+-  develop new concepts and technologies resulting in adaptable trucks with a reduced drag,   
+- 
+-  demonstrate potential of truck aerodynamics and energy management improvements   
+- 
+-  drafting of recommendations for revising standards and legislative frameworks to allow the new 
+
+associated impact assessments   
+
+aerodynamic and flexible vehicle concepts on the road   
+achieve an efficiency improvement up to 33 % in long haulage road transport. 
+
+- 
+
+74 https://aeroflex-project.eu/ 
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       43 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+The outcomes of the project were: i) the result of the future market study, ii) the demonstration of two EMS 
+combinations,  of  which  one  is  focussing  on  efficiency  improvement  (advanced  energy  management 
+powertrain, AEMPT) and the other on aerodynamic improvements (aerodynamic features for the complete 
+vehicle (AFCV), iii) an electric, remote controlled dolly, iv) demonstration of multimodal.   
+
+The project consisted out of two demonstrators, both EMS combinations. The first combination was a EMS 1 
+(60t) combination, a 6x2 rigid truck combined with a e-dolly (Smart Power Dolly) (and a semitrailer (originally 
+developed in the TRANSFORMERS project). The demonstrator vehicle and a reference vehicle were subject to 
+various on-road tests to demonstrate, validate and analyse the potential of the AEMPT concept to save fuel 
+and decrease CO2 emissions under real-world conditions. When the fuel consumption, expressed in both L/km 
+and L/t∙km, was compared between the EMS1 combination with and without AEMPT a significant fuel usage 
+reduction was found. The absolute value of the reduction was related to the use case, however reductions 
+between 2% and 10% were found on a L/km basis.  
+
+The second demonstrator was a EMS 2 combination, a 4x2 tractor-semitrailer –dolly – semitrailer (from the 
+TRANSFORMER  project).  This  combination  was  demonstrated  with  and  without  aerodynamic  features. 
+Simulations and wind tunnel tests showed that a reduction in drag of 17 to 27% could be expected.  
+
+Other  innovations  that  were  demonstrated  were  Smart  Loading  Units  (SLU),  smart  power  dolly  (remote 
+controlled) that can help manoeuvre EMS trailers. 
+
+The main conclusion for AEROFLEX was that EMS is a positive evolution for both the transport efficiency as 
+the for emission reduction. EMS is compatible with other transport modes. 
+
+ENSEMBLE 
+
+ENSEMBLE  demonstrated  ‘multi-brand’  platooning  to  improve  fuel  economy,  traffic  safety  and  transport 
+capacity. A platoon of seven trucks from different brands has been demonstrated under real life conditions, 
+across national borders. The project started in 2018 and lasted for 4 years. The main technical outcomes of 
+the project are collaborative AEBS system and the demonstration of multi-brand platooning.  The ENSEMBLE 
+project led to ISO/DIS 4272 Truck platooning systems (TPS).  
+
+In the first year of ENSEMBLE, acceptance criteria, a reference and the specifications were determined. During 
+the second and third year, the reference designs was implemented on the trucks and an impact assessment 
+was made for several criteria. Finally, in the last year, the multi-brand platoons were tested on a test track and 
+on international public roads. 
+
+Platoons are small truck convoys, that are partly automated. Commonly, the first truck has a driver, while the 
+other truck are driverless and follow the first truck (see figure 10). The potential of platooning can be huge, 
+since  around 14% of the total distance  driven by trucks could be part of a platoon. Nevertheless, highway 
+entrances and exits and inserting of another truck within in the platoon can impact and limit the applicability 
+of platooning. Platooning could have beneficial results on traffic flow, however there was no clear positive 
+impact found on fuel consumption and emissions and for other road users. 
+
+Overall, the investments related to make a truck platoon-ready was found to be less that 5k€ or less, and cost 
+savings where on average about 3% or more, indicating that there could be a market. However, due to an 
+inept road network configuration and a short life cycle of a commercial truck, the market uptake is almost 
+none. In addition, (international) regulation is missing for platoon service providers. 
+
+Platooning is a promising concept, nevertheless due to technical and regulatory limits it is not applied yet. The 
+further  development  and  integration  of  platooning  is  now  seen  as  a  part  of  Cooperative,  Connected  and 
+Automated Mobility (CCAM). 
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       44 
+
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+The multi-brand platoon with seven trucks demonstrated during the ENSEMBLE 
+project 
+
+MODALES 
+
+Modales was developed to substantially reduce air pollution from all types of on-road vehicles by encouraging 
+the adoption of low-emission driving behavior and proper maintenance choice. The project ran from 2019 to 
+2023  and  included  16  partners,  from  10  European  countries  and  2  international  partners,  representing 
+research institutes and universities, vehicle component manufacturers, ITS- and road transport sector, legal 
+and policy consultants etc.  
+
+ The aim of Modales was to: 
+(1) Understand the nature of driving behaviour with respect to vehicle emissions, by validating variables for 
+driver behaviour and their variability (e.g. speed, road condition etc),  
+(2)  Correlate  driving  behaviour  variability  with  real  powertrain,  brake  and  tyre  emissions,  by  developing 
+mathematical equations defining powertrain, brake and tyre emissions as a function of driving behaviour,  
+(3) Propose and validate real-time driver assistance smartphone app for low emission driving,  
+(4) Promote low-emission oriented driving via training courses and an awareness campaign 
+(5) Assess the real effectiveness of on-board diagnostics (OBD) and technical inspections and investigate the 
+legal situation of tampering in Europe, and  
+(6) Assess the potential impact of diesel retrofits.  
+
+Results from Modales that are relevant to the Cloud report topic are mainly connected to gaining knowledge 
+on eco-driving, and training drivers to drive more eco-friendly.  
+
+COFRET 
+
+The aim of COFRET was to develop methodologies and tools to calculate the greenhouse gas emissions from 
+freight transport activity. One of the main objectives was to ensure that the methods would be used by the 
+industry,  hence  during  the  grant  agreement  stage,  after  the  project  was  formally  awarded  the  grant,  the 
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       45 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+Project  Officer  (PO)  from  DG  MOVE,  requested  that  an  Industry  Advisory  Board  (IAB)  be  included  and 
+integrated into the project.  
+
+An important outcome of including the IAB in the project was that early in the project, after the work package 
+that reviewed the state-of-the-practice, the IAB requested that the scope of the project be changed. The main 
+reason was that the IAB identified the real implementation barrier was the lack of standardisation of in the 
+market. The different methods and tools, such as Smartway, from ADEME, and the European EN 16258, were 
+used for different reasons by different actors. One single standard that harmonized the different approaches 
+was needed, rather than an additional method and tool.  
+
+After  negotiation  between  the  partners,  the  IAB  and  the  PO,  the  scope  of  COFRET  was  changed  towards 
+standardising the methodology for calculating GHG emissions in freight transport.  
+
+The main results, the COFRET methodology, led to what is now commonly referred to as the GLEC Framework, 
+which is the harmonized methodology for calculating emissions from freight transport chain.  
+
+Project Deliverables: 
+
+•  Existing methods and tools for calculation of carbon footprint of transport and logistics, Deliverable D 
+2.1, COFRET project (Carbon Footprint of Freight Transport), Auvinen, H., Mäkelä, K., Lischke, A., 
+Burmeister, A., de Ree, D., Ton, J., 2011 
+
+•  Methodologies for emission calculations — Best practices, implications and future needs, Deliverable D 
+2.4, COFRET project (Carbon Footprint of Freight Transport), Auvinen, H., Mäkelä, K., Gjerde Johansen, 
+B., Ruesch, M., 2012 
+
+•  Assessment and typology of existing CO2 calculation tools and methodologies, Deliverable D 3.1, COFRET 
+project (Carbon Footprint of Freight Transport), de Ree, D., Ton, J., Davydenko, I., Chen, M., Kiel, J., 
+Auvinen, H., Mäkelä, K., 2012 
+
+•  Gap analysis, Deliverable D 3.2, COFRET project (Carbon Footprint of Freight Transport), Kiel, J., Auvinen, 
+
+H., Bohne, S., Davydenko, I., Diekmann, D., Krietsch, F., 2014 
+
+•  Suggestions and recommendations towards global harmonisation of carbon footprint calculation 
+
+principles and comparable reporting, Deliverable D 3.3, COFRET project (Carbon Footprint of Freight 
+Transport), Davydenko, I., Tavasszy, L., Ehrler, V., Lewis, A., 2014 
+
+For further exploitation, the International Workshop Agreement75 proposing the harmonized methodology 
+was also issued.  
+
+At the  last months of the COFRET  project  the Smart Freight  Centre (SFC)  was founded by Sophie Punte in 
+Amsterdam.  The  aim  of  the  organization  was  to  establish  an  organization  focused  on  reducing  freight 
+emissions  at  a  global  level,  in  collaboration  with  more  regional  or  national  green  freight  programs.    The 
+coordinator  and  several  leading  partners  of  the  COFRET  consortium,  and  the  IAB  together  with  the  PO 
+discussed the possibility of using SFC in its post-project exploitation, namely by housing the GLEC methodology 
+and the IAB. When this happened, SFC took on the role of promoting the GLEC methodology and developing 
+it further, while the COFRET IAB became the founding members of the GLEC Advisory Council  – composed 
+entirely of members in the logistics industry.  
+
+The end of COFRET marked the start of the global standardization of freight transport emissions calculation 
+led by the Smart Freight Centre. With this new aim and the GLEC Framework, the next test was carried out in 
+the LEARN project.  
+
+75 International Organization for Standardization. International Harmonized Method(s) for a Coherent Quantification of CO2 Emissions 
+of Freight Transport. (2015). (https://www.iso.org/obp/ui/#iso:std:iso:iwa:16:ed-1:v1:en) 
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       46 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+LEARN 
+
+While the COFRET had a strong research purpose, that is to create the harmonized methodology, the LEARN 
+had a socialization purpose.  
+
+The  industry  needed  to  see  the  credibility  of  the  GLEC  Framework  in  order  to  be  widely  accepted.  The 
+European Commission needed to emphasized the legitimacy of the standard in order to cement its position in 
+legislation.  
+
+Thus, the two main objectives were as follows: 
+
+1.  Test the methodology in real-world situations together with the industry.  
+2.  Elevate the GLEC Framework from an industry standard to an international standard, namely an ISO 
+
+standard. 
+
+The project was a Community Support Action. The main actions were engagement with the key stakeholders 
+who were calculating emissions in freight transport, and to carry out pilots of the GLEC Framework in real-
+world situations. Besides industry actors, the project reached out to other programs, which had developed 
+their own approach, which at the time were primarily Green Freight Programs. Some examples, were ADEME 
+(France), Smartways (US), Ecostars and the Low Emission Reduction Scheme (UK), Lean and Green (NL) and 
+Clean Cargo (BSR).  
+
+To expand the reach in Europe, the consortium worked closely with ALICE ETP-LOGISTICS.  
+
+In  addition,  the  consortium  prepared  the  way  for  engagement  with  the  ISO  Committee,  by  preparing  a 
+proposal for the ISO 14083. Andrea Schoen from DB Schenker, supported by Verena Ehrler (DLR) and Alan 
+Lewis (SFC) led the proposal to the ISO Committee, which showed the industry support to the initiative. The 
+funding for Alan Lewis to eventually become project manager for the ISO Working Group was crowdfunded 
+from the industry partners.  
+
+Some of the results and outcomes of the project include 
+
+•  GLEC Framework v2 
+•  Roadmap towards Zero-emission logistics 
+•  Start of the ISO 14083 process 
+•  The LEARN final conference provided  
+
+The  project  provided  SFC  with  more  legitimacy  as  a  non-profit  organization  to  advocate  the  harmonized 
+emissions calculation to the industry, including the resources to provide and expand its technical competence 
+and services.  
+
+H2Haul 
+
+The H2Haul project wants to validate the ability of FCE-HDV to provide zero-emission mobility for heavy-duty 
+applications and will lay the foundations for the commercialisation of FCE-HDV76. 
+The  H2Haul  project  aims  at  developing  and  deploying  16  FCE-HDV.  The  vehicles  will  be  deployed  in  four 
+countries: Belgium, France, Germany and Switzerland. Two type of trucks will be demonstrated: 26 tonnes 
+rigid truck and 44 tons truck-trailer combination in a variety of use cases. 
+In addition, three hydrogen refuelling stations for trucks will be built within H2Haul. Air Liquide developed a 
+new high-capacity hydrogen refuelling station at a working pressure of 700 bar, the first of his kind in Europe.  
+Two other stations, in Belgium and Switzerland, were built with project support. The two HRS built in Germany 
+are subsidized by other programs. 
+
+76 https://www.h2haul.eu/ 
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       47 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+The first HRS at 700 bar designed for trucks is developed in the H2Haul project77. 
+
+At this moment, the 3 subsidized HRS are operational and the newly developed FCE-HDV will be demonstrated 
+from  the  end  of  2023.  Currently  the  stations  are  providing  hydrogen  to  vehicles  developed  in  other  R&I 
+projects, like Waterstofregio2.0 and HyAMMED78.     
+
+https://www.h2haul.eu/air-liquide-and-iveco-group-reaffirm-their-commitment-to-hydrogen-at-the-inauguration-of-
+
+77 
+the-first-high-pressure-hydrogen-station-for-long-haul-trucks-in-europe/ 
+
+78 https://techsnooper.io/air-liquide-va-ouvrir-a-fos-sur-mer-la-premiere-station-hydrogene-pour-poids-lourds-deurope/ 
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       48 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+5 
+
+Implementation cases 
+
+5.1  Overview on Outcomes and Implementation cases 
+
+As stated before, BOOSTLOG aims at establishing causal links between the public R&I funding and deployment 
+of results in the market; such links can be created through projects’ Outcomes and Implementation cases. 
+Within  the  BOOSTLOG  project,  Outcomes  are  primarily  understood  as  products,  services  or  solutions  for 
+business applications aiming at addressing Pain Points and other value-added results potentially impacting the 
+market (by creating it or transform it), the company’s operations as well as polices and regulation.  
+
+Implementation Cases are considered as outcomes where research results have been further developed and 
+have  been  deployed  as  commercial  solutions,  have  generated  a  new  market  or  have  contributed  to  new 
+policies. 
+
+In the scope of the present report, all outcomes from the 8 identified projects in the area of “Efficient and 
+zero-emission freight transport and emission reporting” have been identified and analysed with respect to 
+their grade of implementation. It is distinguished between (1) outcomes which have been implemented in a 
+real-life environment and which are still in operation today or further used/developed in other commercial 
+framework – the so-called "Implementation cases”, (2) outcomes which have been demonstrated during the 
+project and/or implemented afterwards in a real-life environment, but disrupted or stopped meanwhile, and 
+(3) outcomes, which have not yet been demonstrated or deployed in real-life operation.  
+
+In total, 23 Outcomes have been identified, thereof 4 implementation cases (= category 1), 7 demonstrations 
+and/or temporary implementations (= category 2) and 11 outcomes without any implementation. 
+
+Acronym 
+
+UDRIVE 
+
+TRANSFORMERS 
+
+AEROFLEX 
+
+ENSEMBLE 
+
+Modales 
+
+H2Haul 
+
+COFRET 
+
+LEARN 
+
+Implementation case 
+
+Demonstration and/or temporary 
+implementation 
+
+Outcome without implementation 
+
+- Homologated trailer with 
+improved loading capacity and 
+aerodynamics. Ready for market 
+uptake 
+
+- E-axle with regenerative braking 
+
+- Pulling e-dolly (regulation and 
+homologation ongoing) 
+- remote controlled yard 
+operations with e-dolly 
+- e-trailer (trailer with battery 
+pack) 
+
+- Naturalistic driving behaviour 
+study 
+- Insights in parameters eco-
+driving 
+
+- Key insights European transport 
+market 
+- My PUZZLE 
+- Freight study 2040 
+
+- Multi-brand platoon 
+
+- Low-emission driving app  
+
+- ISO/DIS 4272 Truck platooning 
+systems (TPS) 
+- Collaborative AEBS 
+- Methodology to optimise the 
+driving of automated vehicles 
+- Training eco-driving 
+
+- Hydrogen refuelling stations for 
+trucks 
+
+- 16 fuel cell electric hydrogen 
+trucks 
+
+GLEC Framework  
+ISO 14083 
+CountEmissionsEU 
+
+Methodology applied in case 
+studies. 
+
+- COFRET methodology 
+- ISO International Workshop 
+Agreement 
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       49 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+5.2 
+
+Implementation cases 
+
+Four of the selected R&I projects led to implementation cases. The COFRET project led to the development 
+GLEC  Framework,  which  is  adapted  in  the  CountEmissionsEU  proposal  and  a  ISO  standard  for  emission 
+reporting. The TRANSFORMERS and AEROFLEX  resulted in the development of an e-axle with regenerative 
+braking and an innovative trailer with improved load efficiency and aerodynamics. The last implementation 
+case is found in the H2Haul project, where the first European 700 bar HRS for trucks was developed in.  
+
+5.2.1.  COFRET 
+
+Smart Freight Centre was founded during the last year of the COFRET project and has been instrumental in 
+the past decade to develop and promote the GLEC Framework in the logistics sector, to develop it into an ISO 
+standard, as well as to be adopted in the CountEmissionsEU proposal on transport emissions calculation and 
+reporting. There were a couple of opportunities that came together to allow SFC to create impact based off 
+COFRET’s project results. However, this was only possible since COFRET was successful in creating results with 
+high impact.  
+
+Some of the main reasons that COFRET was successful were: 
+
+•  The topic addressed a relevant industry question at the time. Besides the growing environmental 
+interest,  companies  were  also  interested  in  accurately  calculating  fuel  consumption  along  the 
+transport chain for financial reasons. Fuel prices were high, and the industry was still reeling from the 
+financial crisis of 2007-2009.  
+
+•  A visionary and invested project officer from the EC. The assigned project officer was from DG MOVE 
+and was thus interested and knowledgeable about the transport sector rather than having a focus on 
+research. This steered the project outcomes towards what was practical rather than what was purely 
+academic. He only finalized the consortium grant agreement, if a strong industry advisory group was 
+part of the project. Hence, from the beginning the project had an industry-orientation, which made 
+the final project results high-impact for the industry.  
+
+•  Strong and engaged industry advisory board. The project benefitted from a strong and active advisory 
+board consisting of members of leading industry actors, such as IKEA, Scania, DB Schenker, UPS, etc. 
+Their  involvement  and  commitment  throughout  the  project  were  crucial  in  guiding  the  project's 
+direction, making decisions, and ensuring alignment with industry needs, i.e., to develop something 
+that can be really used by the group it was created for.  The board remained open to new members, 
+which signaled that other industry actors were always invited to contribute to the project. 
+
+•  Permission to change grant agreement and project direction midway. The industry advisory board 
+wanted  a  shift  from  developing  a  new  methodology  and  tool  towards  a  harmonization  of  existing 
+methods through a common framework. The project officer supported these changes to be made in 
+the grant agreement midway during the project, which included changes with respect to timeline and 
+budget.  
+
+• 
+
+•  Collaboration  with  DG  MOVE.  The  collaboration  and  support  from  two  individuals  in  DG  MOVE,  , 
+contributed  significantly  to  the  project's  success,  and  paved  the  way  for the  follow-up  EU  project, 
+LEARN.  Their  involvement  and  backing  demonstrated  a  strong  commitment  from  the  EU  side, 
+fostering a positive environment for the project's development and for post-project uptake.  
+Industry-led ambition to standardize emissions accounting. While what the industry wanted was an 
+ISO norm, this could not be accomplished directly within the COFRET project due to lack of time and 
+resources. Hence, the decision was made to produce an International Workshop Agreement, which is 
+a “a workshop mechanism outside of ISO committee structures, following a procedure that ensures 
+the broadest range of relevant interested parties worldwide have the opportunity to participate, and 
+the  workshops.” 
+are  approved  by  consensus  amongst 
+(https://www.iso.org/deliverables-all.html#IWA, Accessed 31.07.2023) The IWA served in this case as 
+
+individual  participants 
+
+the 
+
+in 
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       50 
+
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+a precursor to a full-fledged ISO norm. The result, codified in an industry-approved medium, such as 
+the IWA, sent a strong signal for relevance compared to the other, often academic, publications that 
+were created in the project.  
+
+•  Consortium and project coordinator that rose to the occasion. The COFRET project would not have 
+been feasible without a strong and dynamic project coordinator, as well as the consortium partners 
+that were willing and agile to adapt to the changing needs of the project.  
+
+In short, the individuals in the project took the initiative, in many cases, outside of the ‘normal’ expected effort 
+to create lasting value from the project. From the researchers to the project officer; the industry to the public 
+authorities; there was a concerted effort to produce what would be impactful to the industry, as expressed by 
+the industry members themselves. Many of the same individuals would take this onwards through the GLEC, 
+Smart Freight Centre, the LEARN project and to the ISO 14083 standard.  
+
+It could be considered that the rest of the journey from COFRET to ISO 14083 was due to its post-exploitation 
+activities. As COFRET created the framework, the idea was to apply them in as many countries as possible. This 
+led to Smart Freight Centre (SFC) that was still in its infancy that aimed at playing a role somewhat as a global 
+green freight program, in alignment with and integrating with regional (e.g., Green Freight Asia) or national 
+(e.g., Smartways) green freight programs.  
+
+COFRET contacted the founder of SFC and together with the industry advisory board, as well as DG MOVE, 
+made a plan to transition COFRET’s framework and the industry advisory board to be hosted by SFC. The 
+industry  advisory  board  became  the  Global  Logistics  Emission  Council  (GLEC)  advisory  board.  The  COFRET 
+framework was reworked to become more practical in the form of the GLEC Framework publication, which 
+provided reader-friendly (as opposed to expert-oriented) guidance into how emissions calculation should be 
+applied.  
+
+Other milestones: 
+
+•  The follow-up project LEARN, coordinated by SFC, exposed the GLEC Framework more intensively to 
+the industry via the respective green freight programs and case studies. Close collaboration with other 
+associations in the space, such as ALICE, played a crucial role in ensuring that the dissemination and 
+communication activities were impactful. 
+
+•  The start of the ISO working group hosted by the German norms association, DIN, led by the COFRET 
+project coordinator also began. SFC led the work on logistics emissions calculation as project manager. 
+The ISO 14083 was published April 2023.  
+
+•  The  CountEmissions  EU  proposal,  published  July  2023,  will  use  the  ISO  14083  as  the  calculation 
+methodology. SFC continues to work closely with DG MOVE to support their initiative. Standardizing 
+the fuel emission factor and intensity databases, the assurance scheme and the verification of tools, 
+are key features that will ensure the proposal makes impactful change in the emissions reporting in 
+the EU.  
+
+Once the CountEmissions EU proposal and the associated directives are in place, more work will need to be 
+done  to  align  actual  implementation  in  the  transport  sector.  Standardization  is  after  all  not  about 
+standardization  of  techniques,  but  standardization  of  the  implementation  of  techniques.  And  more 
+importantly, it is about applying the techniques to drive real-world lasting change for the sake of addressing 
+humanity’s greatest collective challenge, anthropogenic climate change.  
+
+5.2.2.  TRANSFORMERS and AEROFLEX: Innovative trailer and e-axle 
+
+The  consecutive  projects  TRANSFORMERS  and  AEROFLEX  resulted  in  two  implementation  cases:  and 
+innovative trailer design and regenerative e-axle. The trailer designed by Van Eck Trailers in TRANSFORMERS 
+is optimised for assignments were the trailer volume is not optimally used. The new trailer design increases 
+the load capacity within the weight and dimensions regulations (valid at the time of the project). The trailer 
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       51 
+
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+had  an  adjustable,  double  floor  system,  which  is  adaptable  per  mission.  The  double  floor  is  sectionalised, 
+adjustable in height and the double floor can be put in place by a forklift during loading. The inner floor length 
+of the trailer was increased by adjustments to the front bulkhead and at the trailer end, so an extra pallet 
+would fit. In addition, the roof top can be lowered to achieve a more aerodynamic shape. 
+
+  The innovative trailer with a moveable second floor, developed during the TRANSFORMERS 
+and AEROFLEX project. 
+
+Further  AEROFLEX  adaptation  on  the  trailer  to  make  it  compatible  with  other  transport  modes  and  high 
+capacity are: i) compatibility with rail transport was proven, ii) dolly can be coupled to achieve EMS2, iii) more 
+aerodynamic features were added and iv) cameras to estimate the cargo load were added79. The cameras can 
+give  input  to  software  (PUZZLE80)  that  can  optimize  the  loading  of  the  trailer.  An  regenerative  e-axle  is 
+implemented in the trailer and was proven successful in lowering the fuel consumption. 
+
+Now that the AEROFLEX project is finished, the trailer is homologated and will be brought on the market. The 
+trailer is ready to be tested by interested logistic companies. We see the some of the innovations, like the tear 
+shape and the regenerative e-axle also in commercial products of other trailer OEMs. Nevertheless, the trailer 
+demonstrated in TRANSFORMERS and AEROFLEX is the first one were all the innovations (plus more) were in 
+combined.  
+
+5.2.3.  H2Haul: Hydrogen refuelling stations for trucks 
+
+The third implementation case that was identified were the hydrogen refuelling stations (HRS), designated to 
+trucks, build during the H2Haul project. The station in Fos-sur-Mer (France) of Air Liquide is the first truck HRS 
+with a working pressure of 700 bar. Currently, the mass flow of the station is restricted to mid flow (90 g/s), 
+since hardware and fuelling protocols are missing. Nevertheless, we see that the hydrogen truck technology 
+is making the shift of 350bar to 700bar, so more hydrogen can be stored on the truck and longer driving ranges 
+are attainable.  
+
+This  first  demonstration  is  ground  breaking  and  the  development of  it  gave  insights  on missing  hardware, 
+fuelling protocols and regulative framework (also for the trucks).  
+
+79 https://www.vanecktrailers.com/nl/aeroflex-intensiveert-samenwerking-met-van-eck/ 
+80 https://demo.mypuzzle.de/aeroflex/ 
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       52 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+5.3  Demonstrations and temporary implementations 
+
+As  shown  in  Table  6,  most  outcomes  of  the  selected  8  projects  have  proven  their  technical  feasibility  by 
+demonstrations during the project lifetime. For logistics real “live” demonstrators of operation concepts are 
+particularly  relevant.  Such  demonstrators  were  performed  successfully  in  TRANSFORMERS,  AEROFLEX, 
+ENSEMBLE, H2Haul and Modales. All these and other operation concepts worked well during the project and 
+fulfilled their technical requirements. 
+
+6  Potential implementation paths 
+
+We end this Cloud Report with an overview of the identified potential implementation paths were we should 
+work on to make ‘Monitoring and implementing efficient and zero-emission freight transport’ a success. In 
+addition some key factor for a successful project are given together with recommendations.  
+
+From the interviews and the analysis of the finished R&I projects, it became clear that future R&I projects 
+about efficient and zero-emission freight transport should focus on 5 fields: 
+
+Technical innovations 
+
+- 
+-  Digitalisation 
+-  Regulative framework 
+-  Digital twin 
+- 
+
+Emission reporting 
+
+Technical innovations comprehend the further development of the durability of aerodynamic improvement, 
+trucks  and  trailers  innovations  and  infrastructure.  Further  innovations  in  the  capabilities  of  zero  emission 
+trucks (driving range, weight) will be key. Also, innovations in charging infrastructure (MCS, dynamic charging 
+and ERS) and high capacity HRS will happen. R&I projects that lead to further upscaling and increased reliability 
+of both zero emission trucks and their infrastructure are necessary.  
+
+In parallel to the technical R&I projects, the regulative framework needs to be updated, so the innovations 
+can be demonstrated and implemented in real life operations. From the current assessment we learn that it 
+takes  time  to  adjust  regulative  framework  and  develop  ISO  norms.  Therefore,  the  revision  of  regulative 
+frameworks  needs  to  start  as  early  as  possible.  Extra  legal  support  (especially on  national  level)  would  be 
+beneficial. 
+
+The capabilities of zero-emission truck-trailer combinations are strongly linked to availability of infrastructure 
+and how their operation is planned (use case dependent). Digitalisation and digital twins are necessary to 
+assess  the  full potential of zero-emission trucks and  support the implementation of these vehicles  in fleet 
+operation, which will be use case dependent. Tools to implement zero-emission truck in fleets and integrate 
+charging and fuelling in the logistic operation are needed (route optimisation, booking of charging/fuelling 
+slots…). Also connected vehicles that can communicate to other assets (V2X) will be needed. Special attention 
+should be given to data quality and standardisation communication protocols.  
+
+Innovations will only be adopted in the logistic industry if there is a viable business case. R&I project should 
+consider ecosystem building and explore scenarios to make the logistic innovations economically viable. Some 
+of the logistic innovations are strongly dependent on the innovation in other industries. As an example, the 
+sustainability  of  zero-emissions  trucks  is  dependent  of  the  decarbonisation  status  of  the  energy  industry. 
+Further research is needed to see how all industries can reach their sustainability goals. 
+
+It is expected that R&I projects on these topics will lead to implementation cases. We see that in the ongoing 
+zero-emission  truck  projects  (EMPOWER,  ESCALATE, NextEtrucks  and  ZEFES),  all  topics are  included  in  the 
+project. Even digitalisation in an indirect way, since it is necessary to establish the digital twin. 
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       53 
+
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+As last we mention emission reporting as a possible implementation path. The finished project on emission 
+reporting COFRET and LEARN have led to a real uptake  of the industry. They even let to an initiative for a 
+common framework to calculate and report transport-related greenhouse gas emissions (CountEmission EU). 
+New R&I project on this topic funded by Horizon Europe81 are aiming to further improve the methodology and 
+the data quality and are widening the scope. 
+
+In Figure 13 a visualisation of the potential implementation paths is given. 
+
+Visualisation  of  the  five  potential  implementation  pathways  for  ‘Monitoring  and 
+implementing zero-emission freight transport’. 
+
+Overall, there can be three lessons learned from the finished projects to improve the quality of the project 
+and its outcomes.  
+
+First of all, end users (shippers, carriers) should be active and empowered in the project. They should have 
+least have a role as active stakeholder group member, but preferably they are funded partner. As end user, or 
+the paying customer, they are the key for successful implementation of innovations. 
+
+The stakeholder group is also important for ecosystem building. In logistics the full value chain is interlinked, 
+so  communication  between  the  different  stakeholder  groups  and  working  together  are  key  for  successful 
+implementation of innovations.  
+
+And as last one, we want to stress the importance of a project officer, that empowers and is willing to align 
+with evolving needs of sector. Sometimes and adjustment of scope, even during the project, is the best thing 
+to do. And this can only be done when the project officer is receptive for feedback from the project. 
+
+When evaluating potential implementation paths, it is also worth highlighting supporting factors for successful 
+projects  and  implementations.  The  following  factors  are  already  published  in  an  earlier  Cloud  Report,  but 
+would like to repeat them as they are general applicable. 
+
+The supporting factors can be allocated to four areas, (1) Composition of the consortium, (2) Topic/subject of 
+the project, (3) Process of tendering/application/funding,  and (4) Project execution and implementation of 
+outcomes.  
+
+(1)  Composition of the consortium  
+
+81 HORIZON-CL5-2023-D6-01-08: Future-proof GHG and environmental emissions  factors for accounting emissions  from 
+transport and logistics operations 
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       54 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+•  Right mix of partners - involvement of real operating partners and the final end-user  
+•  Trust within consortium (complementary interests, advantages visible for all partners, partners 
+
+knowing each other); 
+
+•  Same  level  of  knowledge  and  “access”  to  the  topic  (skilled  experts  from  the  project  partners 
+
+involved in the project work);  
+
+•  Partner commitment - Sufficient efforts of partners investing in the project.  
+
+(2)  Topic/subject of the project  
+
+•  Project/Solution must be economically viable;  
+•  Projects must be linked to real practice;  
+•  Project must consider European decision-making environment (entity and rules / priorities);  
+•  Focus on a fewer, but dedicated topics better than including everything.  
+
+(3)  Process of tendering/application/funding  
+
+•  National  projects  often  allow  more  efficient  consortia  (limited  number  of  partners, 
+
+complementary interests);  
+
+•  Flexibility  for  project  design  in  application  phase,  focus  on  project  result  (e.g.  demonstrator, 
+
+product), NOT on tasks/work content.  
+(4)   Project execution and implementation of outcomes  
+
+•  Rules  in  the  grant  agreement,  if  deployment  does  not  happen  to  hand  over  IPRs  e.g.  to  a 
+
+• 
+
+“Implementation agency”;  
+Idea: dedicated consultant paid by EU for project documentation and administration (selected by 
+the consortium); - Stronger commitment requested to exchange information – strong stakeholder 
+board 
+
+•  Non-feasibility of a solution might be also an outcome. 
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       55 
+
+ 
+ 
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+Annex I – Semi-structured interview guide 
+
+Cloud Report: Efficient and zero-emission logistics  
+
+1. 
+
+Project introduction   
+
+For more  than  two  decades  EU  has  invested  in  research  and  innovation  (R&I)  through various  Framework 
+Programmes, e.g. FP5 (1998-2002), FP6 (2002-2006), FP7 (2007-2013), and the ongoing HORIZON 2020 (2014 
+–  2020).  This  has  contributed  to  the  development  of  the  logistics  sector  through  the  creation  of  new 
+companies,  implementation  of  concepts  in  practice  and  through  science  based regulation. The  BOOSTLOG 
+project  aims  to  boost  impact  generated  from  future  EU  funded  R&I  projects  to  contribute  to  EU  policy 
+objectives, address societal challenges and increase EU’s competitiveness. The project will map more than 160 
+projects funded by FP5, FP6, FP7 and Horizon 2020, and identify successful implementation cases into the 
+market and regulations and will develop actionable reports on various subjects prioritized by stakeholders. 
+The project will assess the impacts generated, identify gaps and priorities for future funding programmes.  
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       56 
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+2. 
+
+Cloud and subclouds diagram   
+
+• 
+
+3. 
+
+Do you miss any important cloud/subcloud?  
+
+Most relevant projects in the cloud  
+
+Efficient and zero-emission logistics  
+
+LCA emissions reporting  
+
+• 
+
+Do you miss a relevant R&I project not included here?  
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       57 
+
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+4. 
+
+Organizations with highest participation in relevant projects in the cloud  
+
+• 
+• 
+
+Do you miss an important/relevant organization with good R&I results in this area?  
+If yes? Which organizations and for which results? Who is the contact person?  
+
+5. 
+
+Trends and societal drivers relevant/addressed for the Cloud  
+
+LIST of trends and societal drivers:  
+Climate change, electrification, emissions, (energy) efficiency others  
+
+• 
+• 
+
+6. 
+
+Do you agree with this list of External Factors?  
+Which are for you the 2/3 most critical/relevant?  
+
+Relevant EU policies addressed  
+
+LIST of policies addressed by the cloud:  
+
+•  The European Green Deal  
+o  Fit for 55  
+
+•  Economy that Works for People  
+•  Promoting our European way of life  
+•  A Europe fit for the digital age  
+
+• 
+• 
+
+Which other policies you know are also relevant?  
+Which is the EU policy this area has a greater impact?  
+
+Project participation of your organization per Cloud  
+Have your organization participated in other relevant projects? Which ones? Could you share 
+
+Which are the most Relevant/Key R&I results project deliverables for each project? Could 
+
+Which have been the key partners on those projects à Generating results/outcomes and 
+
+7. 
+• 
+some information references?  
+• 
+you share them with us?  
+• 
+after project implementation?  
+• 
+
+Overall, which is your conclusion on the projects in terms of:  
+
+▪  Progress made  
+▪  Level of adoption of results  
+▪  Which have been for you the 2/3 key barriers for adoption?  
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       58 
+
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+▪  Which would you think is the best (or best 2 projects) and why?  
+
+8. 
+• 
+• 
+
+Project Outcomes  
+Do you have any outcome out of these projects in this field?  
+If a research center, is it your ambition to transfer/implement the Knowledge?  
+
+o  How your organization address that?  
+
+▪  Through Market agreements on Knowledge Transfer to Companies.  
+▪  Spin offs  
+▪  Other  
+
+• 
+
+What is the main barrier to reach the market you faced:  
+
+Financing for further development.  
+▪ 
+Finding right (industry) partners  
+▪ 
+▪  Value proposition towards customers.  
+▪  Business models.  
+▪  Other?  
+
+• 
+
+Do you have outcomes out of R&I projects in other BOOSTLOG CLOUDS?  
+
+9. 
+• 
+• 
+Seeker.  
+• 
+
+Implementation Cases   
+Do you know any Implementation Cases out of these projects?  
+If yes, which entity was the R&I/Outcome owner and which entity was the Innovation 
+
+Would you like ALICE/BOOSTLOG to promote the Implementation Case?  
+
+Final comments  
+How could we improve the interviews?  
+Would you like to join a workshop in which we will share the aggregated results and discuss 
+
+10. 
+• 
+• 
+conclusions with your peers?  
+Any further comment.  
+• 
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       59 
+
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+ 
+ 
+ 
+Document elaborated with the support of the BOOSTLOG project has received funding from the European 
+Union’s Horizon 2020 research and innovation programme under grant agreement No 101006902 
+
+We would like to thank the experts the we have interviewed and helped us to determine the project outcomes 
+and implementation cases. 
+
+Table 7: List of interviewees, their organisation and the project they have worked on  
+
+Name 
+
+Project 
+
+Sergio Barbarino 
+
+TRANSFORMERS 
+
+Organisation 
+
+P&G 
+
+Business developer 
+
+H2Haul 
+
+DATS 24 (Colruyt Group) 
+
+Ton Bertens 
+
+AEROFLEX, TRANSFORMERS, (ZEFES) 
+
+Van Eck Trailers 
+
+Verena Ehrler 
+
+COFRET, LEARN 
+
+Marika Hoedemaeker 
+
+UDRIVE 
+
+DLR 
+
+TNO 
+
+Ben Kraaijenhagen 
+
+AEROFLEX, TRANSFORMERS, ENSEMBLE, (ZEFES) 
+
+(former) MAN 
+
+Alan Lewis 
+
+COFRET, LEARN 
+
+Smart Freight Center 
+
+Paul Mentink 
+
+AEROFLEX, (ZEFES, NextETruck) 
+
+TNO 
+
+Sophie Punte 
+
+COFRET, LEARN 
+
+Smart Freight Center 
+
+Mats Rosenquist 
+
+ENSEMBLE, AEROFLEX, TRANSFORMERS, (ZEFES)  VOLVO 
+
+Isabelle Schnell-Lortet 
+
+ENSEMBLE 
+
+VOLVO 
+
+Cor Van der Zweep 
+
+AEROFLEX, TRANSFORMERS 
+
+UNIRESEARCH 
+
+Dehlia Willemsen 
+
+ENSEMBLE 
+
+Andrew Winder 
+
+MODALES 
+
+Ted Zotos 
+
+MODALES 
+
+TNO 
+
+ERTICO 
+
+IRU 
+
+BOOSTLOG project – D2.10 Cloud Repot VII – Efficient and zero emission freight transport 
+
+       60 
+
+ 
+ 
+ 
+ 
+ 
+

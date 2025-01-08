@@ -1,0 +1,23 @@
+version: "3.8"
+
+services:
+  graphrag-accelerator:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    platform: linux/amd64
+    image: graphrag_accelerator
+    user: root
+    volumes:
+      - ./:/home/jovyan/notebooks
+    #  - ./data:/home/jovyan/data
+    ports:
+      - 8888:8888
+    environment:
+      - CHOWN_HOME=yes
+      - JUPYTER_TOKEN=token
+      - NB_USER=jovyan
+      - NB_UID=1000
+      - NB_GID=100
+    working_dir: /home/jovyan
+    env_file: .env

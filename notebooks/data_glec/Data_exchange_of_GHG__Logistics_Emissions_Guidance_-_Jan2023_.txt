@@ -1,0 +1,2769 @@
+Data exchange of GHG 
+Logistics Emissions 
+Guidance  
+
+January 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Logistics Emissions 
+Guidance 
+
+January 2023 
+
+© Smart Freight Centre, 2023 
+Suggested citation: Smart Freight Centre (2023), Data exchange of GHG Logistics Emissions 
+
+This publication may be reproduced in whole or in part in any form for educational or non-profit purposes without special permission from 
+the copyright holder, provided acknowledgment of the source is made. Smart Freight Centre would appreciate receiving a copy of any 
+publication that uses this report as a source.  No use of this publication may be made for resale or for any other commercial purpose 
+whatsoever, without prior permission in writing from Smart Freight Centre. 
+
+Disclaimer 
+
+The views expressed in this publication are those of Smart Freight Centre and staff, consultants and management, and do not necessarily 
+reflect the views of the Board of Trustees of Smart Freight Centre. Smart Freight Centre does not guarantee the accuracy of the data 
+included in this publication and does not accept responsibility for consequence of their use. 
+
+Acknowledgements 
+
+This report was written by Violetta Matzoros and Gabriela Rubio Domingo of Smart Freight Centre. 
+
+About Smart Freight Centre 
+
+Smart Freight Centre (SFC) is a global non-profit organization dedicated to an efficient and zero emission freight sector.  We cover all 
+freight and only freight.  SFC works with the Global Logistics Emissions Council (GLEC) and other stakeholders to drive transparency and 
+industry action – contributing to Paris Climate Agreement targets and Sustainable Development Goals.  
+Our  role  is  to  guide  companies  on  their  journey  to  zero  emission  logistics,  advocate  for  supportive  policy  and  programs,  and  raise 
+awareness.  Our goal is that 100+ multinationals reduce at least 30% of their logistics emissions by 2030 compared to 2015 and reach 
+net-zero emissions by 2050. 
+
+Contact 
+
+Smart Freight Centre 
+Keizersgracht 560, 1017 EM, Amsterdam, Netherlands 
+P.O. Box 11772, 1001 GT, Amsterdam, Netherlands 
+Tel office: +31 6 4695 4405 
+www.smartfreightcentre.org 
+info@smartfreightcentre.org
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents 
+
+Executive Summary 
+
+1 
+
+2 
+
+Useful terminology 
+
+Introduction 
+
+Background 
+
+2.1 
+2.2  Objectives 
+2.3 
+Approach 
+2.4 
+
+Preparing for the future 
+
+3 
+
+Exchanging logistics GHG emissions data 
+
+3.1 
+3.2 
+3.3 
+3.4 
+3.5 
+3.6 
+
+Use cases 
+Exchange options 
+
+Responsibilities 
+Trust & Assurance 
+
+Incentives and collaboration 
+Assessing Data Quality and Data Quality Ranking 
+
+4 
+
+Data model overview 
+
+4.1 
+4.2 
+
+Added value of the data model with respect to the GLEC Declaration 
+Data model 
+
+5 
+
+Data model assessment 
+
+5.1  Methodology to assess data model adoption 
+5.2 
+5.3 
+
+Results of the assessment 
+Limitations 
+
+6 
+
+Conclusions 
+
+6.1 
+6.2 
+
+Trust 
+
+Technical conclusions and limitations 
+
+7  Outlook 
+
+7.1 
+7.2 
+
+Current and future development 
+Acknowledgements 
+
+8 
+
+9 
+
+Bibliography 
+
+Appendix 
+
+5 
+
+7 
+
+9 
+
+9 
+9 
+9 
+10 
+
+11 
+
+11 
+13 
+14 
+15 
+15 
+16 
+
+17 
+
+17 
+17 
+
+22 
+
+22 
+22 
+24 
+
+25 
+
+25 
+25 
+
+26 
+
+26 
+27 
+
+28 
+
+29 
+
+January 2023 
+
+3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Tables 
+
+Table 1: Use Cases 
+
+12 
+
+Table 2: Data model (GHG Related Variables for Collection and Exchange) – Transport Chain Element 
+level 
+
+19 
+29 
+
+Table 3: Overview of project phases 
+
+Figures 
+
+Figure 1: Examples of Shipment – Consignment – Transport Chain Element relationship 
+
+Figure 2: Schematic representation of a TOC 
+
+Figure 3: Potential combination of exchange of information 
+
+Figure 4: Reporting levels and Data Exchange focus 
+
+Figure 5: Exchange options 
+
+Figure 6: Landscape of logistics related systems 
+
+Figure 7: Different responsibilities for information retrieval 
+
+Figure 8: Data model for exchange of logistics GHG information 
+
+8 
+8 
+11 
+13 
+13 
+14 
+15 
+18 
+
+January 2023 
+
+4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Executive Summary 
+
+Over  150  multinationals  are  now  using  the  Global  Logistics  Emissions  Council  (GLEC)  Framework 
+(Smart Freight Centre, 2022) to calculate and report logistics emissions across the multi-modal supply 
+chain. However, only 23% of these companies were reporting their logistics emissions publicly in 2021. 
+A key reason is that many shippers and LSPs have difficulties getting access to reliable data from their 
+suppliers (carriers). Whilst at the same time, securing access to reliable data that is directly associated 
+with a specific transport operation is increasingly becoming more important to enable more granular 
+reporting of GHG emissions and implementing GHG emission reduction strategies.  
+
+These guidelines provide an introduction on how to overcome the barriers to exchanging GHG related 
+information across a supply chain and describe a parameter overview and associated data model for 
+the automated exchange of GHG emissions for a Transport Chain Element.  
+
+They have been developed in collaboration with GLEC partners and other selected partners and build 
+upon the results of the first phase, which identified the main barriers to exchange of GHG information 
+across  a  supply  chain  (Smart  Freight  Centre,  2019),  and  the  second  phase,  which  provided  a  first 
+version of the data model and guidelines. The third phase of this project consisted in the implementation 
+of these guidelines in practice and improvement of the proposed data model.  
+
+The Data Access for Logistics Emissions Accounting and Reporting (“Data Access”) project aims to 
+support  shippers,  LSPs,  and  carriers  by  improving  data  access,  exchange,  and  IT  integration.  By 
+harmonizing the IT semantics and providing suggestions on how to overcome the barriers, we seek to 
+increase  joint  action  and  momentum  across  the  industry  to  improve  the  ability  to  take  decisions  to 
+reduce logistics emissions. The project started in January 2021 and ran until December 2022 and is 
+carried out as a project under the Global Logistics Emissions Council (GLEC) that is managed by Smart 
+Freight Centre.  
+
+Understanding how to exchange GHG emission data within a supply chain 
+
+Having observed the different purposes GHG emission data are used for, there are 3 recognized use 
+cases identified:  
+
+§  Reporting of logistics GHG emissions, this is currently the most common use case, in which an 
+organization is reporting its total emissions for a selected period, over the whole organization or for 
+parts of the supply chain. Aggregated input data and emission factors can suffice, although more 
+granular data will increase the level of detail and precision. 
+
+§  Decision making, backward looking to track performance of the supply chain or a supplier, identify 
+outliers or see progression in carbon reduction strategies. This requires granular input data and the 
+use of disaggregated emission intensity data.  
+
+§  Granular  optimization,  forward  looking  at  projected  GHG  emissions  based  on  historical  data. 
+Requires  a  form  of  algorithmic  analysis  and  requires  more  granular  input  data  to  ensure  correct 
+decisions are made based on the desired optimal state of the supply chain. 
+
+Considering the above-mentioned use cases, there are three main types of exchange: (i) exchange of 
+GHG emissions, i.e. after the GHG calculation is made, (ii) exchange of energy consumed, i.e. supplier 
+provides  the  amount  and  type  of  energy  consumed  for  the  shipment  or  (part  of  the)  supply  chain 
+considered,  alongside  transport  activity  data  and  the  calculation  is  made  thereafter,  (iii)  the  pure 
+exchange  of  transport  activity  data,  i.e.  the  supplier  provides  transport  activity  related  information 
+concerning the shipment or part of the supply chain to facilitate the calculation, without GHG emission 
+or energy consumption data. 
+
+In each of these types of exchange the calculation can be outsourced to a third party. The input data 
+used for the GHG emission calculation can be derived from different sources and can have varying 
+accuracy levels. Understanding what input data type is used and how the emission intensity value is 
+derived determines the relative level of accuracy. A further understanding of the quality of the data is 
+important for all stakeholders to be  able to judge the context of the final amount of GHG emissions 
+reported. Therefore, a practical approach is proposed by: 
+
+January 2023 
+
+5 
+
+ 
+ 
+ 
+ 
+  Collect,  at  least,  the  mandatory  variables  as  proposed  in  the  data  model.  The  exchange  of  the 
+optional variables is highly recommended. In case of outsourcing the emissions calculation to a tool 
+provider, ensure the output collection’s conformity with advised units. 
+
+  Classify  these  by  transport  operation  category  (specific  round  trip,  vehicle  class,  or  schedule 
+
+average) and data type (primary, modelled and default), and 
+
+  Exchange the selected variables with the interested stakeholders. 
+
+The responsibility for gathering and reporting the data is distributed across the shipper/freight buyers 
+and the carrier/service provider. A general principle is that the consignment/shipment information is the 
+responsibility of the freight buyer, whilst routing, transport asset information and energy consumed are 
+the responsibility of the service provider. Although in practice, in many complex supply chains, these 
+responsibilities are transferred or even shared. 
+
+In  these  guidelines,  suggestions  are  made  to  overcome  trust  and  assurance  issues  at  each  of  the 
+stages  of  exchange.  This  can  be  achieved  by  considering  the  use  of  an  independent  third  party  or 
+through exchange of high aggregation, anonymized emission data. Lastly, audited data and the use of 
+accredited tool providers can help increase trust and confidence in this process. 
+
+To increase awareness and action in supply chains, freight buyers will need to support their service 
+providers in calculating and exchanging GHG emissions. This can be done by covering the cost for 
+calculation, offering educational and technical support, sharing insights gained from the data retrieved 
+and finally incentivizing suppliers through contractual agreements and procurement. In the long term, it 
+is anticipated that regulations will require each organization to report their GHG emissions. 
+
+Data model 
+
+For the exchange of data across a logistics supply chain, a set of parameters, considering the previously 
+mentioned types of exchange (exchange of GHG emissions, energy consumption or transport activity 
+based)  is  needed.  To  fulfil  this  need,  a  data  model  is  created  and  proposed  for  exchange  at  the 
+Transport Chain Element level. It aligns with the GLEC Framework Declaration and covers the relevant 
+parameters  including  the  related  freight  information,  energy  consumption,  transport  chain  element 
+routing and vehicle information. It provides definitions for the parameters, advised units and other value 
+constraints and it designates which fields are considered mandatory or optional – supporting companies 
+in selecting the suitable parameters for their analyses.  
+
+Next steps 
+
+We envision that the proposed guidance and data model are adopted by more companies, shippers, 
+LSPs, carrier or tool providers. Using the same semantics can facilitate the tasks around manipulation 
+and exchange of data, internally or between parties by reducing the time of manual adjustments prior 
+to analysis. Reducing the siloed approaches to data by standardizing the models used, will accelerate 
+the data-driven decision-making efforts of companies. In that regard, Smart Freight Centre is working 
+towards implementing a corresponding technical specification of the Guidance to enable interoperable 
+data  exchange  between  all  relevant  stakeholders  with  WBCSD  PACT  Initiative  and  its  Pathfinder 
+Network (WBCSD, 2021). The goal of this future work stream is to work towards one global network of 
+emission data exchange based on interoperability through open standards. 
+
+January 2023 
+
+6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+1  Useful terminology 
+
+GHG emission accounting and reporting between a transport service operator (carrier) and the transport 
+service organizer or user (shipper or LSP), are described in the GLEC Framework. They are focused 
+on an aggregated perspective and two reporting levels: the company level and the transport operation 
+category level. However, in practice, the calculation and exchange of GHG emission data or exchange 
+of transport activity data is often performed on a shipment or consignment level, despite being possibly 
+derived from transport operation category or company level inputs.  
+
+Definition and understanding of a shipment, consignment & transport chain element [ISO 14083 – in final draft at time 
+of finalizing this report] 
+
+A shipment is an identifiable collection of one or more freight 
+items (available to be) transported together from the original 
+shipper to the ultimate consignee 
+
+A consignment separately identifiable amount of freight 
+transported from one consignor to one consignee via one or 
+more modes of transport. 
+
+• 
+
+• 
+
+A shipment may be transported in one or a multiple 
+number of consignments. 
+A shipment can be aggregated or disaggregated to 
+different consignments according to the 
+requirements of the means of transportation on any 
+one element of the transport chain, e.g., single bulk 
+units and packages can be aggregated on a pallet 
+and such pallet can be handed over as a unit for 
+aggregation in a container, which in turn is treated 
+as a consignment in a vehicle. 
+
+A transport chain element (TCE) is a section of a transport 
+chain within which the freight is carried by a single vehicle or 
+transits through a single hub. 
+
+A transport operation category (TOC) is a group of transport 
+operations that share similar characteristics 
+
+A hub operation category (HOC) is a group of hub 
+operations that share similar characteristics 
+
+Note: Although consignment and shipment are common terms often considered as synonyms, in this document and other technical publications, 
+a  consignment  is  differentiated  to  a  shipment.  A  shipment  refers  to  a  grouping  of  freight  corresponding  to  the  shipper  needs,  whereas  a 
+consignment refers a grouping of freight according to a carrier or freight forwarder’s transport solutions. 
+
+Typically, it is expected that the data transfer happens on a consignment level for a transport chain 
+element,  and  on  a  shipment  level  for  a  transport  chain.  Therefore,  the  shipment  level  will  contain 
+aggregated  information  from  the  possible  multiple  consignments  and  individual  transport  chain 
+elements. In practice, it will depend on how the information is formatted and stored in the respective 
+systems, the transport operation category and mode, and the role of the reporting company.  
+
+For example, an LSP might report the emissions of a specific, multimodal shipment to the customer, at 
+the shipment level, but will receive the information from different carriers individually, on consignment 
+level. Figure 1 shows for different examples how a shipment is aggregated or disaggregated, and it also 
+gives an indication of the aggregation levels of the related data. 
+
+January 2023 
+
+7 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1: Examples of Shipment – Consignment – Transport Chain Element relationship 
+
+Each  transport  chain  element  belongs  in  a  transport  operation  category  (TOC).  To  explain  this  in  a 
+visual way, Figure 2 shows an example of a transport chain with 11 transport chain elements. When 
+deciding upon the emission intensity of each of these TCEs, one should think of the characteristics of 
+that group of transport operations the TCE belongs in. Examples are: the route, the amount of vehicle 
+or the type of the vehicle. As it is shown on the last level of the figure, TCE1 can belong in a TOC of a 
+group of vehicles in a single route, shown on the left or in a network, shown on the right side. 
+
+Figure 2: Schematic representation of a TOC 
+
+January 2023 
+
+8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+
+Introduction 
+
+The  Guidelines  provide  recommendations  on  how  to  exchange  GHG  related  information  across  the 
+supply chain and a data model for the exchange of GHG emissions of a Transport Chain Element. They 
+seek to address the challenges and barriers identified in the first phase of the project and published 
+under the Insights Paper (Smart Freight Centre, 2019).  
+
+With  these  Guidelines  the  third  phase  of  the  Data  Access  for  Logistics  Emissions  Accounting  and 
+Reporting project (‘Data Access project’) is concluded. The Data Access project is carried out by Smart 
+Freight Centre in consultation with GLEC Members and Partners.  
+
+2.1  Background 
+
+Over  150  multinationals,  including  shippers,  carriers  and  logistics  service  providers  (LSPs)  are  now 
+using  the  Global  Logistics  Emissions  Council  (GLEC)  Framework  (Smart  Freight  Centre,  2022)  to 
+calculate and report logistics emissions across their multi-modal supply chains. However, only 23% of 
+these companies were reporting their logistics emissions publicly in 2021. A key reason for this is that 
+many shippers and LSPs have difficulties getting access to reliable data from their carriers. 
+
+Many carriers do not collect the required data, often because they do not know what variables to collect 
+from fuel and transport management systems or because these systems are not well interconnected 
+(LEARN European Project, 2020). Sometimes, even if the data is available, there is an unwillingness 
+to share due to trust issues, i.e. related to uncertainty about use of commercially sensitive data, lack of 
+third party verification. On the other end, shippers and LSPs face the challenge to integrate and verify 
+the data from multiple stakeholders. As a result, any data that is obtained, for instance from a carrier, 
+may be inadequate or untrustworthy for emissions calculation. These challenges were identified early 
+on by the LEARN initiative as a key barrier for businesses to implement the GLEC Framework. 
+
+Other  initiatives,  such  as  the  EU  CEF  project  FEDeRATED  have  addressed  the  problem  of 
+interoperability  and  data  exchange  by  providing  an  ontology  and  suggesting  a  federated  IT  data 
+architecture. However, their work is more general and encompasses emissions exchange on a general 
+level and does not provide details on suggested data types and units (EU CEF Project FEDeRATED, 
+2022).  Hence,  the  challenge  of  exchanging  data  between  external  parties  stems  from  a  lack  of  a 
+common data model and a lack of industry-accepted guidelines on data quality. 
+
+2.2  Objectives 
+
+The  objective  of  this  Guidance  is  to  help  organizations  improve  their  reporting  of  logistics  GHG 
+emissions by facilitating data access and exchange of GHG related information throughout the supply 
+chain. 
+
+This Guidance covers: 
+
+  Practical matters to consider when designing IT systems to better capture and exchange logistics 
+
+emission related data across the supply chain 
+
+  Technical description of the parameters, the attributes and associated data model for the exchange 
+
+of data 
+
+In the context of these guidelines, the data model refers to the set of data variables IT systems shall 
+capture to track and be able to calculate logistics emissions. It defines parameters, constraints, units, 
+etc. (see Section 4.2). It shall not to be confused with emission modelling. The purpose of the data 
+model is by no means to define the way calculations  shall be made, but to support the harmonized 
+exchange of variables that are relevant for emissions calculation and reporting. 
+
+2.3  Approach 
+
+The guidance and model were developed in consultation with all stakeholder groups in the logistics 
+industry,  namely:  shippers,  logistics  service  providers  (LSPs),  carriers  and  tool  providers,  including 
+experts from these organizations. The project involved a combination of semi-structured workshops, 
+
+January 2023 
+
+9 
+
+ 
+ 
+ 
+ 
+interviews  and  case  studies  in  the  course  of  two  years.  During  the  first  year,  9  semi-structured 
+workshops took place to identify the challenges inhibiting data exchange between parties and scope a 
+first version of a data model capturing emissions-related variables for logistics. 
+
+During the second year, the data model was applied and assessed with real-life use cases. Specifically, 
+it was tested by the teams of EVE Platform, Greenrouter, shipzero and Transporeon Carbon Visibility 
+Platform. 18 interviews were conducted with their teams to assess critically the application of the data 
+model and its limitations. Their input was collected to consider content improvements to support varying 
+operational  needs.  Also,  4  plenary  meetings  took  place  to  communicate  the  work  and  results  to  a 
+broader  audience.  During  the  plenary  meetings,  additional  expert  feedback  was  collected  from  a 
+broader  stakeholder  group.  Finally, the results  of  the case  studies  were  evaluated  with  respect  to  a 
+framework  of  six  dimensions:  accuracy,  completeness,  consistency,  timeliness,  validity  and 
+uniqueness.    
+
+Limitations of the testing  
+
+Certain  aspects  of  the  data  model  were  missed  out  during  the  testing  phase,  such  as  multimodal 
+transport chains, multi-TCE, and multiple feedstocks, due to the availability of suitable case studies. 
+The  case  studies  were  focused  on  road  transport,  although  expert  feedback  was  collected  and 
+considered  to  improve  the  data  variables  capturing  information  for  other  modalities.  The  usability  of 
+shipment, consignment and TCE IDs, which are essential for aggregation, were not sufficiently tested 
+in the case studies. Currently, the data model supports the most common units for some variables, like 
+energy consumption. More testing in the future could reduce the acceptable units to a shorter list.  
+
+2.4  Preparing for the future 
+
+The  Data  Access  project  aims  to  fill  the  gap  in  the  logistics  data  exchange  by  providing  guidance 
+document  along  with  a  data  model.  The  guidance  addresses  the  different  use  cases  in  the  data 
+exchange, the topic of responsibilities and trust between the stakeholders of the logistics value chain 
+and lastly some recommendations on incentives for collaboration. The data model presented, can be 
+used  by  all  different  logistics  stakeholders  that  wish  to  capture,  calculate  and  exchange  emissions 
+related data. The model is aligned with the GLEC Declaration requirements and conceptually also with 
+the principles of the PACT Framework (WBCSD, 2021). This is chosen as it is important for all logistics 
+stakeholders  to  facilitate  shippers  and  help  them  identify  the  total  carbon  footprint  of  their  products. 
+Logistics is a significant part of the total emissions of a product thus, there is a need to confidently state 
+what percent of the total emissions logistics is responsible for. 
+
+We envision that the proposed guidance and data model are adopted by more companies, shippers, 
+LSPs, carrier or tool providers. Using the same semantics can facilitate the tasks around manipulation 
+and exchange of data, internally or between parties by reducing the time of manual adjustments prior 
+to analysis. Reducing the siloed approaches to data by standardizing the models used, accelerate the 
+data-driven  decision-making  efforts  of  companies.  This  idea  is  also  supported  by  The  International 
+Transport Forum (ITF) which stated in their latest report on data sharing that digitalization in logistics 
+will not scale without the use of open freight data exchange standards (International Transport Forum, 
+2022).  Lastly,  an  increase  of  the  interoperability  of  software  used  in  the  industry  can  be  expected, 
+supporting the emissions calculations and reporting in the logistics supply chain but also other activities 
+in need of data for optimised decisions making. 
+
+January 2023 
+
+10 
+
+ 
+ 
+ 
+ 
+ 
+3  Exchanging logistics GHG emissions data 
+
+This section covers the following: (i) definition of use cases, (ii) description of exchange options, (iii) 
+responsibilities for retrieval of the data, (iv) trust and assurance, (v) recommendations on incentives for 
+collaboration, and (vi) assessment of data quality. 
+
+3.1  Use cases 
+
+There  are  three  recognized  use  cases  identified  to  why  an  organization  is  calculating  the  GHG 
+emissions of logistics. In each use case, the perspective (forward or backward-looking), frequency of 
+calculating, input type, aggregation level of input data and of the emission intensity, as well as the level 
+of data aggregation differ. Recognizing these differences when setting up the exchange, will help to 
+understand what level of granularity and information which is required and how to process the required 
+data. 
+
+Figure 3: Potential combination of exchange of information 
+
+The use cases (Figure 3, A) are described as:  
+
+§  Reporting of logistics GHG emissions, this is currently the most common use case, in which an 
+organization is reporting its total GHG emissions for a selected period, over the whole organization 
+or for parts of the supply chain. Aggregated input data and emission factors in line with the GLEC 
+Declaration can suffice, although more granular data will increase the level of detail and precision. 
+
+§  Decision making and optimization, backward-looking to track performance of the supply chain or 
+a supplier, identify outliers or see progression in carbon reduction strategies. This requires granular 
+input data and the use of disaggregated emission intensity data. Depending on the purpose, the 
+respective granularity of the input data level and the use of aggregated or disaggregated emission 
+intensity data are to be considered. Examples are, the quantification of the impact of using different 
+fuels, assessing carrier performance etc.  
+
+§  Granular optimization, forward looking at projected GHG emissions on the basis of historical data. 
+Requires  a  form  of  modelling  and  requires  more  granular  input  data,  preferable  primary  data,  to 
+ensure correct decisions are made. The ideal data granularity and accuracy will be depending on 
+the  type  (strategic,  tactical,  or  operational)  and  scope  (e.g.  network  planning,  tendering,  vehicle 
+procurement, alternative fuel usage) of the decision. 
+
+See Table 1, for more details. 
+
+January 2023 
+
+11 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Table 1: Use Cases for GHG emissions data exchange 
+
+Use case  
+
+Reporting (Public, Government) 
+
+Business Decision Making  
+
+Granular optimization 
+
+Perspective  
+
+Backward-looking 
+
+Backward-looking 
+
+Forward-looking 
+
+Indicative frequency   Monthly, quarterly or annually 
+
+Weekly, Monthly, quarterly, or 
+annually 
+
+As per the decision 
+
+Input data type  
+
+Modelled and default data provide a 
+good indication; primary input data is 
+preferred 
+
+Input data - emission 
+intensity aggregation 
+level 
+
+Aggregated emission intensity from 
+fleet averages 
+
+Primary input data is preferred for a more accurate quantification of the use 
+cases which fall under these categories. 
+
+Emission intensity should ideally be matched to the required reporting level 
+and purpose. Aggregated emission intensity is commonly used for 
+transport operation categories such as trade lanes (to avoid outliers and 
+allow benchmarking). Emission intensity specific to the shipment/ 
+consignment is preferred when using granular input data levels. 
+
+Output data  
+(reporting 
+aggregation level) 
+
+Exchange of data 
+required 
+
+●  Company 
+●  Transport operation category 
+●  Shipment 
+
+●  Company 
+●  Transport operation category 
+●  Shipment 
+
+●  Transport operation category 
+●  Shipment 
+
+Minimum is GLEC Declaration. 
+Additional variables can be added as 
+per use case.  
+
+It is advised to exchange all mandatory and as many optional variables as 
+deemed applicable.  
+
+Secondly, the received information can be reported at various aggregation levels (Figure 3, B). It should 
+be recognized that the more aggregated the information, the less detail is visible or retained. Several 
+aggregation levels, subject to varying time periods, can be considered: 
+
+§  Company: total GHG emissions produced by the supplier for the client. This would be in line with 
+
+the requirements of the GLEC Declaration. 
+
+§  Transport operation category: GHG emissions per transport service based on mode, journey, freight, 
+
+trade lane or contract type 
+
+§  Shipment: GHG emissions per shipment from origin to destination 
+
+Thirdly,  it  is  important  to  recognize  how,  besides  the  activity  data,  the  emission  intensity  is  derived 
+(Figure 3, C). This value can be determined in various ways, based on the categorization of the transport 
+operation categories (TOCs). Examples can be:  
+
+§  a specific vehicle type in a single schedule or  
+
+§  based on a specific group of vehicles in multiple schedules or 
+
+§ 
+
+fleet average over multiple schedules 
+
+Understanding these variations will help to interpret the data received and its’ suitability for the proposed 
+use case.  
+
+Finally, the input data type (Figure 3, D) can be classified in: 
+
+§  Primary Data: Actual carrier information, such as from fuel receipts and telematics systems as well 
+
+as aggregated values that reflect fuel or emission intensity for a period of time. 
+
+§  Detailed Modelling: Emission-relevant parameters to model fuel use and emissions. There are two 
+
+modelling approaches: energy-based and activity-based.  
+
+§  Default Data: Values drawn from published, acknowledged sources.  
+
+Together, these four considerations help to determine the level of granularity and information required 
+for any data exchange of logistics emissions. Each combination can be “mixed and matched”; however, 
+it should be recognized that certain combinations are more useful (e.g. using primary data for transport 
+chain element calculations) than others depending on the business needs (e.g. using default data for 
+performance monitoring of a trade lane). Figure 4, shows the diverse reporting levels which can be used 
+and how to aggregate and report depending on the desired scope. 
+
+January 2023 
+
+12 
+
+ 
+ 
+ 
+ 
+Figure 4: Reporting levels and Data Exchange focus 
+
+3.2  Exchange options 
+
+In each of the use cases it is important to identify who makes the calculations and what information 
+should be exchanged. The calculations can be outsourced to a third-party or made by either the service 
+supplier  or  freight  buyer.  In  general,  information  is  exchanged  in  a  given  constellation  of  the  main 
+stakeholders, depending on the transport chain and use case: 
+
+§  Carrier → Shipper 
+
+§  Carrier → LSP 
+
+§  LSP → Shipper 
+
+§  Carrier/LSP/Shipper → 3rd party (possibly a solution or assurance provider) 
+
+Depending on the situation, the required information changes. Figure 5 contains the main five exchange 
+options for data exchange, depending on what party conducts the calculations. What is important to 
+notice,  is  the  different  flows  of  information  (shown  with  red  and  green)  and  who  is  the  party  that 
+calculates the logistics emissions shown with a small calculator icon. 
+
+Figure 5: Exchange options 
+
+January 2023 
+
+13 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+§ 
+
+§ 
+
+§ 
+
+§ 
+
+§ 
+
+In situation A. the supplier exchanges the activity data to a certified calculation tool for calculating 
+the GHG emissions and reports the GHG emissions to the client. 
+
+In situation B. the supplier exchanges the activity data to the client and the client will exchange this 
+information with a certified calculation tool for determining the GHG emissions. 
+
+In situation C. the supplier exchanges activity data to an intermediate platform, which calculates the 
+GHG emissions and provide the results to both the supplier and the client. 
+
+In situation D. the supplier calculates the GHG emissions and exchanges this directly to the client. 
+
+In situation E. The supplier exchanges the activity data with the client directly and the client makes 
+the calculation.  
+
+Lastly, depending on the exchange options and stakeholders, various IT systems are involved, as can 
+be  seen  in  Figure  6.  These  have  been  described  in  detail  within  the  Insights  paper  (Smart  Freight 
+Centre,  2019).  The  different  systems  need  to  capture  and  exchange  specific  data  parameters 
+depending on the calculation approach, use case and stakeholder. In Section 4, the information which 
+is required for the calculation and reporting will be defined as part of the data model. 
+
+ERP
+
+§ Transport Management System (TMS) 
+
+§ Warehouse Management System (WMS) 
+
+FMS
+
+TMS
+
+§ Vendor Management System (VMS) 
+
+Shipment
+
+§ Enterprise Resource Planning (ERP)  
+
+§ Onboard & Telematic Systems 
+
+§ Fleet Management Software 
+
+Onboard 
+system
+
+VMS
+
+§ Calculation tools (internal & external) 
+
+WMS
+
+Figure 6: Landscape of logistics related systems 
+
+This figure is meant to be used as a guide to think where data comes from and if all available systems 
+have been exhaustively utilized in the data collection process. Section 4 of this guidance aims to provide 
+a revised data model to act as a starting point for organisations wishing to standardize the naming and 
+units of the parameters captured in their IT systems and their data specifications so that interoperability 
+between them is increased.  
+
+3.3  Responsibilities 
+
+The  responsibility  for  gathering  and  reporting  emission  data  is  distributed  across  the  logistics  value 
+chain. In general, the freight buyer is responsible for retrieving general freight information, like freight 
+mass, whilst routing, transport asset information and energy consumption information are managed by 
+the service provider. A crucial role is also assigned to calculation tool providers that are supporting the 
+emissions  calculation  with  the  use  of  activity  or  energy  data  shared  by  different  stakeholders  in  the 
+supply chain. In practice, in many complex supply chains, these responsibilities are not strictly defined 
+and  are  usually  transferable  or  shared.  In  Figure  7  most  common  distribution  of  responsibilities  is 
+shown. Partial responsibility means that the stakeholder is highly likely to be able to retrieve and provide 
+this information to the other parties. For a fuller explanation on how the responsibilities are linked to IT 
+systems  used  by  the  different  stakeholders,  please  refer  to  section  1.5  of  the  Data  Access  Insights 
+Paper (Smart Freight Centre, 2019). 
+
+The following general principles have been defined:  
+1.  Responsibilities  are  determined  based  on  the  decision-making  type  (planning  or  execution).  A 
+shipper  determines  the  consignor  and  consignee  addresses  and  an  LSP  might  decide  on  the 
+planned  route  of  shipment  (planning  capacity).  However,  the  actual  routing  and  possible 
+
+January 2023 
+
+14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+intermediate stops are decided by the executing party, the carrier, that is subsequently responsible 
+to provide transparency on it. 
+
+2.  Responsibilities are determined based on the scope. Example: While a carrier will be responsible 
+for specific multi-modal transport chain elements of a shipment, the LSP, will be managing the entire 
+transport chain and will be responsible for providing the full set of information to the shipper.  
+
+Figure 7: Different responsibilities for information retrieval 
+
+Note: Additionally, if a company chooses to outsource the emissions calculation to a tool provider, then the tool provider would be responsible for 
+
+circulating back the calculated values; the total emissions and the emission intensity value. 
+
+3.4  Trust & Assurance 
+
+In the Insights Paper (Smart Freight Centre, 2019), trust and assurance were referenced as a critical 
+challenge to the exchange of GHG emissions and the multi-facetted nature of this challenge were first 
+laid out. Main trust and assurance issues include: reluctance to share information, unreliability of the 
+data retrieved, missing or inaccurate data and wrong implementation of calculation methodology. Each 
+of these challenges can be overcome through different solutions, such as: 
+
+§  The use of an independent third-party that ensures the correctness of emissions methodology, for 
+instance,  an  accredited  organization  (e.g.  a  SFC  Accredited  tool  provider)  or  an  external 
+independent auditor.  
+
+§  Ensure  anonymization  of  data,  e.g.  non-traceable  to  a  specific  supplier.  This  could  increase  the 
+
+willingness to share 
+
+§  Exchange  of  GHG  emissions  instead  of  activity  or  energy  related  data.  This  avoids  sharing  any 
+
+commercially sensitive information, such as fuel consumption. 
+
+§  The reliability of the exchange can be improved through the automatization of the exchange, with 
+
+respect to manual exchange.  
+
+A formal assurance guidance, covering further details to provide the assurance of the input data and 
+the methodology is presented in the final Guidance published as part of the End-to-End project (Smart 
+Freight Centre, 2023).  
+
+3.5 
+
+Incentives and collaboration 
+
+To  increase  willingness  in  exchanging  GHG  emissions,  freight  buyers  will  be  required  to  support, 
+particularly,  small  and  medium-sized  carriers  in  calculating  and  exchanging  GHG  emissions  (Smart 
+Freight  Centre,  2021).  This  can  take  place  through  collaboration  and  therefore  working  closely  with 
+suppliers to improve the calculations and the associated GHG emission footprint or through a formal 
+enforcement mechanism such as contractual and tendering procedures.  
+
+Through discussion, the following suggestions are provided for freight buyers: 
+
+January 2023 
+
+15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+§  Financially support the use of third party calculation tool, 
+
+§  Offer educational and technical support (e.g. help what information is required and why) 
+
+§  Share insights gained from the data retrieved to support operations 
+
+§ 
+
+Incentivize carriers through contractual agreements and procurement practices 
+
+–  Preferred  carrier  approach  in  procurement.  For  example,  rewarding  business  based  on  an 
+evaluation  of  a  supplier  on  their  ability  to  calculate  the  GHG  emissions  and  their  GHG 
+performance 
+
+–  Mandatory requirements. For example, requiring specific information and working collaboratively 
+
+to address those needs with a structured approach. 
+
+In  the  long  term,  it  is  anticipated  that  regulations  will  require  each  organization  to  report  their  GHG 
+emissions and potentially have also a formal assurance statement.  
+
+3.6  Assessing Data Quality and Data Quality Ranking 
+
+There are many existing methods to evaluate data quality for input data used in emissions calculations. 
+The EN16258 standard, requires reporting a data quality level for each input variable (default, carrier’s 
+average,  carriers’  specific  value  or  actual  transport  operation  value),  whilst  the  GLEC  Framework 
+requires a breakdown of the type of used data (default data, modelled data, program data or primary 
+data). The GLEC Framework only requires determining the percentage of each data type for the overall 
+calculation. The AFNOR SPEC X43-072 (AFNOR, 2021) provides a ranking mechanism based on the 
+source and aggregation level of the utilized fill rate, the empty run rate, and the energy consumption to 
+derive an accuracy index and associated label.  
+
+Quality rankings provide a confidence level for the elements of supply chains regarding the quality of 
+the exchanged data and therefore the quality of the calculated GHG emissions. A quality ranking can 
+also  act  as  an  incentive  to  increase  the  precision  of  the  calculated  emissions  and  can  enable 
+benchmarking. However, the quality of the data does not necessarily correlate with good GHG emission 
+performance,  and  therefore  focusing  on  high  data  quality  can  provide  a  false  sense  of  efficiency. 
+Moreover, during this project, it has been highlighted that in many cases there are significant data gaps 
+in logistics IT systems. A data quality ranking cannot address those and thus, it is not considered in the 
+current Guidance. 
+
+As part of the End-to-End project (Smart Freight Centre, 2023), a Data Quality Index was defined. The 
+principles behind this index build upon the main variables which mostly affect the calculated result of 
+the  logistics  GHG  emissions.  These  are  variables  like:  empty  distance,  load  factors,  energy 
+consumption  etc.  Thus,  companies  can  estimate  data  quality  on  a  TOC  level  and  then  share  these 
+outcomes with the rest of the stakeholders in the supply chain. TCEs will inherit the data quality index 
+value based on which TOC they belong in. Then, TCE information is factored in on distance and mass, 
+shaping the final data quality index. For a step-by-step guide on how to calculate the data quality for a 
+TOC and a TCE the reader is prompted to look at section 3.2 of the End-to-End Guidance. 
+
+January 2023 
+
+16 
+
+ 
+ 
+ 
+ 
+ 
+4  Data model overview 
+
+This section presents (i) how the data model adds value with respect to the existing GLEC Declaration 
+(ii) a data model for the standardization of parameters to be accessed and exchanged to support sharing 
+of GHG emissions data between stakeholders in the logistics supply chain. 
+
+4.1  Added value of the data model with respect to the GLEC Declaration  
+
+The existing GLEC Declaration offers a standardized format for reporting of emissions in accordance 
+with the GLEC Framework. It is mainly scope, input data type, data verification statement. Coverage of 
+reporting is not directly included in the data model when it is underlined as an important parameter to 
+be  declared  when  reporting  emission  data.  It  can  be  extrapolated  by  the  datetime  variables  of  the 
+transported freight which are part of the data model. 
+
+The current data model builds upon the GLEC Declaration, as it contains all basic parameters of the 
+GLEC  Declaration,  while  offering  a  further  level  of  detail  to  support  use  cases  beyond  reporting. 
+Specifically, performance monitoring and optimization are supported thanks to the inclusion of specific 
+parameters related to operational performance (e.g. empty mileage, load factor), energy carriers and a 
+more exhaustive analysis at the TCE/consignment level. 
+
+The list of proposed parameters is meant to be included in databases of companies that wish to register 
+and  store  data  on  a  TCE  level.  By  storing  low-level  information,  all  aggregation  activities  can  be 
+facilitated,  for  example  aggregated  upwards  to  shipment  or  business  unit  level  of  emissions. 
+Additionally,  two  requirement  levels  have  been  specified:  mandatory  and  optional,  to  guide  the 
+companies wishing to implement the data model. We suggest the mandatory ones as a first step in 
+storing and using data. However, the ideal approach is to implement in a database all variables even if 
+currently no data is available. In that way, companies can increase their IT readiness to support more 
+granular  information  of  their  operations;  either  when  it  becomes  available  or  to  accommodate  the 
+collection of data from other parties through exchange. 
+
+4.2  Data model 
+
+To  standardize  the  exchange  of  emission  related  information,  a  data  model  which  supports  the 
+exchange of GHG emissions, energy consumption and transport activity data is presented in Table 2. 
+The  data  model  was  developed  in  close  alignment  with  the  previous  work  done  in  the  DIN  SPEC 
+91224:2017-03 (DIN, 2017). 
+
+It is meant to cover the most relevant parameters needed for calculating and reporting GHG emissions, 
+defined  as  mandatory  parameters,  as  well  as  optional  parameters  which  can  complement  this 
+information.  
+
+§  Mandatory:  Requirement  for  GLEC  Framework  compliance.  Mandatory  to  be  accessed  and 
+
+exchanged with relevant parties. 
+
+§  Optional:  Identified  as  beneficial  for  additional  insights  and  more  precise  calculations  in  case  of 
+modelling and use of defaults. The exchange of optional variables is not prescribed, although it is 
+acknowledged that for certain use cases, calculation approaches and decision-making processes, 
+these might be crucial, and users have the freedom to include them or not in their reports. 
+
+At this moment there is no classification which of the identified IT systems should capture, send and 
+receive the parameters as this depends on the IT environment of a given company and requires further 
+analysis.  Standardized  parameters  should  ideally  be  implemented  in  all  systems  involved  to  ensure 
+alignment. 
+
+To  support  the  adoption  of  the  data  model  for  different  flow  of  information  options,  two  levels  of 
+requirements  are  defined:  “TCE  Calculation  Requirement”  and  “TCE  Reporting  Requirement”. 
+Depending on the case, the user of the model will report the necessary information for the intermediate 
+partner  or  final  client  to  make  the  calculations,  they  will  make  the  calculations  and  report  the  final 
+emissions, or even do both. The recommended practice is to implement the full data model in an IT 
+system, even if there are still empty values.  
+
+January 2023 
+
+17 
+
+ 
+ 
+ 
+ 
+The data model is designed from the perspective of a consignment which is transported via one or more 
+than  one  transport  chain  elements,  which  is  the  lowest  possible  aggregation  level  for  transport 
+operations.  Each  transport  chain  element  is  defined  by  both  specific  TCE  parameters,  as  well  as 
+parameters  related  to  the  TOC.  This  categorisation  is  chosen  to  clarify  which  features  relate  to  the 
+operation  of  a  fleet  and  which  are  consignment/TCE  specific.  Figure  8  clarifies  the  relationships 
+between the elements of the transport chain. A transport chain is composed of multiple TCEs and each 
+of  the  TCEs  belongs  in  one  operation  category.  In  addition,  suggested  units  of  measurement, 
+constraints and data types are presented in the full description of the data model in Table 2. The units 
+of measurement are important to be used as proposed in the model, as they are directly related to the 
+emissions  calculation.  By  following  the  suggested  units,  the  time  spent  in  manipulation  and  data 
+processing can be significantly reduced. 
+
+Figure 8: Data model for exchange of logistics GHG information 
+
+The model is intended to facilitate reporting at any level with the appropriate use of the ID variables, 
+specifically  TCE  ID,  consignment  ID  and  shipment  ID  to  support  aggregation.  If  a  company  aims  to 
+report on business unit level, company level, customer service, or any more aggregated category, it is 
+highly advisable to look at the GLEC Declaration from the GLEC Framework. Designing the data model 
+around the smallest possible exchange unit allows for any upward aggregation of reporting of emissions 
+for transport operation. 
+
+January 2023 
+
+18 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 2: Data model (GHG Related Variables for Collection and Exchange) – Transport Chain Element level 
+
+Unit 
+- 
+
+Constraint 
+- 
+
+Data type 
+string 
+
+Calculation 
+Requirement 
+mandatory 
+
+Reporting 
+Requirement   Description 
+mandatory 
+
+Identification name of the organization submitting/reporting 
+
+DUNS number 
+
+string 
+
+mandatory 
+
+optional 
+
+Identification code/name of the organization submitting/reporting  
+
+'TRUE','FALSE' 
+'TRUE','FALSE' 
+- 
+
+'rail', 'road', 'sea', 'air', 
+inland waterway', 'hub' 
+- 
+
+boolean 
+boolean 
+string 
+
+string 
+
+string 
+
+mandatory 
+mandatory 
+ optional 
+
+mandatory 
+mandatory 
+optional 
+
+mandatory 
+
+mandatory 
+
+optional 
+
+optional 
+
+Euro 1-6, EPA classes 
+
+categorical 
+
+optional 
+
+optional 
+
+load_factor 
+
+percentage 
+
+numeric (0-1] 
+
+- 
+
+- 
+
+percentage 
+
+numeric (0-1) 
+
+mandatory 
+
+mandatory 
+
+optional 
+
+optional 
+
+mandatory 
+
+mandatory 
+
+mandatory 
+
+optional 
+
+Statement of external verification of the input data 
+Statement of accreditation of the calculation methodology 
+Text description of the applicable TOC. Reflect on mode of transport, contract type, 
+equipment type, vehicle type, freight temperature, LTL/FTL etc 
+Means of transport or type of transport 
+
+Categories per mode of transport (Specific category of vehicle, such as 40t truck, 3,5t 
+van, or container vessel or bulk vessel) 
+Identification of the vehicle emission class (Road). Depending on the geography of 
+operations, this can be adapted 
+Ratio of the mass of the actual load to the maximum legally authorized load of a 
+particular vehicle on a TOC level 
+Description of derivation of the load factor 
+
+Ratio of the section of the route of a vehicle during which no freight is transported on 
+to the total distance of a vehicle on a TOC level 
+Description of derivation of the empty running 
+
+TOC                                                                                                                                                      
+
+mode_of_transport 
+
+- 
+
+Category 
+TOC 
+
+TOC 
+
+TOC 
+TOC 
+TOC 
+
+Parameter 
+Transport operator 
+Name 
+Transport operator 
+ID 
+Verification 
+Accreditation 
+Transport operation 
+category1 
+Mode of transport 
+
+TOC 
+
+TOC 
+
+TOC 
+
+Mode specific asset 
+type 
+Emission class 
+(road) 2 
+Load factor3 
+
+TOC 
+
+Empty distance 
+
+Field 
+transport_operator_na
+me 
+id_transport_operator 
+
+verification 
+accreditation 
+TOC 
+
+asset_type 
+
+emission_class 
+
+- 
+
+- 
+
+load_factor_add_infor
+mation 
+empty_distance 
+
+empty_distance_add_
+information 
+temp_control 
+
+- 
+
+- 
+- 
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+TOC 
+
+TOC 
+
+TOC 
+
+TOC 
+
+TOC 
+
+TOC 
+
+TOC 
+
+Temperature control  
+
+Energy 
+consumption4 
+Energy carrier 
+
+energy_consumption_
+add_information 
+energy_carrier_N 
+
+Energy 
+consumption_N 
+Feedstock 
+
+energy_consumption_
+N 
+Feedstock_N 
+
+l, kg, kWh, 
+MJ per km 
+- 
+
+Feedstock share of 
+the blend 
+
+WTW fuel emission 
+factor (certified) 
+
+energy_carrier_feedst
+ock_N 
+energy_carrier_feedst
+ock_N_% 
+WTW_fuel_emission
+_ 
+factor  
+co2e_intensity_wtw 
+
+TOC 
+
+Emission Intensity  
+
+TOC 
+TCE 
+TCE 
+TCE 
+
+Data quality index 
+Shipment ID 
+Consignment ID 
+
+Data_quality_index 
+id_shipment 
+id_consignment 
+id_tce 
+
+January 2023 
+
+- 
+
+- 
+
+kg CO2e per 
+kg, l, kWh, 
+MJ 
+g/t-km, 
+g/teu-km, 
+g/feu-km 
+- 
+- 
+- 
+- 
+
+float 
+
+string 
+
+float 
+
+string 
+
+string 
+
+string 
+
+string 
+
+float 
+
+string 
+
+string 
+
+float 
+
+float 
+
+- 
+
+'frozen’, ‘refrigerated', 
+'ambient', 'high temp' 
+- 
+
+- 
+
+numeric >= 0 
+
+- 
+
+- 
+
+numeric [0,1) 
+
+numeric 
+
+numeric >= 0; must equal 
+to 1000 * (co2e_wtw / 
+transport_activity 
+Level 1 – Level 4 
+- 
+- 
+
+mandatory 
+
+optional 
+
+Status of freight being non-ambient 
+
+optional 
+
+optional 
+
+Description of derivation of the fuel consumption 
+
+mandatory 
+
+optional 
+
+optional  
+
+optional 
+
+Category of primary energy carrier, such as Diesel, HVO, petrol, CNG, LNG, LPG, 
+HFO, MGO, Aviation fuel, Hydrogen, Methanol, Electric, etc  
+Amount of energy or fuel consumed per km 
+
+mandatory 
+
+optional 
+
+mandatory 
+
+optional 
+
+mandatory 
+
+optional 
+
+optional or 
+mandatory 
+
+optional 
+
+Primary feedstock of energy carrier N (e.g. fossil, natural gas, grid, renewable 
+electricity, waste) 
+Secondary feedstock of energy carrier N (e.g. bio-waste, soy, legislated biofuel mix, 
+etc) 
+Share of the feedstock N of the energy carrier (0 in case only 1 feedstock is 
+applicable, e.g. 5% to cover a 5% blend) 
+WTW fuel emission factor (certified) 
+
+float 
+
+N/A 
+
+mandatory 
+
+Coefficient relating specified transport activity with GHG emissions  
+
+categorical 
+string 
+string 
+string 
+
+N/A 
+mandatory 
+mandatory 
+mandatory 
+
+mandatory 
+mandatory 
+optional 
+optional 
+
+TBC (Definition from E2E. Calculated with respect to % of emissions) 
+Identifier of the shipment 
+Identifier of the consignment 
+Identifier of the transport chain element 
+
+19 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Category 
+
+TCE 
+TCE 
+
+TCE 
+
+TCE 
+
+Parameter 
+Transport chain 
+element ID 
+Freight Mass  
+Packaging unit5 
+
+Field 
+id_tce_order 
+
+mass 
+packaging_unit 
+
+Unit 
+- 
+
+kg 
+- 
+
+Actual Distance 
+
+packaging_unit_amou
+nt 
+Distance_actual 
+
+Packaging 
+unit 
+km 
+
+Activity Distance6 
+
+Distance_activity 
+
+km 
+
+Activity_Distance_ty
+pe 
+
+TCE 
+
+Origin location7 
+
+loading_street 
+
+loading_zip 
+loading_city 
+loading_country 
+loading_iata 
+loading_locode 
+loading_uic 
+loading_lat 
+loading_lng 
+unloading_street 
+
+unloading_zip 
+unloading_city 
+unloading_country 
+unloading_iata 
+unloading_locode 
+unloading_uic 
+unloading_lat 
+unloading_lng 
+transport_activity 
+
+- 
+
+- 
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+t-km, teu-
+km, feu-km 
+- 
+- 
+- 
+- 
+kg 
+
+TCE 
+
+Destination location 
+
+Transport Activity 
+
+Departure date  
+Arrival date  
+Flight No. 
+Voyage number 
+CO2e WTW 
+
+loading_date 
+unloading_date 
+flight_no 
+Voyage_nr 
+co2e_wtw 
+
+CO2e TTW 
+NOx TTW 
+SOx TTW 
+
+co2e_ttw 
+Nox_ttw 
+Sox_ttw 
+
+kg 
+kg 
+kg 
+
+TCE 
+
+TCE 
+TCE 
+TCE 
+TCE 
+TCE 
+
+TCE 
+TCE 
+TCE 
+
+January 2023 
+
+Constraint 
+- 
+
+numeric > 0 
+‘Euro pallet’, ‘US pallet’, 
+‘TEU’, ‘Bulk’, ‘N/A’ 
+numeric > 0 
+
+Data type 
+string 
+
+Calculation 
+Requirement 
+mandatory 
+
+Reporting 
+Requirement   Description 
+optional 
+
+float 
+string 
+
+mandatory 
+optional 
+
+mandatory 
+optional 
+
+Consecutive number of TCE for the consignment, in case of multiple TCEs for one 
+consignment/shipment 
+Mass of the transported freight (gross mass) 
+Category of the packaging of the consignment packaging (e.g. pallet, container, etc.)  
+
+integer 
+
+optional 
+
+optional 
+
+Number of packaging units 
+
+numeric > 0 
+
+numeric > 0 
+
+float 
+
+float 
+
+optional 
+
+optional 
+
+mandatory 
+
+mandatory 
+
+GCD or SFD 
+
+categorical 
+
+mandatory 
+
+mandatory 
+
+loading_zip OR 
+loading_city NOT NULL 
+- 
+- 
+iso2-code 
+IATA code 
+UN/LOCODE 
+UIC station code 
+decimal degrees 
+decimal degrees 
+loading_zip OR 
+loading_city NOT NULL 
+- 
+- 
+iso2-code 
+IATA code 
+UN/LOCODE 
+UIC station code 
+decimal degrees 
+decimal degrees 
+numeric > =0 
+
+datetime 
+datetime 
+- 
+- 
+numeric >= 0 
+
+numeric >= 0 
+numeric >= 0 
+numeric >= 0 
+
+string  
+
+optional 
+
+optional 
+
+string 
+string 
+string 
+string 
+string 
+string 
+string 
+string 
+string 
+
+string 
+string 
+string 
+string 
+string 
+string 
+string 
+string 
+float 
+
+datetime 
+datetime 
+string 
+string 
+float 
+
+float 
+float 
+float 
+
+optional 
+mandatory 
+mandatory 
+optional 
+optional 
+optional 
+optional 
+optional 
+optional 
+
+optional 
+mandatory 
+mandatory 
+optional 
+optional 
+optional 
+optional 
+optional 
+mandatory 
+
+optional 
+optional 
+mandatory 
+mandatory 
+N/A 
+
+N/A 
+N/A 
+N/A 
+
+optional 
+mandatory 
+mandatory 
+optional 
+optional 
+optional 
+optional 
+optional 
+optional 
+
+optional 
+mandatory 
+mandatory 
+optional 
+optional 
+optional 
+optional 
+optional 
+mandatory 
+
+optional 
+optional 
+optional 
+optional 
+mandatory 
+
+mandatory 
+optional 
+optional 
+
+Distance between the origin and the destination of a consignment of freight or a 
+vehicle, along a specified route (or from telematics) 
+Distance between the origin and the destination of a consignment SFD or GCD 
+(found in the past publications as planned distance)1 
+GCD: transport distance determined as the shortest distance between any two points 
+measured along the surface of a sphere 
+SFD: transport distance determined as the distance achievable by the shortest 
+practical route available according to the infrastructure options for a particular 
+vehicle type 
+Origin street 
+
+Origin zipcode 
+Origin city 
+Origin country 
+IATA code of origin airport 
+UN/LOCODE of origin 
+UIC station code of origin station 
+Latitude of origin 
+Longitude of origin 
+Destination street 
+
+Destination zip code 
+Destination city 
+Destination country 
+IATA code of destination airport 
+UN/LOCODE of destination 
+UIC station code of destination station 
+Latitude of destination 
+Longitude of destination 
+Amount of freight multiplied by the transport activity distance  
+
+Date of loading 
+Date of arrival 
+Identification no of the IATA flight number  
+Identification no of a specific vessel conducting a specific route 
+GHG released to atmosphere during the process of producing, storing, processing and 
+distributing an energy carrier for vehicle operation + GHG released to atmosphere as 
+a result of vehicle operation 
+GHG released to atmosphere as a result of vehicle operation 
+Nitrogen oxide released to atmosphere as a result of vehicle operation  
+Sulphur oxide released to atmosphere as a result of vehicle operation  
+
+20 
+
+ 
+ 
+ 
+ 
+ 
+Category 
+TCE 
+TCE 
+
+Parameter 
+CH4 TTW 
+PM TTW 
+
+Field 
+CH4_ttw 
+PM_ttw 
+
+Unit 
+kg 
+kg 
+
+Constraint 
+numeric >= 0 
+numeric >= 0 
+
+Data type 
+float 
+float 
+
+Calculation 
+Requirement 
+N/A 
+N/A 
+
+Reporting 
+Requirement   Description 
+optional 
+optional 
+
+Methane released to atmosphere as a result of vehicle operation  
+Particulate matter (PM10 and PM2.5) released to atmosphere as a result of vehicle 
+operation 
+
+Disclaimer: Smart Freight Centre does not prescribe the exchange of the optional variables, each stakeholder has the freedom to decide which variables will or not be shared with other parties in the value chain 
+
+Notes on the scope of the data model: 
+
+1 Definition of the aggregation level of the underlying TOC as well as the respective data input type of this parameter should be supplied either as additional information within the data exchange 
+or in accompanying documentation. See Section 1 of the guidance. 
+
+2 The “Emission class (road)” variable is now scoped for EU operations only. 
+
+3 Even in a calculation based on primary data, where load factor and empty running are not needed to conduct the CO2e calculation, these variables are still considered mandatory for both 
+requirement levels as they are critical from supporting decarbonisation initiatives and decision making. 
+
+4 Energy consumption parameters will be deemed as mandatory regarding the “TCE calculation requirement” if the emissions calculations are based on primary data. 
+
+5 Packaging unit is kept as an open variable, as there is no consensus in terms of standardized packaging units.  
+
+6 Should be planned distance. For certain calculation approaches using fuel or energy consumption, or bottom-up modelling, actual distances can be used and should be scaled according to the 
+rules set out in the GLEC Framework. It is important to note that when activity distance is not reported, actual distance becomes mandatory. It is mandatory to report at least one of the two.  
+
+7 Zip code is currently an optional variable. In the future it is subject to become mandatory, as it is a requirement for specific countries.  
+
+January 2023 
+
+21 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5  Data model assessment 
+
+This section presents the methodology and results of the data model assessment which was used 
+in  the  context  of  the  case  studies.  In  addition,  the  limitations  of  the  conducted  use  cases  are 
+declared. 
+
+5.1  Methodology to assess data model adoption 
+
+As  mentioned  in  Section  2.3,  to  assess  the  adoption  of  the  data  model  and  its  limitations,  a 
+framework of six dimensions was identified. The dimensions are defined in the current scope of 
+the guidance as:  
+
+§  Accuracy: The information captured is accurate if it represents the reality of operations i.e. if 
+
+the data reported has a low margin of error.  
+
+§  Completeness:  Data 
+
+is  considered  complete  when 
+
+fulfills  expectations  of 
+comprehensiveness.  Operationally,  data  would  be  complete  when  all  variables  that  are 
+needed to fully describe a concept are included. For example, asset information is complete 
+when  the  mode  of  transport  is  known,  and,  in  the  case  of  this  being  required  for  the 
+calculations, also the mode specific asset type and the emission class are reported. 
+
+it 
+
+§  Consistency:  There  is  consistency  if  there  are  not  internal  conflicts  of  information.  This  is 
+particularly relevant as the same piece of information may be stored in more than one place. 
+For example, in the transport operation category variable the vehicle types can be described 
+along the mode of transport. The vehicle type information should be then consistently reflected 
+in the variable mode specific asset type as well. 
+
+§  Timeliness: The information is timely if it is accessible and available in the required period of 
+
+time set by the testing partners. 
+
+§  Validity: Data is valid if it follows the format defined in the data model. For variables where a 
+format requirement is not in place, common formats or business rules were accepted as valid. 
+For example, if dates are saved separated with "-" or "/". 
+
+§  Uniqueness:  Data  uniqueness  requirement  is  fulfilled  if  no  duplicates  can  be  found  in  the 
+
+datasets. 
+
+5.2  Results of the assessment  
+
+In phase 3 of the project, the interim data model produced by the second phase of this project 
+was  tested  and  refined  with  the  conduction  of  four  use  cases.  Particularly,  the  analysis  has 
+focused  on  the  six  dimensions  of  data  quality,  namely:  accuracy,  completeness,  consistency, 
+timeliness, validity and uniqueness, as described below.  
+
+Accuracy 
+
+The main accuracy challenge was the correct identification of variables. Especially hard to identify 
+accurately where load factor, vehicle type and in a few cases the modality. It was found out that 
+even key variables such as weight are subject of significant errors, especially when shippers are 
+responsible for reporting these parameters. 
+
+Contact 
+
+Smart Freight Centre 
+Keizersgracht 560, 1017 EM 
+Amsterdam, Netherlands 
+
+P.O. Box 11772, 1001 GT 
+Amsterdam, Netherlands 
+
+Tel. office: +31 6 4695 4405 
+www.smartfreightcentre.org 
+info@smartfreightcentre.org  
+
+ 
+ 
+ 
+ 
+Adding to the performance tracking and optimization use cases, the use of primary data, which is 
+supported  by  the  data  exchange  data  model,  improved  accuracy  with  respect  to  modelled  or 
+default data. Primary data also allows for greater granularity, which enables the identification of 
+hot spots, or points of the supply chain with high potential for emission reduction. Also, the level 
+of granularity at the transport chain element level, which is supported by the data model, allows 
+precise performance tracking of measures like round-trip booking, load optimization, low-carbon 
+fuels, carrier efficiency. 
+
+Completeness  
+
+In general, the implementation partners have found difficulties including all mandatory variables. 
+In some cases, efforts have been made to expand the variables exchanged to fit the requirements 
+of the data model, but some variables remained difficult to identify, especially empty distance, 
+mode specific vehicle type and in rare cases the mode of transport. 
+
+It has been noted that completeness of the data can vary a lot depending on the stakeholder who 
+provides the information. This might relate to different degrees of data availability or willingness 
+to share. One specific issue in terms of this dimension was the clear distinction between Transport 
+Operator Name and IDs (SCAC or DUNS) and how they relate to a unique legal entity. From the 
+implementations, the organisations realised that the Transport Operator Name if is interpreted as 
+company name, is not granular enough to facilitate data exchange and also can contain multiple 
+different legal names referring to one company. This impeded the data aggregation step (prior to 
+the exchange of GHG related information). One of the proposals is to use tax related unique IDs 
+which show clearly the hierarchies of transport operating companies in their different countries of 
+operations. 
+
+Consistency 
+
+In some cases, due to inaccuracy or lack of data, the GHG emissions calculated in TMS and the 
+values  from  different  stakeholders  present  discrepancies.  This  is  a  known  challenge  and  lies 
+outside  of  the  scope  of  this  project.  In  case  the  reader  is  interested  in  understanding  the 
+methodology of calculating emissions when using primary data they are prompted to refer to the 
+End – to – End project. To understand more of the overall methodology for calculating emissions 
+the reader is prompted to refer to the GLEC Framework. 
+
+Timeliness 
+
+As the data model is not providing a preferential or required exchange period, the different test 
+cases have different exchange periods set depending on the customer or platform request. No 
+challenges have been reported in terms of exchanging the data in the data periods fixed by each 
+case.  
+
+Validity 
+
+No challenges in terms of validity of data have been identified in the project. 
+
+Uniqueness 
+
+No challenges in terms of uniqueness of data have been identified in the project. 
+
+IT implementation considerations 
+
+Apart  from  the  six  dimensions  of  data  quality,  other  key  aspects  have  also  been  considered, 
+including IT challenges/integration, data availability and level of detail. Regarding IT integration, 
+two of the test cases highlighted the convenience of automatizing the exchange of information, to 
+
+Contact 
+
+Smart Freight Centre 
+Keizersgracht 560, 1017 EM 
+Amsterdam, Netherlands 
+
+P.O. Box 11772, 1001 GT 
+Amsterdam, Netherlands 
+
+Tel. office: +31 6 4695 4405 
+www.smartfreightcentre.org 
+info@smartfreightcentre.org  
+
+ 
+ 
+ 
+ 
+avoid relying on manual exchange. However, it has also been pointed out that the implementation 
+of such a system can be slow if the company platform is big and requires the integration of reports 
+from different parties. This reinforces the relevance of implementing common semantics through 
+the exchange data model, in a format that is compatible and easily automated to avoid long times 
+invested in systems integration.  
+
+Although the level of detail proposed in the data model is at the transport chain element level, not 
+all case studies facilitate this level of exchange of information. This has been considered not a 
+major issue, as it is recognized that some business cases will not require the same level of detail 
+in the exchange of information. It has been pointed out in one of the test cases that there are 
+difficulties identifying separate consignments or transport chain elements, because of lack of more 
+clear  identification.  The  IT  systems  do  not  always  have  a  hierarchy  to  accommodate  TCE, 
+consignment  and  shipment  level  information,  which  is  a  basic  requirement  for  the  correct 
+exchange and consequent interpretation of data.  
+
+5.3  Limitations 
+
+The testing of the present data model and guidelines is limited due to the reduced availability of 
+companies  to  participate  with  case  studies.  This  can  be  due  to  lack  of  capacity  of  transport 
+companies, either lacking the IT readiness or also the reduced availability of human resources 
+caused by last years’ political instability.  
+
+More concretely, relevant aspects of the data model that were missed out in the testing phase 
+include: multimodal transport chains, multi-TCE. Only road was covered as a transport modality, 
+although expert feedback was collected and considered to improve the data variables capturing 
+information for other modalities.  
+
+The  data  model  is  designed  to  describe  the  exchange  GHG  emissions  with  additional  related 
+transport activity information. It covers energy related information and suggests some variables 
+to describe the consumed energy. As many companies monitor the energy consumed in different 
+units, at the moment the data model supports the most common ones. More testing in the future 
+could potentially help reduce the acceptable units to a shorter list. Additionally, when it comes to 
+capturing primary data specifically around fuel or energy consumption, the data model has not 
+been  tested  under  multiple  feedstock  scenarios.  Thus,  as  many  companies  track  the  fuel  or 
+energy consumed in different units, currently the data model can support the most common ones. 
+More testing in the future could potentially help finetune the acceptable units. 
+
+It is considered that all “Shipment ID”, “Consignment ID” and “Transport chain element ID” are 
+essential for aggregation. However, there has not been enough testing of the usability of different 
+ID numbers at the shipment, consignment and TCE level for more aggregated data exchange. 
+For this reason, and until this is not further tested, the users of the model can use alternative ID 
+numbers that facilitate aggregation at the shipment level and leave unknown ID numbers blank.  
+
+Lastly,  the  produced  data  model  is  a  first  attempt  to  an  open  standard  for  easier  access  and 
+reporting of emission related data. One aspect in further defining the model will be to produce and 
+maintain  a  comprehensive  list  of  energy  carriers,  packaging  unit  types,  asset  types  (incl.  dual 
+fuel),  emission  classes,  and  TOC  definitions  to  further  classify  the  constraints  for  these 
+parameters. It is expected that, as the data model and guidelines are adopted and tested by more 
+organizations,  future  updates  will  consider  the  experience  in  data  exchange  for  the  missing 
+aspects, thus further improving the current guidelines and adapting them to the users’ needs. 
+
+Contact 
+
+Smart Freight Centre 
+Keizersgracht 560, 1017 EM 
+Amsterdam, Netherlands 
+
+P.O. Box 11772, 1001 GT 
+Amsterdam, Netherlands 
+
+Tel. office: +31 6 4695 4405 
+www.smartfreightcentre.org 
+info@smartfreightcentre.org  
+
+ 
+ 
+ 
+ 
+6  Conclusions 
+
+6.1  Trust 
+
+It has been observed that trust and commitment strongly depend on the contractual situation and 
+attitude towards collaboration. There is a question on how to ensure trust to share data when this 
+is not required by law.  
+
+This relates strongly to the willingness to share. In some cases, even if there would be trust in 
+sharing  the  information,  some  carries  would  not  have  interest  or  incentives  to  be  transparent 
+about their operations. Ways to incentivize transparency could include moderating carrier success 
+independently or unifying the list of requirements that shippers request from their carriers. 
+
+In  this  sense,  the  importance  of  collaborative  measures,  where  shippers  would  work  towards 
+achieving effective reductions, has also been highlighted. If, thanks to more accurate emissions 
+data, shippers can have a better record of their emissions reduction, there would be a stronger 
+willingness to participate in the exchange of information. 
+
+6.2  Technical conclusions and limitations 
+
+To standardize the exchange of data and facilitate the communication between systems that are 
+interoperable,  a  data  model  is  proposed.  The  data  model  defines  all  parameters  required  for 
+calculation  and  reporting  of  GHG  emissions  and  is  meant  to  support  all  use  cases  of  data 
+exchange  for  all  stakeholders  in  the  logistics  supply  chain.  Its  usability  for  the  exchange  of 
+emissions data was proved through the testing in four case studies. However, some aspects of 
+the data model were missed or not sufficiently tested within the case studies. This is due to the 
+challenges  in  obtaining  complete  and  accurate  data  from  organizations  and  the  lack  of  multi-
+modal case studies. 
+
+Finally, it is expected that, as the data model and guidelines are adopted by more organizations, 
+more feedback will be collected, helping its further refinement. A wide adoption could help address 
+the  low  annual  emission  reporting  from  logistics  operations  and  increase  transparency  in  the 
+emissions reporting of the industry. Future work will include the creation of a digital version of the 
+data model which would facilitate its adoption and support interoperability among IT systems of 
+all stakeholders in the supply chain. 
+
+Contact 
+
+Smart Freight Centre 
+Keizersgracht 560, 1017 EM 
+Amsterdam, Netherlands 
+
+P.O. Box 11772, 1001 GT 
+Amsterdam, Netherlands 
+
+Tel. office: +31 6 4695 4405 
+www.smartfreightcentre.org 
+info@smartfreightcentre.org  
+
+ 
+ 
+ 
+ 
+7  Outlook 
+
+7.1  Current and future development 
+
+This guidance, concluded with a qualitative and a technical deliverable. Both deliverables have 
+been developed by dedicated workstreams within phase 2 and 3 of the project, building on the 
+insights gained in the 1st phase. The overall aim of this project is to harmonize and advocate for 
+an  uptake  in  an  open  data  standard  across  supply  chains  for  GHG  emission  reporting  and 
+reduction.  
+
+In phase 3 of the project, the principles put forward in this Guidance as well as the applicability of 
+the parameter overviews and data model for various use cases were tested and refined. Amongst 
+others, key aspects and research questions answered include: 
+
+§  Guidance 
+
+–  How to think of the different exchange options and information flows? 
+
+–  Which parties are responsible for the provision of different parameters? 
+
+–  How to approach the issue of trust and assurance in data exchange? 
+
+–  How to align between other GLEC projects? 
+
+§  Data model 
+
+–  What parameters are related to the TOC level and which to the TCE level? 
+
+–  To what degree can the data model be implemented in existing systems, what adjustments 
+
+are needed? 
+
+–  Which of the recommended variables were difficult to implement? 
+
+– 
+
+In what way can the data model be aligned with existing exchange data models? 
+
+The outcome is a finetuned version of the guidance data model, which is intended to be used as 
+an  open  industry  standard  that  facilitates  data  exchange  among  stakeholders  in  logistics.  The 
+learnings from the individual cases studies, documented in these guidelines, are meant to help 
+other organizations when implementing the data model in their IT systems for the data collection, 
+emissions calculation and results exchange with other stakeholders. 
+
+As future development, it is at the moment expected to have more case studies from intermodal 
+chains.  In  addition,  Smart  Freight  Centre  is  working  towards  implementing  a  corresponding 
+technical  specification  of  the  Guidance  to  enable  interoperable  data  exchange  between  all 
+relevant stakeholders. This includes the conceptual and technical integration with WBCSD PACT 
+Initiative and its Pathfinder Network (WBCSD, 2021). The goal of this future work stream is to 
+work towards one global network of emission data exchange based on interoperability through 
+open standards. Lastly, this model will be tested in other in-house project where deemed relevant. 
+Smart Freight Centre will maintain this work as up to date as possible by adapting the data model 
+when legitimate improvements are proposed. 
+
+Contact 
+
+Smart Freight Centre 
+Keizersgracht 560, 1017 EM 
+Amsterdam, Netherlands 
+
+P.O. Box 11772, 1001 GT 
+Amsterdam, Netherlands 
+
+Tel. office: +31 6 4695 4405 
+www.smartfreightcentre.org 
+info@smartfreightcentre.org  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7.2  Acknowledgements  
+
+We  thank  the  teams  of  EVE  Platform,  GreenRouter,  shipzero,  Transporeon  Carbon  Visibility 
+Platform for their continuous support with the case studies.  
+
+We appreciate the contributions in feedback and expert sessions throughout the whole project 
+timeline from: 
+
+A.U.T.F. 
+
+ACEEE 
+
+AEMS 
+
+shipzero 
+
+DSV 
+
+Eco CO2 
+
+GreenRouter 
+
+IKEA 
+
+MIXMOVE 
+
+PepsiCo 
+
+Planetly 
+
+Searoutes 
+
+Bearing Point 
+
+EcoTransIT World 
+
+Sovereign Speed 
+
+The Dow Chemical Company 
+
+DP-DHL 
+
+Evergreen Marine Corporation 
+Kuehne+Nagel  
+
+TK Blue 
+
+Transporeon 
+
+Tracks 
+
+Transficient 
+
+Unilever 
+
+Volkswagen 
+
+Zaragoza Logistics 
+Center 
+
+Lastly, we thank Trafigura and the UPS Foundation for their financial contributions to this project. 
+
+Contact 
+
+Smart Freight Centre 
+Keizersgracht 560, 1017 EM 
+Amsterdam, Netherlands 
+
+P.O. Box 11772, 1001 GT 
+Amsterdam, Netherlands 
+
+Tel. office: +31 6 4695 4405 
+www.smartfreightcentre.org 
+info@smartfreightcentre.org  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8  Bibliography 
+
+Smart  Freight  Centre,  2022.  Global  Logistics  Emissions  Council  Framework  for  Logistics 
+Emissions Accounting and Reporting, Amsterdam 
+
+LEARN European Project, 2020. Guidelines for validation and reporting of emissions 
+
+Smart Freight Centre, 2019. Data Access Insights Paper, Amsterdam 
+
+Smart  Freight  Centre,  2022.  Global  Logistics  Emissions  Council  Framework  for  Logistics 
+Emissions Accounting and Reporting, Amsterdam 
+
+AFNOR, 2021. AFNOR SPEC X43-072 (juin 2021) Performance GES des livraisons e-commerce,  
+
+DIN,  2017.  DIN  SPEC  91224:2017-03:  Unternehmensübergreifende  Bilanzierung 
+transportbedingter Emissionen - Erfassung und Übermittlung relevanter Daten 
+
+EU  CEF  Project  FEDeRATED,  2022.  FEDeRATED  semantic 
+[Online]  
+Available  at:  http://www.federatedplatforms.eu/index.php/federated-semantic-interoperability 
+
+interoperability. 
+
+International Transport Forum, 2022. Solving the Global Supply Chain Crisis with Data Sharing 
+
+Smart  Freight  Centre,  2021.  Decarbonizing  the  operations  of  small  and  medium-sized  road 
+carriers in Europe, Amsterdam 
+
+WBCSD, 2021. Pathfinder Framework Guidance for the Accounting and Exchange of Product Life 
+Cycle 
+[Online]  
+Emissions. 
+Available 
+https://www.carbon-transparency.com/ 
+[Accessed 13 January 2023]. 
+
+at: 
+
+Smart  Freight  Centre,  2023.  Supplier  to  Customer:  End-to-End  GHG  Reporting  Guidance. 
+[Online]  
+Available 
+reporting-guidance/ 
+
+https://www.smartfreightcentre.org/en/supplier-to-customer-end-to-end-ghg-
+
+at: 
+
+Contact 
+
+Smart Freight Centre 
+Keizersgracht 560, 1017 EM 
+Amsterdam, Netherlands 
+
+P.O. Box 11772, 1001 GT 
+Amsterdam, Netherlands 
+
+Tel. office: +31 6 4695 4405 
+www.smartfreightcentre.org 
+info@smartfreightcentre.org  
+
+ 
+ 
+ 
+ 
+ 
+ 
+9  Appendix 
+
+This Appendix contains an overview of the project development, including the results of phases 
+1 and 2, and an overview of the development of phase 3.  
+
+Table 3: Overview of project phases 
+
+Phase 1. Jan-Jun 2021 (completed) 
+
+Status review of systems and exchange of 
+logistics GHG emissions 
+
+Development of data exchange 
+guidance and data exchange data 
+model  
+
+Implement and test Guidance and 
+Data model in different case 
+studies 
+
+Phase 2. Jul-Dec 2021 (completed) 
+
+Phase 3. Jan-Dec 2022 (this 
+report) 
+
+Output:  
+
+Output: 
+
+Output:  
+
+§ 
+
+Insight’s Paper covering the 5 insights 
+justifying the need for standardization in 
+data exchange (link) 
+
+§  Guidance on data exchange of GHG 
+
+logistics emissions 
+
+§  Data model for exchange of 
+GHG emissions (version 2) 
+
+§  Data model for exchange of GHG 
+
+emissions (version 1) 
+
+9.1.1  Results Phase 1 
+
+The main output of Phase 1 is the five insights, which were published in the Insights Paper (Smart 
+Freight Centre, 2019) in July 2021. Through interviews with various stakeholders, insights were 
+identified regarding the status quo of GHG emission calculation. They highlight the necessity for 
+improved data-exchange guidance and standardization. A summary is given below: 
+
+  Each party calculates and reports GHG emissions, but the exchange of values and the 
+use of any exchanged values is limited. This results in duplicity of calculations, differences 
+in assumptions and input values used, and differences in reported emissions. 
+
+  It  is  not  just  about  the  granularity  of  reporting  but  about  using  the  right  emission 
+intensity  granularity.  Everyone  is  seeking  to  move  beyond  annual  reporting  to  enable 
+performance monitoring and facilitate decision making; however, the accuracy of the data is 
+to a large extent determined by the granularity of the emission intensity factor used.  
+
+  The  majority  of  systems  in  use  by  freight  buyers  use  default  and  modeled  data  and 
+cannot cope with primary data yet. Although it is planned by all parties to move towards 
+primary data directly from the supply chain, this is not yet implemented nor does a system 
+exist where companies can reliably exchange these values that can cope with all modes and 
+the sheer number of stakeholders involved in a supply chain. 
+
+  Clear  parameters  and  guidance  are  key  to  standardize  any  kind  of  exchange, 
+independent of data type or use case. Due to the absence of clear guidance, companies 
+are not capturing the necessary information in their systems and subsequently calculate with 
+partial information.  
+
+  GLEC  certified  calculations  by  carriers  or  audited  3rd  party  intermediates  will  be 
+needed to accept primary data. Primary data poses new challenges towards the verification 
+and validation of the accuracy of the methodology and the input data; third party assurance 
+
+Contact 
+
+Smart Freight Centre 
+Keizersgracht 560, 1017 EM 
+Amsterdam, Netherlands 
+
+P.O. Box 11772, 1001 GT 
+Amsterdam, Netherlands 
+
+Tel. office: +31 6 4695 4405 
+www.smartfreightcentre.org 
+info@smartfreightcentre.org  
+
+ 
+ 
+ 
+ 
+will be required for nearly all organizations to accept and start utilizing this informal reporting 
+and decision making. 
+
+9.1.2  Results Phase 2 
+
+The  already  published  guidance  has  been  completed  with  the  formation  of  an  inclusive 
+collaborative  project  group  operating  under  the  Global  Logistics  Emissions  Council.  Two 
+workstreams were set, one for the guidance developments and the other for the data model and 
+model development. Both workstreams included a diverse group of members, representing the 
+different stakeholders (Shipper, LSP, Carrier, IT provider), with bi-weekly workstream meetings 
+between September and December. 
+
+–  The Guidance Workstream worked towards an overall guidance document to (i) define 
+the use cases, (ii) set out the responsibilities for the data, (ii) produce recommendations to 
+gain  trust  &  setup  assurance  process,  (iv)  produce  recommendations  on  incentives,  (v) 
+discuss the merits of ranking data quality and (vi) defining the logic of the data model. 
+
+–  The Data Model Workstream worked towards the development of a data model for the 
+exchange of data, suitable for various data format types, based on DIN SPEC and allowed 
+for three exchange scenarios: 1. emission data is available 2. fuel/energy consumption is 
+available 3. no consumption data is available with the use of the proposed variables. 
+
+The developments and results of the workstreams were presented and discussed with the project 
+group for verification in a webinar in October and December 2021. A final review within the project 
+group was conducted in January 2021 which led to a subsequent publication of a draft guidance 
+in February 2022. The outcome contained a first draft of the data model and guidelines which was 
+tested during the rest of 2022 as part of Phase 3. 
+
+9.1.3  Phase 3 
+
+From the previous publication, the Data Model Workstream resulted in publishing the first draft 
+version of the data model to be used in the context of calculating and exchanging logistics GHG 
+emissions.  To  test  its  validity,  limitations  and  areas  of  improvement,  organisations  that  were 
+willing to assess it and to apply it in their IT systems were identified. Thus, in the third phase, the 
+data model was applied and assessed with real-life use cases. Specifically, it was tested by the 
+teams of EVE Platform, Greenrouter, shipzero and Transporeon Carbon Visibility Platform1. This 
+phase was completed through an inclusive collaborative project group operating under the Global 
+Logistics Emissions Council and partners, consisting in the following key activities: 
+
+§  Official kick-off webinar with broader group in April 2022. The objectives and approach and 
+the three main case studies supporting Phase 3 were presented. The project partners who 
+contributed  with  case  studies,  presented  their  scope  along  with  initial  results,  including  the 
+presentation of the level of granularity in their IT systems, the approach for emissions data 
+collection and calculation and lastly what the results will be used for. 
+
+§  Monitoring of case studies, consisting of recurrent meetings with the three project partners 
+to check progress and alignment with data model during the months of April-September 2022. 
+SFC monitored the case studies, by discussing about the progress and the issues around data 
+collection.  Conclusions  were  drawn  on  data  quality,  practical  aspects  of  data  collection, 
+
+1 The results of this case study are published here. 
+
+Contact 
+
+Smart Freight Centre 
+Keizersgracht 560, 1017 EM 
+Amsterdam, Netherlands 
+
+P.O. Box 11772, 1001 GT 
+Amsterdam, Netherlands 
+
+Tel. office: +31 6 4695 4405 
+www.smartfreightcentre.org 
+info@smartfreightcentre.org  
+
+ 
+ 
+ 
+ 
+ 
+usability of variables and general use of the data model. To assess its adoption, a framework 
+with specific variables was set up to help track the extent of adoption and the difficulties faced 
+by the organizations who participated in the testing. The main criteria of assessment were: 
+accuracy, completeness, consistency, timeliness, validity and uniqueness. The assessment 
+was qualitative through a series of discussions with the teams implementing the data model.  
+
+§  Expert feedback session in July 2022, presenting updates on case studies and conclusions. 
+Participants  were  both  project  and  knowledge  partners.  Feedback  on  the  data  model  was 
+asked, with a particular focus on: improvement in variable naming, change in categorization 
+and  definition  of  specific  parameters  and  challenges  encountered  when  exchanging  data 
+between systems.  
+
+§  Revision of the guidance between September to October. Considering the collected feedback 
+and  a  subsequent  alignment  with  concepts  of  the  upcoming  ISO14083  and  the  PACT 
+Framework. The results will be presented to the project group in November. 
+
+§  Writing of the guidance. Final stage is the writing of the official guidance which was completed 
+
+through November - December 2022. 
+
+Contact 
+
+Smart Freight Centre 
+Keizersgracht 560, 1017 EM 
+Amsterdam, Netherlands 
+
+P.O. Box 11772, 1001 GT 
+Amsterdam, Netherlands 
+
+Tel. office: +31 6 4695 4405 
+www.smartfreightcentre.org 
+info@smartfreightcentre.org  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Join our journey towards 
+
+efficient and zero-emission 
+
+global freight and logistics 
+
+Contact 
+
+Smart Freight Centre 
+Keizersgracht 560, 1017 EM 
+Amsterdam, Netherlands 
+
+P.O. Box 11772, 1001 GT 
+Amsterdam, Netherlands 
+
+Tel. office: +31 6 4695 4405 
+www.smartfreightcentre.org 
+info@smartfreightcentre.org  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

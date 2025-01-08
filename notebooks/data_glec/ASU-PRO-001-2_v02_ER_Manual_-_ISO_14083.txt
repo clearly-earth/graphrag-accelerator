@@ -1,0 +1,621 @@
+Emissions Reporter Manual – ISO 14083 
+Edition: 02  I  Date: 30-09-24  I  A Smart Freight Centre initiative 
+
+1.  Introduction 
+
+1.1.  The  Smart  Freight  Centre  Conformity  Assurance  Scheme  (SFC  CAS)  for  'Validation  and 
+Verification  of  GHG  emissions  statements  for  transport  chains'  provides  a  global  scheme  for 
+independent  verification  of  GHG  emissions.  It  is  based  on  the  requirements  set  out  in  the  ISO 
+standards as well as others that are specific to the SFC scheme as outlined in Section 4. It also 
+provides optional performance levels for reporters to apply for, as they move forward along their 
+decarbonization  journey  –  these  criteria  for  these  performance  levels  are  also  subject  to 
+verification, if the reporter wants to apply them.   
+
+1.2. The SFC CAS defines two technical scopes:  
+
+1.2.1. ISO 14083 Scope: covered in this document. 
+
+1.2.2.  MBM  Specification  Scope:  covered  in  the  Emissions  Reporter  Manual  –  MBM 
+Specification (SFC-PRO-007-2). 
+
+1.3. The ISO 14083 Scope of the SFC CAS aims to:  
+
+1.3.1.  Recognize  and  encourage  reporters’  efforts  to  determine,  disclose,  manage  and 
+reduce their GHG emissions, 
+
+1.3.2. Provide a database for reporters to demonstrate that they comply with key standards 
+for calculating and reporting GHG emissions in the transport sector,  
+
+1.3.3. Share tools with stakeholders, such as a template for Emissions Report and a list of 
+tools and programs approved by SFC as being compliant with ISO 14083,  
+
+1.3.4. Provide high-quality training for emissions reporters and verifiers on the ISO 14083 
+standard, 
+
+1.3.5. Create a database of VVBs that reporters can trust to carry out a competent, impartial 
+verification service,  
+
+1.3.6. Specify clear rules for verifying GHG emissions, appropriate for the transport sector, 
+that ensure a consistent approach is applied to all reporters. 
+
+1.4. The Emissions Reporter Manual - ISO 14083 (this document) provides the specific criteria 
+and procedures under which an Emissions Reporter’s (ER) disclosures become accepted under 
+the SFC CAS, and by which the SFC CAS Performance Levels will be conferred. It also covers 
+procedures that must be followed by ERs when preparing their Monitoring Plans and Emissions 
+Reports, ahead of them being independently verified. 
+
+1.5. This procedure becomes effective on the date of issue indicated above. 
+
+ASU-PRO-001-2 V02 ER Manual - ISO 14083 
+
+Editor: Assurance Manager 
+
+     Page 1 of 9 
+
+                                                          
+ 
+ 
+ 
+ 
+ 
+Emissions Reporter Manual – ISO 14083 
+
+[Title] 
+
+2.  Scope and applicability 
+
+Edition 02 
+
+30.09.24  
+
+2.1. This document is applicable to all ERs seeking to be accepted under the ISO 14083 Scope of 
+the SFC CAS following verification in accordance with the SFC CAS rules.  
+
+2.2. Participation in the SFC CAS is voluntary and based on objective criteria. The scheme is not 
+discriminatory to ERs or VVBs. 
+
+3.  Overview of the SFC CAS 
+
+3.1. Roles and Responsibilities 
+
+3.1.1. Emissions Reporters 
+
+3.1.1.1. ERs calculate and report their GHG emissions in conformance with the reporting standards 
+set  out  in  Section  4.  They  are  responsible  for  their  Monitoring  Plan,  assumptions,  relevant 
+calculations  and  claims,  and  for  selecting  and  interacting  with  their  VVB.  After  undergoing 
+verification by their selected VVB, the VVB submits the Verification Opinion - which is the output 
+of the verification process - to the ER along with a PDF of their final verified Emissions Report. The 
+reporter, in turn, submits these to SFC. SFC then makes the opinion publicly available on the SFC 
+Emissions Reporter database (known as Listing). 
+
+3.1.2.  Validation and Verification Bodies 
+
+3.1.2.1.  VVBs  verify  that  the  ER´s  Monitoring  Plan,  assumptions,  calculations,  and  claims  are 
+transparent and conform to ISO 140831 and any other standard specified in their Monitoring Plan, 
+and that declared emissions are accurate and in accordance with the standards and monitoring 
+methodology defined in the Monitoring Plan. 
+
+3.1.2.2. VVBs must be able to demonstrate and maintain impartiality while conducting verification 
+activities.  VVBs  are  only  eligible  for  SFC  Approval  if  they  are  accredited  to  the  verification 
+standards outlined in Section 4, including approval for the transport scope for verification. VVBs 
+must sign the required Agreement with SFC before they can perform verification in connection with 
+the SFC CAS. The list of SFC approved VVBs is available on the SFC CAS website.  
+
+3.1.2.3. There are four stages of the verification process under the SFC CAS: 
+
+3.1.2.3.1. The ER appoints an SFC Approved VVB. The appointment and contracting shall 
+include the scope of work that is comprehensive and suitable for the claims being made and 
+the verification service sought.  
+
+1 The applicable version of ISO14083 is the one in force at the time of monitoring and reporting.  If an updated 
+version is issued part way through the reporting period, the Emissions Reporter may continue to monitor and report 
+in line with the old version for the object of that specific report; thereafter moving to the latest version for future 
+reporting. 
+
+ASU-PRO-001-2 V02 ER Manual - ISO 14083 
+
+Editor: Assurance Manager 
+
+     Page 2 of 9 
+
+                                                                                                                                                                                     
+ 
+ 
+ 
+ 
+Emissions Reporter Manual – ISO 14083 
+
+Edition 02 
+
+30.09.24  
+
+[Title] 
+
+3.1.2.3.2.  The  VVB  conducts  verification  of  the  declared  emissions;  the  ER  provides  full 
+access to the information needed by the VVB to complete its work.  
+
+3.1.2.3.3.  The VVB provides a Verification  Report containing its opinion;  if  the result is a 
+verified2 opinion, then the ER sends the PDF copies of the Verification Opinion and the final 
+verified Emissions Report to SFC.   
+
+3.1.2.3.4.  The  relevant  verification  documents  are  published  on  the  SFC  website.  See 
+section 5. 
+
+3.1.3.  Smart Freight Centre 
+
+3.1.3.1. The SFC CAS is managed by SFC. SFC is responsible for developing and managing the 
+scheme. It maintains an impartial position in the freight/transportation market and does not develop 
+emission calculation tools, nor does it provide consultancy or verification services.  
+
+3.1.3.2. SFC runs an Approval process for accredited VVBs to provide verification services under 
+the SFC CAS. SFC also operates a database of ER´s verified disclosures and performance levels.  
+
+3.1.3.3. SFC reserves the right not to list VVBs or ERs where it deems that they do not conform 
+with the scheme rules. SFC reserves the right to delist VVBs or ERs where it deems that they have 
+not been verified in accordance with the scheme rules  or are in breach of their Agreement with 
+SFC. 
+
+4.  Documents 
+
+4.1.  The  rules  and  requirements  for  the  SFC  CAS  are  set  out  in  the  scheme  documents. 
+Complementing  this document  are  other SFC  procedures,  templates  and  forms,  and  standards 
+issued by external entities or SFC. SFC may issue new documents. The complete and current list 
+of the scheme documents is available on the SFC CAS website.  
+
+4.2.  SFC  CAS  documents  are  given  a  version  number  and  specify  their  effective  date.  Where 
+documents that are relevant for the SFC CAS are updated, the updates made will be summarized 
+in an appendix table. If applicable, a transition period will be specified. VVBs approved by SFC 
+and ERs listed by SFC will be informed of the updates. 
+
+4.3. Where documents are referenced - and such documents are updated - the most recent version 
+of the document should be used, and their transition period considered. 
+
+4.4. The following are normative documents (i.e., standards) for the ISO 14083 Scope:  
+
+A. 
+
+Reporting standards: 
+
+4.4.1.  ISO  14064-1,  Greenhouse  gases  –  Part  1:  Specification  with  guidance  at  the 
+organization  level  for  quantification  and  reporting  of  greenhouse  gas  emissions  and 
+removals 
+
+2 Or ‘verified with comments’ 
+
+ASU-PRO-001-2 V02 ER Manual - ISO 14083 
+
+Editor: Assurance Manager 
+
+     Page 3 of 9 
+
+                                                                                                                                                                                     
+ 
+ 
+ 
+ 
+Emissions Reporter Manual – ISO 14083 
+
+Edition 02 
+
+30.09.24  
+
+[Title] 
+
+4.4.2.  ISO  14083,  Greenhouse  gases  –  Quantification  and  reporting  of  GHG  emissions 
+arising from transport chain operations 
+
+B. 
+
+Verification standards: 
+
+4.4.3.  ISO  17029,  Conformity  Assessment  –  General  principles  and  requirements  for 
+Validation and Verification Bodies  
+
+4.4.4. ISO 14065, General principles and requirements for bodies validating and verifying 
+environmental information 
+
+4.4.5.  ISO  14064-3,  Greenhouse  gases  –  Part  3:  Specification  with  guidance  for  the 
+verification and validation of greenhouse gas statements  
+
+4.4.6. ISO 14066, Greenhouse gases – Competence requirements for validation teams and 
+verification teams 
+
+4.5.  The  standards  listed  above  are  part  of  the  requirements  of  the  SFC  CAS,  and  their 
+requirements shall be met either by the ER (set A above) or the VVB (set B above). 
+
+C. 
+
+Guidance: 
+
+4.6. The required scheme documents are complemented by guidance documents, which provide 
+additional information to assist with the interpretation of standards - these are mentioned explicitly 
+in ISO 14083 and/or published on the SFC website. An example of a guidance document is the 
+GLEC Framework (SFC-GUID-001). Reporters are expected to follow the recognized guidance 
+or explain  to their VVB why they have not and/or that the guidance they have followed is more 
+robust. 
+
+D. 
+
+Definitions: 
+
+4.7. Definitions as set out in ISO 17000 and the ISO standards referenced above apply to the SFC 
+CAS.  
+
+5.  Applications, Fees and Listing 
+
+5.1.  SFC  charges  fees  to  cover  administration  costs,  at  the  rates  set  out  in  the  document 
+Assurance fees for Emissions Reporters (ASU-FEE-001-2).   
+
+5.2. To apply to the SFC CAS, ERs must complete an Application Form (ASU-TPL-010-2) and 
+submit the signed application, along with all supporting evidence mentioned in the application form, 
+to assurance@smartfreightcentre.org.  
+
+5.3. Applicants must also sign the License Agreement SFC-ER (ASU-TPL-009-2), and pay the 
+Listing Fee defined in the fee schedule. This fee covers the review of (only) one GHG Emissions 
+Report per year, but more than one report can be submitted for listing. 
+
+5.4. The application shall only be considered when SFC has received all the documentation and 
+the Listing Fee. Applicants should only apply when they are ready to submit their verified Emissions 
+
+ASU-PRO-001-2 V02 ER Manual - ISO 14083 
+
+Editor: Assurance Manager 
+
+     Page 4 of 9 
+
+                                                                                                                                                                                     
+ 
+ 
+Emissions Reporter Manual – ISO 14083 
+
+Edition 02 
+
+30.09.24  
+
+[Title] 
+
+Report and Verification Opinion. If these documents are complete and correct, SFC will process 
+applications from ERs and list them on the SFC website within 30 calendar days of application. 
+
+5.5. Once the application is processed, SFC will add the ER to the list of verified disclosures on 
+the SFC website, under the calendar year of the date of the verified report (the Listing Period). 
+ERs can have multiple reports listed for each calendar year, providing they have paid that year´s 
+fee. Listing of one or more reports that have been verified in a new calendar year requires payment 
+of a new Listing Fee. 
+
+5.6. Once Listed, SFC will keep that report on its database for 10 years, and a new year´s fee will 
+cover reports being added in new calendar years. In this way, in case an ER decides not to pay a 
+certain annual fee, past reports will not be removed from the database until the 10-year period is 
+over. 
+
+5.7. SFC defines two options for Listing of Emissions Reports: 
+
+5.7.1. Reports to wider stakeholders, where the Emissions Report is published alongside 
+the Verification Opinion [or the Opinion is alongside a link to where the report is published 
+by the ER and where the ER includes a link to the SFC listed opinion in their report (pdf or 
+website)] 
+
+5.7.2.  B2B  reports,  where  both  Verification  Opinion  and  Emissions  Report  can  remain 
+private, and there is an access code that the ER can provide to its report user so they can 
+access the opinion on the SFC website to obtain assurance. In this case, the SFC public 
+website would just list the ER and the report number.  
+
+As part of their application ERs shall select which Listing options they choose, with the proviso that 
+all reports to wider stakeholders (such as annual inventories) are on option 1.  
+
+6. 
+
+Emissions Report 
+
+6.1. ISO 14083 defines the minimum content for reporting GHG emissions. Although no template 
+or format is mandatory, clause 13.4.2 of ISO 14083 suggests the use of tables 1 and 2. SFC has 
+made  available  a  template  for  Emissions  Reports  (ASU-TPL-011-2)  which  is  consistent  with 
+these tables and which can be used, and allows simplification where sections are not applicable. 
+However,  reporting  can  be  achieved  in  various  ways  and  formats  provided  that  the  minimum 
+required content specified for the SFC CAS is included – this is outlined in the template.  
+
+6.2. Once the Emissions Report has been confirmed as ready for verification it can be shared with 
+the VVB. But once the VVB has confirmed the Emissions Report is final and prepared their own 
+Verification  Report  (VR),  the  Emissions  Report  must  be  printed  to  PDF  format  to  give  an 
+unchangeable version. The VVB will provide the reporter with a PDF copy of their full VR. 
+
+6.3. Regarding publication of the Emissions Report,  where the Emissions Report PDF is placed 
+on a website or passed onto a supplier or customer, the VVB's VR shall be incorporated into the 
+PDF file of the Emissions Report, at the end. 
+
+ASU-PRO-001-2 V02 ER Manual - ISO 14083 
+
+Editor: Assurance Manager 
+
+     Page 5 of 9 
+
+                                                                                                                                                                                     
+ 
+ 
+Emissions Reporter Manual – ISO 14083 
+
+Edition 02 
+
+30.09.24  
+
+[Title] 
+
+6.4.  Where  the  Emissions  Report  is  published  as  pages  on  a  website,  the  VVB's  VR  shall  be 
+published alongside it - either directly or accessible via a web link.  
+
+6.5. Where the Emissions Report is published as part of an annual financial report or sustainability 
+report, for example, a summary of the VR must be published alongside the reported data with a 
+web link to where the full VR can be accessed. The text of any summary published must be agreed 
+with the VVB in advance of publication. 
+
+7. 
+
+Performance Levels 
+
+7.1. SFC has defined three performance levels within which verified emissions reports may lie and 
+for  which  ERs  may  apply.  If  the  ER  intends  to  apply  for  SFC  recognition  under  a  specific 
+performance  level,  the  associated  criteria  specified  for  that  level  will  be  included  within  the 
+verification criteria checked by the VVB, and a statement made in the VR. 
+
+7.2. The levels intend to signal aspects which are considered important, such as completeness of 
+the report, transparency and data quality. There is an extra level which results in a “+” on any level, 
+as in level 1+, 2+, 3+, for reporters who choose to also include black carbon in the data reported.  
+
+7.3. The levels are described in table 1 below. All conditions and thresholds must be satisfied to 
+achieve the required level. For data quality, there are two separate calculations: one for own fleet 
+and another for subcontracted fleets; both must be satisfied to achieve the required level. 
+
+ASU-PRO-001-2 V02 ER Manual - ISO 14083 
+
+Editor: Assurance Manager 
+
+     Page 6 of 9 
+
+                                                                                                                                                                                     
+ 
+ 
+ 
+ 
+TABLE 1 - LEVELS OF PERFORMANCE OF REPORTERS  
+NOTE 1, NOTE 2 
+Criteria 
+1.Level of assurance of verification  
+NOTE 3 
+
+2.Materiality for verification  
+NOTE 4 
+3. Cut-offs for reporters  
+NOTE 5 
+
+4. Public reporting for reporters 
+NOTE 6 
+5a. Data quality: % primary data for own fleet  
+NOTE 7 
+
+5b. Data quality: % default data for 
+(sub)contracted fleet 
+NOTE 7 
++ OPTIONAL (Plus grade) 
+6. Black carbon: If black carbon is calculated and 
+verified, then this is a “+”, as in level 1+, level 2+ or 
+level 3+   
+
+NOTES: 
+
+LEVEL 1 
+Agreed Upon Procedures for new 
+reporters, limited from 3rd year 
+onwards  
+- 
+
+- 
+
+- 
+
+ISO 14083 compliance, but no 
+threshold specified for data quality 
+KPI 
+As for 5a above 
+
+LEVEL 2 
+Limited 
+
+- 
+
+≤5% for overall emissions  
+AND 
+≤20% for scope 3 
+Overall carbon footprint 
+
+proportion of reported emissions 
+calculated using primary-based 
+data ≥ 60% 
+proportion of reported emissions 
+calculated using default data 
+≤50% 
+
++ 
++ 
+
++ 
++ 
+
+LEVEL 3 
+Reasonable 
+
+≤ ±5% of overall declared 
+emissions  
+≤5% for overall emissions 
+AND 
+≤10% for scope 3 
+All data contained in the SFC 
+report template 
+
+proportion of reported 
+emissions calculated using 
+primary-based data ≥ 80% 
+proportion of reported 
+emissions calculated using 
+default data ≤10% 
++ 
++ 
+
+1.  Emissions are to be calculated in metric tonnes.  
+2.  All % values are determined on the basis of the freight operator’s reported verified emissions (ie this is the denominator in the calculation). 
+3.  This is a criterion that is NOT covered by ISO 14083, but must be defined in any verification service. 
+4.  This is a criterion that is NOT covered by ISO 14083, but must be defined in any verification service. For levels 1 and 2, SFC does not define any threshold 
+
+for materiality for verification. For level 3, SFC defines a threshold of 5%. A materiality threshold of 5% means that the VVB will still issue an opinion even 
+if an AGGREGATE ERROR is detected that leads to a deviation of ±5% of emissions. But if the AGGREGATE ERROR leads to a deviation of ±5.1% then 
+an opinion would not be issued. 
+
+5.  Cut offs are the proportion of the data that can be excluded from the ‘defined scope’ of the report (i.e. deminimis exclusion). Cut-offs can be agreed to 
+
+cover small emissions sources that should be within the ‘defined scope’ but are deemed deminimis and so can be ignored. Cut-offs are allowed by ISO 
+14083 clause 5.2.3 with no threshold specified, which corresponds to level 1. For level 2 and 3 alignment was sought with SBTi. 
+
+6.  For level 1, it is not mandatory to publish emissions at all. For level 2 the overall carbon footprint must be made publicly available by the reporter. For level 
+3, all APPLICABLE information covered in the SFC template must be publicly available. Reporters do not actually need to use the SFC template, nor issue 
+one document only, as long as it is transparent where all the information is published.    
+
+7.  This indicator consists in the proportion of emissions reported that are calculated using data from primary, modeled or default data – for the reporter’s own 
+
+and/or subcontracted fleets, as applicable.  
+
+ASU-PRO-001-2 V02 ER Manual - ISO 14083 
+
+Editor: Assurance Manager 
+
+     Page 7 of 9 
+
+                                                          
+ 
+  
+ 
+ 
+8.  Monitoring Plan 
+
+8.1.  Content of the Monitoring Plan 
+
+8.1.1. An ER must prepare a Monitoring Plan,3, which is a document describing their methodology 
+and calculation approach. This document can be given another name (e.g. Standard Operating 
+Procedure  [SOP],  Reporting  Approach,  Accounting  Policy),  provided  the  minimum  content 
+described below is covered:  
+
+8.1.1.1. Definitions. 
+
+8.1.1.2. Documentation of roles and responsibilities including quality control procedures and 
+interactions with subcontractors.  
+
+8.1.1.3.  Detailed  documentation  of  data  flow  from  source  (e.g.  invoice/meter  reading  for 
+scope  2 electricity  use)  to  report,  including  identification  of  where data  is  held  by  a  third 
+party on the Reporter’s behalf,  
+
+8.1.1.4. Estimation methods, 
+
+8.1.1.5. Assumptions underlying the  gathering of data, calculation factors, estimates and 
+other calculations, for example, 
+
+8.1.1.6.  Justification  for  any  deviations  from  recommended  data  sources  and  calculation 
+methods, 
+
+8.1.1.7. Description of calculations (including final calculation tools and templates), 
+
+8.1.1.8. The internal controls over data generation, acquisition, accounting and reporting, 
+which might include: data generation and validation, calculations, reporting and decision-
+making timetable; project tracker of progress against timetable, as well as controls over IT 
+and  data  systems  used  for  storage,  processing  and  manipulation  of  relevant  data;  and 
+control over third parties that supply services relevant to GHG reporting. 
+
+8.1.1.9.  Description  of  the  process  for  retention,  and  the  retention period,  of  evidence  to 
+support data and information underpinning the Emissions Report. 
+
+8.2.  Uncertainty and materiality 
+
+8.2.1. SFC recognises that there is uncertainty inherent in the use of calculation tools, estimates, 
+models,  defaults  factors  etc.  The  Monitoring  Plan  must  include  a  clear  description  of  any  such 
+
+3 Both ISO14064-1 and ISO14083 are context specific so not all elements will apply to an individual Emissions Reporter, 
+therefore the Reporter is required to compile a Monitoring Plan that details the elements that are applied in their context.  
+Verifiers will check both the content of the Monitoring Plan against the ISO requirements; AND the implementation of the 
+Monitoring Plan to confirm that emissions calculations are conformant with all three documents. 
+
+ASU-PRO-001-2 V02 ER Manual - ISO 14083 
+
+Editor: Assurance Manager 
+
+     Page 8 of 9 
+
+                                                          
+ 
+ 
+ 
+ 
+Emissions Reporter Manual – ISO 14083 
+
+Edition 02 
+
+30.09.24  
+
+[Title] 
+
+estimate approaches applied. Definitions of uncertainty and materiality can be found in the  VVB 
+Manual - ISO 14083 (ASU-PRO-002-2).  
+
+8.3. 
+
+Internal controls and data retention  
+
+8.3.1. An ER shall have an internal control system that shall comply with clause 8 of ISO 14064-1 
+on GHG inventory quality management. 
+
+8.3.2.  Emissions  Reporters  shall  retain  supporting  evidence  of  the  emissions  calculations  for  a 
+minimum period of five years. This is in case there is a dispute about declared emissions or the 
+verification process. 
+
+8.3.3. Standard passenger mass (see clause 12.1.2 of ISO 14084) is not defined in the body text 
+of  the  ISO  14083,  although  there  is  a  reference  to  a  "standard  equivalence  of  100kg  for  a 
+passenger  and  their  baggage"  in  Annex  A  (A.4.2)  for  the  Aviation  sector.  The  standard 
+equivalence of 100kg for a passenger and their baggage shall be used unless there is an adequate 
+justification. This justification shall be included in the Monitoring Plan.  
+
+9.  Related policies and other information 
+
+9.1. ER Manual – MBM Specification (SFC-PRO-007-2) 
+9.2. GLEC Framework (SFC-GUID-001). 
+9.3. Assurance Fees for Emissions Reporters (ASU-FEE-001-2) 
+9.4. Emissions Reporter Application Form (ASU-TPL-010-2) 
+9.5. License Agreement SFC-ER (ASU-TPL-009-2) 
+9.6. Emissions Report (ASU-TPL-011-2) 
+9.7. VVB Manual – ISO 14083 (ASU-PRO-002-2) 
+
+Version history 
+
+1  
+2 
+
+30/06/2023 First edition  
+30/09/2024 Following  creation  of  the  new  scope:  SFC  CAS  –  scope  MBM  Specification, 
+adaptation of this document this procedure to refer only to SFC CAS –  scope 
+ISO 14083. New template. 
+
+___________________________________________________________ 
+
+This work is copyright of SFC. It may be reproduced for fair use by those seeking SFC approval, or those wishing to learn more 
+about the SFC CAS, but may not be used by others without the written permission of SFC. 
+
+© 2024 Smart Freight Centre (SFC) 
+
+ASU-PRO-001-2 V02 ER Manual - ISO 14083 
+
+Editor: Assurance Manager 
+
+     Page 9 of 9 
+
+                                                                                                                                                                                     
+ 
+ 
+ 
+ 
+ 
+

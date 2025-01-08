@@ -1,0 +1,1931 @@
+Measuring and Reporting the 
+Carbon Footprint of Electric 
+Freight Vehicle Operations 
+Whitepaper 
+
+January 2024 
+
+1 
+
+ 
+ 
+Measuring  and  Reporting  the  Carbon 
+Footprint  of  Electric  Freight  Vehicle 
+Operations 
+Whitepaper 
+
+January 2024 
+
+© Smart Freight Centre, 2024 
+Suggested  citation:  Smart  Freight  Centre.  Measuring  and  Reporting  the  Carbon  Footprint  of  Electric  Freight 
+Vehicle Operations: Whitepaper. 2024. 
+This publication may be reproduced in whole or in part in any form for educational or non-profit purposes without special permission from 
+the copyright holder, provided acknowledgment of the source is made. Smart Freight Centre would appreciate receiving a copy of any 
+publication that uses ‘Measuring and Reporting the Carbon Footprint of Electric Freight Vehicle Operations' as a source.  No use of this 
+publication may be made for resale or for any other commercial purpose whatsoever, without prior permission in writing from Smart Freight 
+Centre. 
+
+Disclaimer 
+The views expressed in this publication are those of Smart Freight Centre and staff, consultants and management, and do not necessarily 
+reflect the views of the Board of Trustees of Smart Freight Centre. Smart Freight Centre does not guarantee the accuracy of the data 
+included in this publication and does not accept responsibility for consequence of their use. 
+
+Acknowledgements 
+This report was written by Tharsis Teoh of Smart Freight Centre.  
+
+About Smart Freight Centre 
+Smart Freight Centre is an international non-profit organization focused on reducing greenhouse gas emissions from freight transportation. 
+Smart Freight Centre’s vision is an efficient and zero emission global logistics sector. Smart Freight Centre’s mission is to collaborate with 
+the organization’s global partners to quantify impacts, identify solutions, and propagate logistics decarbonization strategies. Smart Freight 
+Centre’s goal is to guide the global logistics industry in tracking and reducing the industry’s greenhouse gas emissions by one billion 
+tonnes by 2030 and to reach zero emissions by 2050 or earlier, consistent with a 1.5°C future. 
+
+Contact 
+Smart Freight Centre 
+Keizersgracht 560, 1017 EM, Amsterdam, Netherlands 
+P.O. Box 11772, 1001 GT, Amsterdam, Netherlands 
+Tel office: +31 6 4695 4405 
+www.smartfreightcentre.org 
+info@smartfreightcentre.org      
+
+2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Measuring  and  Reporting  the  Carbon  Footprint  of  Electric 
+Freight Vehicle Operations: Whitepaper  
+
+Contents 
+
+1 
+
+2 
+
+3 
+
+Introduction 
+1.1 
+1.2 
+
+Scope 
+Document structure 
+
+Reporting rules of logistics GHG emissions from EVs 
+2.1 
+
+Disclosure  of  GHG  emissions  according  to  the  GHG  Protocol  Scope  2 
+guidance. 
+Reporting emissions according to ISO 14083 
+Key differences between the standards 
+
+2.2 
+2.3 
+
+Understanding GHG emissions from electricity 
+
+Selecting electricity GHG emission factors according to ISO 14083 
+3.1 
+3.2  Grid electricity environmental performance trends 
+3.3  Obtaining low-emission electricity or certificates 
+3.4 
+
+Emission factors and databases 
+
+4  Quantifying the GHG emissions of an EV fleet operation 
+
+4.1 
+4.2 
+
+TOC-level energy intensity factor 
+TOC-level emission intensity 
+
+5 
+
+6 
+
+Conclusion 
+
+References 
+
+7 
+8 
+8 
+
+9 
+
+9 
+11 
+12 
+
+13 
+13 
+15 
+15 
+17 
+
+19 
+19 
+21 
+
+23 
+
+24 
+
+3 
+
+                                                                                                                                   
+ 
+ 
+ 
+ 
+Measuring  and  Reporting  the  Carbon  Footprint  of  Electric 
+Freight Vehicle Operations: Whitepaper  
+
+Tables 
+
+Table 1 Emissions reporting for EV operations based on GHG Protocol 
+Table 2 A comparison of selected emission factor sources 
+Table 3 Sources of energy consumption data and need for correction factor 
+Table 4 Example calculation for an aggregated emission factor 
+
+10 
+18 
+20 
+22 
+
+Figures 
+
+7 
+Figure 1 GHG emission reduction potential of different fuels and powertrains 
+9 
+Figure 2 Overview of GHG Protocol scopes and emissions across the value chain 
+Figure 3 The ISO 14083 includes operational and energy provision emissions from all  transport 
+11 
+and hub operations 
+13 
+Figure 4 Carbon intensity from upstream activities to consumption 
+14 
+Figure 5 GHG emission factors from electricity producing facilities in EU27 
+15 
+Figure 6 Full electricity emission factor for European countries in 2019 
+16 
+Figure 7 Facility consuming both energy generated on-site and purchased from the grid 
+Figure 8 Illustration of electricity pathway from grid meter to vehicle and the various data sources 
+20 
+available 
+
+4 
+
+                                                                                                                                   
+ 
+ 
+ 
+Measuring  and  Reporting  the  Carbon  Footprint  of  Electric 
+Freight Vehicle Operations: Whitepaper  
+
+Executive Summary 
+
+The  ‘Measuring  and  Reporting  the  Carbon  Footprint  of  Electric  Freight  Vehicle  Operations: 
+Whitepaper’  is  part  of  Smart  Freight  Centre’s  series  on  road  freight  electrification,  which 
+addresses the practical challenges of designing, implementing, and assessing the impacts of an 
+electrification roadmap.  
+
+This  whitepaper  provides  supplementary  guidance  on  calculating  operational  emissions  from 
+electric vehicles, in alignment with the requirements and guidelines provided by ISO 14083, the 
+global standard for emission calculation in transport chains.  
+Electric vehicles play a vital role in significantly reducing greenhouse gas emissions  from road 
+freight, decoupling driving from energy production through innovative traction battery packs. With 
+an anticipated emission intensity reduction of up to 85% in low-carbon electricity countries, EVs 
+surpass  traditional  fuel  alternatives,  making  them  essential  for  achieving  sustainable  and  low-
+emission logistics. 
+Accurate emission measurement is vital for integrating electric vehicles (EVs) into operations and 
+embedding  them  in  the  wider  logistics  ecosystem,  requiring  precise  reporting  to  meet  industry 
+standards. The whitepaper, aligned with ISO 14083 and GLEC Framework v3, focuses on guiding 
+the  measurement  and  reporting  of  operational  emissions  from  electric  freight  vehicles  within 
+established  greenhouse  gas  emission  frameworks,  assuming  a  foundational  understanding  of 
+ISO 14083. Additional guidance is needed in the industry especially due to the complex nature of 
+EV charging behavior and strategy, the technical challenge related to charging infrastructure, and 
+the unique requirements for electricity emission factors in the ISO 14083.  
+The whitepaper covers the following topics: 
+▪  Overall  reporting  rules  for  logistics  GHG  emissions  from  EVs,  based  on  GHG  Protocol 
+
+standards and ISO 14083. 
+
+▪  Considerations  when  selecting  electricity  GHG  emission  factors,  including  emission 
+
+categories, market-based measures, and data sources. 
+
+▪  Steps  to  quantify  GHG  emissions  from  an  EV  fleet  operation,  encompassing  electricity 
+consumption,  energy intensity factors, and  aggregated emission  factors,  including charging 
+infrastructure losses, based on ISO 14083. 
+
+The proposed approach in the whitepaper aims to address the influence of the following factors 
+in complicating the identification and derivation of an energy provision emission factor. Explicitly, 
+the influences on the energy provision emission factors are: 
+▪ 
+▪  average energy contribution by behind-the-meter power generation, such as the facility’s solar 
+
+the average grid electricity mixes of countries where charging activity takes place,  
+
+panels, and  
+the on-site electrical and charging infrastructure layout (see Figure below).  
+
+▪ 
+
+5 
+
+                                                                                                                                   
+ 
+Measuring  and  Reporting  the  Carbon  Footprint  of  Electric 
+Freight Vehicle Operations: Whitepaper  
+
+Illustration of electrical pathway through the on-site electrical and charging infrastructure.  
+
+The whitepaper concludes by highlighting certain industry standardization challenges.  
+▪  Lack of clarity over the  use of the market-based  method (e.g., using the  emission factor  of 
+renewable energy explicitly purchased through energy attribute certificates market) by freight 
+buyers. 
+
+▪  The limited availability and accessibility of an electricity emission factor databases covering all 
+
+ISO 14083-required emission categories and for all relevant locations. 
+
+▪  The omission of losses from on-site electrical and charging infrastructure, affecting both the 
+energy intensity factor of the vehicle and the resulting emission intensity factor of electricity 
+use in EV operations, in the ISO 14083 standard. 
+
+It emphasizes the need for collaboration, leveraging primary data and innovative approaches to 
+achieve  standardization  and  practical  impact  in  energy  lifecycle  reporting  for  global  transport 
+emissions. The ongoing efforts by Smart Freight Centre to address challenges and provide a path 
+for  standardization  are  crucial,  inviting  organizations,  trade  associations,  and  governments  to 
+unite  in  driving  significant  improvements  in  emission  performance  within  the  logistics  sector. 
+Taking decisive action is essential for a sustainable and emission-conscious future. 
+
+6 
+
+                                                            lectric truck and fleet etered energy consumptionCharging activity data ehicle telematics data, or energy intensity factor nergy grid connection uilding facility  eterCharging station nergy provision   ell to tank  perational   ank to wheel                                                 n site power generation               wn consumption  eter                                                                                                                                   
+ 
+ 
+ 
+Measuring  and  Reporting  the  Carbon  Footprint  of  Electric 
+Freight Vehicle Operations: Whitepaper  
+
+1 
+
+Introduction 
+
+The  ‘Measuring  and  Reporting  the  Carbon  Footprint  of  Electric  Freight  Vehicle  Operations: 
+Whitepaper’  is  part  of  Smart  Freight  Centre’s  series  on  road  freight  electrification,  which 
+addresses the practical challenges of designing, implementing, and assessing the impacts of an 
+electrification roadmap.  
+
+Electric  vehicles  (EV)  play  a  crucial  role  in  reducing  greenhouse  gas  emissions  from  the  road 
+freight sector. Unlike internal combustion engine trucks, EVs use a traction battery pack to store 
+electricity, effectively separating driving activity from energy production. This not only eliminates 
+tailpipe  emissions  but  also  provides  a  lower  lifecycle  emission  factor  based  on  a  much  higher 
+primary energy efficiency and allowing for the widespread use of renewable energy. As Figure 1 
+illustrates,  EVs could achieve an average emission intensity reduction in the  EU of about 35% 
+and  up  to  85%  in  countries  with  low-carbon  electricity.  There  is  similar  emissions  reduction 
+potential in the US as well, with the reduction potential expected to increase year on year due to 
+the regional increase in renewable energy. In comparison, HVO100, itself an excellent low-carbon 
+fuel with a potential reduction of 71%, is only available in selected locations and limited quantities 
+(Smart  Freight  Centre,  2022).  In  conclusion,  EVs  provide  an  excellent  low  emission  transport 
+service investment that will provide benefits in both the short and long term.  
+
+GHG emission reduction potential of major low-carbon fuels and 
+powertrains
+
+Low-carbon electricity grid (e.g.,…
+
+Electricity (California average)
+
+Electricity (US average)
+
+Electricity (EU27 average)
+
+HVO100 (EU average)
+
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90%
+Emissions intensity reduction potential (%)
+
+Figure 1 GHG emission reduction potential of different fuels and powertrains (Source: Own 
+analysis based on Scarlat et al., 2022; Smart Freight Centre, 2023; US EPA, 2023) 
+
+Companies  that  have  implemented  EVs  in  their  operations,  whether  directly  or  through 
+subcontractors,  need to understand, measure and report their emissions accurately. Electricity 
+emissions can vary widely depending on how electricity is generated, and more confusingly, in 
+the final representation mix of sources delivered to the end user. While emission from electricity 
+have been used for a long time for logistics sites and rail transport, the charging behavior from 
+EVs and electricity emission factors are expected to vary widely, as this paper will discuss. If EVs 
+are  to  be  used  as  an  emission  reduction  solution,  determining  the  correct  emission  factor  is 
+crucial. What constitutes a correct emission factor, however, is dependent on the purpose of the 
+calculation and the reporting framework that is used.  
+In this pursuit, ISO 14083 “Greenhouse gases — Quantification and reporting of greenhouse gas 
+emissions  arising  from  transport  chain  operations”  and  guidance  in  the  form  of  the  GLEC 
+Framework version 3, offer the general principles for the calculation and serve as a guide for the 
+inclusion  of  emissions  according  to  other  reporting  requirements,  such  as  the  GHG  Protocol 
+Scope  2  and  Scope  3  standards.  However,  the  use  of  EVs,  the  charging  strategy,  charging 
+
+7 
+
+                                                                                                                                   
+ 
+ 
+ 
+ 
+Measuring  and  Reporting  the  Carbon  Footprint  of  Electric 
+Freight Vehicle Operations: Whitepaper  
+
+electrical infrastructure, as well as the energy provision from grid or other distribution channels, 
+introduces a new layer of complexity and variability that are not as established as the fuel energy 
+provision.  
+
+1.1  Scope  
+
+This whitepaper aims to address how operational emissions from electric freight vehicles are to 
+be measured and reported within the existing greenhouse gas emission disclosure frameworks, 
+the GHG Protocol standards and ISO 14083. This document presents supplementary information 
+to  the  GLEC  Framework  v3  and  ISO  14083  specific  to  the  calculation  and  reporting  of  GHG 
+emissions from electric vehicles in logistics operations, and as such assumes that the reader has 
+a general understanding of the approach used for emissions and emission intensity calculations 
+according  to  ISO  14083.  For  guidance  on  how  ISO  14083  is  applied  in  the  freight  sector,  the 
+reader is directed to the GLEC Framework v3.  
+
+1.2  Document structure 
+
+This document provides guidance on how to report the greenhouse gas (GHG) emissions from 
+electric vehicles (EVs) in logistics operations. It covers three main topics: 
+▪  The overall reporting rules of logistics GHG emissions from EVs, based on the GHG Protocol 
+
+standards and ISO 14083. 
+
+▪  The  general  considerations  when  selecting  electricity  GHG  emission  factors,  such  as  the 
+electricity emission categories, the inclusion of market-based measures, and data sources. 
+▪  The step to quantifying the GHG emissions of an EV fleet operation, including the calculation 
+of the electricity consumption and energy intensity factor, and the application of the aggregated 
+emission factors including the losses from charging infrastructure. 
+
+8 
+
+                                                                                                                                   
+ 
+  
+Measuring  and  Reporting  the  Carbon  Footprint  of  Electric 
+Freight Vehicle Operations: Whitepaper  
+
+2  Reporting rules of logistics GHG 
+
+emissions from EVs 
+
+This section compares the reporting requirements that are relevant to EV operations in the GHG 
+Protocol  and  the  ISO  14083.  The  requirements  present  the  framework  and  context  in  which 
+emission reporting takes place. Both frameworks have similarities but as they have different aims 
+and scopes there are important differences that need to be kept in mind. 
+
+2.1  Disclosure of GHG emissions according to the GHG Protocol Scope 2 
+
+guidance.  
+
+The GHG Protocol Corporate Standard classifies a company’s GHG emissions into three scopes 
+(Figure 2). The reporting of scope 1 emissions (i.e., emissions typically from the combustion of 
+fuels  from  owned  or  controlled  sources)  and  scope  2  emissions  (i.e.,  indirect  emissions  from 
+purchased energy consumed by the company) are required. Scope 3 emissions, which is a broad 
+category that includes all other indirect emissions that occur in a company’s value chain, is at this 
+point optional, even if it offers the largest opportunities for GHG reductions.   
+
+Figure 2 Overview of GHG Protocol scopes and emissions across the value chain (WRI & 
+WBCSD, 2011) 
+
+Emissions  from  EV  operations  are  divided  into  different  categories,  depending  on  the 
+electricity  lifecycle  emission  categories,  and  the  role  of  the  reporting  company.  The  electricity 
+lifecycle categories included in the GHG Protocol are: 
+▪ 
+
+“Power Generation”, emission from the combustion of fuel to generate electricity. 
+
+9 
+
+                                                                                                                                   
+ 
+ 
+ 
+ 
+Measuring  and  Reporting  the  Carbon  Footprint  of  Electric 
+Freight Vehicle Operations: Whitepaper  
+
+“Fuel production”, emissions from upstream activities related to fuel production. 
+
+▪ 
+▪  Electricity “Transmission & Distribution” (T&D), emissions allocated to electricity losses due to 
+
+the transmission and distribution of electricity, typically in the grid infrastructure. 
+
+EV  operators  are  required  to  report  emissions  from  “Power  Generation”  in  scope  2,  and  may 
+choose to report the emissions from “Fuel production” and T&D in scope 3 category 3 “Upstream 
+fuel and energy-related activities”. 
+Companies  that  have  purchased  the  services  of  EV  operators  are  only  required  to  report  the 
+scope 2 emissions of their subcontractors in the scope 3 Category 4 “Upstream Transportation & 
+Distribution” or Category 9 “Downstream Transportation & Distribution” (Smart Freight Centre & 
+CDP,  2020).  Strictly  speaking,  the  scope  3  emissions  only  “include  the  scope  1  and  scope  2 
+emissions of third-party transportation companies.” (WRI & WBCSD, 2011, p. 44).  
+Table 1 provides a summary of the types of emissions related to EV operations that are accounted 
+for under the different scopes. 
+
+Table 1 Emissions reporting for EV operations based on GHG Protocol 
+
+Reporting firm 
+
+Emission category 
+
+Buyer of EV services  Scope 3 Category 4 and 9 only includes amount of scope 2 emissions reported by carrier. 
+
+EV operator 
+
+Scope 2 for emission from power generation, that is emissions from fuel combustion at the power 
+plant. For instance, the emission of solar power is zero.  
+
+EV operator 
+
+Scope 3 Category 3 from  
+
+▪  Fuel production, i.e., emissions from the extraction, production, and transportation of fuel. 
+
+▪  T&D,  i.e.,  the  Scope  2  emissions  allocated  to  the  electricity  lost  in  transmission  and 
+
+distribution 
+
+▪ 
+
+The two methods for calculating scope 2 emissions according to the GHG Protocol Scope 2 
+Standard differ primarily in the type of electricity emission factor used. 
+▪  The location-based method uses a grid emission factor that reflects average emissions for 
+energy  consumption,  based  on  generation  as  well  as  any  net  physical  energy  imports  and 
+exports, occurring within the time period and location of interest.  
+In the market-based method, two types of emission factors are used. It allows for the use of 
+a  specific  emission  factor,  associated  contractually,  to  the  purchase  volume  of  low-carbon 
+electricity or its attributes (e.g., renewable energy contract or guarantees of origin). The other 
+electricity volume will be calculated using a residual mix emission factor, that represents the 
+unclaimed power generation mix of that location. This would typically be close to a fossil fuel 
+power  generation  emission  factor  (AIB,  2022)  and  higher  than  the  location-based  emission 
+factor.  
+
+In both methods, the scope 2 emissions  are calculated by multiplying the  location-based or 
+market-based  emission  factor  by  the  metered  electricity  consumption  in  megawatt-hours  (or 
+kilowatt-hours). 
+The GHG Protocol requires reporting scope 2 emissions using the location-based method, and if 
+relevant,  using  the  market-based  method  under  what  they  consider  dual  or  supplementary 
+reporting. In terms of purpose, the  location-based method tracks the emissions of the energy 
+sector  within  a  geographic  boundary  (usually  a  country),  whereas  the  market-based  method 
+tracks the purchasing choices of a single company.  Another practical reason is  to comply with 
+different reporting programs, such as the RE100 (RE100, 2022).  
+Unfortunately,  disclosing  Scope 3 based on  Scope 2 using market-based  reporting is not 
+explicitly discussed in any of the Scope 2 or Scope 3 standards. Hence, it is unclear whether a 
+Scope  3  disclosure  of  an  EV-based  transport  operation  using,  for  instance  renewable  energy 
+credits  or  even  power  purchase  agreements,  can  be  calculated  based  on  the  market-based 
+emission factor.  This issue is one of several that is being picked up in the current GHG Protocol 
+round of consultation on Scope 2 and Scope 3 Standards and on market-based measures. Future 
+versions may change how dual reporting is done.  
+
+10 
+
+                                                                                                                                   
+ 
+ 
+Measuring  and  Reporting  the  Carbon  Footprint  of  Electric 
+Freight Vehicle Operations: Whitepaper  
+
+2.2  Reporting emissions according to ISO 14083  
+
+The  ISO  14083:2023  is  a  standard  that  provides  a  common  methodology  for  the 
+quantification  and  reporting  of  lifecycle  GHG  emissions  arising  from  the  operation  of 
+transport chains of passengers and freight.  
+Emissions  from  vehicle  operations  in  the  ISO  14083  are  divided  into  two  major  categories 
+(ISO, 2023). The vehicle operational GHG emissions are released to atmosphere as a result 
+of  vehicle  operations.  The  vehicle  energy  provision  GHG  emissions  are  released  to 
+atmosphere  during  the  process  of  producing,  storing,  processing  and  distributing  an  energy 
+carrier for vehicle operation.  
+
+Figure  3  The  ISO  14083  includes  operational  and  energy  provision  emissions  from  all 
+transport and hub operations (Smart Freight Centre, 2023a). 
+In the case of EV operations, the operational emissions are zero. Energy provision emissions, 
+that is emissions from provision of electricity, includes all GHG emissions from “extraction, 
+processing and transport of primary energy, power generation, power generation infrastructure, 
+e.g.,  solar  panel  or  wind  turbine  manufacture,  grid  losses  associated  with  transmission  and 
+distribution  of  electricity.”  (ISO,  2023,  p.  15)  The  emission  from  energy  provision  is  reported 
+together, with the exception of emissions from power generation infrastructure, which may 
+be  reported  separately.  Any  methodological  decision  to  omit  an  emission  category  must  be 
+clearly stated and justified in accordance with cut-off criteria outlined in the subclause 5.2.3 of 
+ISO 14083. 
+ISO 14083 mandates that both transport service provider and transport service user report the 
+total emissions arising from both operational and energy provision activities. Thus, both 
+the fleet operator and the buyer of transport services must understand the type of electricity that 
+was used in the operations to calculate the emissions.   
+ISO 14083 requires the location-based method (as introduced by the Scope 2 standard) to be 
+used  for  calculating  electricity  energy  provision  emissions.  In  this  method,  the  grid-average-
+emission factors should be based on the average consumption mix of the grid (i.e., the electricity 
+generated taking into account net physical import and export of electricity).  
+The optional market-based method can be used in dual-reporting. While not explicitly stated, 
+the  ISO  14083  standard  seems  to  allow  for  the  emissions  calculated  using  the  market-based 
+method to be reported by other entities besides the EV operator.  
+For example, if the transport service operator purchases a renewable energy certificate for the 
+electricity  used  in  the  EV  operation,  the  operator  may  calculate  two  separate  transport 
+emissions  and  emission  intensities,  corresponding  to  both  the  location  and  market-based 
+methods. The transport service user may then include both sets of emissions and emission 
+intensities in their ISO 14083 report.  
+
+11 
+
+                                                                                                                                   
+ 
+ 
+Measuring  and  Reporting  the  Carbon  Footprint  of  Electric 
+Freight Vehicle Operations: Whitepaper  
+
+2.3  Key differences between the standards 
+
+The ISO standard, which was built on the work done in the GLEC Framework, was designed to 
+be aligned with the GHG Protocol. Hence, both reporting requirements hold common elements. 
+However, there are several key differences between their reporting requirements emissions from 
+EV operations.  
+These are briefly highlighted below.  
+▪  Emission categories:  
+
+– 
+
+ISO 14083 also includes the emissions from  power  generation  infrastructure, albeit with 
+the possibility of a separate reporting, or omissions, if justified. The implication is that non-
+fuel renewable energy sources (e.g., solar, wind and hydropower) also have emissions. 
+–  The GHG Protocol does not include this anywhere in the Scope 2 or Scope 3 standard. 
+
+▪  Reporting responsibility and scopes:  
+
+– 
+
+– 
+
+ISO 14083 mandates that both shipper and carrier are to include the total emissions from 
+transport.  
+In contrast, the GHG Protocol Scope 2 is mandatory only for the electricity user/purchaser 
+(e.g.,  fleet  operator)  and  it  only  includes  ‘Power  Generation’  (i.e.,  Scope  1  of  power 
+generation companies). Other lifecycle emissions (i.e., upstream fuel and energy-related 
+activities) are reported optionally as part of the Scope 3 disclosure.  
+▪  The use of dual reporting by a buyer/user of a transport service:  
+
+– 
+
+ISO  14083  allows  for  the  possibility  of  dual-reporting  (location-based  and  market-based 
+methods) to be used by other companies besides the purchaser of electricity, i.e., outside 
+scope 2.  
+
+–  GHG Protocol is not yet clear on the use of market-based method in the Scope 3 emissions. 
+Further discussions with the community on their standard for reporting Scope 2, Scope 3 
+and Market-based Measures are being held. 
+
+12 
+
+                                                                                                                                   
+ 
+ 
+Measuring  and  Reporting  the  Carbon  Footprint  of  Electric 
+Freight Vehicle Operations: Whitepaper  
+
+3  Selecting electricity GHG emission 
+factors according to ISO 14083 
+
+This section presents several considerations when it comes to selecting energy emission factors. 
+The  section  begins  with  a  general  understanding  of  what  is  included  in  an  electricity  GHG 
+emission factor, primarily based on what ISO 14083  requires to be included. Next, the section 
+provides  several  trends  based  on  the  energy  sector  and  policy  that  will  change  the  current 
+electricity landscape in the upcoming decade. The third sub-section presents several ways that 
+companies may use to reduce their EV-based emissions, primarily based on market instruments. 
+Finally, the section ends with a brief comparison of several notable emission factor sources.  
+
+3.1  Understanding GHG emissions from electricity 
+
+Figure 4 shows the different stages of electricity, as well as the upstream (fuel production) and 
+combustion (power generation) emissions. As the figure shows, part of the electricity produced is 
+used for own-use, load-balancing (e.g. by pumping) and for trade. The difference between the 
+supplied and consumed electricity is due to transmission and distribution losses. It is important to 
+understand the type of emission factor that is used and to apply a correction factor based on best 
+available knowledge, or to disclose any deviations from the ISO 14083 requirement.  
+
+Figure 4 Carbon intensity from upstream activities to consumption (Moro & Lonza, 2018) 
+
+The emissions from different types of energy sources are presented in Figure 5. An electricity 
+consumption  mix  that  relies  on  fossil  fuel-power  generation  will  have  a  high  emission  factor. 
+Renewables and nuclear are orders of magnitude lower than fossil-fuel power plants. The figure 
+also shows why upstream emissions, which can be up to 100 gCO2e/kWh for fossil fuels (or 10 
+to 20% of the total), should be included in the calculation.  
+On  the  other  hand,  the  emissions  from  renewable  power  generation  infrastructure  range 
+from 10 to 40 gCO2e/kWh. The emissions only become a significant portion of the total when the 
+share  of  renewable  energy  is  high.  To  give  an  example  of  this  significance,  if  the  energy 
+
+13 
+
+                                                                                                                                   
+ 
+ 
+ 
+ 
+ 
+Measuring  and  Reporting  the  Carbon  Footprint  of  Electric 
+Freight Vehicle Operations: Whitepaper  
+
+consumption  is  based  on  half  natural  gas  and  half  solar  PV,  the  emissions  from  solar 
+infrastructure would only constitute 9% of the total.  
+
+Figure 5 GHG emission factors from electricity producing facilities in EU27 (Scarlat et al., 
+2022) 
+
+The trade of electricity drastically changes the consumption emission factor, depending on the 
+average power generation emission factor of the exporting and importing country. For instance, 
+the  electricity  emission  factor  of  Estonia  in  2019  dropped  by  one  third  due  to  the  import  of 
+predominantly  low  carbon  electricity.  The  amount  and  type  of  energy  traded  can  drastically 
+change from year to year, such as when there is a shortage in natural gas.  
+Average  transmission  and  distribution  (T&D)  losses  are  different  depending  on  type  of 
+voltage distribution (i.e., low to high voltage grid connections). The final consumption at high and 
+medium voltage sites are about 1 to 10% lower than at low voltage sites, which translates to about 
+1 to 78 g CO2e per kWh of consumption. This is not an insignificant difference. The EU average 
+is 3 to 4% and 15 to 19 g CO2e per kWh of consumption. Nevertheless, most databases typically 
+provide a national average for the T&D losses, which is suitable for emissions disclosure. 
+The final consumption emission factor provides the most appropriate basis to then compare the 
+emissions intensity of an EV and diesel truck. Figure 6 provides a country-level comparison for 
+emissions from electricity consumption in European countries in 2019 (Scarlat et al., 2022), 
+as well as a comparison with the emission intensity of a diesel truck (Smart Freight Centre, 2019). 
+The values include fuel production, power generation, infrastructure, trade, and transmission & 
+distribution  losses.  The  analysis  shows  that  approximately  half  provide  an  electricity  emission 
+factor less than that of a diesel truck, and only 8 countries reduce emissions by at least 50%. An 
+EV  operating within the  EU-27 would have an emission  intensity  reduction  of 16%. In  the US, 
+based  on  eGRID  subregion  2021,  which  do  not  include  the  effects  of  fuel  production  and 
+infrastructure, only 3 out of 27 regions provide an emissions reduction of more than 25%.  
+
+14 
+
+                                                                                                                                   
+ 
+ 
+ 
+ 
+ 
+ 
+Measuring  and  Reporting  the  Carbon  Footprint  of  Electric 
+Freight Vehicle Operations: Whitepaper  
+
+Emission factor of consumed electricity at low voltage, including fuel production and infrastructure in 
+2019 (g CO2e/kWh)
+
+)
+h
+W
+k
+/
+
+e
+2
+O
+C
+g
+(
+
+r
+o
+
+t
+c
+a
+
+f
+
+i
+
+n
+o
+s
+s
+m
+E
+
+i
+
+1200
+
+1000
+
+800
+
+600
+
+400
+
+200
+
+0
+
+at 397 g COeq/kWh, 
+emissions intensity is 
+equivalent to diesel truck 26 
+to 40 t.
+
+i
+
+a
+n
+a
+b
+A
+
+l
+
+d
+n
+a
+e
+c
+I
+
+l
+
+y
+a
+w
+r
+o
+N
+
+n
+e
+d
+e
+w
+S
+
+e
+c
+n
+a
+r
+F
+
+d
+n
+a
+l
+r
+e
+z
+t
+i
+
+w
+S
+
+d
+n
+a
+n
+F
+
+l
+
+i
+
+k
+r
+a
+m
+n
+e
+D
+
+i
+
+m
+u
+g
+e
+B
+
+l
+
+i
+
+a
+n
+e
+v
+o
+S
+
+l
+
+i
+
+a
+v
+t
+a
+L
+
+7
+2
+U
+E
+
+i
+
+a
+n
+a
+u
+h
+
+t
+i
+
+L
+
+l
+
+a
+g
+u
+
+t
+r
+o
+P
+
+y
+r
+a
+g
+n
+u
+H
+
+g
+r
+u
+o
+b
+m
+e
+x
+u
+L
+
+i
+
+a
+k
+a
+v
+o
+S
+
+l
+
+l
+
+y
+a
+
+t
+I
+
+a
+
+i
+t
+
+a
+o
+r
+C
+
+d
+n
+a
+e
+r
+I
+
+l
+
+y
+n
+a
+m
+r
+e
+G
+
+s
+d
+n
+a
+l
+r
+e
+h
+
+t
+
+e
+N
+
+i
+
+n
+a
+p
+S
+
+a
+i
+r
+t
+s
+u
+A
+
+m
+o
+d
+g
+n
+K
+d
+e
+
+i
+
+t
+i
+
+n
+U
+
+a
+
+t
+l
+
+a
+M
+
+i
+
+a
+n
+a
+m
+o
+R
+
+i
+
+a
+n
+o
+
+t
+s
+E
+
+a
+v
+o
+d
+o
+M
+
+l
+
+i
+
+a
+s
+s
+u
+R
+
+i
+
+e
+n
+a
+r
+k
+U
+
+s
+u
+r
+a
+e
+B
+
+l
+
+a
+i
+r
+a
+g
+u
+B
+
+l
+
+i
+
+a
+h
+c
+e
+z
+C
+
+y
+e
+k
+r
+u
+T
+
+e
+c
+e
+e
+r
+G
+
+s
+u
+r
+p
+y
+C
+
+d
+n
+a
+o
+P
+
+l
+
+o
+r
+g
+e
+n
+e
+
+t
+
+n
+o
+M
+
+i
+
+a
+b
+r
+e
+S
+
+o
+v
+o
+s
+o
+K
+
+i
+
+a
+n
+o
+d
+e
+c
+a
+M
+h
+t
+r
+o
+N
+
+i
+
+a
+n
+v
+o
+g
+e
+z
+r
+e
+H
+a
+n
+s
+o
+B
+
+i
+
+Figure 6 Full electricity emission factor for European countries in 2019 (Adapted data from 
+Scarlat et al., 2022) 
+
+3.2  Grid electricity environmental performance trends  
+
+Globally, total emissions from the electricity sector have increased slightly in the past 3 years due 
+to  increased  electricity  generation,  even  as  we  see  that  emission  intensity  has  reduced  (IEA, 
+2023).  In  the  US  and  European  Union,  emissions  from  the  sector  reduced  slightly,  driven  by 
+strong solar power performance. Nevertheless, these regions need to decrease much faster than 
+before to meet its environmental commitments (https://www.eea.europa.eu/ims/greenhouse-gas-
+emission-intensity-of-1, accessed 24 August 2023).  
+One  of  the  primary  drivers  in  electricity  decarbonization,  which  also  has  the  sub-objective  of 
+reducing electricity prices, is policy. Different types of policies have been introduced to provide a 
+long term, sustainable and stable pathway towards decarbonization. In the EU, the Renewable 
+Energy  Directive  II  has  provided  reduction  targets  for  the  energy  sector  of  individual  member 
+states  to  achieve,  as  well  as  provided  the  basis  for  trading  certificates  (e.g.,  the  Dutch 
+Hernieuwbare  Brandstof  Eenheden)  between  suppliers  to  meet  quotas  (Schneider  Electric, 
+2018).  The  proposed  Renewable  Energy  Directive  III  (RED  III)  has  the  objective  of  RED  III  to 
+increase the EU’s binding renewable energy target for 2030 from 32% to 45%, in line with the 
+European Green Deal and the goal of achieving climate neutrality by 20501. Complementing the 
+system  is  the  EU’s  Emission  Trading  Scheme  that  provides  a  cap-and-trade  mechanism  for 
+reducing  emissions.  In  the  US,  the  Inflation  Reduction  Act  is  expected  to  reduce  the  total 
+emissions by more than 40% by 2030 (Roy et al., 2022), while demand is expected to increase. 
+In summary, it would appear that, at least in the EU and US, the electricity market looks set on 
+moving  in  the  right  direction.  However,  for  companies  located  in  certain  markets,  it  remains 
+insufficient to make the short-term business and environmental case for electrification based on 
+grid electricity emission factors.  
+
+3.3  Obtaining low-emission electricity or certificates 
+
+Several  resources  exist  to  support  companies  in  making  that  transition,  including  the  work 
+conducted by RE100 (RE100, 2022). Four main approaches that companies can take to reduce 
+electricity  emissions  compared  to  annual  average  grid  emission  factors  are  presented  below, 
+
+15 
+
+                                                                                                                                   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Measuring  and  Reporting  the  Carbon  Footprint  of  Electric 
+Freight Vehicle Operations: Whitepaper  
+
+based on IEA (2022) “Advancing Decarbonisation Through Clean Electricity Procurement”. The 
+purpose of listing them here is to illustrate the different options and to discuss their implications 
+with respect to GHG emission disclosure. Companies should consider, together with specialist 
+organizations, which approach should be taken, in alignment with their own goals and context. 
+On-site  or  “behind-the-meter”  (BTM)  generation:  This  is  when  companies  invest  in  clean 
+electricity generation to meet their own demand, such as installing solar panels on their rooftops 
+or wind turbines on their premises. This option can reduce the company’s reliance on the grid and 
+lower their electricity bills, but it may also require additional investments in storage, backup, and 
+grid connection. This reduces the energy demand from the grid and therefore reliance on the grid 
+emission factor and would be considered under the ‘location-based’ method. Figure 7 illustrates 
+how the GHG Protocol treats the additional power generation. In the ISO 14083, which disregards 
+the  scopes,  an  electricity  emission  factor  for  both  the  on-site  generation  and  the  grid  must  be 
+applied for the volumes of electricity consumed respectively. 
+
+Figure 7 Facility consuming both energy generated on-site and purchased from the grid 
+(Source: World Resources Institute, 2015) 
+
+Power purchase agreements (PPAs): These are long-term contracts between a consumer and 
+an electricity producer, where the consumer agrees to buy a fixed amount of electricity at a fixed 
+price for a fixed period. The producer can be either an existing or a new clean generator, and the 
+contract can be either physical (where the electricity is delivered to the consumer) or virtual (where 
+the electricity is sold to the grid and the consumer receives the price difference). While there may 
+be  a  variety  of  different  conditions,  the  physical  PPA  could  be  counted  in  the  location-based 
+method under the “Direct Line” category (WRI, 2015). The virtual approach, also called a finance 
+PPA, would provide a renewable energy certificate and an associated emission factor eligible to 
+be  used  in  a  market-based  method.  With  the  finance  PPA,  reporting  using  the  location-based 
+method will have to use the grid emission factor. 
+
+16 
+
+                                                                                                                                   
+ 
+ 
+ 
+ 
+Measuring  and  Reporting  the  Carbon  Footprint  of  Electric 
+Freight Vehicle Operations: Whitepaper  
+
+Green tariffs and green power products: These are short-term contracts for procurement of 
+renewable electricity provided via the grid. The supplier-specific emission factors may be used in 
+the market-based method, whereas reporting using the location-based method will have to use 
+the grid emission factors.  
+Energy attribute certificates (EAC): These are tradeable credits that can include attributes such 
+as type  and time of generation. For example,  a company can buy green  electricity certificates 
+(e.g. GOs in  Europe or RECs in the US) to match its  consumption with clean generation from 
+existing plants. The emission factors associated with the EACs and the residual energy mix may 
+only be used in the market-based approach. While these are typically used for annual matching, 
+time-dependent EACs may be used for more granular matching of consumption and supply. This 
+type  of  matching  allows  companies  to  adjust  their  charging  activity  to  match  periods  of  higher 
+renewable energy availability (e.g., during the day, when solar PV is most effective).  Note that 
+the option to accept more granular time-dependent EACs is being considered in the current Scope 
+2 Guidance revision (WRI, 2023). 
+
+Energy procurement/generation 
+
+Method for reporting renewable energy attribute  
+
+On-site or BTM generation 
+
+Location-based 
+
+Power purchase agreements 
+
+Physical PPA: Location-based 
+Financial PPA Market-based  
+
+Green tariffs and green power products 
+
+Energy attribute certificates 
+
+Market-based 
+
+Market-based 
+
+3.4  Emission factors and databases 
+
+Emission  factors, used  in  both the location-  and market-based  methods, are subject to  quality 
+criteria stated in ISO 14083 “Annex J.3”. However, obtaining the right emission factors, especially 
+for  the  location-based  method,  is  not  simple.  Table  2  compares  several  prominent  databases. 
+Regardless  of  the  methodological  selection,  reporting  entities  are  required  to  state  clearly  the 
+emission factor source, why it was selected, what it includes, as well as provide reasons for any 
+deviations from the requirements of ISO 14083.  
+The ISO 14083 standard recommends using the best available national GHG emission factors. 
+For reporting entities with a global footprint, the IEA Emission Factor database, updated annually, 
+would seem  to  be sufficiently  practical. However,  as the Table  illustrates, it does  not currently 
+cover the full spectrum of emission categories. In our opinion its failure to include emissions from 
+fuel production is its biggest deficiency. Another aspect to bear in mind that there is generally a 1 
+to 2 year lag in official data being published. This can become longer (easily 3 years) in documents 
+like the IEA  who need to wait for a country's data to be published before they include it in their 
+own lengthy publication process. 
+Other  national  databases  or  emission  factors,  such  as  supplied  by  the  Dutch,  UK  and  US 
+government, typically provide consumption emission factors, which includes power generation, 
+trade effects, and transmission and distribution losses. The Dutch database, however, provides 
+the fuel production emission factors, and as reference the emissions from infrastructure, based 
+on the analysis CE Delft (2022).  
+EcoTransIT World (2023) provides emission factors at the country-level but does not adjust for 
+trade.  In  other  words,  the  electricity  mix  is  based  on  generation,  rather  than  consumption. 
+EcoInvent, which actually serves as the underlying lifecycle analysis database for many of the 
+different customer-facing databases, provides a consumption-level data and at different voltage 
+levels  (https://ecoinvent.org/the-ecoinvent-database/sectors/electricity/,  accessed  25  August 
+2023). While detailed, one should note that application of the Ecoinvent database requires a high-
+level of LCA expertise. 
+
+17 
+
+                                                                                                                                   
+ 
+ 
+ 
+Measuring  and  Reporting  the  Carbon  Footprint  of  Electric 
+Freight Vehicle Operations: Whitepaper  
+
+Table 2 A comparison of selected emission factor sources 
+
+Emission factor source 
+
+Scope 
+
+Emission 
+factor units  
+
+Fuel 
+production 
+
+Power 
+generation  
+
+Power generation 
+infrastructure 
+
+Transmission and 
+distribution losses 
+
+Trade 
+included 
+
+IEA Emission Factors 
+(annual) 
+
+Global scope, regional and 
+country-level 
+
+gCO2e/kWh 
+
+No 
+
+Yes 
+
+No 
+
+Netherlands Government’s 
+CO2 Emissiefactoren 
+
+Netherlands 
+
+gCO2e/kWh 
+
+Yes 
+
+Yes 
+
+Yes 
+
+UK Government’s 
+Greenhouse gas reporting: 
+conversion factors 2023  
+
+UK 
+
+eGrid 2021 
+
+US, eGrid regions 
+
+EcoTransIT 
+
+Ecoinvent v3.9.1 
+
+Global scope, regional and 
+country-level 
+
+Global scope, regional and 
+country-level, division by low, 
+medium and high voltage 
+network 
+
+gCO2e/kWh 
+
+No 
+
+Yes 
+
+No 
+
+Lb or kg  
+CO2e/MWh 
+
+No 
+
+Yes 
+
+No 
+
+gCO2e/kWh 
+
+Yes 
+
+Yes 
+
+Yes 
+
+kgCO2e/kWh  Yes 
+
+Yes 
+
+Yes 
+
+Yes  
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+No 
+
+Yes 
+
+If compromises are inevitable, for instance if the emission factor does not include all categories, 
+the selection of database and emission factor should be dependent on the expected size of the 
+impact.  For  instance,  in  Europe  the  impact  of  trade  is  significant  and  should  be  included. 
+Construction emissions on the other hand do not make a significant difference in most European 
+countries,  except  where  renewable  electricity  makes  up  most  of  the  consumption,  such  as 
+Sweden and Iceland. The selection should be transparent and  sufficient justification should be 
+provided, as per the ISO 14083 cut-off criteria.  
+
+18 
+
+                                                                                                                                   
+ 
+ 
+ 
+Measuring  and  Reporting  the  Carbon  Footprint  of  Electric 
+Freight Vehicle Operations: Whitepaper  
+
+4  Quantifying the GHG emissions of an EV 
+
+fleet operation 
+
+The steps to quantify the GHG emissions of a transport operation are described in the ISO 14083, 
+as  well  as  the  GLEC  Framework  v3,  in  Section  1.  The  approach  is  bottom-up,  where  the 
+calculation for a full transport chain is performed at subdivided parts, called the transport chain 
+element (TCE). For a vehicle, the TCE is defined as “the part of  transport chain where freight is 
+carried by a single vehicle”.  
+The general steps to calculate emissions of a vehicle-TCE are. 
+1.  Calculate the transport activity, typically in tonne-kilometers (tkm), of the TCE.  
+2. 
+
+Identify the applicable emission intensity of this TCE by establishing the relevant  transport 
+operation category (TOC).  
+
+3.  Calculate the TCE’s emissions by multiplying the transport activity by the emission intensity. 
+The use of EVs does not  introduce  any new complexity in  Steps 1 and 3. However,  there are 
+additional  considerations  to  be  taken  to  perform  Step  2,  which  is  to  identify  the  applicable 
+emission intensity, correctly.  
+This section will focus on how to determine the emission intensity factor used for an EV operation. 
+Readers are advised to refer to the GLEC Framework v3 to familiarize themselves with Steps 1 
+and 3.  
+The steps to calculate the TOC-level emission intensity factor are the following. 
+1.  Calculate  TOC-level  energy  intensity  factor  in  kWh  per  tkm,  whether  based  on  primary  or 
+
+other data sources. 
+
+2.  Calculate TOC-level emission intensity in g CO2e per tkm, based on the electricity emission 
+
+factors, and other losses to be accounted for.   
+
+This section discusses how to address some of the additional complexities in the steps above, 
+when it comes to EVs.  
+
+4.1  TOC-level energy intensity factor 
+
+The  estimation  of  the  energy  intensity  factor  of  a  vehicle  operation  should  proceed  based  on 
+primary data, if available. Figure 8 illustrates some of the primary data sources available along 
+the electricity pathway from the grid meter to the vehicle.  
+
+19 
+
+                                                                                                                                   
+ 
+Measuring  and  Reporting  the  Carbon  Footprint  of  Electric 
+Freight Vehicle Operations: Whitepaper  
+
+Figure 8 Illustration of electricity pathway from grid meter to vehicle and the various data 
+sources available 
+As the TOC energy intensity factor is representative of the energy  consumed at the vehicle, in 
+calculating  energy  consumption  based  on  either  the  metered  data  or  charging  activity  data 
+sources, a downward correction factor towards the vehicle should be applied (Table 3).  
+For example, a measurement of 100 kWh, based on metered data, could translate to only 90 kWh 
+consumed by the vehicle. In this example, 10 kWh is lost due to charging losses for every 90 kWh 
+charged by the vehicle. 
+
+Table 3 Sources of energy consumption data and need for correction factor 
+
+Type of data 
+
+Description 
+
+Correction factor 
+towards the vehicle 
+
+Metered energy 
+consumption 
+
+Metered energy consumption data represents the total electricity 
+consumed at the charging facilities, i.e., all charge points at the 
+same facility, whether from the grid or on-site power generators.  
+
+Charging activity 
+data 
+
+Rich charging activity data can provide for each vehicle the time, 
+duration, and amount of charging. In some cases, the charging 
+losses may also be estimated by the system. 
+
+Vehicle telematics 
+data 
+
+Vehicle telematics data and, more specifically, that related to the 
+battery management system can provide charge activity data as well 
+as granular data on energy consumption. 
+
+Default or modelled 
+energy intensity 
+factor 
+
+Default energy intensity factors are typically based on energy 
+consumption at the vehicle, and do not include charging losses or 
+any other. In this way, they try to replicate the energy intensity factor 
+derived from vehicle telematics data. 
+
+Yes 
+
+Yes 
+
+No 
+
+No 
+
+The size of the correction factor should be determined based on the charging losses in a typical 
+operating  condition.  This  depends  to  a  large  extent  on  the  electrical  layout  of  the  charging 
+infrastructure  (Apostolaki-Iosifidou  et  al.,  2017).  Some  installations,  in  addition  to  the  charging 
+equipment  (external  and  on-board),  will  require  an  on-site  transformer  or  power  converter. 
+Charging  efficiency  for  typical  fast  charging  DC  equipment  is  estimated  by  equipment 
+manufacturers to be between 83 to 95% (Rajendran et al., 2021). However, operating conditions, 
+such as hot weather, could also drastically affect efficiency.  
+For  use  in  ISO  14083  reporting,  it  is  not  recommended  to  estimate  energy  intensity  based  on 
+energy consumption or driving range values provided by manufacturers. They typically reflect a 
+single use case, defined by a non-applicable driving and loading profile, which fulfills legislative 
+requirements  rather  than  reflecting  real-world  conditions.  However,  they  may  be  helpful  for 
+planning purposes in the absence of better data.  
+
+20 
+
+                                                            lectric truck and fleet etered energy consumptionCharging activity data ehicle telematics data, or energy intensity factor nergy grid connection uilding facility  eterCharging station nergy provision   ell to tank  perational   ank to wheel                                                 n site power generation               wn consumption  eter                                                                                                                                   
+ 
+ 
+ 
+Measuring  and  Reporting  the  Carbon  Footprint  of  Electric 
+Freight Vehicle Operations: Whitepaper  
+
+4.2  TOC-level emission intensity 
+
+When calculating emissions for EV operations, it's crucial to consider both the electricity emission 
+factor (outlined in Section 3.4) and potential losses at specific charging locations, as shown in 
+Figure 8. As EV fleet operations often involve charging at various locations, especially in regional 
+and long-haul scenarios, the emission factor calculation requires careful attention. For instance, 
+in long-haul operations, carriers are expected to mainly charge  at their truck depots overnight. 
+However, additional charging to extend driving ranges may occur at destinations during loading 
+or unloading or en-route at public or highway charging stations, potentially in different countries. 
+Explicitly, the influences on the energy provision emission factors for the TOC are: 
+▪ 
+▪  average energy contribution by behind-the-meter power generation (see Section 3.3), such as 
+
+the average grid electricity mixes of countries where charging activity takes place,  
+
+the facility’s solar panels, and  
+the on-site electrical and charging infrastructure layout (see Section 4.1).  
+
+▪ 
+
+To systematically take these factors into account, and also to account for the likely changes in 
+grid emission factors, we propose that two additional variables are included. 
+Net electricity emission factor: This factor is specific to the charging location. It is the weighted 
+average emission factor for all the sources of electricity used in the charging station: a location-
+specific grid emission factor and multiple emission factors from behind-the-meter (BTM) power 
+generation. This aligns with the illustration in Figure 7. 
+
+𝑁𝑒𝑡 𝑒𝑚𝑖𝑠𝑠𝑖𝑜𝑛 𝑓𝑎𝑐𝑡𝑜𝑟 =
+
+𝐸𝑛𝑒𝑟𝑔𝑦 𝑔𝑟𝑖𝑑 ∗ 𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛 𝑓𝑎𝑐𝑡𝑜𝑟𝑔𝑟𝑖𝑑 + ∑ 𝐸𝑛𝑒𝑟𝑔𝑦 𝐵𝑇𝑀 ∗ 𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛 𝑓𝑎𝑐𝑡𝑜𝑟𝐵𝑇𝑀
+𝐸𝑛𝑒𝑟𝑔𝑦𝑔𝑟𝑖𝑑 + ∑ 𝐸𝑛𝑒𝑟𝑔𝑦 𝐵𝑇𝑀
+
+Charging  location  energy  correction  factor:  As  discussed  in  Section  4.1  and  illustrated  in 
+Figure  8,  there  may  be  charging  losses  from  the  on-site  electrical  and  charging  infrastructure, 
+which will reduce the electricity delivered to the vehicle. This value represents the ratio between 
+the amount of electricity in kWh transferred to the vehicle and the amount of electricity measured 
+at the meter. There is insufficient empirical data to provide an industry-wide estimate, hence at 
+this point, we recommend a conservative value of 1.11 to represent losses of 90% from meter to 
+vehicle. 
+Multiplying both the net electricity emission factor and the charging location correction factor leads 
+to  a  corrected  emission  factor  associated  to  that  charging  location.  The  corrected  emission 
+factors for each charging location can be aggregated to a TOC-level emission intensity using the 
+equation below, where 𝑖 is the index representing a charging location. The aggregation proceeds 
+based on amount of energy charged at a location, or more generally the percentage of charging 
+activity carried out at each location. 
+
+𝐶𝑜𝑟𝑟𝑒𝑐𝑡𝑒𝑑 𝑒𝑚𝑖𝑠𝑠𝑖𝑜𝑛 𝑓𝑎𝑐𝑡𝑜𝑟 = 𝑁𝑒𝑡 𝑒𝑚𝑖𝑠𝑠𝑖𝑜𝑛 𝑓𝑎𝑐𝑡𝑜𝑟 ∗ 𝐸𝑛𝑒𝑟𝑔𝑦 𝑐𝑜𝑟𝑟𝑒𝑐𝑡𝑖𝑜𝑛 𝑓𝑎𝑐𝑡𝑜𝑟 
+
+𝑇𝑂𝐶 𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛 𝐼𝑛𝑡𝑒𝑛𝑠𝑖𝑡𝑦 =  
+
+𝑖
+
+∑ (𝐸𝑛𝑒𝑟𝑔𝑦𝑖   ∗ 𝐶𝑜𝑟𝑟𝑒𝑐𝑡𝑒𝑑 𝑒𝑚𝑖𝑠𝑠𝑖𝑜𝑛 𝑓𝑎𝑐𝑡𝑜𝑟𝑖)
+𝑡𝑘𝑚
+
+= 𝐸𝑛𝑒𝑟𝑔𝑦 𝑖𝑛𝑡𝑒𝑛𝑠𝑖𝑡𝑦 𝑓𝑎𝑐𝑡𝑜𝑟 ∗ ∑ 𝐶ℎ𝑎𝑟𝑔𝑖𝑛𝑔 𝑎𝑐𝑡𝑖𝑣𝑖𝑡𝑦 𝑠ℎ𝑎𝑟𝑒𝑖 ∗ 𝐶𝑜𝑟𝑟𝑒𝑐𝑡𝑒𝑑 𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛 𝑓𝑎𝑐𝑡𝑜𝑟𝑖
+
+𝑖
+
+Example calculation 
+To  illustrate  this  calculation,  a  small  example  is  provided  below.  A  TOC  is  composed  of  truck 
+transport that crosses a national border. The annual charging activity share divided by locations 
+
+21 
+
+                                                                                                                                   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Measuring  and  Reporting  the  Carbon  Footprint  of  Electric 
+Freight Vehicle Operations: Whitepaper  
+
+are  presented  in  the  table,  including  the  net  electricity  emission  factor  and  charging  location 
+energy correction factor.  
+
+Table 4 Example calculation for an aggregated emission factor 
+
+Charging 
+location 
+
+Domestic A 
+
+Domestic B 
+
+International C 
+
+International D 
+
+Grid emission 
+factor (g/kWh at 
+meter) 
+
+Net emission factor 
+(g/kWh at meter) 
+
+Charging correction 
+factor (kWh at vehicle/ 
+kWh at meter) 
+
+Corrected 
+emission factor 
+(g/kWh at vehicle) 
+
+Charging activity 
+share (%) 
+
+100 
+
+100 
+
+250 
+
+250 
+
+84 
+
+100 
+
+135 
+
+204 
+
+1.11 
+
+1.11 
+
+1.05 
+
+1.09 
+
+93 
+
+111 
+
+142 
+
+222 
+
+40% 
+
+30% 
+
+10% 
+
+20% 
+
+Based  on  the  corrected  emission  factor  and  charging  activity  share,  an  aggregated  emission 
+factor can be calculated. In the example above, it amounts to 129 g/kWh. If the energy intensity 
+of the fleet is taken as 0.17 kWh/tkm (Smart Freight Centre, 2023a), the TOC emission intensity 
+can be calculated as 22 g/tkm. In the normal methodology used by carriers or shippers, reporters 
+can the TOC emission intensity and multiply it by that TOC’s annual transport activity to calculate 
+the annual emissions of the EV operations. 
+
+22 
+
+                                                                                                                                   
+ 
+Measuring  and  Reporting  the  Carbon  Footprint  of  Electric 
+Freight Vehicle Operations: Whitepaper  
+
+5  Conclusion 
+
+This  whitepaper  aims  to  clarify  the  measurement  and  reporting  of  operational  emissions  from 
+electric  freight  vehicles  within  existing  greenhouse  gas  emission  frameworks,  including  GHG 
+Protocol standards and ISO 14083. It begins with a high-level comparison of these standards and 
+further explores considerations for selecting electricity GHG emission factors according to ISO 
+14083  requirements.  The  paper  also  adapts  the  ISO  14083  method  to  quantify  operational 
+emissions,  considering  the  use  of  EVs,  charging  strategy,  electrical  infrastructure,  and  energy 
+provision.  While  aligned  with  ISO  14083,  certain  industry  standardization  issues  remain, 
+summarized below for consideration. 
+One area of unclarity is the use of TOC emission intensity factors using the market-based 
+method.  While  the  Scope  2  standard  and  ISO  14083  allow  for  dual  reporting  by  transport 
+operators (or electricity users), the use of the resulting emission intensity factor by the user or 
+buyer of the transport service, in Scope 3 reporting or as Transport Service User in ISO 14083, 
+is not explicitly mentioned. Although ISO 14083 allows for the results based on the market-based 
+method to be “used for a product carbon footprint in accordance with ISO14067” (ISO, 2023), it 
+is unclear whether the transport service user may use emission intensities calculated using the 
+market-based method. Further clarification is needed in the industry, as the publication of Smart 
+Freight  Centre’s  “Voluntary  Market  Based  Measures  Framework  for  Logistics  Emissions 
+Accounting and Reporting” (Smart Freight Centre, 2023b) suggests. 
+Another area of uncertainty is the limited availability of comprehensive electricity emission 
+factor databases covering all relevant locations. As explained in Section 3.4, the widely used 
+IEA database lacks coverage for all emission categories. From our survey (see Table 2), only two 
+emission factor sources offer comprehensive coverage: one for a single country, the Netherlands, 
+and one extensive database used for life cycle assessments, namely the Ecoinvent database. 
+While sustainability reporters often resort to accessible databases like the IEA, which also offer 
+broad  coverage,  their  exclusion  of  emissions  from  fuel  production  and  power  generation 
+infrastructure may necessitate an equally credible and widely applicable database encompassing 
+all emission categories, including upstream emissions. The absence of such a database could 
+limit the practical impact of achieving comprehensive energy lifecycle reporting in ISO 14083 for 
+future global transport emission reporting. 
+Additionally, ISO 14083 overlooks losses from on-site electrical and charging infrastructure, 
+affecting both the energy intensity factor of the vehicle and the resulting emission intensity 
+factor  of  electricity  use  in  EV  operations.  The  evolving  nature  of  the  current  charging 
+landscape, especially for medium to heavy-duty vehicles, makes defining typical charging location 
+correction factors premature. Nevertheless, it becomes essential to include this as an emission 
+category,  allowing users to calculate values based on primary data  and taking a step  towards 
+standardizing EV emission calculations. 
+Looking  ahead,  it  is  crucial  for  the  industry  to  unite,  leveraging  primary  data  and  innovative 
+approaches for standardization. This collaborative effort is vital to ensure the practical impact of 
+energy lifecycle reporting and to establish a strong foundation for the future  of global transport 
+emission reporting. Smart Freight Centre's ongoing work in clarifying technological and sectoral 
+challenges in logistics emission accounting, and in providing a clear path for standardization, is 
+invaluable. We invite organizations, trade associations, and governments to actively join hands 
+in addressing these challenges together. Taking decisive action on this initiative is essential for 
+driving significant improvements in emission performance within the logistics sector. 
+
+23 
+
+                                                                                                                                   
+ 
+ 
+ 
+Measuring  and  Reporting  the  Carbon  Footprint  of  Electric 
+Freight Vehicle Operations: Whitepaper  
+
+6  References 
+
+AIB. (2022). European Residual Mixes 2020. 
+Apostolaki-Iosifidou, E., Codani, P., & Kempton, W. (2017). Measurement of power loss during 
+
+electric vehicle charging and discharging. Energy, 127, 730–742. 
+https://doi.org/10.1016/j.energy.2017.03.015 
+
+CE Delft. (2022). Ketenemissies elektriciteit: Actualisatie elektriciteitsmix 2019. Rijkswaterstaat; 
+
+Ministerie van Infrastructuur en Waterstaat. https://www.co2emissiefactoren.nl/wp-
+content/uploads/2022/01/23-CE-Delft-Ketenemissies-elektriciteit-2022.pdf 
+
+EcoTransIT World. (2023). Environmental Methodology and Data Update 2023. 
+
+https://www.ecotransit.org/wp-
+content/uploads/20230612_Methodology_Report_Update_2023.pdf 
+
+IEA. (2022). Advancing Decarbonisation through Clean Electricity Procurement. OECD. 
+
+https://doi.org/10.1787/32b3c8d3-en 
+
+IEA. (2023). CO2 Emissions in 2022. https://iea.blob.core.windows.net/assets/3c8fa115-35c4-
+
+4474-b237-1b00424c8844/CO2Emissionsin2022.pdf 
+
+ISO. (2023). Greenhouse gases—Quantification and reporting of greenhouse gas emissions 
+
+arising from transport chain operations (ISO Standard No. 14083:2023; Version 1). 
+https://www.iso.org/standard/78864.html 
+
+Moro, A., & Lonza, L. (2018). Electricity carbon intensity in European Member States: Impacts 
+on GHG emissions of electric vehicles. Transportation Research Part D: Transport and 
+Environment, 64, 5–14. https://doi.org/10.1016/j.trd.2017.07.012 
+
+Rajendran, G., Vaithilingam, C. A., Misron, N., Naidu, K., & Ahmed, M. R. (2021). A 
+
+comprehensive review on system architecture and international standards for electric 
+vehicle charging stations. Journal of Energy Storage, 42, 103099. 
+https://doi.org/10.1016/j.est.2021.103099 
+RE100. (2022). RE100 Reporting Guidance 2022. 
+Roy, N., Domeshek, M., Burtraw, D., Palmer, K., Rennert, K., Shih, S., & Villanueva, S. (2022). 
+Beyond Clean Energy: The Financial Incidence and Health Effects of the IRA (22–11). 
+Resources for the Future. 
+
+Scarlat, N., Prussi, M., & Padella, M. (2022). Quantification of the carbon intensity of electricity 
+
+produced and used in Europe. Applied Energy, 305, 117901. 
+https://doi.org/10.1016/j.apenergy.2021.117901 
+
+Schneider Electric. (2018). Understanding Renewable Energy Certificates in Europe: The 
+
+policies and principles. 
+
+Smart Freight Centre. (2019). Global Logistics Emissions Council Framework for Logistics 
+
+Emissions Accounting and Reporting. Version 2.0. 
+
+Smart Freight Centre. (2022). Practical guidance on biodiesel and renewable diesel: Key 
+
+decision-making criteria to assess and deploy biodiesel and renewable diesel. 
+https://www.flexmail.eu/f-6c37e0eff623e329 
+
+Smart Freight Centre. (2023a). GLEC Framework v3.0. 
+Smart Freight Centre. (2023b). Voluntary Market Based Measures Framework for Logistics 
+Emissions Accounting and Reporting. https://www.flexmail.eu/f-902b8a2dc48f0681 
+
+Smart Freight Centre & CDP. (2020). Closing the Logistics Emissions Disclosure Gap: An 
+
+analysis of emissions disclosure to CDP by corporations worldwide. 
+
+US EPA. (2023). Emission Factors for Greenhouse Gas Inventories [dataset]. 
+WRI. (2015). GHG Protocol Scope 2 Guidance. WRI. 
+WRI. (2023). Topline Findings From Scope 2 Feedback. 
+
+24 
+
+                                                                                                                                   
+ 
+Measuring  and  Reporting  the  Carbon  Footprint  of  Electric 
+Freight Vehicle Operations: Whitepaper  
+
+WRI & WBCSD. (2011). Corporate Value Chain (Scope 3) Accounting and Reporting Standard. 
+
+25 
+
+                                                                                                                                   
+ 
+ 
+Join our journey towards 
+efficient and zero-emission 
+global freight and logistics 
+
+Contact 
+
+Smart Freight Centre 
+
+P.O. Box 11772, 1001 GT 
+
+Keizersgracht 560, 1017 EM 
+
+Amsterdam, Netherlands 
+
+Amsterdam, Netherlands 
+
+Tel. office: +31 6 4695 4405 
+www.smartfreightcentre.org 
+info@smartfreightcentre.org  
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

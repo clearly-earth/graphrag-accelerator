@@ -1,0 +1,7 @@
+ydata-profiling==4.8.3
+devtools 
+python-magic
+requests 
+tqdm
+pdfminer.six
+wikipedia

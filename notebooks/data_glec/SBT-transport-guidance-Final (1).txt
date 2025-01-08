@@ -1,0 +1,2741 @@
+               TRANSPORT  
+
+     SCIENCE-BASED  
+
+TARGET SETTING          
+
+           GUIDANCE
+
+Developed by
+
+ACKNOWLEDGEMENTS
+
+ABOUT OUR TECHNICAL PARTNERS
+
+This  guidance  was  developed  by  WWF  on  behalf  of  the  Science 
+Based  Targets  initiative  (SBTi).  The  Science  Based  Targets  initiative 
+mobilizes  companies  to  set  science-based  targets  and  boost  their 
+competitive advantage in the transition to the low-carbon economy. It 
+is a collaboration between CDP, the United Nations Global Compact, 
+World Resources Institute (WRI) and the World Wide Fund for Nature 
+(WWF) and one of the We Mean Business Coalition commitments.
+
+For this project we counted on the support of three technical part-
+ners  which  are  global  organizations  working  on  sustainability  and 
+transport:
+
+• Smart Freight Centre (SFC)
+• Partnership on Sustainable, Low Carbon Transport (SLoCaT)
+• International Council on Clean Transportation (ICCT)
+
+During the development of this work we also had the advice from 
+technical experts: 
+
+• Ecofys, a Navigant Company
+• International Energy Agency (IEA)
+
+A technical advisory group of dedicated experts from industry and 
+NGOs  provided  detailed  input  during  the  planning  phase  and  on 
+various drafts of the guidance and tool.  
+
+A public workshop was organized in Paris in July 2017 to get input 
+on key methodological choices from other stakeholders not directly 
+engaged  in  the  project,  plus  two  consultation webinars were  held 
+during the month of August 2017.
+
+Primary authors: 
+Irma Paola Delgado Luna, WWF
+Fernando Rangel Villasana, WWF
+
+Editor: 
+Suzanne Greene, MIT Sustainable Logistics Initiative and Technical 
+Advisor, Smart Freight Centre
+
+Cover and back cover photos: © Michael Buckley / WWF-Canada
+
+© 1986 Panda Symbol WWF - World Wide Fund For Nature (also known as World Wildlife Fund)
+
+® “WWF” is a WWF Registered Trademark.
+
+Smart Freight Centre (SFC) was established in 2013 
+as a global non-profit organization leading the way 
+to  a  more  efficient  and  environmentally  sustain-
+able global freight and logistics sector. SFC works 
+with businesses and other stakeholders to remove 
+market barriers catalyzing sector-wide action to im-
+prove  fuel  efficiency,  reduce  emissions  and  lower 
+operating costs.
+
+The Partnership on Sustainable, Low Carbon Trans-
+port (SLoCaT) promotes the integration of sustain-
+able  transport  in  global  policies  on  sustainable 
+development  and  climate  change  and  leveraging 
+action in support of the implementation of the glob-
+al policies. SLoCaT consists of a multi-stakeholder 
+partnership of over 90 organizations, which is sup-
+ported by the SLoCaT Foundation.
+
+The International Council on Clean Transportation is 
+an  independent  nonprofit  organization  founded  to 
+provide first-rate, unbiased research and technical 
+and  scientific  analysis  to  environmental  regulators. 
+Its mission is to improve the environmental perfor-
+mance  and  energy  efficiency  of  road,  marine,  and 
+air  transportation,  in  order  to  benefit  public  health 
+and mitigate climate change.
+
+CONTENT
+
+1 
+
+2 
+
+About this guidance 
+
+General guidance on science-based target-setting for transport 
+
+2.1  Basic steps to use the SDA Transport tool 
+
+2.2  Target formulation 
+
+2.3  Target recalculation 
+
+2.4  Tool boundaries and future improvements 
+
+2.5  Data quality 
+
+3	
+
+User-specific	target-setting	guidance	
+
+3.1  Companies that own / control vehicles 
+
+3.2  Companies that subcontract / purchase transport services 
+
+3.3  Road vehicle manufacturers 
+
+3.4  Companies that manufacture road vehicle parts 
+
+4  Methodological choices 
+
+06
+
+07
+
+07
+
+10
+
+10
+
+10
+
+12
+
+13
+
+13
+
+16
+
+17
+
+19
+
+20
+
+4.1  Selection of decarbonization scenarios from the International Energy Agency  20
+
+4.2  Sectoral Decarbonization Approach (SDA) 
+
+4.3  Carbon accounting methodologies 
+
+4.4  Well to Wheel emissions boundary 
+
+5 
+
+ANNEX 
+
+22
+
+23
+
+24
+
+25
+
+Transport Science-Based Target-Setting Guidance | 3
+
+4 | Transport Science-Based Target-Setting Guidance
+Photo: © Michael Buckley / WWF-Canada
+
+FOREWORD
+
+Implementation of the Paris Agreement calls for ambitious climate action at global 
+scale. The transition to a low/zero carbon economy is underway and accelerating 
+globally. Every sector in every market is undergoing transformation. Non-state ac-
+tors play a key role in driving change and already commenced to do so: so far more 
+than  400  companies  have  joined  the  Science  Based  Targets  initiative  (SBTi)  and 
+committed to set GHG emission reduction targets in line with the Paris Agreement 
+goals. Leading businesses recognize this opportunity and the imperative to be part 
+of the solution.  
+
+The  transport  sector  must  not  lag  behind. Today  it  represents  23%  of  all  energy-
+related global emissions and it is one of the fastest growing sectors.  The analysis 
+of sectoral transformations implied by current Nationally Determined Contributions 
+(NDCs) shows that transport is one of the sectors where climate action ambition is 
+particularly insufficient in the light of the requirements of mid-century Paris-compat-
+ible transformations. And yet, decarbonizing the transport sector is feasible through 
+disruptive technological innovation, land-use planning and transport demand man-
+agement, modal shift and shifting to electric mobility, but we need to make it hap-
+pen  faster.  Companies  setting  ambitious  science-based  targets  on  transport  can 
+send a strong signal for local, regional and national policies to increase the level of 
+ambition and steer the transition.
+
+Science-based  targets  specify  how  much  and  how  quickly  a  company  needs  to 
+reduce its greenhouse gas emissions to future-proof its growth. This report does 
+not present a new approach; it is based on current science-based target methods, 
+and GHG accounting standards. It shows the conclusions of a group of experts (in-
+dustry and non-industry representatives) that have over the past year focused on 
+developing best practices for science-based target-setting in the transport sector. 
+By  using  the  Sectoral  Decarbonization  Approach-  Transport  tool  and  this  report, 
+companies can get on track with a well-below 2°C world.
+
+Thanks to its holistic vision and international network, WWF, the world’s foremost 
+NGO dedicated to nature conservation, active in over 100 countries, calls for strong 
+action to prepare and radically transform the transport systems around the world 
+towards a decarbonized economy.
+
+Special thanks to our Technical Partners, Advisors and Consultative Group mem-
+bers for contributing to the realization of this project.  
+
+Pascal Canfin
+CEO, WWF France
+
+Transport Science-Based Target-Setting Guidance | 5
+
+1
+
+ABOUT THIS GUIDANCE
+
+This document supports companies that are interested in 
+setting  science-based  targets  for  transport  greenhouse 
+gas (GHG) emissions according to the new, refined path-
+ways in the Sector Decarbonization Approach (SDA) Trans-
+port tool (Learn more about the SDA method and tool in 
+Section 4.3). It builds on the existing manual and guidance 
+of  the  Science  Based  Targets  initiative  (SBTi)  for  setting 
+science-based targets.
+
+The underlying data in the SDA Transport tool are sourced 
+from  the  detailed  transport  pathways  in  the  International 
+Energy Agency’s (IEA) Mobility Model (MoMo)1. The emis-
+sions scenarios embedded in the SDA tool are the 2°C sce-
+nario (2DS) and the Beyond 2°C scenario (B2DS). 
+
+This document contains guidance on how to set targets for 
+transport emissions across different emissions scopes and 
+for  different  tool  end-users.  Examples  of  end-users  are: 
+passenger transport companies, logistics service providers, 
+shippers, carriers, postal companies, road vehicle manufac-
+turers, auto part manufacturers, and in general companies 
+with large transport emissions in their value chain. 
+
+Policymakers  can  also  use  this  guidance  to  inform  the  
+development of transport programs and regulations.
+
+The  Guidance  is  divided  into  three  chapters.  Chapter  2 
+is a user’s general guidance on the transport categories 
+included in the tool, the data to use in the target model-
+ing  exercise  and  the  output  users  can  expect  to  obtain. 
+Chapter 3 contains more specific guidance per end-user, 
+divided into companies that own or control a fleet of ve-
+hicles,  companies  that  manufacture  new  road  vehicles, 
+companies  with  large  transport  emissions  in  their  value 
+chain  and  companies  that  manufacture  road  vehicle 
+parts. The  type  of  guidance  provided  is  GHG  emissions 
+that the company should estimate to model a target -in-
+cluding aggregation of emissions scopes to obtain Well-
+to-Wheel (WTW) emissions-, definitions of activity units, 
+the approaches a company can use to set science-based 
+targets, and the interpretation of results derived with the 
+SDA Transport tool. 
+
+Finally Chapter 4 describes the methodological choices made 
+to build the tool and to produce this Guidance document. 
+
+1 
+
+IEA (2017), Mobility Model, August 2017 version, database and simulation model, www.iea.org/etp/etpmodel/transport/
+
+6 | Transport Science-Based Target-Setting Guidance
+
+2
+
+GENERAL GUIDANCE ON SCIENCE-BASED  
+TARGET-SETTING FOR TRANSPORT
+
+2.1  BASIC STEPS TO USE THE SDA TRANSPORT TOOL
+
+1 
+
+Identify the transport categories you will need to model your company’s target. 
+The following transport categories are available in the tool: 
+
+Table 1. Transport pathways available in the SDA Transport tool
+
+Tool end-users
+
+Type of transport-
+related emissions
+
+Transport category
+
+Description
+
+Companies that own / 
+control vehicles 
+
+Passenger transport 
+emissions
+
+2-3 Wheelers
+
+Companies that subcon-
+tract/ purchase transport 
+services
+
+Light duty vehicles (LDV)
+
+Buses 
+
+Mini-buses 
+
+Urban rail 2
+
+Non-urban rail
+
+All motorized vehicles having two or three 
+wheels aimed at the mobility of persons 
+on all types of roads
+
+All motorized vehicles having four wheels 
+aimed at the mobility of persons on all 
+types of roads, up to nine persons per 
+vehicle and 3.5 t of gross vehicle weight
+
+Buses (more than nine seats) and BRT 
+systems (Bus Rapid Transit)
+
+Minibuses
+
+Metros, high capacity/high frequency 
+commuter rail services, tramways and 
+light rail 3
+
+High-speed rail (intercity rail services 
+crossing long distances between sta-
+tions and having a maximum speed that 
+exceeds 250 km/h)
+
+2 
+
+3 
+
+ While countries may define rail modes different, the SBTi adopts the definitions from the Rail Handbook (2017) from the IEA and the International Union of 
+Railways (UIC).
+• Metros are urban rail transport services with short headways and high commercial speed operated by vehicles specifically designed for high capacity 
+transport (e.g. including standing passengers and a large number of doors to enable rapid boarding and operations), running on an exclusive right-of-way 
+urban network with regular station spacing, without any interference from other traffic or level crossings, and often developed as an underground and/or 
+elevated network. 
+• Commuter rail includes heavy rail services operating in urban areas and at the boundary between urban and suburban areas, primarily to serve trans-
+port needs of commuters needing access to urban environments. 
+• Tramways and light rail, i.e. urban guided transport systems with extensive segregated network sections, mostly at-grade.
+
+Transport Science-Based Target-Setting Guidance | 7
+
+All motorized vehicles having two or three 
+wheels aimed at the mobility of goods on 
+all types of roads
+
+Pickups, vans and small trucks with a 
+gross vehicle weight (GVW) of less than 
+3.5 t, used for the transportation of goods 4
+
+Commercial vehicles with a GVW from 
+3.5 t to 15 t; they include small lorries, rigid 
+trucks and tractor-trailers as well as large 
+vans 6
+
+Commercial vehicles with a gross vehicle 
+weight (GVW) greater than 15 tonnes (t), 
+they typically serve long-haul delivery of 
+goods, have from two or more axles and a 
+power rating of between 200 and 600 kW
+
+Trains to transport goods in dedicated or 
+shared rail tracks
+
+Passenger cruises. 
+Maritime transport activities (domestic 
+and international marine bunkers; contain-
+erized and non- containerized)
+
+Air transport activities (commercial and 
+non-commercial flights for passenger and 
+freight)
+
+WTW emissions related to the use-phase 
+of original equipment manufacturers 
+(OEMs)
+
+Table 1. (continuing)
+
+Tool end-users
+
+Type of transport-
+related emissions
+
+Freight transport  
+emissions
+
+Transport category
+
+Description
+
+2-3 Wheelers
+
+Light commercial vehicles (LCV)
+
+Medium freight trucks (MFTs) 5
+
+Heavy freight trucks (HFTs) 7
+
+Rail  8
+
+Aviation & Shipping  
+emissions
+
+Sea  transport 
+
+Air transport 
+
+Companies that 
+manufacture new 
+road vehicles
+
+Emissions from new 
+vehicles
+
+Passenger- New light duty vehicles
+
+Freight- New light commercial  vehicles
+
+Freight- New medium freight trucks
+
+Freight- New heavy freight trucks
+
+Passenger- New light duty vehicles  
+(Fuel economy)
+
+Fuel economy of OEMs -the related 
+emissions are tank-to-wheel (TTW)
+
+Freight- New light commercial vehicles 
+(Fuel economy)
+
+Freight- New medium freight trucks  
+(Fuel economy)
+
+Freight- New heavy freight trucks  
+(Fuel economy)
+
+Note: This document also provides general guidance for companies that manufacture road vehicle parts (See Section 3.4).
+
+4 
+
+In general, the LCV fleet consists of vans, chassis cab-style vehicles, small open lorries and pickup trucks. They are used for a variety of tasks, including 
+small-scale ‘last-mile’ deliveries, such as a postal or commercial delivery services, and for transporting industrial goods and building materials to and from 
+work sites. They are also used to provide services, such as repairs, plumbing and heating, and office support.
+
+5  Definitions provided in the report: “The Future of Trucks” (IEA, 2017).
+6  They tend to perform regional operations but also include public and commercial service vehicles, such as garbage trucks or fire-fighting trucks. In coun-
+tries with a less-developed highway network infrastructure, the function of some MFTs is similar to that of heavy-freight trucks: they are used in long-haul 
+operations and for transporting goods from central distribution hubs (warehouses and ports) to their final destinations, such as retail firms, or for transport-
+ing bulk building materials and resources.
+
+7  Together, HFTs and MFTs comprise heavy-duty trucks.
+8  The MoMo definition leaves open specifications of speed, distance and wagon type. This category also includes road trains: multiple trailers pulled by a 
+
+single tractor unit.
+
+8 | Transport Science-Based Target-Setting Guidance
+
+2	 Define	a	commitment	period.	As per the SBTi criteria all targets must cover a minimum of 5 years and a maxi-
+mum of 15 years from the date the target is submitted to the SBTi for an official validation. The SBTi recom-
+mends choosing the most recent year for which data is available as the base year, taking into consideration the 
+representativeness  of  the year  to your  company’s  operations.  Preferably,  the  selected  base  and  target year 
+should ensure forward-looking ambition of an emissions reduction target, rather than covering emissions re-
+ductions achieved to date. The earliest base year that can be selected by the company in the tool is 2010 and 
+the latest target year is 2050. Companies are encouraged to develop long-term targets (e.g. 2050) in addition to 
+mid-term targets.
+
+3  Collect all base year data required to model a target with the tool. Collect all data per transport category for 
+
+your global operations for the selected base year.
+
+Table 2. Required data to use the SDA Transport tool
+
+WTW base 
+year GHG 
+emissions 
+(CO2e)
+
+Base year activity
+
+Informative
+
+Passenger-
+kilometer
+(pkm)
+
+Tonne-
+kilometer
+(tkm)
+
+Vehicle-
+kilometer 
+(vkm)
+
+Base year fuel  
+economy: 
+Liters of gasoline  
+equivalent (lge)/ 100 Km
+
+Type of transport-related  
+emissions
+
+Companies that  
+own / control  
+vehicles 
+
+Companies that  
+subcontract/ purchase 
+transport services
+
+Passenger
+
+Freight
+
+Aviation  
+and  
+Shipping
+
+Companies that  
+manufacture new road 
+vehicles
+
+Passenger
+
+Freight
+
+4  Estimate the activity in the target year: Project the activity for the selected target year. For example by calculat-
+ing the growth rate based on historical data or by using future growth rates as estimated by the company. Alterna-
+tively, you may project your activity for the selected target year by applying the default growth rate of the transport 
+category selected which is provided in the tool. 
+
+5  Select the type of transport-related emissions. The types of transport-related emissions available in the tool 
+
+are: passenger transport, freight transport, emissions from new vehicles and aviation and shipping. 
+
+6  Select a transport category and enter required data. The SDA Transport tool allows the modeling of targets for 
+a single transport category at a time. When users select a transport category from the dropdown menu, the tool 
+will automatically show the input data you will need to enter. Users are required to fill-in all fields with their data as 
+per previous steps 9. 
+
+7  Review the target-modeling results. The SDA Transport tool currently models targets using two emissions sce-
+narios (2DS and B2DS). For more information on emissions scenarios and the Mobility Model please consult Sec-
+tion 4.2. Two sections are shown below the input section, one for each scenario. The tables summarize the emis-
+sions and emissions intensity in the base year and target year selected, as calculated by the SDA Transport tool. 
+The tool also produces graphs showing the emissions intensity pathway of the transport category if available, and 
+the carbon budget for the company. All pathways provided in the tool are global pathways.
+
+9  Fields labeled “Well to Tank emissions in base year” and “Tank to Wheel emissions in base year” are optional. 
+
+Transport Science-Based Target-Setting Guidance | 9
+
+2.2  TARGET FORMULATION
+
+Target formulations must indicate the emissions covered, 
+the base year and target year selected, the percentage re-
+duction and the units. As per the SBTi criteria, targets can 
+be expressed on an absolute basis (tCO2e) or intensity ba-
+sis (e.g. gCO2e/pkm, tCO2e/tkm). 
+
+Shorter statements are clearer and more transparent. Ac-
+tivities, strategies or additional information (e.g. percentage 
+of electric vehicle sales) can be part of other documents, 
+like sustainability reports. Example:
+
+Company A commits to reduce its scope 1, 2 and 
+3  emissions  (from  upstream  transportation  and 
+distribution) 40% by 2030 from a 2017 base-year.
+
+Company B commits to reduce its scope 1, 2 and 
+3 emissions (from fuel and energy related activi-
+ties) per passenger-kilometer 35% by 2025 from a 
+2015 base-year. 
+
+2.3  TARGET RECALCULATION 
+
+To ensure consistent performance tracking over time, the 
+target should be recalculated to reflect significant chang-
+es that would compromise its relevance and consistency. 
+The  SBTi  recommends  that  companies  check  the  valid-
+ity of their target projections annually. At a minimum, tar-
+gets should be reassessed every five years. The company 
+should  notify  the  SBTi  (if  participating  in  the  initiative)  of 
+any  significant  changes  and  report  these  major  changes 
+publicly.
+
+A  target  recalculation  should  be  triggered  by  significant 
+changes in:
+
+•  Company structure (e.g. acquisition, divestiture, 
+
+mergers, insourcing or outsourcing)
+
+•  Growth projections
+
+Companies setting a target for multiple passenger trans-
+port categories or multiple freight transport categories can 
+aggregate the tool results to obtain a single GHG reduc-
+tion target by using weighted averages. 
+
+To  participate  in  the  SBTi,  companies  need  to  complete 
+a submission form. The form requires disclosure of emis-
+sions per scope in the base year, activity figures, and other 
+data  to  perform  the  assessment.  The  SBTi  also  recom-
+mends  providing  detailed  information  such  as  regional-
+ized targets, percentage of vehicles sales per power train, 
+occupancy rates or load factors used, etc. All information 
+is treated as confidential and is only used for the purpose 
+of  assessing  compliance  against  current  science-based 
+target methods and SBTi criteria. 
+
+For resources related to the SBTi Call to Action, the busi-
+ness case for science based targets and other available 
+materials, please consult: 
+
+http://sciencebasedtargets.org/resources/
+
+•  Data used in setting the target (e.g. discovery of 
+
+significant errors or a number of cumulative errors 
+that are collectively significant)
+
+•  Other assumptions used with science-based 
+
+target-setting methods 
+
+The SBTi reserves the right to withdraw or adjust the tool 
+at  any  time  for  updates  and/or  amendments  to  its  cal-
+culations  or  third-party  data.  Adjustments  can  include 
+changes to the decarbonization pathways embedded in 
+the tool, which need to reflect model improvements and 
+changes in the remaining carbon budget available as the 
+world  strives  to  mitigate  GHG  emissions  across  all  sec-
+tors  in  the  economy.  For  further  details  please  refer  to 
+the terms of use and disclaimer in the SDA transport tool.
+
+2.4  TOOL BOUNDARIES AND FUTURE IMPROVEMENTS
+
+The  embedded  decarbonization  pathways  in  the  tool  are 
+those  of  the  International  Energy  Agency’s  (IEA)  Mobil-
+ity Model (MoMo)  10. The pathways cover WTW emissions 
+expressed  as  CO2-equivalent  11,  this  includes  the  footprint 
+of electricity in electric vehicles. The WTT part covers the 
+emissions  of  fossil  fuels  and  biofuels  12,  yet  it  excludes 
+
+land use change (LUC) emissions. The possibility of adding  
+LUC  emissions  to  the  pathways was  explored,  as  MoMo 
+provides an estimate (not in the default figures). Due to the 
+high  uncertainty  associated  with  LUC  emissions,  a  deci-
+sion was made to exclude them from the underlying de-
+carbonization pathways for the time being. 
+
+10 | Transport Science-Based Target-Setting Guidance
+
+However, this is almost entirely ameliorated since LUC is 
+included in neither the base year nor the future year of the 
+scenario, so the relative change is not all that different. Also, 
+both the GHG Protocol Scope 3 Standard and the Product 
+Standard, require companies to use Life Cycle Analysis to 
+calculate  emissions  and  removals  from  biogenic  sourc-
+es,  non-biogenic  sources  and  land-use  change  impacts, 
+when applicable (e.g. sectors with scarce opportunities to 
+decarbonize such as aviation, shipping and long-haul road 
+transportation). 
+
+This  means  that  while  the  scenarios  defining  the  decar-
+bonization rate do not include LUC, companies must use 
+WTW accounting including LUC in calculating their emis-
+sions. Thus, companies are inherently incentivized against 
+shifting to high carbon biofuels, as this would either have 
+a limited reduction potential or actually increase emissions 
+after LUC is included.
+
+Since methods to calculate LUC can widely differ, compa-
+nies should disclose the method used to calculate these 
+impacts in the inventory report. It is important to note that 
+bioenergy (aka biogenic) emissions and removals  13 must 
+be reported within the WTW boundary, to accurately re-
+flect emissions reductions across time. 
+
+Also, the embedded decarbonization pathways in the tool 
+models are global, meaning the tool provides no regional 
+focus. This does not mean that the company will have to 
+use a global emission factor for their activities in different 
+regions in their reporting, but that it will converge to a glob-
+al pathway when using the SDA Transport tool. 
+
+Although  this  might  be  perceived  as  not  equitable  for 
+companies  with  electric  vehicles  operating  in  countries 
+with  low-carbon  grid  electricity,  it  does  provide  the  right 
+incentive to penetrate those markets. 
+
+Some companies operating only in developed countries 
+might already be below the global intensity pathways for 
+the sector. It can also be that country sector-targets con-
+
+sidered in the National Determined Contributions (NDCs) 
+or national regulations are more stringent than the glob-
+al  sector  pathways  in  this  tool.  In  these  cases,  the  SBTi 
+strongly encourages companies to use regional or coun-
+try  pathways  that  are  more  ambitious  than  the  global 
+pathway. 
+
+Some  potential  improvements  to  be  considered  for  a  
+second phase of this project include:
+
+Inclusion of 1.5°C scenarios, when available
+Inclusion of LUC emissions guidance
+
+• 
+• 
+•  Development of regional pathways for transport 
+
+modes that operate only at the national or regional 
+level
+
+•  Development of transport pathways for subsectors 
+not currently covered by the tool, for example river 
+transportation which is relevant in some geogra-
+phies
+
+•  More in-depth study and refinement of the aviation 
+(e.g. inclusion of non-CO2-forcings) and shipping 
+sector 
+
+In  addition,  it  is  desirable  to  explore  a  more  holistic  ap-
+proach  for  vehicle  manufacturers  to  also  consider  emis-
+sions from materials sourcing and the impacts across the 
+value chain due to the uptake of new technologies. 
+
+Since  reducing  transport  emissions  requires  a  profound 
+transformation of mobility and freight services, apart from 
+setting  science-based  targets,  companies  together  with 
+other  stakeholders  need  to  identify  concrete  actions  as 
+well as understand the challenges, the opportunities and 
+the  enabling  conditions  at  different  scales  to  succeed  in 
+this  task  to  decarbonize  the  sector.  Several  international 
+initiatives 14 launched since COP21 are exploring their com-
+plementarities  and  committed  to  scale-up  bold  action 
+at  different  levels.  These  initiatives  are  producing  global 
+macro-road maps, national road maps, evaluating the ef-
+fectiveness  of  mitigation  actions  and  actively  engaging 
+with companies. 
+
+10  Except for Aviation and Shipping; for these two sectors, the tool calculates targets based on the absolute emissions reductions recommended by the 
+
+IPCC at the global level (IPCC, 2014).
+
+11  Best practice for GHG reporting and science-based target-setting is to use CO2equivalent across all scopes (scopes 1, 2 and 3). For the purpose of joining 
+
+the initiative, emissions exclusions cannot be greater than 5%.
+
+12  Largely based on data from the Joint Research Centre, EUCAR and CONCAWE (JEC, 2014).
+13  The GHG Protocol Accounting and Reporting Standard for scope 1 and 2 emissions recommends to report biogenic emissions outside the scopes, but as 
+
+an item in the company’s GHG inventory. The WTW approach commonly used in the transport sector does not make such a distinction. 
+
+14  For example: The Paris Process on Mobility and Climate (PPMC), led by Movin’On (successor of former “Michelin Challenge Bibendum”) and the Partner-
+
+ship on Sustainable, Low Carbon Transport (SLoCaT);  The “Decarbonising Transport” initiative of the International Transport Forum (ITF) and The Deep 
+Decarbonization Pathways Project for Transport (DDPP-T) led by the Institute for Sustainable Development and International Relations (IDDRI).
+
+Transport Science-Based Target-Setting Guidance | 11
+
+2.5  DATA QUALITY
+
+Companies  must  use  data  that  is  most  representative  of 
+the  actual  fuel  and  energy  consumption.  Default  activity 
+data is acceptable, but they are less accurate and limit a 
+company’s ability to truly track performance and progress 
+towards targets. Thus, when used, the source and potential 
+uncertainty of the adopted default data should be clearly 
+disclosed. 
+
+Companies should collect high quality (‘primary’) data from 
+suppliers  and  other  value  chain  partners  for  scope  3  ac-
+tivities  deemed  most  relevant  (i.e.  emissions  hotspots  by 
+mode or region) and/or strategically targeted for GHG re-
+ductions. Chapter 7 of the GHG Protocol Scope 3 Standard  
+
+provides further guidance on data quality issues; the Glob-
+al  Logistics  Emissions  Council  (GLEC)  Framework  offers 
+additional details for freight transport.
+
+Regardless  of  the  limitations  around  data  quality,  com-
+panies  are  encouraged  to  set  science-based  targets  as 
+soon  as  possible  to  have  a  likely  chance  to  reach  the 
+goals of the Paris Agreement. Companies can have tar-
+gets  in  place  while  continue  to  improve  their  reporting 
+through  collaboration  with  suppliers.  Any  resulting  ad-
+justments  that  lead  to  increases  or  decreases  in  emis-
+sions  due  to  improvements  in  data  quality  needs  to  be 
+transparent and justified.
+
+12 | Transport Science-Based Target-Setting Guidance
+
+3
+
+USER-SPECIFIC TARGET-SETTING GUIDANCE
+
+3.1  COMPANIES THAT OWN / CONTROL VEHICLES 
+
+3.1.1  GHG emissions and activity
+
+The  emissions  trajectories  in  the  Mobility  Model  (MoMo) 
+are  derived  from  a  series  of  mode  specific  technologi-
+cal  and  efficiency  assumptions  embedded  in  the  model 
+across time. Although the SDA Transport tool uses these 
+trajectories to assign targets to companies, the aim is not 
+to prescribe any mitigation option in particular but to reach 
+the emissions reductions required within a given tempera-
+ture scenario to limit the most dangerous impacts of cli-
+mate change.  
+
+To use the tool, companies must use WTW emissions ac-
+counting for all their transport operations. Usually compa-
+nies  adhere  to  the  GHG  reporting  guidance  of  the  GHG 
+Protocol. 
+
+Figure  1  shows  the  approximate  equivalence  between 
+the  scopes  used  in  the  GHG  Protocol  and  the  WTW  
+accounting.
+
+Figure 1 Aggregation of scopes to obtain Well-to-Wheel emissions
+
+Well-to-Wheel  
+(WTW) 
+emissions
+
+Scope 1
+(direct emissions from 
+fuel combustion)
+
+Scope 2
+(indirect emissions from 
+electricity generation, 
+consumed in EVs)
+
+Scope 3, Category 3
+(indirect fuel -and energy-  
+related emissions not in-
+cluded in scope 1 or scope 2)
+
+Note: Tank-to-Wheel emissions are equivalent to scope 1 emissions. 
+
+Emissions  from  ports,  storage  rooms  and  other  support-
+ive  facilities  and  services  should  be  reported  under  the 
+appropriate  scope  in  the  company’s  GHG  inventory.  For 
+the  purpose  of  the  modeling  exercise,  these  should  be 
+excluded when using the SDA Transport tool. Companies 
+can in fact, use other methods (sectorial or not-sectorial) to 
+model targets for the company’s non-transport emissions. 
+In the end, the expectation is that company-wide targets 
+will be set covering all GHG emissions sources. 
+
+MoMo  activity  projections  per  transport  mode  are  ex-
+pressed either in passenger-kilometer (pkm) or tonne-ki-
+lometer units (tkm). The emissions intensity pathways con-
+structed in the SDA Transport tool use these units, which 
+are  based  on  global  average  occupancy  rates  and  load 
+factors embedded in MoMo (See Annex II).
+
+BOX 1. GLEC Framework Guidance – idling,  
+repositioning and empty running 
+
+All emissions related to the operation of vehicles 
+should be included in the base year emissions of 
+the  company.  This  includes  the  emissions  from 
+idling,  repositioning  and  empty  running.  This  is 
+common practice for scope 1 and scope 2 report-
+ing, where empty running and idling is inherently 
+included vis a vis the actual fuel use.
+
+Carbon  intensity  calculations  should  take  the 
+total  amount  of  fuel  used  for  both  loaded  and 
+empty trips and divide it by the tonne-kilometers 
+related  to  the  actual  useful work  done  (e.g.,  the 
+loaded trips).
+
+Transport Science-Based Target-Setting Guidance | 13
+
+When using the tool, companies will be asked to provide 
+pkm  or  tkm  figures  for  all  their  global  operations  in  the 
+base year and target year selected. Companies may in-
+clude the operating personnel in their pkm figures. Gen-
+erally,  passenger  transport  companies  use  the  metric 
+“revenue  passenger  kilometer”  which  is  the  number  of 
+kilometers  traveled  by  paying  passengers  (number  of 
+revenue passengers multiplied by the total distance trav-
+eled).  Likewise,  companies  may  include  the  operating 
+personnel and extra fuel when optionally carried in their 
+tkm figures. 
+
+This is the so called “payload distance” which refers only 
+to revenue-generating cargo. Companies should publical-
+ly disclose the assumptions on occupancy rates and load 
+factors used to estimate their inventory’s figures. 
+
+MoMo considers a number of decarbonization measures 
+that  impact  the  global  growth  demand  assumption,  in-
+cluding “shift” and “avoid” measures. The extent to which  
+polices drive measures leading  to avoidance of transport 
+activity  or  modal  shifts  is  different  in  the  2DS  and  B2DS, 
+therefore requiring different levels of policy interventions 
+and technology deployment.
+
+3.1.2  Target-setting approaches & results interpretation
+
+The principle of intensity convergence is used for almost 
+all transport categories available in the tool (except avia-
+tion and shipping). The convergence approach is applied 
+to  homogeneous  sectors  (sectors  that  can  be  described 
+with  a  common  metric,  eg.  tkm,  pkm),  and  assumes  that 
+the carbon intensity of a company converges towards the 
+carbon  intensity  of  the  sector  at  a  rate  that  ensures  not 
+exceeding  the  emissions  scenario  carbon  budget.  The 
+carbon budget can be that for 2ºC, well-below 2°C, or any 
+other emissions scenario embedded in the tool. 
+
+Therefore,  companies  using  the  tool  for  transport  activi-
+ties should interpret the resulting goal as a function of the 
+company’s initial carbon intensity, the sector’s decarbon-
+ization  trajectory  (e.g.  for  2°C  or  well  below  2°C)  and  the 
+company’s projected growth relative to the growth of the 
+sector. The growth projection of the company is taken into 
+account  to  estimate  the  market  share  parameter  in  the 
+convergence equation. 
+
+Figure 2 shows the graphic interpretation of the emissions 
+intensity convergence approach.
+
+Figure 2. Intensity convergence approach
+
+The rate of intensity decarbonization is not the same for all 
+companies within  the  sector.  It  is  also  important  to  men-
+tion that for companies already below the sector’s intensity 
+can still converge towards the sector’s intensity in 2050, or 
+continue  a  decarbonization  trajectory  below  the  sector’s 
+average without necessarily converging in 2050. As men-
+tioned before, the sector trajectory is a global one, which 
+intrinsically  requires  companies  below  the  sector’s  aver-
+age to continue on such trend.
+
+ Aviation & Shipping
+
+Aviation and shipping are an interesting case in the trans-
+port sector due to their international presence and the exis-
+tence of global decarbonization goals for these two. In the 
+case of aviation, the Air Transport Action Group (ATAG) set 
+environmental goals for the short, medium and long-term in 
+2016, including: an annual efficiency goal for 2020, a goal to 
+stabilize emissions growth from 2020 with the use of offsets, 
+and  to  reduce  net  emissions  from  aviation  50%  by  2050 
+compared to a 2005 base-year (ATAG, 2018). 
+
+Since  the  SBTi  does  not  allow  the  use  of  offsets  to  report 
+progress against science-based targets, and since the sec-
+tor’s  50%  reduction  goal  (if  interpreted  as  gross  emissions) 
+is  comparable  to  the  Intergovernmental  Panel  on  Climate 
+Change (IPCC) 2°C minimum requirement at the global level, 
+the SDA Transport tool uses a linear interpretation of the IPCC 
+2°C range which is between 49 and 72% reduction 15.
+
+Therefore,  the  tool  only  asks  for  tCO2e  figures  from  air 
+transport-related activities in the base year, and no activity 
+figures, as the target-setting approach is contraction. This 
+approach requires all companies within a given sector, re-
+gion or globally to reduce emissions at the same rate. The 
+contraction approach will result in a company’s trajectory 
+parallel to the sector, regardless of the company’s starting 
+carbon footprint. 
+
+14 | Transport Science-Based Target-Setting Guidance
+
+Figure 3 shows the graphic interpretation of the absolute 
+emissions contraction approach.
+
+Figure 3. Absolute emissions contraction approach.
+
+In  the  case  of  shipping,  the  International  Maritime  Organi-
+zation (IMO) recently reached an agreement for the sector 
+that includes as for aviation, a target on emissions intensity 
+by 2030, and a long term target to reduce emissions at least 
+50%  by  2050  compared  to  a  2008  base-year  (Greenbiz, 
+2018). The level of ambition for the sector goal may be in-
+creased in the future as negotiations continue, and in light 
+with the 1.5°C upcoming IPCC report. 
+
+For the same reasons than for aviation and to boost ambi-
+tion in the short-term, the SDA Transport tool also uses the 
+IPCC reduction range 49-72% (linear trajectory) to calculate 
+targets  for  shipping  activities. This  range  may  be  updated 
+with the introduction of new science. Also, the SBTi will re-
+view  new  emissions  trajectories  for  these  sectors  as  they 
+become available, for potential integration into the tool.
+
+Manuel Pulgar-Vidal, leader of WWF’s global climate and 
+energy  programme,  said:  “The  new  goal  of  IMO  is  very 
+welcome news, a good first step and an important policy 
+signal. Shipping is responsible for more than 2 per cent 
+of global emissions, and this is growing. The agreement 
+today  is  an  opportunity  to  bend  this  curve  to  align with 
+the Paris Agreement, but it needs to translate into urgent 
+action - now.” 
+
+Even when using the contraction approach, a company can 
+define  an  intensity  target. The  SBT  tool  calculates  the  re-
+quired absolute emissions trajectory towards a target year. 
+Together  with  sector-wide  or  company-specific  growth 
+projections,  an  intensity  target  can  be  calculated  using 
+the absolute emissions target level from the SBT tool and 
+the  company’s  projected  activity  in  the  target year. When 
+companies commit to such an intensity target, it is essential 
+to  regularly  review  the  growth  projections. This  should  be 
+done at least every five years, ideally even in shorter cycles. 
+In addition, companies may not set a weaker target in the 
+case of negative growth. 
+
+BOX 2. Recommendations for companies that own / control vehicles 
+
+• 
+
+• 
+
+• 
+
+Logistics service providers, shippers and carriers using more than one 
+transport mode (multimodal) would need to model their targets by 
+using each of the transport modes in which it operates, by providing 
+the share of activity for each of these and the projected growth. Since 
+projections can change over time, companies are recommended to 
+check the validity of their targets every five years, and adjust the  
+targets accordingly. 
+
+Companies are encouraged to consider different mitigation options in 
+line with the “avoid, shift and improve” concept.
+
+Companies are also encouraged to develop strategies to improve their 
+service efficiency (for example, increasing the number of passenger 
+per kilometer or the number of tonnes per kilometer as allowed by  
+local regulations).
+
+15  The range of percent decrease in emissions is due to uncertainty in emissions modeling projections. Additionally, a decrease of 49% is actually the lower 
+threshold when recognizing that global net negative emissions would be required (-103 to -118%) in the second half of the century; Table 6.3 in Chapter 6 
+of the Fifth Assessment Report, Working Group III).
+
+Transport Science-Based Target-Setting Guidance | 15
+
+3.2  COMPANIES THAT SUBCONTRACT / PURCHASE 
+
+TRANSPORT SERVICES
+
+3.2.1  GHG emissions and activity
+
+Emissions  from  transport  activities  that  occur  in  a  com-
+pany’s  value  chain  are  indirect  emissions  (scope  3)  that 
+are reported by the company buying the services to fulfill 
+its core business operations. These emissions are gener-
+ally emissions from logistics operations (e.g. transportation 
+of  raw  materials  or  finished  products)  or  business  travel. 
+Companies using the SDA Transport tool for their scope 3 
+emissions in the value chain can use the trajectories avail-
+able for companies that own / control vehicles.
+
+Figure 4. Transport activities in the value chain (scope 3)
+
+Passenger  
+transport
+
+Freight  
+transport
+
+Scope 3.  
+Categories  
+in the GHG  
+Protocol
+
+Category 6:  
+Business travel
+
+Category 7:  
+Employee  
+commuting
+
+Category 4:  
+Upstream transportation 
+and distribution
+
+Category 9:  
+Downstream transporta-
+tion and distribution
+
+Emissions and activity data (pkm or tkm) can be challeng-
+ing  to  obtain  for  subcontracted  transport.  However,  the 
+GLEC  Framework  provides  guidance  on  how  companies 
+can estimate these figures from supplier’s data. Neverthe-
+less, in some cases it might be necessary to rely on default 
+data that may not accurately represent actual transporta-
+tion activities. Despite uncertainty, companies are encour-
+aged to set targets while continue improving data quality.
+
+As for scope 1 and 2, default data life cycle emissions fac-
+tors should be considered as they normally include WTT 
+and TTW emissions.
+
+BOX 3. GLEC Framework Guidance – scope 3 guid-
+ance for idling, reposition and empty running 
+
+The GLEC Framework suggests three options for 
+including  idling,  reposition  and  empty  running 
+in  scope  3  absolute  emissions  calculations  (e.g. 
+tonnes CO2e):
+
+a)  Adopt an average load factor (e.g. 50%). If 
+
+using a default factor, such as from Defra or 
+the GLEC Framework, adjustments for empty 
+running, repositioning and idling are embed-
+ded in the default values. 
+
+b)  Adopt a company or region-specific load fac-
+tor based on actual operating conditions. 
+
+c)  Scale by loaded distances by appropriate  
+
+factors to consider empty running.
+
+In the case of logistics, the Smart Freight Centre through 
+the GLEC Framework and other organizations are creat-
+ing new collaboration platforms to gather more accurate 
+/ granular data in the supply chain: 
+
+http://www.smartfreightcentre.org/
+
+3.2.2  Target-setting approaches & results interpretation
+
+For categories 4 and 9 in the GHG Protocol, upstream and 
+downstream  transportation  and  distribution,  companies 
+can use the SDA Transport tool with the convergence ap-
+proach  for  GHG  target-setting.  Alternatively,  companies 
+may  use  the  contraction  approach with  the  IPCC  5th AR 
+reduction range mentioned before. This second approach 
+is recommended for transport emissions in the value chain 
+when activity data is not available.
+
+The  SBTi  also  accepts  supplier  engagement  targets  to 
+mainstream  science-based  targets  in  the  value  chain  16.  
+A target language example is: 
+
+Company A commits to have 70% of its key sup-
+pliers by emissions (including transporting servic-
+es) setting science-based targets by 2020. 
+
+For Categories 6 and 7, business travel and employee com-
+muting,  an  absolute  approach  is  recommended  with  the 
+IPCC  5th  AR  reduction  range.  Although  companies  could 
+use the tool with the convergence approach to determine 
+a  target  for  these  categories  if  emissions  and  activity  data 
+is available, the limited market share attributed in the tool to 
+employee commuting and business travel will result in inap-
+propriate targets; especially if the travel is sporadic. 
+
+16  Please consult the SBTi criteria on supplier engagement targets.
+
+16 | Transport Science-Based Target-Setting Guidance
+
+ 
+BOX 4. Recommendations for companies that subcontract / purchase transport services
+
+• 
+
+• 
+
+• 
+
+In order to meet the 2DS and B2DS for freight transportation, systemic improvements in the near 
+term are required. For example, by taking action in the supply chain, improving logistics and rout-
+ing, and by deploying energy efficiency measures. Collaboration and coordination among shippers, 
+logistics service providers and carriers is therefore crucial to decarbonize freight transport despite 
+a projected growth in demand. 
+
+Companies are implementing strategies to reduce emissions from air travel, as it is one of the 
+most carbon intensive modes. They do so, for example, by promoting the use of online meetings 
+and web conferencing, and by implementing internal policies for employee travel. It is expected 
+that corporate users of air travel compare the service providers in the market, not only based on 
+economic factors, but also on environmental ones (e.g. preference for companies with a climate 
+strategy including science-based targets).
+
+Companies are starting to implement car-sharing programs with employees, to reduce emissions 
+and to promote employee integration. Other strategies are based on incentive schemes to encour-
+age employees to bike, walk or take the train to work.
+
+3.3  ROAD VEHICLE MANUFACTURERS
+
+3.3.1  GHG emissions & activity
+
+Use phase emissions from newly manufactured vehicles 
+are  indirect  emissions  (scope  3)  that  are  reported  by  the 
+manufacturing company that sells the vehicles. Use phase 
+emissions of vehicle manufacturers is therefore part of the 
+transport carbon budget. The SDA Transport tool only has 
+pathways  for  road  vehicle  manufacturers  (WTW).  Emis-
+sions  during  manufacturing  are  not  covered  in  the  SDA 
+Transport tool, nor emissions from battery manufacturing 
+for electric vehicles. 
+
+Figure 5. Emissions covered in the pathways  
+for newly manufactured vehicles.
+
+Well-to-Wheel  
+(WTW) 
+emissions
+
+Scope 3, Category 11
+Use of Sold Products
+
+Note: As per the GHG Scope 3 Standard, Category 11 includes the total 
+expected lifetime emissions from all relevant products sold in the reporting 
+year across the company’s product portfolio. A reporting company’s scope 
+3 emissions from use of sold products include the scope 1 and scope 2 
+emissions of end users, and it uses life cycle emission factors for fuels and 
+for electricity.
+
+Road vehicle manufacturers are required to test the emis-
+sions generation from the exhaust of newly produced ve-
+hicles.  Different  test  procedures  can  yield  performance 
+figures that do not correspond to actual driving emissions. 
+
+Fuel economy of LDVs: The values used in the embedded 
+pathways in MoMo are estimated through a normalization 
+of regional test procedures to the Worldwide Harmonized 
+Test Cycle (WLTP), based on the conversion factors devel-
+oped by ICCT (ICCT, 2014)  17. The assumed gap between 
+the WLTP and real-world (on-road) emissions is 1.1 for all 
+regions and at all times.
+
+According to the IEA (OECD/IEA, 2017), to be able to meet 
+the 2DS targets, it is necessary to reduce the gap between 
+tested  and  on-road  fuel  economy.  Moving  towards  the 
+WLTP  would  better  reflect  real-world  vehicle  operation. 
+Therefore,  for  science-based  target-setting,  companies 
+must use the adjustment factors / formulas of the WLTP to 
+obtain real / actual emissions if using a different standard.
+
+17  The IEA specifically used equation 4.2 (Single regression with zero intercept – all data), with the slopes given in table 5.2 (Single regression with  
+
+zero intercept)..
+
+Transport Science-Based Target-Setting Guidance | 17
+
+Fuel economy of HDVs: From the IEA’s report The Future 
+of Trucks (IEA, 2017): “Estimations of the fuel economies for 
+LCVs, MFTs and HFTs relied primarily on research on test-
+ed and real-world specific fuel consumption under various 
+drive cycles, vehicle loads and mission profiles, largely le-
+veraging on the analysis recently developed by the ICCT 
+for  the  Global  Fuel  Economy  Initiative  (GFEI,  2016),  com-
+plemented by information on the fuel consumption of ve-
+hicles reported by communities of vehicle users, such as 
+those reviewed by Tietge et al. (2015) in the case of cars.” 
+
+As with  LDVs,  for  LCVs  a  1.1  conversion  factor  is  used  in 
+the MoMo and the values are for the WLTP test cycle. For 
+MFTs and HFTs, the values are real-world operations, un-
+der representative loads.
+
+In absence of a normalized test procedure for MFTs and 
+HFTs,  companies  are  invited  to  present  and  justify  their 
+own estimates /  simulations based on fuel consumption 
+specific duty cycles to the SBTi. 
+
+Well-to-Wheel emissions
+
+The  emissions  pathways  built  in  the  SDA  Transport  tool 
+for the manufacturing of new road vehicles is composed 
+by WTT emissions from stock vehicles, and by TTW emis-
+sions  for  new  vehicles  (mix  of  power  trains).  The  former 
+was taken as an approximation because MoMo does not 
+have  WTT  emissions  for  newly  manufactured  vehicles. 
+The WTW  approach  reflects  the  shift  of  emissions  from 
+one scope to another, for example due to electrification. 
+The  WTW  emissions  pathways  are  then  divided  by  the 
+activity in vkm for new vehicles to build the intensity path-
+ways. 
+
+As  companies  make  assumptions  for  the  type  of  fuels 
+plugged into the fuel tanks, original equipment manufac-
+turers (OEMs) can also make assumptions of the average 
+grid electricity factors for their sales across markets.  
+
+3.3.2  Target-setting approaches & results interpretation
+
+Manufacturers of LDVs and HDVs can use the SDA Trans-
+port  tool  directly  for  scope  3  GHG  target-setting  (conver-
+gence approach). 
+
+BOX 5. Recommendations for road vehicle  
+manufacturers
+
+The carbon intensity of new vehicles (per transport category) 
+will converge towards the carbon intensity pathway for new 
+vehicles 18. These pathway differ from those applied to com-
+panies that own or control vehicles, since they exclude the 
+stock vehicles emissions.
+
+The unit used in the convergence formula is gCO2e/vkm19. 
+Manufacturers are encouraged to use the occupancy rates 
+factors and load factors of MoMo (Annex II) to covert target 
+year results from vkm to pkm or tkm. 
+
+Vehicle  manufacturers  producing  different  vehicle  types 
+must  aggregate  their  intensity  figures  to  set  a  company-
+wide  science-based  target  for  their  scope  3  emissions. 
+Example: 
+
+Company A commits to reduce the emissions in-
+tensity (gCO2e/vkm) of its product portfolio X% by 
+2030 from a 2015 base-year. 
+
+The  SDA  Transport  tool  also  provides  the  possibility  for 
+road  vehicle  manufacturers  to  obtain  results  in  liters  of 
+gasoline equivalent per 100 kilometers (lge/100 km). This 
+metric  purely  reflects  the  fuel  economy  of  new vehicles 
+(TTW portion). The lge numerator already reflects the ef-
+fect of power train electrification. 
+
+18 | Transport Science-Based Target-Setting Guidance
+
+1.  Check the validity of your targets. To ensure 
+consistent tracking of performance over 
+time, the target should be recalculated 
+to reflect significant changes that would 
+compromise its relevance and consistency. 
+For example, changes in growth projections, 
+significant changes in the mix of products, 
+company structure (e.g. mergers, divest-
+ments), and other relevant assumptions 
+used in the target modeling exercise. 
+
+2.  Engage with regulators to promote demand 
+of more efficient low or zero carbon vehicle 
+types.
+
+3.  Explore new business models. Electrifica-
+tion of road transport is required to meet 
+the 2DS and B2DS goals. Therefore, the 
+decarbonization of the power sector and 
+the development of a smart grid systems 
+(including vehicle-to-grid technologies) will 
+require close collaboration among govern-
+ments, users and solutions providers.
+
+3.4  COMPANIES THAT MANUFACTURE ROAD VEHICLE PARTS
+
+3.4.1  GHG emissions and activity
+
+For auto part manufacturers, category 11 of scope 3 is the 
+“Indirect  use-phase  of  sold  products”.  While  it  is  more 
+common for vehicle manufacturers, in reality a vehicle is 
+composed of a number of components / auto parts that 
+contribute  to  the  consumption  of  energy  in  the  vehicle. 
+Some components contribute more than others to the ul-
+timate vehicle emissions, and the determination of the ex-
+act percentage contribution can be complicated.
+
+Product use emissions can be direct or indirect. Under the 
+GHG Protocol, companies are required to report direct use 
+phase emissions, and may also include indirect-use emis-
+sions when these are expected to be significant. However, 
+there is no guidance on significance thresholds. Therefore, 
+indirect use-phase emissions of auto part manufacturers 
+are of voluntary reporting. 
+
+BOX 6. Michelin’s scope 3 emissions
+
+According  to  Michelin’s  research,  the  tire’s  con-
+tribution to fuel consumption is between 20 and 
+25%  for  passenger  cars,  and  30-35%  for  trucks. 
+A fraction of this is used to overcome the rolling 
+resistance,  the  rest  of  the  energy  is  consumed 
+within the dynamic elements of a vehicle.  
+
+Michelin reports on these emissions every year 
+as a key part of their climate strategy. The com-
+pany  is  working  with  its  researchers  to  further 
+push  the  boundaries  of  rolling  resistance  of  its 
+tires to reduce energy consumption and there-
+fore emissions. 
+
+For  auto  part  manufacturers  reporting  these  emissions, 
+the recommendation is to use WTW emissions factors, as 
+vehicle manufacturers. 
+
+These improvements must be balanced by regu-
+latory  limits,  since  there  is  a  trade-off  between 
+improving rolling resistance and safety.
+
+There are different levers of decarbonization that can re-
+duce the energy needs in a vehicle, for example: improved 
+aerodynamics,  reduced  rolling  resistance,  weight  reduc-
+tions, internal combustion (ICE) efficiency gains, enhanced 
+power train efficiency, etc. Together with vehicle manufac-
+turers,  auto  part  manufacturers  can  work  towards  influ-
+encing one or more of these levers to different degrees.
+
+Michelin and WWF are currently exploring a tar-
+get-setting  approach  based  on  the  assumption 
+of current and long-term fuel consumption con-
+tribution from tires across vehicles with different 
+powertrains.
+
+3.4.2  Target-setting approaches & results interpretation
+
+During the development of the SDA Transport tool, the pos-
+sibility  of  building  a  science-based  pathway  for  auto  part 
+manufacturers was considered. Such an exercise would re-
+quire a more in-depth analysis and understanding of the as-
+sumptions in MoMo. 
+
+The aggregation level in MoMo does not currently allow the 
+development  of  specific  pathways  for  different  auto  part 
+manufactures. An approach for tire manufacturers is being 
+explored. The pathway would reflect the contribution of tires 
+to the fuel consumption of the vehicle (different per power 
+train)  and  the  need  to  decarbonize  the  transport  sector  in 
+line with a well-below 2°C world. 
+
+In  the  absence  of  2°C/Well-below  2°C  pathways  for  auto 
+part  manufacturers,  companies  can  use  other  approaches 
+for indirect use-phase emissions target-setting:
+
+• 
+
+• 
+
+Absolute emission reduction targets that are  
+consistent with the level of decarbonization  
+required to keep global temperature increase 
+below 2°C compared to pre-industrial  
+temperatures.
+
+Ambitious performance-based targets that  
+contribute to the reduction of energy needs  
+in a vehicle.
+
+18  This method is not applicable to companies with a product portfolio that already yields a zero emissions footprint in the TTW part (e.g. EV manufacturers), 
+
+although they are welcome to apply to and participate in the SBTi. 
+
+19   The assumed average lifetime of road vehicles in MoMo  varies by vehicle type, region, and over time. The assumed average global kilometers per year 
+
+can be found in Annex III,
+
+Transport Science-Based Target-Setting Guidance | 19
+
+4
+
+METHODOLOGICAL CHOICES
+
+4.1  SELECTION OF DECARBONIZATION SCENARIOS 
+
+FROM THE INTERNATIONAL ENERGY AGENCY
+
+The International Energy Agency low carbon scenarios are 
+created using the ETP-TIMES model (OECD/IEA, 2017). It is 
+used to determine the least-cost technology mix needed 
+to meet the final demand for three sectors: industry, trans-
+port, and buildings. 
+
+The  ETP-TIMES  model  starts  from  primary  energy  sup-
+ply and conversion to final energy demand up to 2060. It 
+models the current situation in the conversion sectors (e.g. 
+existing capacity stock, operating costs, and conversion ef-
+ficiencies) and then integrates the technical and economic 
+characteristics  of  existing  technologies  that  can  be  add-
+ed to the energy system. In this way it can determine the 
+least-cost  technology  mix  needed  to  meet  the  final  de-
+mand. This final demand is determined by the sub-models 
+of  the  specific  end-use  sectors.  The  transport  sector  is 
+modeled with Mobility Model (MoMo).
+
+pathways; and electricity (with emissions according to the 
+average national generation mix as modelled by the ETP-
+TIMES model in the relevant scenario).
+MoMo estimates on energy use are based on stocks, uti-
+lization  (travel  per  vehicle),  and  vehicle  energy  intensity  
+(energy use per vehicle, i.e. fuel economy). Emissions are 
+calculated via fuel emission factors for CO2 and pollutants 
+on a vehicle and well-to-wheel basis for all modes. The re-
+sults of the modeling exercise are validated and calibrated 
+against the IEA’s energy balances. 
+
+Cost  evolution  of  technology,  policy  frameworks  and  oil 
+prices are the primary drivers of technology penetration in 
+transport. In each scenario, the model aggregates the to-
+tal costs across modes and regions of vehicle production,  
+operations and maintanence, fuel  outlays, and infrastruc-
+ture investments.
+
+MoMo is a simulation model of detailed transport activity 
+projections, vehicle activity, energy demand, and well-to-
+wheel greenhouse gas (GHG) and pollutant emissions ac-
+cording to user-defined policy scenarios to 2060.  
+
+It integrates 27 countries and regions, historical data from 
+1975 to 2015 (or 1990 to 2015 for certain countries). It mod-
+els future trends over five-year steps to create scenarios 
+to  the year  2060, which  are  integrated  into  the  broader 
+ETP  framework  using  a  combination  of  “what  if”  analy-
+sis expert judgment and backcasting. It has national and 
+regional  resolution  split  for  both  urban  and      non-urban 
+geographies into parameters including vehicle stock, ac-
+tivity, energy use and emissions; passenger and transport 
+services by major motorized transport modes (including 
+a wide range of power train technologies), as well as fuel 
+supply options: gasoline and diesel, biofuels (ethanol and 
+biodiesel via various production pathways) and synthetic 
+alternatives to liquid fuels (coal-to-liquid and gas-to-liq-
+uid); gaseous fuels, including natural gas (CNG and lique-
+fied petroleum gas) and hydrogen via various production 
+
+To learn about MoMo:  
+https://www.iea.org/etp/etpmodel/transport/
+
+To learn about the major assumptions in the IEA’s mod-
+eling (GDP, oil prices and population growth):  
+https://www.iea.org/etp/etpmodel/assumptions/
+
+To learn more about the penetration of road  
+vehicle technologies:  
+https://www.iea.org/topics/transport/
+
+MoMo  adopts  the  “avoid,  shift  and  improve”  paradigm 
+through  the  assumptions  made  on  technologies  and 
+policies.    Technological  drivers  in  the  model  are  mainly               
+assumptions on the cost evolution of the technology and 
+the policy framework. Elasticities and case studies on pol-
+icy impacts are used to model the behavioural response 
+to  pricing,  regulatory,  and  other  policies  (such  as  invest-
+ment  in  compact  cities  or  public  transit  infrastructure  or 
+fare subsidies). These factors together with oil prices can 
+significantly alter technology penetration patterns. 
+
+20 | Transport Science-Based Target-Setting Guidance
+
+ 
+The  ETP  2017  describes  the  potential  role  and  impact  of 
+the  “autonomous  and  connected vehicles,  electrification, 
+and  sharing”  (ACES),  yet  it  recognizes  that  to  date,  the 
+magnitude  of  their  effects  and  the  direction  of  mobility 
+patterns, energy use and emissions it still uncertain and it 
+can only be speculated on.
+The IEA Mobility Model (MoMo) was selected as the mod-
+eling scenario for the following reasons:
+
+• 
+
+• 
+
+Compatibility with IEA ETP sectoral budgets 
+(basis for SDA tool): The Sector Decarbonization 
+Approach uses the sector carbon budgets and 
+activity projections from the IEA’s annual publica-
+tion: Energy Technology Perspectives (ETP) Report 
+(OECD/IEA, 2017). IEA’s modeling includes energy, 
+industry, buildings and transport. The transport part 
+is derived from the Mobility Model exercise. Table 3 
+shows the carbon budget of the 2DS and B2DS in 
+the ETP report. 
+
+Availability of both B2DS and 2DS scenarios: Ac-
+cording to the Paris Agreement global emissions 
+need to be reduced at a level to hold the increase 
+in the global average temperature to well below 
+2°C above pre-industrial levels and to pursue efforts 
+to limit the temperature increase to 1.5°C above 
+pre-industrial levels, recognizing that this would 
+significantly reduce the risks and impacts of climate 
+
+Table 3. CO2 budget assumptions in the 2DS and BD2DS (GtCO2).
+
+change. Therefore, the SBTi encourages companies 
+to set targets in line with these temperature thresh-
+olds. At the time of this project, the IEA’s work was 
+the closest readily available model that introduced 
+the “well below 2°C” pathway. The IEA’s B2DS sce-
+nario when projected to 2100 is expected to lead to 
+1.75°C temperature outcome with a 50% chance. 
+
+• 
+
+• 
+
+Its mitigation levers are transparent: Although  
+MoMo is only available through a License Agree-
+ment, its assumptions, including mitigation levers, 
+can be tracked through the publicly available 
+spreadsheets and the ETP Report. As for any other 
+model, it is a perfectible model that it is updated 
+every year through peer-review by experts in the 
+field and the MoMo partners. 
+
+It covers both passenger and freight transport: 
+The main objective of the SDA tool refinement for 
+the transport sector was to be as comprehensive 
+as possible. The refinement and inclusion of pas-
+senger and freight transport pathways will not only 
+facilitate the modeling of SBTs for vehicle owners, 
+but also for other companies highly dependent on 
+logistics services and for road vehicle manufactur-
+ers. MoMo’s level of disaggregation is suitable to 
+derive subsector pathways per transport mode. 
+
+SCENARIO
+
+2DS
+
+B2DS
+
+Total CO2 budget
+(2015-2100)
+
+LULUCF  
+(2015-2100)
+
+Energy sector CO2 
+budget (2015 -2100)
+
+Energy sector CO2 
+budget (2015-2060)
+
+1,140
+
+720
+
+-30
+
+-30
+
+1,170*
+
+750
+
+1,000*
+
+750
+
+* Includes emissions from industrial processes and fuel combustion. Source: IEA- ETP, 2017
+
+BOX 7. The IEA’s 2DS and B2DS modeling in a nutshell
+
+Excerpt  from  the  IEA’s  Energy  Technologies  Perspec-
+tives Report 2017: 
+
+• 
+
+• 
+
+The final energy demand in the B2DS is around 45 
+EJ (10%) lower than the 2DS in 2060 and margin-
+ally lower (4%) than 2014 levels.
+Final energy demand in the B2DS reflects the 
+significant role of electrification of end-use sec-
+tors (particularly ground transport and buildings) in 
+order to achieve this ambitious pathway. 
+
+•  Oil experiences the greatest decline in its share, 
+from almost 40% in 2014 to 16%, an absolute 
+decline of 96 EJ, reflecting the shift away from 
+petrol- and diesel-fueled vehicles.
+In the B2DS, WTW emissions from transport have 
+to decrease by 89% by 2060 compared to 2015 
+emissions, while in the 2DS 54% over the same 
+time frame. All transport modes must contribute to 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+decarbonization, not only through reducing emis-
+sions intensity, but also absolute emissions.
+The transport sector provides over 50 GtCO2 of ad-
+ditional emissions reductions compared with the 
+2DS, primarily through energy efficiency (57%), fuel 
+switching (28%) and renewables (15%).
+The role of biofuels in transport is lower in the 
+B2DS than in the 2DS in 2060 – 24 EJ compared 
+with 30 EJ – due in part to a 20% overall reduc-
+tion in transport energy demand between the two 
+scenarios.
+A 1.75°C pathway would require the emissions 
+intensity of power generation to fall from around 
+520 gCO2/kWh today to become carbon negative, 
+at -10 gCO2/kWh, in 2060.
+Scenario estimates of total expenditure on vehi-
+cles, infrastructure and fuels show that the cumu-
+lative costs of transport in the RTS are about USD 
+130 trillion (2015 USD PPP) higher than those of the 
+2DS, and USD 110 trillion higher than in the B2DS.
+
+Transport Science-Based Target-Setting Guidance | 21
+
+4.2  SECTORAL DECARBONIZATION APPROACH (SDA)
+
+The Sectoral Decarbonization Approach (SDA) tool was de-
+veloped by the SBTi partners with technical support from 
+Ecofys. The SDA tool allocates the energy-related carbon 
+budget  to  different  sectors. The  allocation  takes  into  ac-
+count inherent differences among sectors, such as mitiga-
+tion potential and how fast each sector can grow relative to 
+economic and population growth.
+
+Within  each  sector,  companies  can  derive  their  science-
+based  targets  based  on  their  relative  contribution  to  the 
+total  sector  activity  and  their  carbon  intensity  relative  to 
+the sector’s intensity in the base year. Therefore, the rate 
+of reduction varies per company depending on how close 
+their intensity is at present compared to the sector. Using 
+the detailed sector scenarios from the IEA’s 2DS and B2DS 
+models, it is possible to estimate the 2DS or B2DS compat-
+ible carbon intensity for each sector scenario by dividing 
+the total direct emissions of the sector in any given year by 
+the total activity of the sector in the same year. This yields 
+a sector intensity pathway.
+
+allocation method. The assumption is that the emissions in-
+tensity of each company in the same sector will converge 
+with the sector emissions intensity by 2050. 
+
+A company’s intensity pathway—given by the SDA tool—
+multiplied  by  their  projected  activity  yield  a  company’s 
+carbon budget in absolute terms for the target period. In 
+principle, the sum of these budgets should be contained 
+within  the  sector  projected  budget  given  by  the  IEA  in 
+each of the above-mentioned scenarios. 
+
+The pathways built in the SDA Transport tool are based on 
+the  MoMo’s  figures  for  stock  vehicles.  Stock  vehicles  are 
+those  already  in  circulation  plus  the  new  additions  each 
+year.  Emissions  are  Well-to-Wheel  (WTW)  reflecting  not 
+only the direct use emissions from fuel combustion (TTW: 
+Tank-to-Wheel) but also upstream emissions related to fuel 
+production and distribution (WTT: Well-to-Tank), as well as 
+electricity generation for electric vehicles. 
+
+For homogeneous sectors physical activity indicators - for 
+example,  tons  of  cement,  passenger-kilometers  (pkm), 
+kilowatt-hours (KWh) – convergence is used as the carbon 
+
+The WTW emissions pathways are then divided by the cor-
+responding activity (pkm, tkm) to build the intensity pathways. 
+The WTW approach reflects the shift of emissions from one 
+scope to another, for example due to electrification. 
+
+4.2.1  Convergence
+
+In designing the SDA method for all sectors, it was antici-
+pated that, in the long run, large companies will have equal 
+opportunities  to  abate  the  GHG  emissions  of  their  activi-
+ties. To reduce GHG emissions, three elements are impor-
+tant to consider: (1) the energy efficiency of the process; (2) 
+the carbon intensity of the energy used; and, (3) the emis-
+
+sions related to the process and its design. Although there 
+are  still  differences  in  energy  efficiency  among world  re-
+gions, these differences will tend to disappear in the long 
+term because of the convergence of the energy efficien-
+cy  technologies,  as  shown  by  historic  trends  (WRI,  CDP, 
+WWF, 2015).
+
+4.2.2  Market share parameter
+
+One of the parameters used in the convergence approach 
+for homogeneous sectors is the company’s expected ac-
+tivity growth. This input parameter is used in the SDA tool 
+to estimate the company’s market share compared to the 
+sector’s  total  activity  in  any  given  year  (selected  target 
+year). 
+
+tained as if the market share remained constant through-
+out  the  target  period.  This  safeguard  is  deemed  robust 
+and justifiable since it preserves the carbon budget integ-
+rity. Since the tool came after the SDA technical paper was 
+published  in  2014,  this  safeguard  is  not  captured  in  the 
+notes of the document. 
+
+After  beta-testing  the  first  SDA  Excel  tool,  stakeholders 
+raised  the  potential  threat  of  over  allocating  the  carbon 
+budget when companies underestimate their growth. To 
+prevent this situation, the SBT team introduced a cap to 
+the  market  share  parameter,  only  in  cases  in  which  the 
+company  projects  to  decrease  their  market  share  (any 
+market  parameter  above  1.00  is  brought  down  to  1.00). 
+In  all  other  cases,  the  decarbonization  pathway  is  main-
+
+According to Krabbe, et. al. (2015): “The intensity pathways 
+of the fast-growing companies are steepened to account 
+for their increase in market share. If this is not accounted 
+for, the sector average intensity will increase owing to the 
+growth, resulting in an exceedance of the sector’s carbon 
+budget. The opposite happens to the intensity pathways 
+of  the  companies  that  show  a  decreasing  market  share. 
+Although  this  might  seem  unrealistic  or  unfair,  it  makes 
+
+22 | Transport Science-Based Target-Setting Guidance
+
+sense from a business perspective, because when a com-
+pany’s market share is decreasing, it will probably invest 
+less in new, more efficient technologies, and vice versa.”
+
+The  convergence  formula,  including  the  market  share 
+parameter, comply with the following condition: for every 
+year the sum of all individual company emissions targets 
+does not exceed the sector’s total carbon budget. 
+
+4.2.3  Sector developments
+
+Some of the benefits of setting targets using a sector-spe-
+cific method are the possibility of setting targets based on 
+a common intensity unit used by peers (transparency), and 
+the possibility to capture the mitigation opportunities and 
+associated costs available for the sector (tailored). 
+
+However, acknowledging that some sectors are still highly 
+aggregated, the Science Based Targets Initiative is work-
+ing  on  other  sector  developments,  and  invites  interested 
+stakeholders  to  contribute  to  the  development  of  new 
+sector pathways in line with the Paris Agreement goals.
+
+4.3  Carbon accounting methodologies
+
+Science-based targets (SBTs) are based on the emissions calculated and reported by the company. As such, a target 
+is only as good as the emissions data that feeds the model. Companies adopting SBTs will need to calculate emissions 
+intensity and absolute emissions values for each transport mode. 
+
+To promote comparability and transparency of emissions calculations, three methodologies are encouraged:
+
+For general GHG reporting guidance and passenger transport:  
+Greenhouse Gas Protocol
+
+Developed by the World Resources Institute and the World Business Council for Sus-
+tainable Development, the Greenhouse Gas Protocol is considered baseline method-
+ology  for  carbon  accounting  and  reporting,  and  is widely  used  by  industry. The  SBT 
+has adopted the Corporate Accounting and Reporting Standard for scope 1 emissions 
+and the Corporate Value Chain Accounting and Reporting Standard for scope 3 (WRI & 
+WBCSD, 2004 and WRI & WBCSD, 2011, respectively).
+
+The  methodology  provides  a  “basic  training”  on  carbon  accounting  that  is  useful  for 
+understanding  the  terminologies,  creating  a  plan  for  setting  up  accounting  systems, 
+and provides default factors where data are unknown. The GHG Protocol is the base 
+methodology for CDP reporting.
+
+For products GHG reporting guidance:  
+Greenhouse Gas Protocol
+
+Developed  by  the  World  Resources  Institute  and  the  World  Business  Coun-
+cil  for  Sustainable  Development,  the  GHG  Protocol  Product  Life  Cycle  Accounting 
+and  Reporting  Standard  (referred  to  as  the  Product  Standard)  provides  require-
+ments  and  guidance  for  companies  and  other  organizations  to  quantify  and  pub-
+licly  report  an  inventory  of  GHG  emissions  and  removals  associated  with  a  spe-
+cific  product.  The  primary  goal  of  this  standard  is  to  provide  a  general  framework 
+for  companies  to  make  informed  choices  to  reduce  greenhouse  gas  emissions 
+from  the  products  (goods  or  services)  they  design,  manufacture,  sell,  purchase, 
+or  use.  The  GHG  Protocol  Scope  3  Standard  and  GHG  Protocol  Product  Stan-
+dard  both  take  a  value  chain  or  life  cycle  approach  to  GHG  accounting  and  were  
+developed simultaneously.
+
+Transport Science-Based Target-Setting Guidance | 23
+
+For freight transport specific guidance:  
+Global Logistics Emissions Council Framework
+
+Developed  by  Smart  Freight  Centre,  the  Global  Logistics  Emissions  Council  (GLEC) 
+Framework (Smart Freight Centre, 2015) is built in accordance with the GHG Protocol 
+and includes guidance specific to the logistics sector and its customers.  It  covers  all 
+regions, modes of transport and scopes, and includes a set of default factors specific 
+to freight transport. The GLEC Framework will be the methodology for freight transport, 
+alongside the GHG Protocol, in the new 2018 CDP transport questionnaire.
+
+4.4  Well to Wheel emissions boundary
+
+The boundary for GHG inventories and reductions targets 
+should be as wide and accurate as possible.  Emissions not 
+covered under a target cannot be managed / reduced.  
+
+scenario-specific  estimated  average  grid  carbon  inten-
+sity) (OECD/ IEA, 2017). TTW emissions cover the energy 
+used once transformed (e.g. combustion of the fuel during  
+vehicle use). Together these form the WTW emissions. 
+
+The emissions from the use of a vehicle consists of WTT 
+and TTW emissions. WTT emissions occur upstream in the 
+value chain of the fuel production; these are based on at-
+tributional life-cycle assessment studies of fossil-derived 
+fuels  (e.g.  gasoline,  diesel,  compressed  and  liquefied 
+natural  gas),  biofuels  and  electricity  (based  on  time  -and 
+
+The SBTi requires companies to cover WTW emissions for 
+GHG  target-setting,  as  more  opportunities  for  mitigation 
+are captured in a WTW basis, as well as the shift of emis-
+sions between TTW and WTT due to the switch in power 
+train technologies. 
+
+24 | Transport Science-Based Target-Setting Guidance
+
+5
+
+ANNEX
+
+Annex I. Default factors for fuel consumption and emissions
+
+The Smart Freight Centre has produced an excellent compendium of consumption factors per tonne-kilometer for 
+logistics in the GLEC Framework: Module 1. Default consumption factors and sources.
+
+Also, Smart Freight Centre commissioned VTT Technical Research Centre of Finland to review the sources of fuel 
+emissions factors used in standards, databases and methodologies, in the transport / logistics sector: Module 2: Fuel-
+based emissions factors.
+
+Many of the sources listed by the SFC have also information on passenger transport: 
+
+• 
+
+http://www.smartfreightcentre.org/glec/what-is-glec
+
+The GHG Protocol also provides a life-cycle data bases and tools across sectors. 
+
+• 
+• 
+
+http://www.ghgprotocol.org/life-cycle-databases
+http://www.ghgprotocol.org/calculation-tools
+
+The MoMo 2017 uses the WTT emissions factors from the JRC Concawe 2011 study. 
+
+• 
+
+http://iet.jrc.ec.europa.eu/about-jec/downloads
+
+Global electricity intensity in  MoMo 2017:
+
+Intensity - Electricity generation (kgCO2/MWh), World
+
+2DS
+
+B2DS
+
+2014
+
+572.02
+
+572.02
+
+2025
+
+360.85
+
+330.18
+
+2030
+
+245.22
+
+228.79
+
+2035
+
+150.87
+
+140.69
+
+2040
+
+97.38
+
+71.91
+
+2045
+
+55.77
+
+20.35
+
+2050
+
+36.50
+
+-8.02
+
+Annex II. Average occupancy rates and load factors used in MoMo, 2017
+
+Freight load (tonne per vkm), World, 2DS
+
+Freight load (tonne per vkm), World, B2DS
+
+2015
+
+2020
+
+2025
+
+2030
+
+2015
+
+2020
+
+2025
+
+2030
+
+2-3 Wheelers
+
+Light vehicles
+
+Large road
+
+0.24
+
+0.68
+
+12.30
+
+0.24
+
+0.71
+
+13.10
+
+0.23
+
+0.73
+
+13.73
+
+0.22
+
+0.76
+
+14.09
+
+2-3 Wheelers
+
+Light vehicles
+
+Large road
+
+0.24
+
+0.68
+
+12.30
+
+0.24
+
+0.71
+
+13.17
+
+0.23
+
+0.75
+
+13.97
+
+0.22
+
+0.79
+
+14.55
+
+Rail
+
+1,613.02
+
+1,603.25
+
+1,594.61
+
+1,588.46
+
+Rail
+
+1,613.02
+
+1,603.25
+
+1,594.61
+
+1,588.46
+
+Shipping
+
+20,496.07
+
+21,051.66 21,359.83
+
+21,769.62
+
+Shipping
+
+20,496.07
+
+21,007.56 21,295.55 21,673.05
+
+Transport Science-Based Target-Setting Guidance | 25
+
+Passenger load (people per vkm), World, 2DS
+
+Passenger load (people per vkm), World, B2DS
+
+2015
+
+2020
+
+2025
+
+2030
+
+2015
+
+2020
+
+2025
+
+2030
+
+2-3 Wheelers
+
+Light vehicles
+
+Large road
+
+1.17
+
+1.59
+
+15.11
+
+1.17
+
+1.62
+
+15.46
+
+1.17
+
+1.62
+
+15.71
+
+1.17
+
+1.60
+
+15.87
+
+2-3 Wheelers
+
+Light vehicles
+
+Large road
+
+1.17
+
+1.59
+
+15.11
+
+1.17
+
+1.62
+
+1.17
+
+1.62
+
+1.17
+
+1.60
+
+15.42
+
+15.61
+
+15.62
+
+Rail
+
+349.11
+
+353.84
+
+353.32
+
+340.16
+
+Rail
+
+349.11
+
+353.04
+
+350.49
+
+333.60
+
+Annex III. Assumed average km per year for road vehicles 
+
+From  MoMo 2017:
+
+Passenger mileage  
+(thousand km/year per vehicle), World, 2DS
+
+Passenger mileage  
+(thousand km/year per vehicle), World, B2DS
+
+2015
+
+2020
+
+2025
+
+2030
+
+2015
+
+2020
+
+2025
+
+2030
+
+2-3 Wheelers
+
+Light vehicles
+
+Large road
+
+7.18
+
+13.56
+
+31.10
+
+7.26
+
+13.10
+
+30.14
+
+7.23
+
+12.77
+
+29.74
+
+7.22
+
+12.55
+
+29.42
+
+2-3 Wheelers
+
+Light vehicles
+
+Large road
+
+7.18
+
+13.56
+
+31.10
+
+7.25
+
+13.03
+
+30.16
+
+7.23
+
+12.64
+
+29.86
+
+7.17
+
+12.11
+
+29.81
+
+Freight mileage  
+(thousand km/year per vehicle), World, 2DS
+
+Freight mileage  
+(thousand km/year per vehicle), World, B2DS
+
+2015
+
+2020
+
+2025
+
+2030
+
+2015
+
+2020
+
+2025
+
+2030
+
+2-3 Wheelers
+
+Light vehicles
+
+Large road
+
+6.56
+
+16.06
+
+27.18
+
+6.65
+
+15.55
+
+26.70
+
+6.92
+
+15.36
+
+26.66
+
+7.23
+
+15.56
+
+26.96
+
+2-3 Wheelers
+
+Light vehicles
+
+Large road
+
+6.56
+
+16.06
+
+27.18
+
+6.66
+
+15.49
+
+26.46
+
+6.93
+
+15.25
+
+26.42
+
+7.29
+
+15.38
+
+26.51
+
+26 | Transport Science-Based Target-Setting Guidance
+
+GLOSSARY
+
+Carbon  dioxide  emission  budget  (or  carbon  budget): 
+For a given temperature rise limit, for example a  2°C 
+long-term  limit,  the  corresponding  carbon  budget 
+reflects  the  total  amount  of  carbon  emissions  that 
+can be emitted for temperatures to stay below that 
+limit. Stated differently, a carbon budget is the area 
+under a carbon dioxide (CO2) emission trajectory that 
+satisfies  assumptions  about  limits  on  cumulative 
+emissions estimated to avoid a certain level of global 
+mean surface temperature rise.
+
+Carbon dioxide equivalent (CO2e): A way to place emis-
+sions of various radiative forcing agents on a com-
+mon  footing  by  accounting  for  their  effect  on  cli-
+mate.  It  describes,  for  a  given  mixture  and  amount 
+of greenhouse gases, the amount of CO2 that would 
+have  the  same  global  warming  ability,  when  mea-
+sured over a specified time period.
+
+Sectoral  Decarbonization  Approach  (SDA):  The  SDA 
+is  differentiated  from  other  existing  science-based 
+target  methods  by virtue  of  its  subsector-level  ap-
+proach  and  global  least-cost  mitigation  perspec-
+tive, in line with the carbon budget related to a given 
+temperature  goal.  Currently,  the  SDA  tool  uses  the 
+sector  decarbonization  trajectories  of  the  Interna-
+tional Energy Agency (IEA).
+
+Convergence  approach  used  in  the  Sectoral  Decar-
+bonization  Approach  (SDA):  The  convergence 
+approach  for  homogeneous  sectors  in  the  SDA  is 
+based on the assumption that the carbon intensity of 
+a company convergences towards the carbon inten-
+sity of the sector at a rate that ensures not exceed-
+ing the sectoral carbon budget. The rate of conver-
+gence of a company is a function of the initial carbon 
+intensity of the company, the carbon intensity of the 
+sector,  and  the  growth  of  the  company  relative  to 
+the growth of the sector. 
+
+Contraction approach used in the Sectoral Decarbon-
+ization Approach  (SDA): The  contraction  approach 
+assigns to companies the same percentage of abso-
+lute emission reductions as is required for the sector 
+selected within a given time period.
+
+Scenario:  A  description  of  how  the  future  may  unfold 
+based  on  ‘if-then’  propositions.  Scenarios  typically 
+include  an  initial  socio-economic  situation  and  a 
+description  of  the  key  driving  forces  and  future 
+changes in emissions, temperature or other climate 
+change-related variables.
+
+Integrated  assessment  models:  Models  that  seek  to 
+combine  knowledge  from  multiple  disciplines  in 
+the form of equations and/or algorithms in order to 
+explore complex environmental problems. As such, 
+they describe the full chain of climate change, from 
+production of greenhouse gases to atmospheric re-
+sponses. This necessarily includes relevant links and 
+feedbacks between socio-economic and biophysi-
+cal processes.
+
+International Energy Agency (IEA), 2°C scenario (2DS): 
+The  2°C  Scenario  (2DS)  lays  out  an  energy  system 
+pathway  and  a  CO2  emissions  trajectory  consistent 
+with  at  least  a  50%  chance  of  limiting  the  average 
+global temperature increase to 2°C by 2100. Annual 
+energy-related  CO2  emissions  are  reduced  by  70% 
+from today’s levels by 2060, with cumulative emis-
+sions of around 1,170 gigatonnes of CO2 (GtCO2) be-
+tween  2015  and  2100  (including  industrial  process 
+emissions). To stay within this range, CO2 emissions 
+from fuel combustion and industrial processes must 
+continue their decline after 2060, and carbon neutral-
+ity in the energy system must be reached before 2100.  
+
+In transport, this reflects clear policy choices favour-
+ing  less  energy  intensive  modes,  the  rapid  uptake 
+of  all  cost-effective  energy  efficiency  opportunities 
+and the transition towards a much higher reliance on 
+low-carbon energy carriers by 2060.
+
+International Energy Agency (IEA), Beyond 2°C scenario 
+(B2DS):  The  Beyond  2°C  Scenario  (B2DS)  explores 
+how far deployment of technologies that are already 
+available or in the innovation pipeline could take us 
+beyond the 2DS. Technology improvements and de-
+ployment are pushed to their maximum practicable 
+limits across the energy system in order to achieve 
+net-zero emissions by 2060 and to stay net zero or 
+below thereafter, without requiring unforeseen tech-
+nology  breakthroughs  or  limiting  economic  growth.  
+
+Transport Science-Based Target-Setting Guidance | 27
+
+ 
+This  “technology  push”  approach  results  in  cumu-
+lative  emissions  from  the  energy  sector  of  around 
+750  GtCO2  between  2015  and  2100,  which  is  con-
+sistent  with  a  50%  chance  of  limiting  average  fu-
+ture temperature increases to 1.75°C. Energy sector 
+emissions  reach  net  zero  around  2060,  supported 
+by  significant  negative  emissions  through  deploy-
+ment of bioenergy with carbon capture and storage 
+(CCS).  The  B2DS  falls  within  the  Paris  Agreement 
+range  of  ambition,  but  does  not  purport  to  define 
+a  specific  temperature  target  for  “well  below  2°C”. 
+In  transport,  this  requires  even  greater  reliance  on 
+the most efficient modes, a very rapid deployment of 
+zero-carbon vehicle technologies and energy carri-
+ers to shift away from fossil fuels, and needs to be 
+accompanied  by  effective  near-term  accelerated 
+and ambitious policy changes.
+
+IEA’s	 definition	 of	 Thank-to-wheel	 emissions	 (TTW): 
+Tank-to-wheel emissions cover all the energy used 
+once transformed, this is emissions occurring during 
+the combustion of the fuels by vehicles.
+
+IEA’s	 definition	 of	 Well-to-thank	 emissions	 (WTT): 
+Well-to-tank  emissions  are  based  on  attributional 
+life-cycle  assessment  studies  of  fossil-derived  fu-
+els (e.g. gasoline, diesel, compressed and liquefied 
+natural gas), biofuels and electricity (based on time- 
+and  scenario-specific  estimated  average  grid  car-
+bon  intensity).  Energy  use  and  emissions  resulting 
+from pipeline transport are accounted for under “En-
+ergy  industry  own  use”  in  the  International  Energy 
+Agency own modeling. 
+
+IEA’s	 definition	 of	 Well-to-wheel	 emissions	 (WTW): 
+Together, TTW and WTT make up WTW GHG emis-
+sions. This does not include emissions from vehicle 
+or battery manufacturing, or those offset by material 
+recycling, among others.
+
+Passenger – kilometer: A  passenger-kilometer,  abbre-
+viated  as  pkm,  is  the  unit  of  measurement  repre-
+senting the transport of one passenger by a defined 
+mode  of  transport  (road,  rail,  air,  sea,  inland water-
+ways etc.) over one kilometer.
+
+Tonne  –  kilometer:  A  tonne-kilometer,  abbreviated  as 
+tkm, is a unit of measure of freight transport which 
+represents the transport of one tonne of goods (in-
+cluding  packaging  and  tare  weights  of  intermodal 
+transport units) by a given transport mode (road, rail, 
+air,  sea,  inland waterways,  pipeline  etc.)  over  a  dis-
+tance of one kilometer.
+
+SCOPES DEFINITIONS IN THE GHG PROTOCOL:
+
+Scope  1  emissions:  Emissions  derived  from  the  com-
+bustion  of  fossil  fuels  in  the  vehicle;  generally  de-
+rived from invoices (e.g. liters of gasoline purchased). 
+
+Scope  2  emissions:  Emissions  derived  from  the  com-
+bustion  of  fossil  fuels  to  produce  electricity  that  is 
+consumed in the companies’ vehicles. The GHG Pro-
+tocol  Scope  2  Protocol  allow  companies  to  report 
+these emissions in two ways.
+
+Location-based  method  for  scope  2  accounting:  A 
+method  to  quantify  scope  2  GHG  emissions  based 
+on  average  energy  generation  emission  factors  for 
+defined locations, including local, subnational, or na-
+tional boundaries.
+
+Market-based  method  for  scope  2  accounting:  A 
+method  to  quantify  scope  2  GHG  emissions  based 
+on  GHG  emissions  emitted  by  the  generators  from 
+which the reporter contractually purchases electric-
+ity  bundled  with  instruments,  or  unbundled  instru-
+ments on their own.
+
+Scope  3  Category  3  “Fuel  and  energy  related  activities”: 
+This category includes emissions related to the pro-
+duction  of  fuels  and  energy  purchased  and  con-
+sumed  by  the  reporting  company  in  the  reporting 
+year  that  are  not  included  in  scope  1  or  scope  2.  
+
+This category includes emissions from four distinct 
+activities:  1)  upstream  emissions  from  purchased 
+fuels  (extraction,  production,  and  transportation 
+of  fuels  consumed  by  the  reporting  company);  2) 
+Upstream  emissions  of  purchased  electricity  (ex-
+traction,  production,  and  transportation  of  fuels 
+consumed  in  the  generation  of  electricity,  steam, 
+heating,  and  cooling  that  is  consumed  by  the  re-
+porting  company);  3)  T&D  losses  (generation  of 
+electricity, steam, heating, and cooling that is con-
+sumed (i.e., lost) in a T&D system – reported by end 
+user);  and,  4)  Generation  of  purchased  electricity 
+that  is  sold  to  end  users  (generation  of  electricity, 
+steam,  heating,  and  cooling  that  is  purchased  by 
+the reporting company and sold to end users – re-
+ported by utility company or energy retailer). 
+
+Scope 3 Category 6 “Business travel”: This category in-
+cludes emissions from the transportation of employ-
+ees for business-related activities in vehicles owned 
+or  operated  by  third  parties,  such  as  aircraft,  trains, 
+buses, and passenger cars.
+
+28 | Transport Science-Based Target-Setting Guidance
+
+ 
+Scope  3  Category  7  “Employee  commuting”:  This  cat-
+egory  includes  emissions  from  the  transportation  of 
+employees between their homes and their worksites.
+
+Scope  3  Category  4  “Upstream  transportation  and 
+distribution”:  This  category  includes  emissions 
+from the transportation and distribution of products 
+(excluding fuel and energy products) purchased or 
+acquired  by  the  reporting  company  in  the  report-
+ing year in vehicles and facilities not owned or op-
+erated by the reporting company, as well as other  
+transportation and distribution services purchased 
+by the reporting company in the reporting year (in-
+cluding both inbound and outbound logistics).
+
+by the reporting company in the reporting year be-
+tween the reporting company’s operations and the 
+end consumer (if not paid for by the reporting com-
+pany),  in  vehicles  and  facilities  not  owned  or  con-
+trolled by the reporting company.
+
+Bioenergy:  Energy  derived  from  any  form  of  biomass 
+such as recently living organisms or their metabolic 
+by-products.
+
+Bioenergy  and  Carbon  Dioxide  Capture  and  Storage 
+(BECCS): The application of Carbon Dioxide Capture 
+and Storage (CCS) technology to bioenergy conver-
+sion processes.
+
+Scope 3 Category 9 “Downstream transportation and 
+distribution”:  This  category 
+includes  emissions 
+from transportation and distribution of products sold 
+
+Uncertainty: A cognitive state of incomplete knowledge 
+that can result from a lack of information or from dis-
+agreement about what is known or even knowable.
+
+Transport Science-Based Target-Setting Guidance | 29
+
+Resources
+
+WRI & WBCSD, 2004, Greenhouse Gas Protocol: A Cor-
+porate  Accounting  and  Reporting  Standard  (Re-
+vised  Edition):  http://www.ghgprotocol.org/files/
+ghgp/public/ghg-protocol-revised.pdf
+
+WRI  &  WBCSD,  2011,  Greenhouse  Gas  Protocol  Cor-
+porate  Value  Chain  (Scope  3)  Accounting  and 
+Reporting  Standard:  http://www.ghgprotocol.org/
+files/ghgp/public/Corporate-Value-Chain-Ac-
+counting-Reporing-Standard_041613.pdf
+
+WRI & WBCSD, 2011, Greenhouse Gas Protocol Product 
+Life  Cycle  Accounting  and  Reporting  Standard: 
+http://www.ghgprotocol.org/sites/default/files/
+ghgp/standards/Product-Life-Cycle-Accounting-
+Reporting-Standard_041613.pdf
+
+Smart  Freight  Centre,  2016,  GLEC  Framework  for  Lo-
+gistics  Emissions  Methodologies:  http://www.
+smartfreightcentre.org/info/glec-framework-
+download-form
+
+WRI,  CDP,  WWF,  2015,  Science-based  Target-setting 
+Manual (Draft Version): http://sciencebasedtargets.
+org/2015/09/23/for-public-comment-science-
+based-target-setting-manual/
+
+References
+
+ATAG (2018). Website accessed May 1st, 2018: https://
+
+www.atag.org/our-activities/climate-change.html
+
+Greenbiz  (2018).  Website  accessed  May  1st,  2018: 
+
+https://www.greenbiz.com/article/shipping-
+industry-has-quietly-gone-without-climate-
+plan-until-now?utm_source=newsletter&utm_
+medium=email&utm_term=newsletter-type-
+greenbuzz-daily&utm_content=2018-04-15&utm_
+campaign=newsletter-type-greenbuzz-daily-
+110209&mkt_tok=eyJpIjoiTlRsaFpEZGxOamRoWlR-
+jNSIsInQiOiJ1elo3bWpkYm5VbjUybXlMU2pVcktTZ3
+pZRWFnTkRpd2JKRlY5cFF6Z2ViMSt4a09JbXROcjZ
+EMTZ5cmVBaklhdU5VdEtkQU5FWFwvWTdKU3d-
+4WjFocFZWenZNRmx0d242VWJvVnBKVVwvU1B-
+0NmpSSE04eXRxa1pCemtHU2FTZHdiIn0%3D
+
+30 | Transport Science-Based Target-Setting Guidance
+
+ICCT  (2014).  ‘Development  of  Test  Cycle  Conversion 
+Factors  among  Worldwide  Light-duty  vehicles 
+CO2 Emissions Standards’, ICCT White Paper, Sep-
+tember  2014.  Accessible  at:  https://www.theicct.
+org/sites/default/files/publications/ICCT_LDV-
+test-cycle-conversion-factors_sept2014.pdf
+
+IEA (2017). Mobility Model, August 2017 version, data-
+base and simulation model, www.iea.org/etp/etp-
+model/transport/
+
+IEA (2017).  ‘The Future of Trucks,  Implications for en-
+ergy and the environment’, IEA Insight Series 2017.
+
+IPCC (2014). Working Group III - Fifth Assessment Re-
+port.  Accessible  at:  http://www.ipcc.ch/ipccrep-
+orts/tar/wg3/index.php?idp=311
+
+Krabbe,  O,  Linthorst,  G,  Blok,  K,  Crijns-Graus,  W,  van 
+Vuuren, DP, Hohne, Niklas, Faria, P, Aden, N & Car-
+rillo-Pineda,  A  (2015).  ‘Aligning  corporate  green-
+house-gas  emissions  targets with  climate  goals’, 
+Nature Climate Change.
+
+OECD/IEA  (2017).  ‘Energy  Technology  Perspectives 
+Report 2017, Catalysing Energy Technology Trans-
+formations’, International Energy Agency.
+
+WRI,  CDP,  WWF  (2015).  ‘Sectoral  Decarbonization 
+Approach  (SDA):  A  method  for  setting  corporate 
+emissions  reduction  targets  in  line  with  climate 
+science’, Science Based Targets initiative. 
+
+Transport Science-Based Target-Setting Guidance | 31
+
+http://sciencebasedtargets.org/transport-2/
+
+Download our new transport-specifi c technical 
+resources and explore science based 
+target setting for your company today.
+
+

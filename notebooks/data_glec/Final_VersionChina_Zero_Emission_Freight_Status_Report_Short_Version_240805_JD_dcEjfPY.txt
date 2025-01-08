@@ -1,0 +1,2098 @@
+   
+ 
+ 
+ 
+ 
+ 
+China Zero Emission Freight Status Report 
+
+2023 
+
+© Smart Freight Centre China, 2024 
+Suggested citation: [Smart Freight Centre China]. [China Zero Emission Freight Status Report 2023]. 2024. 
+This publication may be reproduced in whole or in part in any form for educational or non-profit purposes without special permission from the 
+copyright  holder,  provided  acknowledgment  of  the  source  is  made.  Smart  Freight  Centre China  would  appreciate  receiving  a  copy  of  any 
+publication that uses China Zero Emission Freight Status Report 2023 as a source. No use of this publication may be made for resale or for 
+any other commercial purpose whatsoever, without prior permission in writing from Smart Freight Centre China. 
+
+Disclaimer 
+The views expressed in this publication are those of Smart Freight Centre China and staff, consultants and management, and do not necessarily 
+reflect the views of the Board of Trustees of Smart Freight Centre China. Smart Freight Centre China does not guarantee the accuracy of the 
+data included in this publication and does not accept responsibility for consequence of their use. This report contains information and case 
+studies  from  China  that  aim  to  provide  a  faithful  and  comprehensive  depiction  of  zero-emission  road  freight  transportation  in  that  country. 
+Because of this, the report adheres to Chinese academic writing styles, which means that some of terms and concepts may differ from those 
+used in the U.S., Europe, and other markets. Please refer to explanations provided throughout the report for clarification. Due to our current 
+research focus, this report provides an analysis of the present state of road freight transport in China. Going forward, future reports will continue 
+to track the status of China’s road freight transport on an annual basis and include research on shipping and air transport at a suitable time. 
+
+Acknowledgements 
+This report was organized and written by Caltha Chen of Smart Freight Centre China. 
+
+About Smart Freight Centre China 
+Smart  Freight  Centre  China’s  vision  is  an  efficient  and  zero  emission  global  logistics  sector.  Smart  Freight  Centre  China’s  mission  is  to 
+collaborate with the organization’s global partners to quantify impacts, identify solutions, and propagate logistics decarbonization strategies. 
+Smart Freight Centre China’s goal is to guide the China logistics industry in tracking and reducing the industry’s greenhouse gas emissions to 
+reach zero emissions by 2050 or earlier, consistent with a 1.5°C future.   
+
+About Zero Emission Freight Initiative   
+Supported by Energy Foundation, ZEFI is a non-profit, voluntary partnership that aligns research institutions, OEMs, key equipment and parts 
+production and suppliers, energy production and suppliers, shippers, logistics and transportation companies, industry associations and other 
+relevant stakeholders. The vision for ZEFI is to accelerate the adoption of zero emission trucks and related freight efficiency solutions in China 
+by enabling 1) Collaboration between key stakeholders; 2) Supportive policies, programs, and strategies; and 3) Consensus building among 
+stakeholder  on  ZEFV  pathways 
+to 
+https://www.smartfreightcentre.org/en/our-programs/zero-emission-freight-initiative/ to learn more about ZEFI. 
+
+in  Smart  Freight  Centre  China.  Go 
+
+for  China.  The  secretariat  of  ZEFI 
+
+is  set 
+
+Contact 
+Smart Freight Centre China 
+909, Building E, ULO Park 
+P.O. 100215, Chaoyang District, Beijing China 
+Tel office: 010-84766376   
+https://www.smartfreightcentre.org/en/smart-freight-centre-china-sfcc/   
+infochina@smartfreightcentre.org   
+
+ 
+ 
+ 
+ 
+ 
+           
+ 
+ 
+ 
+ 
+ 
+Contents 
+1  Background, Purpose and Scope     ............................................................................................................ 1 
+2  An Overview of China’s Freight Industry and Zero-Emission Freight Vehicles   ....................... 2 
+
+3    Zero-Emission Truck Related Policies   ..................................................................................................... 6 
+
+3.1 Policies on Light-Duty Trucks in Urban Scenarios ................................................................................... 6 
+
+3.2 Policies on Heavy-Duty Trucks Used in the Industrial Sector .................................................................. 6 
+
+3.3 Policies on Hydrogen Fuel Cell Trucks .................................................................................................... 7 
+
+3.4 Environmental Policies for Zero-Emission Freight ................................................................................... 8 
+
+3.5 Financial Policies on Zero-Emission Vehicles .......................................................................................... 8 
+
+3.6 Infrastructure Policies Related to Zero-Emission Freight   ....................................................................... 9 
+
+3.7 Continuation of Previous Policies ............................................................................................................. 9 
+
+4    Overview of China’s Current Zero-Emission Freight Market   ............................................ 10 
+
+5    Current Development of Zero-Emission Truck Technologies   .......................................... 13 
+
+6    Current Infrastructure Support for Zero-Emission Trucks   ................................................ 15 
+
+7    Economic Assessment of Zero-Emission Trucks ............................................................... 17 
+
+7.1    Current Status of Total Cost of Ownership (TCO) Parity for Pure Electric Trucks .............................. 17 
+
+7.2    Key Factors in Achieving Price Parity for Pure Electric Trucks   .......................................................... 17 
+
+7.3    Impact of Initial Purchase Cost on the Economics of Pure Electric Trucks ......................................... 18 
+
+7.4．Economic Challenges and Future Prospects for Hydrogen Fuel Cell Trucks ...................................... 18 
+
+8    GHG Emission Reduction Benefits of Zero-Emission Trucks ............................................ 19 
+
+9    Comparison of China and International Development of Zero-Emission Trucks ............... 20 
+
+10 General Recommendations ................................................................................................ 21 
+
+ 
+ 
+ 
+ 
+ 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1  Background, Purpose and Scope   
+
+Since the Paris Agreement, climate change has remained a central topic in global discussions among governments 
+
+and world leaders, creating a consensus on the urgency of reaching peak carbon emissions and achieving carbon 
+
+neutrality as soon as possible. As a key global stakeholder, China announced its Carbon Peaking and Carbon 
+
+Neutrality Goals in September 2020, which outlined a two-stage strategy to achieve peak carbon dioxide emissions 
+
+before 2030 and carbon neutrality by 2060.   
+
+A critical area of focus for China in this process is the decarbonization of the transportation sector, which currently 
+
+accounts for about 10% of China’s total carbon emissions. Road transportation alone contributes to over 85% of 
+
+these  emissions,  making  it  the  primary  target  for  reduction  efforts.  Despite  comprising  only  11%  of  vehicle 
+
+ownership  in  China,  trucks  account  for  about  47%  of  transportation-related  carbon  emissions.  The  need  for 
+
+transformation in this sector is extremely urgent and China has prioritized the transition to zero-emission freight 
+
+transportation in achieving what it has termed its "Dual Carbon Goals”. 
+
+To provide additional insight into the progress of these efforts, Smart Freight Centre China, as the Secretariat of 
+
+Zero Emission Freight Initiative (ZEFI), in collaboration with Beijing Smart & Green Transport Research Center, 
+
+has  produced  China  Zero  Emission  Freight  Annual  Status  Report  2023,  which  examines  developments  and 
+
+challenges in zero-emission road freight from 2022 to 2023, focusing on four key areas: 
+
+§ 
+
+Policies related to zero-emission freight 
+
+§  Current technological and market developments in zero-emission trucks 
+
+§  Development and management of zero-emission freight refueling and charging infrastructure 
+
+§ 
+
+Assessment of pollutant and carbon reduction beneﬁts of zero-emission trucks 
+
+This report analyzes major trends and summarizes key data, supported by case studies, to provide a point of 
+reference for the freight industry, government decision-makers, cargo owners and research institutions in the 
+development of zero-emission freight in China. 
+
+1 
+
+1 
+
+ 
+ 
+ 
+ 
+ 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2  An Overview of China’s Freight Industry and 
+
+Zero-Emission Freight Vehicles 
+
+Between 2022 and 2023, demand in the freight industry showed positive growth despite ﬂuctuations. In 2022, the 
+
+freight  industry  contracted  due  to  the  impact  of  COVID-19  with  total  freight  volume  and  road  freight  volume 
+
+decreasing by 2.9% and 5.1% respectively compared to 2021. However, in 2023, the sector rebounded, with total 
+
+freight volume and road freight volume increasing by 8.1% and 8.7% year-on-year.   
+
+)
+s
+n
+o
+
+t
+
+n
+o
+
+i
+l
+l
+i
+
+b
+(
+
+e
+m
+u
+o
+V
+
+l
+
+t
+
+i
+
+h
+g
+e
+r
+F
+
+l
+
+a
+
+t
+
+o
+T
+
+56
+
+54
+
+52
+
+50
+
+48
+
+46
+
+44
+
+42
+
+40
+
+14%
+
+12%
+
+10%
+
+8%
+
+6%
+
+4%
+
+2%
+
+0%
+
+-2%
+
+-4%
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+Total Freight Volume (billion tons)
+
+YoY Change in Total Freight Volume (%)
+
+Figure 1: China’s total freight volume and year-over-year changes (2019-2023)(Statistical Bulletin on the 
+
+Development of the Transportation Industry. 2023). 
+
+In 2022, the total value of social logistics goods in China—which measures the total value of goods that enter the 
+
+domestic  demand  ﬁeld  for  the  ﬁrst  time,  generating  the  physical  ﬂow  from  the  supply  location  to  the  receiving 
+
+location, including industrial products, agricultural products, recycled resources, goods for entities and residents, 
+
+and imported goods—was RMB 347.6 trillion, an increase of 3.4% in comparable prices. In 2023, the total value 
+
+was RMB 352.4 trillion, marking a 5.2% increase in volume.   
+
+2 
+
+ 
+ 
+ 
+ 
+ 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+n
+o
+
+i
+l
+l
+i
+r
+t
+
+（
+s
+d
+o
+o
+G
+s
+c
+i
+t
+s
+g
+o
+L
+
+i
+
+l
+
+i
+
+a
+c
+o
+S
+
+f
+o
+
+u
+n
+e
+v
+e
+R
+
+l
+
+a
+
+t
+
+o
+T
+
+350
+
+300
+
+250
+
+）
+B
+M
+R
+
+200
+
+150
+
+100
+
+50
+
+0
+
+Industrial products
+
+Agricultural
+products
+
+Recycled
+resources
+
+Goods for entities
+and residents
+
+Imported goods
+
+2021
+
+2022
+
+2023
+
+Figure 2: Total Revenue of Social Logistics Goods by Type of Goods in Trillion RMB (2021 – 2023) (Data 
+
+Source: China Federation of Logistics and Purchasing. 2023). 
+
+The overall composition of the transport industry remained stable, with a slight decline in the average transport 
+
+distance for road freight. In 2023, road freight accounted for 73.7% of total freight volume, down from 74.3% in 
+
+2019. Conversely, the combined share of rail and water freight increased to 26.3% from 25.7% in 2019. 
+
+)
+s
+n
+o
+t
+
+n
+o
+
+i
+l
+l
+i
+
+b
+(
+
+e
+m
+u
+o
+V
+
+l
+
+i
+
+t
+h
+g
+e
+r
+F
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+79%
+
+78%
+
+77%
+
+76%
+
+75%
+
+74%
+
+73%
+
+72%
+
+71%
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+Road Freight Volume
+
+Total Freight Volume
+
+Share of Road Freight Volume
+
+Figure 3: Road Freight Volume and Total Freight Volume (2019-2023) (Statistical Bulletin on the 
+
+Development of the Transportation Industry. 2023). 
+
+3 
+
+ 
+ 
+ 
+ 
+ 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Changes in demand for logistics services and related policies have inﬂuenced the composition of road freight. 
+
+The average transport distance for road freight fell to 183 kilometers in 2023, a 1.3% decline. Meanwhile, since 
+
+the second half of 2022, the proportion of long-distance road freight has decreased, while the number of short to 
+
+medium-distance hauls has increased. For example, routes over 500 kilometers have dropped by 15%, while 
+
+those over 200 kilometers fell by 8%. These changes reﬂect recent shifts in structure of the transport sector, 
+
+related policies, and evolving market demand. 
+
+The truck market continues to show development toward opposite ends of the spectrum with increased numbers 
+
+in light and heavy-duty trucks. Increased specialization has also been observed. Sales of medium-duty trucks have 
+
+consistently declined by 73% from 2013 to 2022. In contrast, sales of light and heavy-duty trucks have shown 
+
+growth. The total truck ownership in 2022 increased by 1.8% compared to 2021. In addition, specialized trucks 
+
+and tractor units have also seen growth. 
+
+i
+
+p
+h
+s
+r
+e
+n
+w
+O
+k
+c
+u
+r
+T
+
+t
+
+i
+
+h
+g
+e
+r
+F
+
+)
+s
+t
+i
+
+n
+u
+
+n
+o
+
+i
+l
+l
+i
+
+m
+
+(
+
+35
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+6%
+
+4%
+
+2%
+
+0%
+
+-2%
+
+-4%
+
+-6%
+
+-8%
+
+-10%
+
+-12%
+
+Heavy Duty
+Truck
+
+Medium Duty
+Truck
+
+Light Duty
+Truck
+
+Total Amount
+of Trucks
+
+2021
+
+2022
+
+growth rate
+
+Figure 4: Ownership and growth rate of different types of freight trucks. (Statistical Bulletin on the 
+
+Development of the Transportation Industry. 2022). 
+
+The load capacity of trucks has also increased over the years. The average load capacity of large freight 
+
+vehicles has increased to 21.8 tons per vehicle. Tractor trucks remain the dominant model in road freight, 
+
+accounting for 48.6% of the total, followed by dump trucks and stake trucks at 18.6% and 11.4% respectively. 
+
+4 
+
+ 
+ 
+ 
+ 
+ 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In 2023, the share of market revenue among the top 50 logistics companies increased, but the overall market 
+
+remained  fragmented  with  small-scale  enterprises,  individual  operators,  and  contracted  ﬂeets  dominating  the 
+
+sector. To remain competitive, logistics companies are increasingly forced to reduce costs and increase efﬁciency. 
+
+Cost-reduction and efﬁciency-enhancement measures implemented by the government in the transportation and 
+
+logistics sectors has achieved notable progress and, in 2023, the ratio of total social logistics costs1  to GDP was 
+
+14.4%, down 0.3% from 2019, and 2.2% compared to 2014. 
+
+1.    Total social logistics costs refer to the total expenditure across various aspects of the national economy for social logistics activities. This 
+includes expenses paid for each logistics link, such as transportation, storage, loading and unloading, packaging, distribution processing, 
+delivery, and information processing. 
+
+5 
+
+ 
+ 
+ 
+ 
+ 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3    Zero-Emission Truck Related Policies 
+
+In 2022 and 2023, the market share of zero-emission trucks, often referred to as new energy trucks in China, 
+
+steadily increased compared to previous years. This was largely due to a strong policy drive by both central and 
+
+local  governments.  The  introduction  of  a  number  of  development  programs,  environmental  policies,  subsidy 
+
+schemes,  road  rights  policies,  and  infrastructure  initiatives  provided  critical  support  and  momentum  for  the 
+
+transition to zero-emission trucks, collectively driving the increased adoption of zero-emission trucks during this 
+
+period.  The  following  sections  will  discuss  how  individual  measures  have  impacted  the  development  of  zero-
+
+emission trucks in China. 
+
+3.1    Policies on Light-Duty Trucks in Urban Scenarios 
+
+For  light-duty  trucks,  which  are  primarily  used  in  urban  delivery,  municipal  sanitation,  and  similar  applications, 
+
+policy  efforts  are  mainly  focused  on  promoting  the  adoption  of  zero-emission  vehicles  for  newly  added  and 
+
+replacement vehicles in the public sector. The main policy efforts include the following:   
+
+§ 
+
+Public Sector Fleet Electriﬁcation: These measures focus on ensuring that new and replacement vehicles 
+
+in public sector use are new energy vehicles. In January 2023, the Ministry of Industry and Information 
+
+Technology launched a pilot program to fully electrify public sector vehicles, which mandates a signiﬁcant 
+
+increase in the proportion of new energy vehicles when adding or and replacing vehicles in public sector 
+
+ﬂeets. 
+
+§ 
+
+Targeted  Vehicle  Categories:  These  policies  target  speciﬁc  sectors  such  as  municipal  buses,  taxis, 
+
+sanitation vehicles, postal and courier services, and urban delivery services with the goal of making 80% 
+
+of vehicles in these categories new energy vehicles. 
+
+§  Creation of Pilot Cities: In November 2023, 15 cities including Beijing, Shenzhen, and Chongqing were 
+
+selected as the ﬁrst batch of pilot cities for the full electriﬁcation of public sector vehicles. These cities will 
+
+lead the transition and set benchmarks for others to follow. 
+
+3.2    Policies on Heavy-Duty Trucks Used in the Industrial Sector 
+
+Policies  targeting  heavy  trucks  have  primarily  focused  on  promoting  zero-emission  trucks  in  high-emission 
+
+industrial sectors. In June 2023, the Ministry of Ecology and Environment issued draft opinions to promote ultra-
+
+low emission technologies in the cement and coking industries, which include the following requirements for the 
+
+transportation of raw materials and products: 
+
+6 
+
+ 
+ 
+ 
+ 
+ 
+           
+ 
+   
+ 
+§ 
+
+§ 
+
+Enterprises must use clean transportation methods (rail, water, pipelines, or tubular belt conveyors) for 
+
+at least 80% of their inbound and outbound materials. 
+
+For  companies  not  meeting  this  threshold,  product  transportation  should  prioritize  the  use  of  clean 
+
+methods and all automotive transport must use new energy vehicles or those compliant with China VI 
+
+emission standards. 
+
+§  Within the production facilities, all transport vehicles should be new energy vehicles. 
+
+3.3    Policies on Hydrogen Fuel Cell Trucks 
+
+The promotion of hydrogen fuel cell trucks has been a key policy focus in recent years, with comprehensive policies 
+
+covering  the  entire  hydrogen  energy  chain  from  production  and  storage  to  transportation  and  utilization.  Key 
+
+initiatives include: 
+
+§ 
+
+Building  a  Comprehensive  Hydrogen  Energy  Chain:  These  policies  focus  on  the  development  of 
+
+standards  for  the  entire  hydrogen  energy  chain,  including  production,  storage,  transportation,  and 
+
+utilization, as well as hydrogen fuel cell vehicle trial programs. 
+
+§  Hydrogen  Industry  Development  Plan:  In  March  2022,  the  National  Development  and  Reform 
+
+Commission and the National Energy Administration jointly released a "Medium and Long-Term Plan for 
+
+the Development of the Hydrogen Energy Industry (2021-2035)”, which sets some ambitious targets. The 
+
+Chinese government’s goal is to master core technologies and manufacturing processes, with the goal 
+
+of  having  approximately  50,000  fuel  cell  vehicles  in  operation  by  2025.  It  also  hopes  to  build  several 
+
+hydrogen  refueling  stations  capable  of  producing  100,000-200,000  tons  of  renewable  energy-based 
+
+hydrogen annually. By 2030, the government also aims to create a comprehensive hydrogen industry 
+
+innovation scheme and a clean energy system for the production and supply of hydrogen fuel. Finally, by 
+
+2035,  China  plans  to  diversify  application  within  the  hydrogen  ecosystem,  signiﬁcantly  increasing  the 
+
+proportion of renewable energy-based hydrogen in end-use energy consumption. 
+
+§ 
+
+Promotion of Hydrogen Fuel Cell Vehicles: The promotion of HFCVs particularly focuses on medium and 
+
+heavy-duty vehicles and encourages market expansion in hydrogen fuel cell buses and trucks to create 
+
+a mutually beneﬁcial development model that integrates both fuel cell electric vehicles and lithium battery 
+
+electric  vehicles.  By  targeting  heavy-duty  vehicles  and  fostering  a  diverse  market,  this  plan  seeks  to 
+
+leverage the strengths of both technologies to accelerate the transition to zero-emission transportation. 
+
+7 
+
+ 
+ 
+ 
+ 
+ 
+           
+ 
+ 
+ 
+ 
+ 
+3.4    Environmental Policies for Zero-Emission Freight 
+
+As China’s air quality continues to improve, environmental policies related to zero-emission freight have primarily 
+
+focused  on  promoting  low-emission  and  zero-emission  trucks  in  key  public  sectors  and  industries.  Key  policy 
+
+actions include: 
+
+§ 
+
+Air Quality Improvement: In November 2023, the State Council released its "Action Plan for Continued 
+
+7 
+
+Air Quality Improvement" which calls for: 
+
+o  Prioritizing railway and waterway transport for the long-distance transportation of bulk goods and 
+
+using enclosed belt corridors or new energy vehicles for short-distance transport. 
+
+o  Accelerating the adoption of clean vehicles, particularly in key regions. 
+
+o  Ensuring that at least 80% of new or upgraded vehicles in the public sector (buses, taxis, urban 
+
+logistics, sanitation) in key regions are new energy vehicles. 
+
+o  Promoting new energy medium and heavy-duty trucks in industries such as thermal power and 
+
+steel, as well as in logistics parks to create zero-emission freight ﬂeets. 
+
+3.5    Financial Policies on Zero-Emission Vehicles 
+
+Financial  policies  for  zero-emission  vehicles  have  undergone  signiﬁcant  changes,  with  a  shift  in  focus  from 
+
+subsidies to tax incentives and localized performance-based awards. Current ﬁscal supports include: 
+
+§ 
+
+§ 
+
+Vehicle  Purchase  Tax  Exemptions:  The  primary  forms  of  ﬁscal  support  are  currently  exemptions  and 
+
+reductions in vehicle purchase tax. 
+
+Local Monetary Awards: Some local governments have introduced performance-based incentives as an 
+
+alternative to direct subsidies. 
+
+§  Updated Tax Policies: In June 2023, the Ministry of Finance, State Taxation Administration, and Ministry 
+
+of Industry and Information Technology issued an announcement to extend and optimize the NEV vehicle 
+
+purchase tax exemption policy: 
+
+o  Full Exemption: NEVs purchased between January 1, 2024, and December 31, 2025, are exempt 
+
+from vehicle purchase tax. 
+
+o  Partial  Exemption:  NEVs  purchased  between  January  1,  2026,  and  December  31,  2027,  will 
+
+receive a 50% reduction in vehicle purchase tax. 
+
+§ 
+
+Enhanced  Technical  Requirements:  In  December  2023,  the  Ministry  of  Industry  and  Information 
+
+Technology, Ministry of Finance, and State Taxation Administration issued an announcement to adjust 
+
+the  technical  requirements  for  NEVs  eligible  for  purchase  tax  exemptions,  which  include  increased 
+
+standards for vehicle energy use, driving range, and battery energy density to encourage the production 
+
+and adoption of more efﬁcient and advanced NEVs. 
+
+8 
+
+ 
+ 
+ 
+ 
+ 
+           
+ 
+3.6    Infrastructure Policies Related to Zero-Emission Freight   
+
+Infrastructure policies for zero-emission freight primarily focus on developing dedicated charging stations for public 
+
+sector vehicles and creating a charging network along highways. Key initiatives include: 
+
+§  Dedicated Charging Stations for Public Vehicles: This measure will focus on building specialized charging 
+
+stations to support urban public sector vehicles such as buses, taxis, and delivery vehicles. 
+
+§  Highway  Charging  Station  Development:  In  August  2022,  the  Ministry  of  Transport,  National  Energy 
+
+Administration,  State  Grid  Corporation  of  China,  and  China  Southern  Power  Grid  Company  jointly 
+
+released an "Action Plan to Accelerate Highway Charging Infrastructure Construction." The plan outlined 
+
+the following targets: 
+
+o  End  of  2022:  Provide  basic  charging  services  at  highway  service  areas  nationwide,  excluding 
+
+high-altitude areas and extremely cold regions. 
+
+o  End  of  2023:  Provide  basic  charging  services  at  service  areas  (stations)  along  national  and 
+
+provincial trunk highways where conditions permit. 
+
+o  End of 2025: Further optimize and increase the number of charging facilities at highway service 
+
+areas  (stations)  and  provide  effective  coverage  along  rural  roads  to  create  a  comprehensive 
+
+highway charging network. 
+
+§  Comprehensive Charging Infrastructure System: In June 2023, the State Council issued its "Guidelines 
+
+on Continued Construction of a High-Quality Charging Infrastructure System," aiming for the following by 
+
+2030: 
+
+o  Develop  a  ubiquitous,  appropriately  scaled,  well-structured,  and  fully  functional  high-quality 
+
+charging infrastructure system. 
+
+o  Accelerate the construction of dedicated charging stations in parking lots and other facilities to 
+
+meet the changing needs of specialized vehicles, including urban buses, taxis, road passenger 
+
+transport, and logistical vehicles. 
+
+3.7    Continuation of Previous Policies 
+
+Several  policies  introduced  before  2022  continue  to  signiﬁcantly  inﬂuence  the  development  of  zero-emission 
+
+freight.  For  example,  the  "14th  Five-Year  Plan  for  Comprehensive  Transport  Services,"  released  in  November 
+
+2021, set a target of establishing around 100 green urban freight delivery demonstration projects by 2025, with a 
+
+steady increase in the proportion of new energy vehicles in urban logistics. By the end of 2023, a total of 77 cities, 
+
+across three batches, had already initiated green freight delivery demonstration projects. 
+
+9 
+
+ 
+ 
+ 
+ 
+ 
+           
+ 
+ 
+ 
+4    Overview of China’s Current Zero-Emission 
+
+Freight Market 
+
+In 2022 and 2023, both sales and market shares of zero-emission trucks saw signiﬁcant growth. Light-duty trucks 
+
+remained the primary choice among zero-emission vehicles, but heavy-duty trucks also experienced increased 
+
+sales. Battery-swapping heavy-duty trucks have become more popular, while zero-emission box trucks led in sales 
+
+and penetration among all truck types.   
+
+In 2022 and 2023, zero-emission truck sales reached 144,000 and 145,000 units respectively, reﬂecting growth 
+
+rates of approximately 180% and 182% compared to 2021. Despite the complete phase-out of national purchase 
+
+subsidies for zero-emission vehicles by the end of 2022, zero-emission truck sales in 2023 remained steady with 
+
+a slight increase. The overall sales share of zero-emission trucks was 6.3% in 2022, about ﬁve times that of 2021, 
+
+while in 2023, the sales share fell slightly to 5.9%. 
+
+)
+s
+t
+i
+
+n
+u
+
+d
+n
+a
+s
+u
+o
+h
+
+t
+(
+
+l
+
+e
+m
+u
+o
+V
+s
+e
+a
+S
+
+l
+
+140
+
+120
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+
+Light-Duty Truck Medium-Duty Truck Heavy-Duty Truck
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+Figure 5: Sales Volume of Zero-Emission Trucks by Type of Trucks (in thousand units)(2019-2023). 
+
+10 
+
+ 
+ 
+ 
+ 
+ 
+           
+ 
+ 
+ 
+   
+ 
+ 
+ 
+e
+r
+a
+h
+S
+s
+e
+a
+S
+
+l
+
+8%
+
+7%
+
+6%
+
+5%
+
+4%
+
+3%
+
+2%
+
+1%
+
+0%
+
+All Trucks
+
+Light-Duty Truck
+
+Medium-Duty
+Truck
+
+Heavy-Duty Truck
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+Figure 6: Sales Share of Zero-Emission Trucks by Type of Trucks (2019-2023). 
+
+In 2023, among all zero-emission trucks sold, 75.2% were light-duty, 1.1% were medium-duty, and 23.8% were 
+
+heavy-duty. Compared to 2021, sales of zero-emission light-duty trucks increased by 175%, medium-duty by 18%, 
+
+and heavy-duty by 229%. The sales share of zero-emission light-duty trucks, as a percentage of all light-duty truck 
+
+sales, rose from 1.7% in 2021 to 6.2% in 2023. For zero-emission medium-duty trucks, this share increased from 
+
+1.4% to 2.9%, and for zero-emission heavy-duty trucks, it grew from 0.7% to 5.6%.       
+
+)
+s
+t
+i
+
+n
+u
+
+d
+n
+a
+s
+u
+o
+h
+T
+(
+
+l
+
+e
+m
+u
+o
+V
+s
+e
+a
+S
+
+l
+
+40
+
+35
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+2021
+
+2022
+
+2023
+
+Battery-Swapping Trucks
+
+Plug-in ChargingTrucks
+
+Hydrogen Fuel Cell Trucks
+
+Figure 7: Sales Volume of Zero-Emission Heavy-Duty Trucks by Technology (2021-2023). 
+
+11 
+
+ 
+ 
+ 
+ 
+ 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In China, zero-emission heavy-duty trucks follow three primary technological pathways: battery-swapping, plug-in 
+
+charging, and hydrogen fuel cells. Battery-swapping and plug-in charging models are collectively categorized as 
+
+pure electric heavy-duty trucks. Additionally, plug-in charging heavy-duty trucks are often equipped with battery-
+
+swapping capabilities. Battery-swapping heavy-duty trucks increased in popularity signiﬁcantly, mainly because 
+
+the battery-swapping model offers advantages such as shorter refueling times, higher operational efﬁciency, and 
+
+lower vehicle purchase costs through "vehicle-and-battery separation" and battery leasing options. This model is 
+
+very popular for short-haul applications. For the years 2021, 2022 and 2023, the share of battery-swapping heavy-
+
+duty trucks in overall zero-emission heavy-duty truck sales was 31%, 49%, and 43%, respectively. In contrast, 
+
+plug-in charging heavy-duty trucks accounted for 62%, 41%, and 47%, and hydrogen fuel cell heavy-duty trucks 
+
+accounted for 7%, 10%, and 10%. 
+
+In terms of application, the top three selling zero-emission truck types in 2022 and 2023 were box trucks, drop-
+
+side  trucks,  and  tractor  trucks.  In  2023,  zero-emission  vehicles  made  up  26.9%  of  newly  sold  box  trucks—the 
+
+highest proportion among all truck types. This was followed by drop-side trucks at 9.7% and tractor trucks at 9%. 
+
+Policies such as urban green freight demonstration projects and pilot programs for the full electriﬁcation of public 
+
+sector vehicles have driven the sales numbers and sales shares of box trucks, making them the most popular type 
+
+of truck sold.   
+
+30%
+
+25%
+
+20%
+
+15%
+
+10%
+
+5%
+
+0%
+
+ B ox Truck
+Drop-Side Truck
+
+Tractor Truck
+
+Stake Truck
+
+Other Trucks
+
+C oncrete Mixer Truck
+D u m p Truck
+
+M unicipal Truck
+
+G arbage Truck
+
+Figure 8: Sales Shares of Zero-Emission Trucks by Use Scenario (2021-2023). 
+
+2021
+
+2022
+
+2023
+
+12 
+
+ 
+ 
+ 
+ 
+ 
+           
+ 
+ 
+ 
+5    Current Development of Zero-Emission Truck 
+
+Technologies 
+
+For freight companies, reducing vehicle costs and improving operational efﬁciency are critical to achieving cost 
+
+reduction  and  enhancing  market  competitiveness.  This  dual  requirement  presents  both  challenges  and 
+
+opportunities for the development of zero-emission trucks. This section will discuss the current development and 
+
+challenges in light of the continued call for a more diversiﬁed ﬂeet makeup by enterprises and everyday users, 
+
+which demonstrates foreseeable growth.   
+
+Hydrogen fuel cell trucks have already reached the 2020 targets set by China’s Energy-Saving and New Energy 
+
+Vehicle Technology Roadmap 2.0 in key areas including rated power, speciﬁc power, and maximum efﬁciency of 
+
+fuel  cell  systems,  which  meet  or  even  exceed  the  2025  targets.  Signiﬁcant  progress  has  also  been  made  in 
+
+domestic production of basic components, including fuel cell stacks, bipolar plates, proton exchange membranes, 
+
+and balance of plant (BOP). 
+
+Currently, most pure electric trucks use lithium iron phosphate (LFP) batteries, which offer a range of 100-200 
+
+kilometers, a charge of between 240-350 kW, and a battery lifespan of approximately 800,000 kilometers. Despite 
+
+signiﬁcant progress in medium and short-distance applications, challenges remain for long-distance use, including 
+
+limited range, slow charging times, and a shorter lifespan compared to diesel trucks. In the coming years, the 
+
+focus for pure electric truck technology will be on improving battery energy density and lifespan, reducing energy 
+
+consumption per 100 kilometers, and achieving megawatt-level fast charging. 
+
+Meanwhile, hydrogen fuel cell trucks face challenges such as lower power output, a shorter lifespan compared to 
+
+diesel trucks, the limited range of 35 MPa gaseous hydrogen tanks, and high overall operating costs. Additionally, 
+
+China is still highly dependent on imported catalysts and carbon paper. Domestically developed hydrogen fuel cell 
+
+systems  also  still  lag  behind  international  standards  in  terms  of  lifespan,  reliability,  and  low-temperature 
+
+adaptability. Future development is expected to focus on improving key battery technologies, promoting the use 
+
+of 70 MPa high-pressure tanks and liquid hydrogen technology, and localizing core components. 
+
+Despite rapid development, there are several challenges that need to be addressed: 
+
+13 
+
+ 
+ 
+ 
+ 
+ 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+§ 
+
+Technological and Cost Barriers: 
+
+o  Pure  electric  and  hydrogen  fuel  cell  heavy-duty  trucks  have  not  yet  achieved  large-scale 
+
+application in medium- and long-distance transportation scenarios. 
+
+o  The economic viability of pure electric and fuel cell trucks still lags behind diesel trucks in certain 
+
+applications.  Therefore,  a  number  of  technological  breakthroughs  still  need  to  make  in  zero-
+
+emission trucks to reduce vehicle costs. 
+
+§ 
+
+Infrastructure and Investment: 
+
+o  Continued expansion and enhancement of China’s refueling infrastructure is necessary to support 
+
+the growing ﬂeet of zero-emission trucks. 
+
+In summary, while China’s zero-emission truck sector saw remarkable progress in 2022 and 2023, maintaining 
+
+this momentum and addressing the existing challenges will be crucial for the sector's continued development and 
+
+alignment with the national dual carbon goals. 
+
+14 
+
+ 
+ 
+ 
+ 
+ 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6    Current Infrastructure Support for Zero-Emission 
+
+Trucks 
+
+The development of public DC charging facilities has accelerated, with the coverage rate of charging stations at 
+
+highway  service  areas  reaching  around  90%.  Supercharging  stations  and  battery-swapping  stations  for  heavy 
+
+trucks  are  also  being  deployed  to  test  technical  feasibility  along  main  highways.  The  number  and  capacity  of 
+
+hydrogen refueling stations has also continuously increased, with renewable energy-based hydrogen production 
+
+growing rapidly, despite having a small base. Generally, there is a need to expedite the construction of high-power 
+
+public  charging  facilities,  standardize  battery-swapping  infrastructure,  advance  70MPa  hydrogen  storage  and 
+
+refueling technology, and further reduce the costs of hydrogen production, storage, and transportation. 
+
+China has created the largest public charging infrastructure network in the world, accounting for 51% of the global 
+
+total.  By  the  end  of  2023,  there  were  2.726  million  public  charging  stations  in  China,  an  increase  of  51.7% 
+
+compared to 2022. Of these, DC charging stations accounted for 44.1%, an increase of 58.1%, while AC charging 
+
+stations made up 55.8%, an increase of 47.2%. By the end of 2023, there were 5,987 highway service areas with 
+
+charging capabilities, covering about 90% of the country's highway service areas. 
+
+In May 2023, China Southern Power Grid inaugurated its ﬁrst supercharging route for heavy-duty trucks in Guangxi. 
+
+This 180-kilometer route includes three supercharging stations equipped with 360 kW dual-plug DC fast chargers. 
+
+In terms of battery-swapping facilities, in April 2022, Qiyuan Green Power built a 420-kilometer battery-swapping 
+
+network in Dazhou (in Sichuan Province), Kaizhou (in Chongqing) and Wanzhou (in Chongqing). In August 2023, 
+
+the  ﬁrst  highway  battery-swapping  green  freight  route  for  heavy-duty  trucks  was  completed,  spanning  420 
+
+kilometers from Ningde to Xiamen in Fujian Province. 
+
+However,  the  current  speed  and  distribution  of  public  charging  facilities  is  insufﬁcient  to  meet  the  commercial 
+
+needs of medium and heavy-duty electric trucks. Rapidly recharging heavy-duty electric trucks requires megawatt-
+
+level charging. Expanding high-power charging infrastructure will face challenges involving technical standards, 
+
+planning and layout, and grid capacity. 
+
+15 
+
+ 
+ 
+ 
+ 
+ 
+           
+ 
+ 
+ 
+ 
+ 
+Additionally,  the  different  battery-swapping  technologies  used  by  different  regions  and  operators  are  not 
+
+interchangeable. To promote the adoption of battery-swapping heavy-duty trucks on highways, it is necessary to 
+
+standardize battery-swapping facilities and establish an interoperable swapping network. 
+
+As for hydrogen fuel cell trucks, in China, 86.5% of operational hydrogen refueling stations support a tank pressure 
+
+of  35MPa,  whereas  countries  like  the  United  States  and  Japan  commonly  support  70MPa  tanks.  Additionally, 
+
+current hydrogen transport primarily relies on 20MPa long-tube trailer gas trucks, which is inefﬁcient and increases 
+
+long-distance transport costs. Regional plans for hydrogen production should be developed and reﬁned to optimize 
+
+the hydrogen ecosystem, including production, storage, transportation, and usage, which would reduce overall 
+
+costs and lower the user price of hydrogen. 
+
+s
+n
+o
+
+i
+t
+
+a
+
+t
+s
+
+g
+n
+
+i
+l
+
+e
+u
+
+f
+
+e
+r
+
+n
+e
+g
+o
+r
+d
+y
+h
+
+f
+
+o
+
+r
+e
+b
+m
+u
+N
+
+300
+
+250
+
+200
+
+150
+
+100
+
+50
+
+0
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+Figure 9: Number of Hydrogen Refuelling Stations in Operation (2019-2023) (China Hydrogen 
+
+Alliance.2023). 
+
+16 
+
+ 
+ 
+ 
+ 
+ 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7    Economic Assessment of Zero-Emission Trucks 
+
+There is no consensus on the cost parity timeline for pure electric heavy-duty trucks, necessitating further research 
+
+based on real-world usage data. Key factors affecting cost parity include driving range and transport efficiency. 
+
+Fiscal  subsidy  policies  remain  crucial  in  reducing  the  purchase  cost  of  zero-emission  heavy-duty  trucks,  while 
+
+innovative financial instruments can also help logistics companies manage the financial burden of purchasing new 
+
+vehicles.   
+
+7.1    Current Status of Total Cost of Ownership (TCO) Parity for Pure Electric Trucks 
+
+At present, there is no uniform conclusion on whether the total cost of ownership (TCO) of pure electric trucks has 
+
+achieved parity with that of diesel trucks in practical applications. The time to TCO parity varies from project to 
+
+project  due  to  differences  in  the  scope  of  calculation,  parameter  settings,  and  location.  Based  on  recent 
+
+studies2,3,4,5,6  , expected dates of achieving TCO parity are as follow: 
+
+§ 
+
+Light-duty trucks used in urban logistics: 2020-2024 
+
+§  Heavy-duty tractor trucks used in medium- to long-distance transport: 2022-2030 
+
+§  Heavy-duty dump trucks used in medium- to short-distance transport: 2020-2030   
+
+7.2    Key Factors in Achieving Price Parity for Pure Electric Trucks   
+
+One of the critical factors determining when pure electric trucks can achieve TCO parity is their ability to leverage 
+
+the  price  difference  between  electricity  and  diesel.  The  higher  the  usage  intensity  and  the  longer  the  driving 
+
+distance, the more significant lower electricity costs become. Studies show that pure electric heavy-duty dump 
+
+2. Automotive Data of China Co.,Ltd. Research on TCO of Commercial vehicles in China and Comparison between China and US [EB/OL]. 
+https://www.efchina.org/Reports-zh/report-ctp-20220701-zh. 
+
+3. Rocky Mountain Institute. Building the Foundation for Comprehensive Electriﬁcation: An Optimized Analysis of Electric Logistics Vehicle 
+Promotion and Application in Hainan Province [EB/OL].https://www.efchina.org/Reports-zh/report-ctp-20220901-zh. 
+
+4. Sichuan Energy Internet Research Institute Tsinghua University. Research on the Competitiveness Assessment of Megawatt-Level 
+Charging Technology and Policy Standard Security Mechanisms 
+
+5. Mao Shiyue, Hussein Basma, Pierre-Louis Ragon, Zhou Yuanrong, Felipe Rodríguez. Total Cost of Ownership for Heavy Trucks in China: 
+Battery Electric, Fuel Cell, and Diesel Trucks [EB/OL]. [2024/2/21]. Available at: https://theicct.org/publications/ze-hdvs-china-tco-CH-nov21. 
+
+6. Shenzhen Xieli Innovation Center of New Energy and Intelligent Connected Vehicle 
+. Implementation Plan and Comprehensive Beneﬁt Evaluation of Electric Promotion and Application of Heavy Truck Sector in Shenzhen City. 
+https://www.efchina.org/Reports-zh/report-ctp-20220801-2-zh.   
+
+17 
+
+ 
+ 
+ 
+ 
+ 
+           
+ 
+ 
+ 
+trucks could achieve TCO parity with traditional diesel trucks at an annual milage of 45,000-52,000 kilometers, 
+
+while heavy-duty tractor trucks would reach parity at 117,000 kilometers per annum. Additionally, trucks can further 
+
+benefit from charging during off-peak hours at night, taking advantage of lower electricity rates and maximizing 
+
+the cost differential between electricity and diesel. 
+
+7.3    Impact of Initial Purchase Cost on the Economics of Pure Electric Trucks 
+
+High initial purchase costs significantly affect the economic viability of pure electric trucks. The removal of national 
+
+purchase subsidies for new energy trucks and the uncertainty about the continuation of purchase tax exemptions 
+
+after 2027 pose challenges. Some study suggests that pure electric tractor trucks may not be able to achieve cost 
+
+parity until 2029, with the assumption that after 2026, zero-emission trucks will no longer enjoy tax exemptions 
+
+from the government7. 
+
+In addition to government fiscal support, alternative financial mechanisms such as vehicle leasing, and battery 
+
+leasing  could  help  alleviate  the  financial  burden  of  initial  purchases  on  logistics  companies  and  expand  the 
+
+application of zero-emission trucks. 
+
+7.4  Economic Challenges and Future Prospects for Hydrogen Fuel Cell Trucks 
+
+The purchase and refueling costs of hydrogen fuel cell trucks remain significantly higher than those of traditional 
+
+diesel trucks. On one hand, hydrogen fuel cell vehicles are still in the small-scale demonstration phase, meaning 
+
+that they have not yet achieved economies of scale in terms of unit cost. On the other hand, the reliance on imports 
+
+for some key components makes it challenging to reduce costs. 
+
+Studies8,9  estimate that the total cost of ownership (TCO) parity for hydrogen fuel cell trucks will be achieved by 
+
+2030 or shortly thereafter. With technological advancements and the increased scale of demonstration programs, 
+
+hydrogen fuel cell trucks are expected to achieve cost parity before 2035 if the cost of hydrogen systems drops 
+
+from RMB 2000/kW to RMB 500/kW and the price of hydrogen falls to RMB 25/kg. 
+
+7. Mao Shiyue, Hussein Basma, Pierre-Louis Ragon, Zhou Yuanrong, Felipe Rodríguez. Total Cost of Ownership for Heavy Trucks in China: 
+Battery Electric, Fuel Cell, and Diesel Trucks [EB/OL]. [2024/2/21]. Available at: https://theicct.org/publications/ze-hdvs-china-tco-CH-nov21. 
+
+8. Automotive Data of China Co.,Ltd. Research on TCO of Commercial vehicles in China and Comparison between China and US [EB/OL]. 
+https://www.efchina.org/Reports-zh/report-ctp-20220701-zh. 
+
+9. Li Kaiguo. Research Findings on the Carbon Neutrality Technology Roadmap for Commercial Vehicles 1.0 [EB/OL]. 
+[2023/10/31].https://mp.weixin.qq.com/s/oAT9arh03r53Q0jIidB9Lg. 
+
+18 
+
+ 
+ 
+ 
+ 
+ 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+8  GHG Emission Reduction Benefits of Zero-
+
+Emission Trucks 
+
+Replacing  traditional  diesel  trucks  with  zero-emission  trucks  is  crucial  for  achieving  zero  emissions  in  freight 
+
+transport. The report uses a logistics emissions accounting tool based on the GLEC (Global Logistics Emissions 
+
+Council) framework with the default data for China10  to evaluate the GHG emissions reduction effect of replacing 
+
+traditional diesel trucks with zero-emission trucks. Below are the annual average Tank-to-Wheel (TTW) emission 
+
+reductions for several popular models in typical application scenarios. 
+
+Vehicle Type 
+
+Pure Electric Light Box 
+
+Truck 
+
+Pure Electric Semi-Trailer 
+
+Tractor 
+
+Hydrogen Fuel Cell Semi-
+
+Trailer Tractor 
+
+Gross 
+
+Annual 
+
+Annual TTW Carbon Reduction 
+
+Equivalent Trees 
+
+Weight 
+
+Mileage 
+
+Compared to Diesel 
+
+Planted 
+
+4.5 tons 
+
+30,000 km 
+
+10.42 ton CO2e 
+
+948 trees 
+
+25 tons 
+
+100,000 km 
+
+93.85 ton CO2e 
+
+8,532 trees 
+
+25 tons 
+
+100,000 km 
+
+93.85 ton CO2e 
+
+8,532 trees 
+
+Pure Electric Dump Truck 
+
+31 tons 
+
+60,000 km 
+
+65.4 ton CO2e 
+
+5,946 trees 
+
+Hydrogen Fuel Cell Dump 
+
+Truck 
+
+31 tons 
+
+60,000 km 
+
+65.4 ton CO2e 
+
+5,946 trees 
+
+The calculation shows that in 2022, the newly sold zero-emission trucks can reduce carbon emissions by nearly 
+
+2.9  million  tons  per  year.  This  reduction  represents  a  154%  increase  compared  to  2021.  Based  on  these 
+
+calculations,  it  is  evident  that  zero-emission  heavy-duty  trucks  offer  more  signiﬁcant  carbon  reduction  beneﬁts 
+
+compared to light-duty trucks. This is due to the longer average driving distances and higher energy consumption 
+
+per unit of distance in heavy-duty trucks. Therefore, accelerating the adoption of zero-emission heavy trucks will 
+
+play a critical role in the transition to zero-emission freight transport. 
+
+10 For further details on the GLEC framework and China Default GHG Emission Values, please visit: https://smartfreightcentre.org/en/our-
+programs/smart-freight-centre-china/glec-framework-adoption-in-china/. 
+
+19 
+
+ 
+ 
+ 
+ 
+ 
+           
+ 
+ 
+ 
+9    Comparison of China and International 
+
+Development of Zero-Emission Trucks 
+
+China leads the world in zero-emission truck sales and the number of refueling installations. In 2022, China sold 
+
+144,000 zero-emission trucks, ranking ﬁrst globally. Over 85% of global zero-emission medium- and heavy-duty 
+
+truck sales occurred in China. Furthermore, China installed 60% of the world's new public slow-charging stations 
+
+and 90% of the fast-charging stations. The total number of public slow and fast charging stations in China is the 
+
+highest in the world, reﬂecting the country's strong commitment to developing its electric vehicle infrastructure. 
+
+Despite these impressive achievements, there are still signiﬁcant technological gaps between China and other 
+
+leading  countries  in  several  speciﬁc  areas.  For  instance,  China’s  hydrogen  fuel  cell  systems  lag  behind 
+
+international  standards  in  terms  of  lifespan,  reliability,  and  low-temperature  adaptability.  Speciﬁcally,  China 
+
+primarily uses 35MPa Type III gaseous hydrogen storage tanks, while Type IV tanks are still in the development 
+
+stage. In contrast, Japan and the United States have already achieved mass production of Type IV tanks, indicating 
+
+a more advanced state of hydrogen storage technology. 
+
+The  situation  is  similar  regarding  hydrogen  refueling  stations.  Most  operational  hydrogen  refueling  stations  in 
+
+China operate at 35MPa, with only some operating at 70MPa. However, in countries like the United States and 
+
+Japan, the majority of refueling stations have 70MPa hydrogen refueling capabilities, highlighting the technological 
+
+gap in this area. This disparity underscores the need for China to further develop its hydrogen fuel cell technology 
+
+and refueling infrastructure to match the capabilities seen in these leading nations. 
+
+China's dominance in zero-emission truck sales and charging infrastructure installations underscores its leading 
+
+role  in  the  global  market.  However,  to  maintain  and  enhance  this  leadership,  China  must  address  the  existing 
+
+technological gaps. By advancing its hydrogen fuel cell technology and refueling infrastructure, China can ensure 
+
+it remains at the forefront of the zero-emission vehicle industry, continuing to set global standards in both sales 
+
+and technology. 
+
+20 
+
+ 
+ 
+ 
+ 
+ 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10    General Recommendations 
+
+To facilitate the transition to zero-emission trucks, it is essential to enhance research on the operational data of 
+
+these vehicles to gain a deeper understanding of their performance. A thorough investigation into the total cost of 
+
+ownership (TCO) for different types of zero-emission trucks is key to achieving this. This research should examine 
+
+how costs are shared among stakeholders under various business models and explore potential cost reduction 
+
+strategies and expected timelines for achieving cost parity. Such insights could provide technical support for the 
+
+formulation  of  phased  and  differentiated  national  and  local  promotion  and  ﬁscal  policies  for  pure  electric  and 
+
+hydrogen fuel cell heavy-duty trucks. Currently, subsidies focus on the purchase phase, but as the market matures, 
+
+these could be adjusted to increase support for the operational phase, including subsidies for vehicle operation, 
+
+charging and swapping services, and hydrogen fuel. 
+
+In addition to research into different types of trucks, sustained support for the research and development of critical 
+
+technologies for zero-emission trucks is crucial. While pure electric trucks have made progress in medium- and 
+
+short-distance applications, there are still signiﬁcant barriers to their adoption in long-distance scenarios, namely 
+
+limited  driving  range  and  low  energy  replenishment  efﬁciency.  Hydrogen  fuel  cell  trucks  also  face  challenges, 
+
+particularly  in  terms  of  the  infrastructure  related  to  hydrogen  storage  and  transport  as  well  as  the  reliability  of 
+
+battery systems, especially when compared to international standards. We recommend focusing on enhancing the 
+
+energy  density  and  lifespan  of  batteries  for  electric  trucks,  reducing  energy  consumption  per  kilometer,  and 
+
+achieving megawatt-level fast charging capabilities. At the same time, we recommend promptly initiating research 
+
+on  international  experiences  regarding  the  second-life  battery  market,  and  examine  the  conditions  for  its 
+
+applicability in China. Additionally, efforts should be directed towards advancing key technologies for hydrogen 
+
+fuel  cells,  promoting  70MPa  high-pressure  cylinders  and  liquid  hydrogen  technology,  and  domesticating  core 
+
+components. Continuous support in terms of talent, technical standards, and ﬁnancial incentives is necessary to 
+
+drive these advancements. 
+
+The development of high-power charging capabilities and incorporating it into relevant plans is equally important 
+
+for the development of zero-emission trucks and increasing overall efﬁciency. Regions with suitable conditions 
+
+should include high-power charging infrastructure in their development plans and promote the construction of high-
+
+power charging corridors along highways. In typical scenarios such as highway service areas, land and power 
+
+resources should be reserved for high-power charging facilities, with careful consideration of the potential impact 
+
+21 
+
+ 
+ 
+ 
+ 
+ 
+           
+ 
+ 
+ 
+on the power grid. Research on speciﬁc transportation scenarios and the needs of major transport companies will 
+
+provide detailed guidance for the construction of public or dedicated energy replenishment infrastructure. 
+
+Finally, more emphasis should be put on analyzing and replicating successful zero-emission freight experiences 
+
+to  develop  sustainable  business  models.  This  report  highlights  several  practical  cases  where  companies  have 
+
+successfully implemented business models such as operational leasing, accounts receivable pledges for ﬁnancing, 
+
+vehicle  leasing  with  third-party  operations,  and  battery  leasing.  These  innovative  "ﬁnance  +  operation"  models 
+
+have already demonstrated commercial viability in medium and short-distance transport scenarios and have been 
+
+experimentally tested in long-distance transport scenarios. After analyzing the strengths and weaknesses of these 
+
+cases, successful models can be replicated and promoted, paving the way for sustainable business development 
+
+in the zero-emission freight sector. 
+
+22 
+
+ 
+ 
+ 
+ 
+ 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+s 
+
+22 
+
+ 
+ 
+ 
+ 
+ 
+           
+ 
+

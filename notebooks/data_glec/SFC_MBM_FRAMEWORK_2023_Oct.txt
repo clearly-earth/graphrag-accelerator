@@ -1,0 +1,3397 @@
+Voluntary Market Based 
+Measures Framework 
+for Logistics Emissions 
+Accounting and Reporting 
+
+September 2023
+
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting
+
+2
+
+© Smart Freight Centre. 2023.
+
+This publication may be reproduced in whole or in part in any form for educational or non-profit purposes 
+without special permission from the copyright holder, provided acknowledgment of the source is made. 
+Smart Freight Centre would appreciate receiving a copy of any material that cites this publication 
+as a source. No use of this publication for resale or for any other commercial purpose may be made 
+whatsoever without prior permission in writing from Smart Freight Centre.
+
+About Smart Freight Centre
+
+Smart Freight Centre is an international nonprofit organization focused on reducing greenhouse gas 
+emissions from freight transportation. Smart Freight Centre’s vision is an efficient and zero emission global 
+logistics sector. Smart Freight Centre works to guide the global logistics industry in tracking and reducing 
+the industry’s greenhouse gas emissions by one billion tonnes by 2030 and to reach zero emissions by 
+2050 or earlier, consistent with a 1.5°C future.
+
+Disclaimer 
+
+The views expressed in this publication are those of Smart Freight Centre and associated staff, 
+consultants, and management, and do not necessarily reflect the views of the Board of Trustees of 
+Smart Freight Centre. Smart Freight Centre does not guarantee the accuracy of the data included in 
+this publication and does not accept responsibility for consequences of their use. The authors make 
+no representation regarding the utility or lack of utility of this framework in the context of regulatory 
+disclosures of greenhouse gas emissions.
+
+Authors
+
+Dan Smith and Alan Lewis.
+
+Suggested Citation
+
+Smart Freight Centre. Voluntary Market Based Measures Framework for 
+Logistics Emissions Accounting and Reporting. 2023. 
+
+Contact
+
+Smart Freight Centre
+Keizersgracht 560, 1017 EM
+Amsterdam, Netherlands
+
+Telephone: +31 6 4695 4405
+www.smartfreightcentre.org
+info@smartfreightcentre.org
+
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting 
+
+3
+
+Acknowledgements
+
+This publication was developed with funding from the following organizations:
+
+• A.P. Moeller-Maersk
+• C.H. Robinson
+• Deutsche Post DHL Group
+• Frito-Lay Trading Company (Europe) GmbH
+• GoodShipping
+• Klaveness AS
+• Renewable Energy Group, Inc.
+• Shell
+
+Each of these organizations also delegated representatives to sit on a Technical Working Group that provided 
+extensive input to Smart Freight Centre during the drafting and refinement of the framework, starting in the fall 
+of 2021 and continuing through the first quarter of 20231.
+
+World Economic Forum served as a strategic partner in the accounting framework development project, 
+supporting stakeholder engagement and communications, and delegating Forum experts to sit on the project 
+Technical Working Group. The Forum also provided graphic design services to the project team.
+
+Smart Freight Centre consulted and received input from advisors at CDP, Kühne Logistics University, 
+and Science Based Targets initiative in developing this framework.This accounting framework would 
+not have been possible without the dedication and support of people at the organizations listed above. 
+However, this document does not necessarily represent the views of any organization listed in these 
+acknowledgements, nor does inclusion of an organization’s name in these acknowledgements signify 
+that organization’s endorsement of this framework.
+
+1 Smart Freight Centre also received feedback on the principles described in this document through a thirty-day public comment period on a draft of the accounting 
+framework during the spring of 2022, and through extensive engagement with a variety of other organizations working on book and claim chain of custody tools to 
+accelerate transport decarbonization.
+
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting 
+
+4
+
+Table of contents 
+
+1. Introduction  
+
+2. Purpose and scope of the framework, overview of freight transport supply chains  
+
+3.: Chain of custody systems  
+
+4. Chains of custody for products and for services 
+
+5. Applying chain of custody concepts to transport supply chains  
+
+6. Additionality of indirect generation low emission transportation services
+
+7. Facilitating decarbonization across transport modes  
+
+8. Vintage requirements for solutions and low emission transportation services  
+
+9. Summary of book and claim scenarios and constraints  
+
+10. Calculating the emission profile of low emission transporation services, and solutions  
+
+11. Booking and claiming without erroneous double counting  
+
+12. Conclusion  
+
+Annex 1: Applying the framework to the mail and parcel sector 
+Annex 2: Glossary  
+Annex 3: References 
+
+5
+
+8
+
+12
+
+17
+
+20
+
+28
+
+34
+
+36
+
+38
+
+40
+
+48
+
+59
+
+62
+66
+68
+
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 12
+
+5
+
+Introduction
+
+1
+
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 1
+
+6
+
+Introduction 
+
+The challenge
+
+Freight transportation and logistics activities are the source of approximately 10% of global 
+greenhouse gas (GHG) emissions. Without concerted reduction efforts, freight transportation 
+emissions are forecast to increase by up to 42% by 2050 (1) – the opposite of what needs to 
+happen if society is to achieve global climate goals.
+
+Reducing freight  transportation GHG emissions, however, is often a difficult challenge. 
+Freight transportation emission abatement costs can be high per tonne of GHG emission 
+reduction and freight transportation supply chains can be large, complex, and dynamic. 
+Heavy duty freight transportation is “hard to abate” (2).
+
+Barrier to decarbonization: High emission abatement costs
+
+The high cost of reducing freight transportation GHG emissions can serve as a significant barrier to 
+the deployment of low emission transportation services (LETS)3.
+
+Freight carriers4 generally bear the cost to reduce emissions from their operations. For example, 
+the cost of purchasing low emission transportation assets or energy sources is often paid by the 
+transportation asset owner or operator. However, the high cost of many low emission transportation 
+solutions means that carriers often cannot voluntarily (i.e., without regulation that applies a low 
+emission requirement to all carriers) implement LETS while remaining competitive.
+
+Shippers and logistics service providers (LSP) can reduce the LETS cost burden for carriers, either 
+through engagement with the carriers or through direct engagement with the provider of a low 
+emission solution (i.e., a solution provider)5. The shippers and LSPs most interested in voluntarily 
+bearing increased costs for LETS, though, are likely to be the shippers and LSPs interested in 
+reducing their freight transportation GHG emission footprints. And these shippers and LSPs 
+will generally want to report lower transportation supply chain GHG emissions in their emission 
+inventories in exchange for bearing the extra costs of LETS.
+
+2  As described here, freight can include mail and parcels. For an example of how the principles in this document may be applied in the mail and parcel sector, see Annex 1.
+3  As defined here, a service is a piece of work done for a client or customer that does not involve manufacturing or producing goods. Transporting freight, or arranging the 
+transportation of freight, are examples of services.
+4  See Section 2 for a definition of carriers.
+5  See Section 2 for a definition of shippers, LSPs, and solution providers.
+
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 1
+
+7
+
+Barrier to decarbonization: Large, complex,  
+and dynamic supply chains
+
+The size, complexity, and dynamism of freight transportation supply chains can serve as a barrier to 
+the deployment of LETS.
+
+In many freight transportation supply chains:
+
+• Shippers and LSPs work with many carriers or other LSPs. In some cases, shippers and  
+  LSPs may not even know which carriers are actually moving their freight (particularly if  
+  the transportation service is provided through several layers of subcontractors).
+
+• Carriers work with many shippers and LSPs, most of whom currently have no interest in  
+  paying a cost premium for LETS.
+
+• Carriers, LSPs, and shippers have limited access to low emission solutions for their  
+  shipments. Solutions, defined here as products to decarbonize heavy transportation, are    
+  limited in availability and maturity.
+
+• Individual transportation assets (e.g., trucks, aircraft, vessels) have limited regular    
+  physical involvement with a particular shipper or LSP’s freight.
+
+Under these circumstances, it can be very difficult for a carrier to directly access a solution, or for 
+an LSP or shipper to directly access a LETS. Even if these organizations do have some direct 
+access to solutions or LETS, it is difficult to link a LETS as generated with a specific transportation 
+asset to significant GHG emission reductions in an individual shipper or LSP’s freight transportation 
+GHG footprint.
+
+Industry needs tools to overcome these barriers
+
+There is significant demand for a framework to overcome these barriers. The demand is evident in 
+the recent proliferation of commercial offerings for transportation “insetting” programs. The demand 
+has also been clearly articulated by senior executives from over a dozen of the world’s largest freight 
+forwarding, cargo carrying, and port operations organizations. During the fall of 2021, these senior 
+executives issued a joint statement outlining the need for a low emission transport chain of custody 
+standard that would facilitate decarbonization of freight transportation (3).
+
+Barriers to freight transportation decarbonization can be reduced by a framework that outlines a 
+way for shippers, LSPs, carriers, and solution providers to effectively partner with each other around 
+LETS. The framework must:
+
+1  Permit a provider of freight transportation or a solution provider to allocate the emission profile  
+
+from abatement activities to the organizations that contribute to the abatement cost, even if those  
+
+  organizations’ freight is not always transported using a low emission solution 
+  or service.
+
+2  Permit a purchaser of freight transportation to contribute to the cost premium of and 
+
+report the GHG emission profile of LETS, even if their freight was not physically transported 
+
+  on the LETS.
+
+3  Be consistent, to the maximum extent practicable, with established freight transportation GHG  
+  accounting methods, such as those described in the Global Logistics Emissions Council (GLEC)    
+  Framework and in ISO Standard 14083:2023.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 12
+
+8
+
+Purpose and 
+scope of the 
+framework, overview 
+of freight transport 
+supply chains
+
+2
+
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 2
+
+9
+
+Purpose and scope of the 
+framework, overview of freight 
+transport supply chains
+
+Purpose
+
+The accounting framework outlined in this document is intended to help address the barriers 
+to heavy transport decarbonization described in the introduction. The framework focuses on 
+voluntary actions by organizations to accelerate transport decarbonization. As discussed in 
+detail in Section 6, this framework is intended to complement regulatory requirements for 
+transport decarbonization.
+
+This framework focuses on GHG emission accounting for low emission transportation 
+solutions and LETS. This framework, focused as it is on GHG emission accounting and 
+allocation, is based on and supplements the fundamental transportation GHG accounting 
+principles described in the GLEC Framework.
+
+Relationship of this framework to other tools
+
+GHG emission accounting and allocation standards are only one element of an overall system to 
+transparently calculate and track the emission profile of a low emission transportation solution and 
+an associated LETS.
+
+Consider, for example, a low emission fuel as a transportation solution. There are several elements 
+of a system to calculate, track, and allocate the emission profile of the fuel from the fuel’s generation 
+up to the GHG emission inventory in which the fuel’s emission profile is captured. More specifically:
+
+1  A sustainability certification system, such as those managed by International Sustainability  
+  and Carbon Certification (ISCC) or Roundtable on Sustainable Biomaterials (RSB), is a tool to  
+  establish and track the sustainability profile of the fuel (including the fuel’s GHG emission factor). 
+
+2  A registry and associated rules for the registry are tools to register and track the transfer of the  
+  sustainability profile of the fuel according to a transparent and verifiable registry standard. 
+
+3  Accounting principles, like those described in this Smart Freight Centre (SFC) framework, are  
+
+tools to account for and allocate the emission profile of the fuel in organizational GHG 
+
+  emission inventories.
+
+As outlined above, this accounting framework focuses on accounting for and allocating the emission 
+profile of low emission transportation solutions and LETS across transportation supply chains. Other 
+organizations have developed or are developing tools for the determination and certification of the 
+sustainability profile of low emission transportation solutions, and registries with rules for tracking 
+the transfer of the sustainability profile of low emission transportation solutions.
+
+ 
+ 
+ 
+ 
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 2
+
+10
+
+Figure 1. Elements of a system to track and allocate 
+the emission profile of a low emission fuel
+
+Sustainability Certiﬁcation System
+
+Rules for Registry
+
+Registry
+
+SFC Accounting Framework
+
+Establish and track the sustainabilty 
+proﬁle of the fuel
+
+Register and track the transfer of the 
+sustainability proﬁle of the fuel, according to a 
+transparent and verifable standard
+
+Account for and allocate the emission proﬁle
+of the fuel in GHG emission inventories
+
+Application of the types of approach that accelerate investment in low emission transport 
+solutions and services as set out in these guidelines are still relatively new. Hence, 
+understanding and the systems that support them are evolving quickly.  As a result we 
+anticipate that open discussions between industry partners, together with implementation in 
+the market, will lead to changes as the framework’s strengths and weaknesses are revealed 
+in practice. The Book and Claim Community recently launched by SFC and RMI is one place 
+where such discussions may take place.
+
+Organizations in freight transportation supply chains
+
+As described in Section 1, freight transportation supply chains can be large and complex, 
+and may involve many different organizations for a single unit of freight. There are four 
+general categories of organization in freight transportation supply chain addressed in this 
+accounting framework.
+
+Carriers
+
+Carriers are organizations that operate transportation assets to conduct transportation activity in 
+providing transportation services.
+
+LSP
+
+LSPs are organizations that secure and facilitate transportation activity for shippers. LSPs, as 
+defined here, do not operate their own transportation assets or conduct transportation activity. 
+Instead, LSPs hire carriers to transport the LSPs’ customers’ freight6.
+
+Shippers
+
+Shippers are organizations with freight that needs transportation. A shipper may retain an LSP 
+to arrange transportation of the shipper’s freight. A shipper may also contract with carriers 
+directly for freight transportation activity.
+
+6  Organizations that serve as LSPs may operate transportation assets for providing transportation services. In some circumstances, then, an LSP may also be a carrier.
+
+ 
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 2
+
+11
+
+Solution 
+providers
+
+Low Emission Solution Provider (Solution Provider) Solution providers are organizations that 
+provide a low emission material or product to the transportation market. Solution providers 
+do not conduct transportation activity, nor do they contract for freight transportation activity 
+on behalf of their customers. Instead, solution providers provide the products that make LETS 
+possible. One example of a solution provider is a supplier of a low emission fuel.
+
+Focus on Roundtable on Sustainable Biomaterials
+
+RSB has developed a book and claim standard that includes requirements related 
+to the assessment, certification, and transaction of the sustainability attributes 
+(including, but not limited to, the GHG emission profile) of low emission aviation and 
+marine fuels.
+
+The RSB book and claim standard, outlined in the RSB Book & Claim Manual, 
+describes the rules which allow an organization to register, transfer, and retire book 
+and claim units (sometimes referred to elsewhere as credits or certificates) in the RSB 
+book and claim system. An RSB book and claim registry also forms a part of RSB’s 
+book and claim system (4).
+
+The RSB book and claim standard complements this SFC accounting framework. 
+That is: 
+
+• The RSB Book & Claim Manual explains the requirements for determining and  
+  tracking  the sustainability characteristics of bioenergy (including the bioenergy’s  
+  emission profile)  from the point at which those characteristics are decoupled from  
+  the physical bioenergy  product to the point at which those characteristics are  
+  retired by a transport service provider or other organization.
+
+• The RSB Book & Claim Manual describes requirements associated with the 
+  registration, transaction, and retirement of book and claim units (units that represent 
+  the right to a  claim through retirement and corresponding to a unique set of    
+  sustainability benefits (5)).
+
+• The SFC accounting framework describes how organizations can allocate and  
+  account for the GHG emission profile of bioenergy associated with an RSB book  
+  and claim unit in GHG emission inventories and declarations.
+
+In general terms, the RSB standard outlines requirements for establishing, certifying, 
+registering, transferring, and retiring book and claim units associated with the 
+emission profile of bioenergy through the RSB book and claim system. The SFC 
+framework explains how to take an emission profile (a profile that could have been 
+established, certified, registered, transferred, and retired through the RSB book and 
+claim system), and to apply that emission profile in calculating and allocating a GHG 
+emission footprint across a transportation supply chain.
+
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 12
+
+12
+
+Chain of custody 
+for products 
+and for services
+
+3
+
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 3
+
+13
+
+Chain of custody systems
+
+Introduction to chain of custody systems
+
+Organizations need to know the emission profiles associated with the LETS that they pay 
+to support. An organization is not likely to pay a premium for a LETS if that LETS cannot be 
+quantified or accounted for in their GHG emission reporting and target setting. A chain of 
+custody system is therefore the foundation of a framework for shippers, carriers, LSPs, and 
+solution providers to partner around deploying LETS.
+
+A chain of custody system can generally be defined as a set of measures underlying the process 
+by which materials or products (and information on those materials or products) are transferred, 
+monitored, and controlled as they move through each step in a supply chain (6). There are several 
+models for chain of custody systems.
+
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 3
+
+14
+
+Physical separation
+
+A physical separation chain of custody model requires the physical segregation of materials or 
+products with certain characteristics as those materials or products move through a supply chain.
+
+Figure 2 shows an example of a physical separation chain of custody model for liquid fuels. 
+Conventional fuel and low emission fuel are not mixed with each other during distribution. The 
+emission profile of the low emission fuel (a characteristic of the fuel) remains coupled with the 
+low emission fuel, and the emission profile of the conventional fuel remains coupled with the 
+conventional fuel, from generation to consumption.
+
+ISO Standard 22095:2020 distinguishes between “identity preserved” and “segregated” chain 
+of custody models. Some other organizations also make a distinction between these models 
+– with what may be varying interpretations of the difference between “identity preserved” and 
+“segregated” models. This SFC accounting framework does not distinguish between “identity 
+preserved” and “segregated” models. The source (or identity) of a product could be tracked as 
+a characteristic of that product through a product distribution network, and potential distinctions 
+between “identity preserved” and “segregated” models are not material in the context of this 
+framework. As such, both “identity preserved” and “segregated” models are treated simply as 
+physical separation models in this framework.
+
+Figure 2. A physical separation chain of custody model
+
+Conventional 
+Fuel Provider
+
+Low Emission 
+Fuel Provider
+
+Emission Proﬁle of
+Conventional Fuel
+
+Emission Proﬁle of
+Low Emission Fuel
+
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 3
+
+15
+
+Mass balance
+
+A mass balance chain of custody model allows the mixing of materials or products with certain 
+characteristics with other materials or products as they move through a supply chain. The 
+amount and the characteristics of the materials or products are tracked separately from each 
+other throughout the distribution process, even though the materials or products themselves are 
+physically mixed.
+
+Figure 3 shows an example of a mass balance chain of custody model for liquid fuels. Although 
+the conventional fuel and low emission fuel are mixed, the proportion of the fuel mix comprised 
+of conventional fuel and the proportion of the fuel mix comprised of low emission fuel is tracked 
+throughout distribution. The emission profile of both the low emission fuel and of the conventional 
+fuel both go to the fuel consumer that physically receives the mixed product.
+
+ISO Standard 22095:2020 describes a “controlled blending” chain of custody model. This SFC 
+framework does not distinguish between mass balance and controlled blending models. Instead, 
+mass balance is defined here to mean a model in which the organization allocated the special 
+characteristics of a product (e.g., the emission factor of a low emission fuel) physically receives a 
+known amount of product with those special characteristics over a certain period of time.
+
+For example, a fuel provider sells a carrier a 10% low emission fuel blend. An individual batch of fuel 
+that the carrier receives from the fuel provider may or may not physically be comprised of 10% low 
+emission fuel molecules. However, averaged over all loads of fuel that the carrier receives from the 
+fuel provider, 10% of the fuel that the carrier receives is comprised of low emission fuel molecules.
+
+Figure 3. A mass balance chain of custody model
+
+Emission Proﬁle of Conventional Fuel
+
+Conventional
+Fuel Provider
+
+Conventional
+Fuel Provider
+
+Low Emission 
+Fuel Provider
+
+Emission Proﬁle of
+Low Emission Fuel
+
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 3
+
+16
+
+Book and claim
+
+A book and claim chain of custody model allows the mixing of materials or products with certain 
+characteristics with other materials or products as they move through a supply chain. The 
+characteristics of the materials or products are tracked separately from the physical material or 
+products – these characteristics are not connected to the physical flow of materials or products.
+
+At some point after a material or product is generated, the characteristics of that material or 
+product are decoupled from the physical material or product and cataloged in a tracking system, 
+or “booked.” Those characteristics may subsequently be “claimed” from the tracking system. 
+The entity claiming the special characteristics of the material or product may have no physical 
+involvement with the material or product with special characteristics.
+
+Figure 4 shows an example of a book and claim chain of custody model for liquid fuels. The 
+conventional fuel and low emission fuel are mixed. The emission profile of the low emission fuel is 
+tracked separately from the emission profile of the conventional fuel. The proportion of conventional 
+fuel in the distribution system is not accounted for separately from the proportion of low emission 
+fuel in the distribution system. The organization that claims the emission profile of the low emission 
+fuel may not physically receive any low emission fuel.
+
+Figure 4. A book and claim chain of custody model
+
+Conventional Fuel Providers
+
+Emission Proﬁle of 
+Conventional Fuel
+
+Low Emission 
+Fuel Provider
+
+Emission Proﬁle of 
+Low Emission Fuel
+
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 12
+
+17
+
+Chains of custody 
+for products 
+and for services
+
+4
+
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 4
+
+18
+
+Chains of custody for products 
+and for services
+
+Chain of custody systems for products
+
+The three examples in the previous section describe chain of custody models for a physical product, 
+liquid fuel.
+
+Any of the three chain of custody models described above (physical separation, mass balance, or 
+book and claim) may be viable for tracking physical fuels and their characteristics, depending on 
+the configuration of the fuel distribution network. In some cases, fuel suppliers can track fuel and its 
+attributes by mass balance, in others, by book and claim, and in certain cases, low emission fuels 
+are physically separated from conventional fuels.
+
+For the purposes of this document, the characteristics of fuels that are tracked through a chain of 
+custody system include the7:
+
+1  Energy content, mass, or volume of the fuel. 
+
+2  Life cycle GHG emission factor of the fuel (see Section 10 for more on emission factors).
+
+3  Feedstocks (including the percentage of biogenic material in the feedstock, where applicable)  
+  and production processes for the fuels.
+
+There are numerous other attributes of low emission fuels that may be of interest. For example, 
+whether a fuel was produced in a manner to protect soil and water, or if a fuel was produced in a 
+way that protects land with high biodiversity value or cultural values. These other attributes, while 
+important, are not addressed in this framework.
+
+Chain of custody systems for services
+
+A physical product, like a low emission fuel, is different from a transportation service. A 
+transportation service is a certain amount of mode-specific (or transport operation category-
+specific)8 transportation activity (i.e., the amount of freight transported and the distance that freight 
+was transported)9.
+
+A transportation service is not a physical product. A transportation service may be conducted using 
+a physical product.
+
+As defined in Section 2, shippers and forwarders purchase or facilitate the provision of transportation 
+services. Similarly, as defined in Section 2, carriers sell transportation services (they do not sell 
+physical products).
+
+A mass or volume of a low emission fuel, in and of itself, may be of very little value to a shipper or a 
+forwarder. A shipper or a forwarder does not need a mass or volume of fuel. A shipper or forwarder 
+needs freight transportation activity. Similarly, the value of a mass or volume of fuel for a carrier 
+
+7  The three characteristics represented here are the minimum characteristics necessary to enable the calculation of GHG emission inventories as described later 
+in this framework, and for purchasers of the characteristics of the fuel to have information that allows them to understand the general origins of the fuel. 
+8  See Section 7 for more information on transport operation categories.
+9  See Section 10 for more information on transport activity.
+
+ 
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 4
+
+19
+
+stems from the fuel’s ability to be used in generating transportation activity.
+As such, this framework must address more than chain of custody models for physical products 
+like low emission fuels. This framework must also address the allocation of the characteristics of 
+transportation services.
+
+A chain of custody approach may be applied to the characteristics of a transportation service. 
+In this approach, the characteristics of the transportation service are tracked (rather than the 
+characteristics of a physical product).
+
+For example, a carrier may move freight with trucks powered by a low emission fuel. The 
+carrier’s trucks are using a physical product (i.e., a low emission fuel) to conduct a LETS. The 
+characteristics of this LETS could then be tracked with a chain of custody system through a 
+transportation supply chain.
+
+For the purposes of this framework, the characteristics of transportation services that 
+are tracked through a chain of custody system include the:
+
+1  Mode of transportation associated with the service (see Section 7 for more on 
+
+transportation modes). 
+
+2  The amount of transportation activity conducted (see Section 10 for more on 
+
+transportation activity).
+
+3  The GHG emission intensity of the LETS (see Section 10 for more on emission intensities).
+
+4  The total GHG emissions resulting from the amount of transport activity conducted.
+
+5  Where applicable, the transportation operation category of the service (see Section 7 for 
+  more on transportation operation categories).
+
+A book and claim chain of custody system for transportation services
+
+The flexibility of a book and claim model addresses the constraints on transport 
+decarbonization described in Section 1. That is, a book and claim chain of custody model 
+for a transportation service:
+
+• Permits a purchaser of freight transportation services to contribute to and report the GHG   
+  emission profile of a LETS, even if that service does not directly involve the transportation   
+  assets that physically transport their freight.
+
+• Permits a provider of freight transportation services or a solution provider to assign the  
+  emission profile of a low emission solution or of a LETS to the organizations that pay a  
+  premium for the LETS or solution, even if those organizations’ freight is not always physically  
+  transported on a low emission transportation asset or using a low emission solution.
+
+A book and claim chain of custody model is therefore preferred for tracking LETS.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 12
+
+20
+
+Applying chain of 
+custody concepts 
+to transport 
+supply chains
+
+5
+
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 5
+
+21
+
+Applying chain of custody concepts 
+to transport supply chains
+
+Booking and claiming transportation solutions and services
+
+Carriers, LSPs, shippers, and solution providers have different roles in transportation supply 
+chains. They also have different roles in booking and claiming LETS or the solutions that make 
+LETS possible.
+
+There are several ways each category of organization listed above can book and can claim, and 
+different things that they can book and claim, in book and claim chain of custody systems for 
+low emission solutions and LETS.
+
+A key distinction between the ways each category of organization books or claims is whether 
+there is:
+
+• Direct generation of a LETS by a carrier conducting transport activity with a low emission 
+   transportation solution; or 
+
+• Indirect generation of a LETS by a carrier, shipper, or LSP that calculates an emissions footprint  
+  based on the profile of a low emission solution, even though that solution may not have  
+  been applied by their fleet or by the carriers in their supply chain.
+
+Direct generation
+
+In direct generation scenarios, there is a physical tie between a low emission solution and the carrier 
+generating the LETS. That is, the carrier generating the LETS actually uses or deploys the low 
+emission solution in that carrier’s owned or operated fleet.
+
+For example:
+
+• A carrier purchases low emission fuel that is provided to the carrier through a physical separation 
+  chain of custody system. The carrier, based on the definition of physical separation chain of  
+  custody systems for products outlined above, physically receives low emission fuel. There is a  
+  physical tie between the carrier and the solution. Low emission fuel molecules are combusted in    
+  the carrier’s transportation assets in conducting transport activity. 
+
+• A carrier purchases low emission fuel that is provided to the carrier through a mass balance chain 
+  of custody system. The carrier, based on the definition of mass balance chain of custody systems  
+  for products outlined above, physically receives low emission fuel. Although this low emission  
+  fuel may be mixed with conventional fuel, over a certain period of time, the fuel provider can  
+  demonstrate that the carrier physically received a certain amount of low emission fuel. There is a    
+  physical tie between the carrier and the solution. Low emission fuel molecules are combusted in    
+  the carrier’s transportation assets in conducting transport activity.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 5
+
+22
+
+See Figure 5 for a depiction of a direct generation scenario. The carrier physically receives low 
+emission fuel. The carrier conducts transport activity, at least in part, using that low emission fuel. 
+There is a physical tie between the solution (i.e., the low emission fuel) and the carrier. The carrier 
+has directly generated a LETS using a low emission fuel.
+
+Figure 5. Direct generation of a LETS using a fuel procured 
+through a mass balance chain of custody system
+
+A carrier purchases low emission fuel through
+a mass balance chain of custody system.
+
+The carrier transports a mass of freight 
+a certain distance using the low 
+emission fuel, directly generating a 
+LETS by conducting that low emission 
+transportation activity.
+
+Conventional 
+Fuel Provider
+
+Low Emission 
+Fuel Provider
+
+Carrier
+
+Emission Proﬁle 
+of LETS
+
+Emission Proﬁle of
+Low Emission Fuel
+
+Indirect generation
+
+In indirect generation scenarios, a physical tie cannot be made between a solution and a LETS. 
+Instead, a carrier, shipper, or LSP calculates an emissions footprint as if a low emission solution was 
+used in their owned-operated fleet (carriers) or by the carriers in their supply chain (shippers and 
+forwarders).
+
+For example:
+
+• A carrier purchases the characteristics of a low emission fuel through a book and claim chain  
+  of custody system. The carrier, based on the definition of book and claim chain of custody  
+  systems for products outlined above, may not physically receive any low emission fuel. There  
+  is no physical tie between the carrier and the solution. It cannot be demonstrated that low   
+  emission fuel molecules were combusted in the carrier’s transportation assets in conducting  
+  transport activity. 
+
+• An LSP purchases the emission profile of a low emission fuel directly from a fuel provider.    
+  There is no guarantee that the low emission fuel provider physically provided low emission fuel  
+  to the LSP’s contracted carriers. There is no physical tie between the LSP and the solution.  
+  The low emission fuel may not be combusted in transportation assets owned or operated by  
+  carriers that the LSP has contracted with to conduct transport activity.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 5
+
+23
+
+See Figure 6 for a depiction of an indirect generation scenario. The LSP’s contracted carriers do 
+not necessarily physically receive low emission fuel. The LSP generates a LETS using the emission 
+profile a low emission fuel that may not have actually been burned by the LSP’s contracted carriers. 
+There is no physical tie between the solution (i.e., the low emission fuel) and the LSP. The LSP has 
+indirectly generated a LETS based on the profile of a low emission fuel.
+
+Figure 6. Indirect generation of a LETS using the profile of a fuel
+purchased through a book and claim chain of custody system
+
+A solution provider produces a low emission fuel that is distributed 
+according to a book and claim chain of custody model.
+
+Conventional Fuel Providers
+
+An LSP claims the proﬁle of the low emission 
+fuel and calculates the amount of 
+transporation activity that could have been 
+conducted if the low emission fuel were 
+consumed by carriers in its network.
+
+Emission Proﬁle of 
+Low Emission Fuel
+
+Low Emission 
+Fuel Provider
+
+Emission Proﬁle 
+of LETS
+
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 5
+
+24
+
+Booking and claiming the profiles of solutions and LETS
+
+Different types of booking and claiming, classified by category of organization, are as follows.
+
+Carriers
+
+Direct book
+A carrier conducts a LETS by directly applying a low emission solution to the transportation of 
+freight, using the carrier’s owned or operated transportation assets. The carrier books an 
+emission profile for the transport activity on the LETS. For example: 
+
+• A carrier uses a low emission fuel in the carrier’s owned or operated assets. The carrier  
+  secures the fuel, a solution, either through a physical separation or a mass balance chain    
+  of custody system. The carrier’s transportation assets consume the low emission fuel when  
+  conducting transportation activity. 
+
+• A carrier deploys electric trucks in its fleet. The electric trucks, either owned or operated by  
+  the carrier, are conducting transportation activity moving cargo for the carrier’s customers.
+
+Indirect book
+
+A carrier generates a LETS by applying the emission profile of a solution as if the solution were used 
+by the carrier. That is, the carrier claims the emission profile of a solution from a solution provider 
+and books a LETS based on that solution’s profile – even though the carrier does not physically 
+deploy the solution in the carrier’s owned or operated fleet.
+
+For example, a carrier purchases the emission profile of a low emission fuel and substitutes this 
+emission profile for the profile of the fuel consumed in the carrier’s owned or operated assets. 
+The carrier secures the emission profile of the low emission fuel through a book and claim chain 
+of custody system. The carrier may not actually consume any low emission fuel in the carrier’s 
+transportation assets when conducting transportation activity.
+
+Claim and rebook
+
+A carrier claims a LETS directly generated by another carrier and books that service. The claimed 
+LETS become indirect transportation services for the claiming carrier (because the claiming carrier is 
+not physically conducting a LETS itself).
+
+ 
+ 
+ 
+ 
+ 
+ 
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 5
+
+25
+
+LSP
+
+Indirect book
+
+An LSP generates a LETS by applying the emission profile of a low emission solution as if the 
+solution were used by the LSP’s contracted carriers. The LSP books an emission profile for a 
+certain amount of transport activity associated with the LETS.
+
+For example, an LSP purchases the emission profile of a low emission fuel and substitutes 
+this emission profile for the emission profile of the fuel consumed by carriers conducting 
+transportation activity on behalf of LSP. The LSP secures the emission profile of the low emission 
+fuel through a book and claim chain of custody system. The LSP’s contracted carriers may not 
+actually consume any low emission fuel in these carriers’ transportation assets when conducting 
+transportation activity.
+
+Direct claim and rebook
+
+An LSP claims a LETS directly generated by a carrier in the LSP’s contracted carrier network and 
+books that service for claiming by the LSP’s customers.
+
+Indirect claim and rebook
+
+An LSP claims a LETS indirectly generated by a carrier in the LSP’s contracted carrier network or 
+a LETS directly generated by a carrier outside of the LSP’s contracted carrier network and books 
+that service for claiming by the LSP’s customers.
+
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 5
+
+26
+
+Shippers
+
+Book
+
+Shippers do not book LETS or solutions. Instead, shippers apply the characteristics of LETS 
+or solutions to their GHG emission inventories. That is, the shipper is not “booking” these 
+characteristics for “claiming” by another organization.
+
+Direct claim
+
+The shipper claims: 
+
+1  A LETS directly generated by a carrier in the shipper’s contracted carrier network. 
+
+2  A direct generation claim and rebook from one of the shipper’s contracted LSPs.
+
+Indirect claim
+
+The shipper claims a LETS: 
+
+1  From a carrier that indirectly generates the LETS.
+
+2  From a carrier that has claimed and rebooked a LETS.
+
+3  Indirectly generated or indirectly claimed and rebooked by an LSP.
+
+Alternatively, a shipper can claim the emission profile of a solution from a solution provider and 
+generate a LETS by applying the emission profile of the solution as if the solution were actually used 
+by the shipper’s carriers.
+
+For example, a shipper purchases the emission profile of a low emission fuel and substitutes this 
+low emission fuel’s profile for the emission profile of the fuel consumed by carriers conducting 
+transportation activity for the shipper. The shipper secures the emission profile of the low emission 
+fuel through a book and claim chain of custody system. The carriers transporting the shipper’s 
+freight may not consume any low emission fuel in these carriers’ transportation assets.
+
+ 
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 12
+
+27
+
+Solution 
+provider
+
+Book 
+
+Solution providers cannot book LETS.
+
+Solution providers can book the profiles of solutions. The emission profiles of these solutions 
+can be claimed by carriers, shippers, or LSPs to indirectly generate LETS.
+
+Provide 
+
+Solution providers can also provide a solution to a carrier who directly generates a LETS using 
+that solution.
+
+Tracking book and claim activity
+
+Organizations in transportation supply chains may rely on independent registries for 
+tracking book and claim activity. Registries already exist to track the profiles of solutions like 
+sustainable aviation and marine fuels (see Section 2).
+
+Registries that track the profile of solutions do not necessarily serve as tools to track the 
+profiles of LETS generated from the solutions.
+
+For example, an LSP claims the profile of a mass or volume of sustainable aviation fuel (SAF) 
+that is tracked in a SAF registry. The LSP may need to implement their own system to track 
+the LETS that the LSP indirectly generates based on the profile of the SAF. That is, the SAF 
+registry may contain information on the SAF as a product, but not contain information on the 
+transport activity that could be conducted if the SAF were consumed by the LSP’s air carriers 
+to generate a LETS.
+
+In this example, the LSP could claim a SAF profile from a SAF registry and still need to book a 
+LETS (based on the SAF profile) for claiming by the LSP’s customers. The latter booking and 
+claiming, of the LETS profile, may be separate from the former booking and claiming, of the 
+SAF profile.
+
+ 
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 12
+
+28
+
+Additionality of 
+indirect generation 
+low emission 
+transportation 
+services
+
+6
+
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 6
+
+29
+
+Additionality of indirect generation 
+low emission transportation services
+
+Organizations booking or claiming direct generation of a LETS can demonstrate a physical 
+connection between their supply chain and a LETS. That is, in all direct generation book and 
+claim scenarios, a LETS was actually generated somewhere within in the booking or claiming 
+organization’s transportation supply chain.
+
+The same cannot be said for indirect generation of LETS. In indirect generation book and claim 
+scenarios, a LETS was assumed to be generated or a solution assumed to be applied somewhere 
+– but not necessarily by the booking or claiming organization or by that organization’s contracted 
+transportation service suppliers.
+
+Calculation of the emission profile of a LETS for indirect generation scenarios therefore requires 
+an organization to make assumptions about what transportation activity could be conducted with 
+a solution. In indirect generation scenarios, the booking and claiming organizations likely do not 
+know what transportation activity actually was conducted with the solution.
+
+Because of these assumptions inherent in indirect LETS generation scenarios, it is reasonable 
+to impose constraints on indirect generation scenarios to ensure that the flexibility afforded by a 
+book and claim framework is driving additional decarbonization of the transport sector. All indirect 
+LETS must therefore be additional. 
+
+Defining additionality
+
+Additionality is defined here as a criterion for assessing whether a solution or a LETS are required 
+by regulation.
+
+This definition of additionality is different from, but not necessarily inconsistent with, the definition 
+of additionality applied in the Greenhouse Gas Protocol. The Greenhouse Gas Protocol defines 
+additionality as a criterion for assessing whether a project has resulted in GHG emission 
+reductions or removals in addition to what would have occurred in the project’s absence (7). 
+The Greenhouse Gas Protocol definition of additionality, then, addresses additionality from a 
+project perspective.
+
+Another way to consider additionality is in the context of activities associated with outputs from 
+projects. For example, a project may involve the construction of a facility that produces low 
+emission electrofuels. The output of that project is the low emission electrofuel produced at 
+the plant.
+
+The framework outlined in this document addresses the emission profile associated with solutions 
+and LETS as opposed to the emission profiles of projects. Continuing the example above, this 
+framework addresses the allocation of the emission profile of fuel produced at the electrofuels 
+plant, not the emission reductions theoretically made possible by construction of the plant.
+
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 6
+
+30
+
+Regulation and additionality
+
+Regulation can be a powerful tool to accelerate the deployment of LETS. Regulation can overcome 
+the barriers to decarbonization described in Section 1, and do so without a voluntary framework. For 
+indirect generation scenarios (i.e., where a physical connection cannot be established between a 
+low emission solution and an organization’s supply chain), this document focuses on facilitating the 
+uptake of LETS beyond regulatory requirements.
+
+Assessing additionality
+
+Additionality needs to be assessed on a case-by-case basis for a specific LETS or solution as it 
+relates to a specific regulatory requirement. A case-by-case assessment is necessary because 
+regulations vary broadly across modes and geographies and because their applicability varies 
+across the categories of organizations addressed in this document (i.e., shippers, LSPs, carriers, and 
+solution providers).
+
+Another variable across different regulations is the way regulatory requirements are framed. Some 
+regulations prescribe a specific action. Some regulations prescribe a certain outcome.
+
+An example of a regulation that prescribes a specific decarbonization action could be a fuel 
+blending mandate. Regulators require fuel suppliers (i.e., solution providers) to implement the 
+action of blending a certain amount of low emission fuels in with the conventional fuels that the 
+supplier provides.
+
+An example of a regulation that prescribes a certain decarbonization outcome could be an 
+operational carbon intensity requirement. Regulators require carriers to realize a certain carbon 
+intensity for their assets, an outcome that could be achieved by many combinations of specific 
+actions (e.g., efficiency retrofits, changes in how the asset is deployed or operated, or use of low 
+emission fuels).
+
+Requirements for a particular action
+
+If a regulation prescribes a specific LETS or solution, then to the extent that a LETS or solution 
+achieves that regulatory requirement, the LETS or solution are not additional. Use of a solution or 
+deployment of a LETS beyond the regulatory requirement could still be additional.
+
+For example, if a regulation requires a fuel supplier to include 2% low emission fuel in all fuel 
+provided in a certain region, volumes of low emission fuel that go to meet that 2% blend mandate are 
+not additional. Volumes of low emission fuel provided in that region beyond the 2% blend mandate, 
+however, would be additional with respect to the 2% blend mandate regulatory requirement.
+
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 6
+
+31
+
+Requirements for an outcome
+
+If a regulation prescribes a certain outcome and does not specify a particular solution or 
+associated LETS, then: 
+
+• To the extent that a specific LETS or solution’s contribution to the achievement of a required 
+   outcome can be quantified by regulation and to the extent that the quantified LETS or solution  
+  is applied towards achievement of an outcome requirement, the solution or associated LETS  
+  is not additional. 
+
+• When the contribution of a specific LETS or solution to the achievement of a required outcome 
+  cannot be quantified under the regulation, or when the LETS or solution are not applied  
+  towards achievement of the outcome requirement, the solution and associated LETS 
+  are additional.
+
+For example, the Carbon Offsetting and Reduction Scheme for International Aviation (CORSIA) 
+outlines offsetting requirements for certain aircraft operators. These offsetting requirements may be 
+reduced if the aircraft operator claims emission reductions from the use of CORSIA eligible fuels. 
+Volume IV, Chapter 3 of Annex 16 to the Convention on International Aviation includes a formula for 
+calculating aircraft operator claims for emission reductions from the use of CORSIA eligible fuels 
+(8). An air carrier’s use of SAF towards achievement of the CORSIA offsetting requirement, then, 
+can be quantified by a method established under the regulation. Similarly, there is a process by 
+which an air carrier can claim a quantitative reduction in the offsetting requirement based on the 
+use of SAF. Therefore, SAF applied by a carrier in such a claim for reduced offsetting requirements 
+under CORSIA is not additional.
+
+In another example, Annex VI of the International Convention for the Prevention of Pollution from 
+Ships outlines operational carbon intensity requirements for certain vessels. These carbon intensity 
+requirements may be achieved by any number of activities, including the use of low emission fuels. 
+While the impact of the use of low emission fuel on operational carbon intensity can theoretically 
+be quantified, there is not a method for assessing the relative contribution of the use of low 
+emission fuels to the achievement of operational carbon intensity requirements under Annex VI. 
+There is also not a process by which an ocean carrier can claim a quantitative reduction in its 
+carbon intensity requirements based on the carrier’s use of a low emission fuel. Until a method to 
+determine the contribution of using a low emission fuel as solution towards achieving a vessel’s 
+operational intensity requirements is established under Annex VI, and until vessel operators could 
+claim the use of low emission fuel as a means to reduce their carbon intensity requirements, the 
+use of the low emission marine fuel in generating a LETS is additional with respect to Annex VI 
+operational intensity requirements.
+
+10  See Section 7 for more on transportation modes
+
+ 
+ 
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 6
+
+32
+
+Additionality and cross modal opt-in schemes
+
+An additionality analysis can be complicated by situations where regulations allow organizations 
+providing a solution for one mode of transport to voluntarily create “credits” that may be applied 
+towards achievement of a regulatory requirement for another mode of transport10. In these 
+situations, deployment of a voluntary solution for one mode could allow for reduced deployment of 
+a required solution for another mode.
+
+If a solution is assessed to be additional for one mode of transport, and generates credits applied 
+towards achievement of regulatory requirements for another mode of transport, the solution is still 
+additional. However: 
+
+• When booking the emission profile of such a solution, the solution provider must disclose    
+  the extent to which the solution for one mode is generating credits towards requirements for  
+  another mode. 
+
+• Organizations that claim the emission profile of solutions for one mode of transport, when 
+  those solutions generate credits towards compliance with regulatory requirements for another  
+  mode of transport, must clearly and explicitly disclose the extent to which LETS they generate  
+  are based on a solution that is used to meet compliance obligations for another mode 
+  of transport.
+
+Jet fuel and the California Low Carbon Fuel Standard
+
+One example of a situation where a voluntary solution for one mode can generate “credits” towards 
+achievement of a regulatory requirement for another mode involves California Low Carbon Fuel 
+Standard (LCFS) system credits for low emission jet fuel.
+
+Conventional jet fuel is not subject to LCFS regulations. However, low emission jet fuel may be 
+used to generate LCFS credits that a low emission jet fuel supplier could sell to a supplier of a fuel 
+that is subject to LCFS regulations. As such, an organization that supplies a low emission jet fuel to 
+the California market could generate credits that it then sells to an organization that needs to meet 
+regulatory carbon intensity benchmarks for gasoline or diesel. That is: 
+
+• Low emission jet fuel supplied to the California market could be considered additional if assessed   
+in isolation. There is not a requirement for a fuel supplier to bring low emission jet fuel to the  
+  California market. 
+
+• If that low emission jet fuel generates LCFS credits that are then sold to an organization towards    
+  achievement of gasoline or diesel intensity benchmarks, the low emission jet fuel LCFS credits are  
+  allowing for reduced deployment of low emission intensity gasoline or diesel. The low emission jet  
+  fuel LCFS credits allow an organization with gasoline or diesel carbon intensity benchmarks to 
+  not supply low emission gasoline or diesel that the organization would otherwise be obligated 
+  to supply.
+
+ 
+ 
+ 
+ 
+ 
+ 
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 6
+
+33
+
+Marine fuel and Dutch renewable energy units
+
+Another example of a situation where a voluntary solution can generate “credits” towards 
+achievement of a regulatory requirement involves Dutch hernieuwbare brandstofeenhede (HBE) and 
+low emission marine fuel.
+
+Fuel suppliers who supply more than 500,000 liters of fuel to the Dutch market are required to 
+have a certain number of HBEs in the Dutch Energy for Transport Registry at the end of a 
+regulatory accounting period. The number of HBEs that must be in the registry is calculated based 
+on the amount of energy a supplier provided to the Dutch road energy market during the 
+accounting period.
+
+An organization that generates more HBEs than that organization must have in the registry may sell 
+those excess HBEs to other organizations. HBEs can be generated by providing renewable energy 
+to the Dutch road transport sector. HBEs may also be generated by providing renewable marine 
+fuels to ports in the Netherlands.
+
+As such: 
+
+• Low emission marine fuel supplied to the Dutch market could be considered additional if    
+  assessed in isolation. There is not a requirement to generate HBEs in association with marine  
+  fuels delivered to Dutch ports. The requirement for a fuel supplier to have a certain number  
+  of HBEs registered is based on the amount of energy the supplier provides to the Dutch road  
+  market, not the amount of marine fuel the supplier provides to the Dutch marine market. 
+
+• If a fuel supplier generates HBEs by providing renewable marine fuels to Dutch ports and  
+  sells those HBEs to another fuel supplier towards that other fuel supplier’s HBE registration  
+  requirement for road fuels (or uses those HBEs towards the fuel supplier’s own HBE
+  registration requirement for road fuels), the renewable marine fuel HBEs are allowing for  
+  reduced deployment of renewable road fuels. That is, the renewable marine fuel HBEs allow  
+  an organization with a road fuel-based HBE registration requirement to not supply renewable  
+  road fuel that the organization would otherwise be obligated to supply.
+
+Summary
+
+A voluntary solution for one mode of transport may generate credits that are applied towards 
+achievement of a regulatory requirement for another mode of transport. When assessed within the 
+constraints of a transportation mode, the voluntary solution could be considered additional. When 
+assessed within the constraints of transport GHG emissions, the voluntary solution would not be 
+additional.
+
+As discussed further in the next section, this framework attempts to accelerate decarbonization 
+across all modes of transport. Therefore, the assessment of additionality in cross modal opt-in 
+schemes is bound by mode. This framework also attempts to facilitate transparency in GHG 
+emission accounting. Therefore, the framework requires organizations to disclose the extent to 
+which solutions or LETS that are voluntary for one mode generate credits towards achievement of 
+requirements for another mode.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 12
+
+34
+
+Facilitating 
+decarbonization 
+across transport 
+modes
+
+7
+
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 7
+
+35
+
+Facilitating decarbonization 
+across transport modes
+
+Modal constraint
+
+One aspect of the heavy transport decarbonization challenge is scaling decarbonization across 
+all modes of transportation. Modes of transportation, as defined here, include all the modes of 
+transportation described in the GLEC Framework11.
+
+The maturity, availability, and cost of solutions can vary significantly across modes of heavy 
+transportation. Although the challenges and costs associated with decarbonizing transportation 
+vary by mode, all modes of heavy transport must be decarbonized to decarbonize heavy 
+transportation in its entirety.
+
+It is for this reason that the mode of transportation associated with a LETS must be tracked in a 
+book and claim chain of custody system for LETS. It is also for this reason that LETS are bound 
+by mode12. This constraint precludes an organization from assigning the emission profile of LETS 
+in one mode of transportation towards the emission footprint of other modes of transportation.
+
+Transportation operation categories
+
+Transportation operation categorization is a way of classifying transportation activity that provides 
+organizations the ability to declare transportation emission information at a level of resolution not 
+possible if all transportation activity is aggregated at the modal level.
+
+A transportation operation category (TOC) is defined here as a group of transportation operations 
+with similar characteristics (e.g., transportation asset type and size, load factor, or geography of 
+operation) that correspond to how transportation services are provided and procured.
+
+Some organizations face material differences in the challenges to decarbonization within a mode 
+(e.g., decarbonization of a particular mode is significantly more difficult in one geography than 
+in another) in their transportation supply chains. These organizations may voluntarily choose to 
+constrain the booking and claiming of the characteristics of LETS by TOC rather than by mode 
+alone. Application of a TOC level constraint, rather than a modal constraint, is one way to focus 
+decarbonization efforts on specific challenges within a transportation mode.
+
+11  Currently, these modes are air, inland waterways, logistics sites, rail, road and sea-ocean. The number of modes described in the GLEC Framework is subject to change.
+12  The applicability of a low emission solution may not be bound by mode, to the extent that the solution is the same across modes. For example, renewable natural gas 
+molecules could be consumed in an ocean going vessel or in a heavy duty truck. The solution itself is the same for both modes. So long as the solution is the same across 
+modes and there is a link between the solution as provided and the relevant mode of transport (e.g., renewable natural gas molecules provided only to industrial facilities 
+could not be treated as a transportation solution, while renewable natural gas molecules provided to a distribution network that feeds transport and industrial facilities could 
+be treated as a transportation solution), the solution is not necessarily bound by mode.
+
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 12
+
+36
+
+Vintage 
+requirements 
+for solutions 
+and low emission 
+transportation 
+services
+
+8
+
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 8
+
+37
+
+Vintage requirements for solutions and low 
+emission transportation services
+
+Ambiguity about when a solution was provided or when a LETS was generated can undermine trust 
+in a book and claim chain of custody system for transport decarbonization. Lack of documentation 
+about when solutions were provided or LETS generated may also confuse assessments of LETS 
+additionality as regulatory requirements change with time. A vintage constraint can help address 
+these potential challenges.
+
+For details on the vintage requirements associated with each type of book and claim scenario, 
+see Table 1.
+
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 12
+
+38
+
+Summary of 
+book and claim 
+scenarios 
+and constraints
+
+9
+
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 9
+
+39
+
+TYPE OF 
+BOOK OR 
+CLAIM
+
+DIRECT 
+OR 
+INDIRECT DESCRIPTIONS
+
+ADDITIONALITY 
+CONSTRAINT
+
+MODAL 
+CONSTRAINT
+
+VINTAGE 
+CONSTRAINT
+
+NOTES
+
+I
+
+I
+
+N
+O
+T
+A
+Z
+N
+A
+G
+R
+O
+
+F
+O
+E
+P
+Y
+T
+
+Does not 
+Apply
+
+Applies
+
+LETS profile booked 
+within 12 months of 
+generation
+
+The LETS may or may not reflect 
+decarbonization already required by law. 
+The purchaser of the LETS is encouraged 
+to clarify with the booking carrier whether 
+or not the LETS is additional.
+
+r
+e
+i
+r
+r
+a
+C
+
+r
+e
+i
+r
+r
+a
+C
+
+Book
+
+Direct
+
+Book
+
+Indirect
+
+Indirect
+
+Claim 
+and 
+Rebook
+
+Carrier generates 
+LETS, applying a 
+solution within their 
+owned-operated fleet
+
+Carrier generates 
+LETS using the profile 
+of a solution, as if the 
+solution was used in 
+their owned-operated 
+fleet
+
+Carrier claims a LETS 
+directly generated by 
+another carrier, 
+re-books the LETS
+
+Applies
+
+Applies
+
+Applies
+
+Applies
+
+Book
+
+Indirect
+
+P
+S
+L
+
+Direct
+
+Claim 
+and 
+Rebook
+
+Indirect
+
+Claim 
+and
+Rebook
+
+Applies
+
+Applies
+
+Does not 
+Apply
+
+Applies
+
+Applies
+
+Applies
+
+LSP generates LETS 
+using the profile of a 
+solution, as if the 
+solution was used by 
+the LSP’s contracted 
+carriers
+
+LSP claims LETS 
+directly generated by 
+a carrier, then books 
+that LETS for claiming 
+by LSP customers
+
+LSP claims a LETS 
+indirectly generated 
+by a carrier, then books 
+that LETS for claiming 
+by LSP customers
+
+LETS profile booked 
+within 12 months of 
+booking of profile of 
+solution associated with 
+LETS profile
+
+LETS profile booked 
+within 12 months of 
+booking of LETS that 
+was claimed
+
+LETS profile booked 
+within 12 months of 
+booking of profile of 
+solution associated 
+with LETS profile
+
+LETS profile booked 
+within 12 months of 
+booking of LETS that 
+was claimed
+
+–
+
+–
+
+–
+
+The LETS may or may not reflect 
+decarbonization already required by law. 
+The purchaser of the LETS is encouraged 
+to clarify with the rebooking LSP whether or 
+not the LETS is additional.
+
+LETS profile booked 
+within 12 months of 
+booking of LETS that 
+was claimed
+
+–
+
+r
+e
+p
+p
+h
+S
+
+i
+
+r
+e
+d
+i
+v
+o
+r
+P
+n
+o
+i
+t
+u
+o
+S
+
+l
+
+Claim
+
+Direct
+
+Shipper claims LETS 
+directly generated by 
+a carrier
+
+Does not 
+Apply
+
+Applies
+
+LETS profile included in 
+shipper inventory within 
+24 months of the year of 
+booking of LETS profile
+
+The LETS may or may not reflect 
+decarbonization already required by law. 
+The shipper is encouraged to clarify with 
+the booking carrier or LSP whether or not 
+the LETS is additional.
+
+Claim
+
+Indirect
+
+Shipper claims LETS 
+indirectly generated 
+by an LSP or carrier 
+(including Carrier 
+Claim and Rebook 
+LETS), or claims the 
+profile of a solution 
+from a solution
+provider
+
+Applies
+
+Applies
+
+LETS profile included in 
+shipper inventory within 
+24 months of the year of 
+booking of LETS profile
+
+–
+
+Book
+
+Indirect
+
+Solution provider 
+books the profile of 
+a low emission solution
+
+Applies
+
+Applies
+
+Solution profile booked 
+within 12 months of 
+production13 of solution
+
+–
+
+Provide
+
+Direct
+
+Solution provider 
+provides a solution to 
+a carrier that directly 
+generates a LETS 
+using the solution
+
+Does not 
+Apply
+
+Applies
+
+Not applicable
+
+The LETS may or may not reflect 
+decarbonization already required by law. 
+The carrier is encouraged to clarify with 
+the solution provider whether or not the 
+solution is additional.
+
+13 “Production,” as defined here, will vary by solution type. For fuels, “production” may be the date on which the fuel was tested as conformant with fuel quality 
+and safety standards for its intended use.
+
+ 
+ 
+ 
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 12
+
+40
+
+Calculating the 
+emission profile 
+of solutions and 
+low emission 
+transportation 
+services
+
+10
+
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 12
+
+41
+
+Calculating the emission profile of 
+solutions and low emission transportation 
+services
+
+Users of book and claim chain of custody systems to facilitate transportation decarbonization 
+must be able to calculate and disclose the GHG emission profile of LETS. If an organization 
+cannot calculate its GHG footprint based on the emission profile of a LETS, that organization has 
+less incentive to pay extra for the LETS.
+
+An organization can determine the GHG emission profile of a LETS or solution, as applied to their 
+organization, by following three steps: 
+
+1  Determine the organization’s mode-specific transport activity. 
+
+2  Determine the energy consumption or emission intensity associated with the mode-specific  
+
+transport activity.
+
+3  Apply the GHG emission factor or emission intensity of a solution or LETS to the organization’s  
+
+transport activity for each mode.
+
+Organizations can use several metrics to conduct these three steps, principally, transportation 
+activity, energy intensity, GHG emission intensity, and GHG emissions factors.
+
+Transportation activity
+
+Transportation activity is the product of the amount of freight14 transported and the distance that 
+freight was transported:
+
+Freight Transport Activity = Amount of Freight Transported × Distance that Freight was Transported
+
+Freight transportation activity is often quantified in terms of mass multiplied by distance, such as 
+tonne kilometers (tonne km). In specific circumstances, transport activity may also be quantified 
+in terms of volume multiplied by distance, such as twenty foot equivalent unit (TEU) km.
+
+Energy intensity
+
+Energy intensity is the amount of energy consumed in conducting a certain amount of 
+transport activity:
+
+Energy Intensity =
+
+ Amount of Energy  
+ Transport Activity 
+
+14   This framework focuses principally on freight. However, transportation activity can also be calculated for passenger transportation (e.g., passenger 
+kilometers). A passenger specific example is also provided accordingly.
+
+ 
+ 
+ 
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 10
+
+42
+
+GHG emission intensity
+
+GHG emission intensity is the amount of GHG emissions generated for a certain amount of 
+transport activity.
+
+Greenhouse Gas Emission Intensity =
+
+Mass of Greenhouse Gases Emitted
+Transport Activity
+
+GHG emission factor
+
+The emission factor of an energy source is the mass of GHG emitted per unit of energy15:
+
+Emission Factor of Energy =
+
+Mass of Greenhouse Gases Emitted
+Unit of Energy
+
+As described in the GLEC Framework: 
+
+• Emission factors must incorporate emissions resulting from all United Nations Framework   
+  Convention on Climate Change Kyoto Protocol GHGs (currently, CO2, methane (CH4), nitrous  
+  oxide (N2O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), sulphur hexafluoride (SF6),  
+  and nitrogen trifluoride (NF3))16. Emission factors must be expressed in units of carbon dioxide  
+  equivalent (CO2e). 
+
+• The boundary for calculating GHG emission factors must include emissions associated with  
+  the entire life cycle of the production and use of an energy source.
+
+Examples of how to apply these metrics in calculating the emission profile of a LETS or solution 
+are included below.
+
+15  Examples of “units of energy,” as described here, include mass or volume of fuel.
+16  Global Warming Potential (GWP) is a factor to convert from the mass of a non-CO2 gas released to the atmosphere and the equivalent mass of CO2. When 
+calculating CO2 equivalents: 1. The source of the GWP (e.g., which Intergovernmental Panel on Climate Change Assessment Report) must be clearly stated and 
+consistently used; 2. One hundred year GWPs (not including climate-carbon feedback) are recommended; 3. An explanation for deviations from the use of one 
+hundred year GWPs must be provided.
+
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 10
+
+43
+
+Example: Low Emission Marine Fuel 
+and Ocean Freight Transportation
+
+A shipper wants to apply the GHG emission profile of a low emission marine fuel towards the 
+organization’s ocean freight transportation footprint. A fuel supplier offers to sell the shipper the 
+emission profile of a low emission marine fuel. The low emission marine fuel has a GHG emission 
+factor of 0.400 kg CO2e/kg fuel.
+
+Step 1
+
+The shipper calculates its ocean freight transport activity for an emission reporting period 
+according to the steps described in the GLEC Framework. The shipper was responsible for 
+5,000,000 TEU km of ocean freight transport activity.
+
+Step 2
+
+The shipper does not have primary data to determine the amount of fuel consumed for each TEU 
+km of ocean transport activity conducted on its behalf.
+
+The shipper does, however, have global average ocean container transport emission intensity 
+information published through the Clean Cargo program. That intensity is 0.0664 kg CO2e/TEU km.
+
+The shipper does not know the combination of fuel types that were used by carriers whose data 
+led to the 0.0664 kg CO2e/TEU km intensity. However, the shipper is aware that most of its ocean 
+cargo is carried in vessels burning marine gas oil (MGO). The GLEC Framework shows an average 
+emission factor for MGO of 3.92 kg CO2e/kg fuel.
+
+The shipper calculates a fuel consumption factor of 0.01694 kg fuel/TEU km:
+
+0.0664
+
+3.92
+
+kg CO2 e 
+/
+kg CO2 e 
+/
+
+TEU km
+
+=
+
+0.01694
+
+kg fuel
+
+/
+
+TEU km
+
+kg fuel
+
+The shipper was responsible for approximately 84,700 kg MGO consumption during the 
+reporting period:
+
+0.01694
+
+kg fuel/
+
+TEU km
+
+× 5,000,000 TEU km = 84,694 kg MGO
+
+ 
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 10
+
+44
+
+The gravimetric energy density (mega joule (MJ) energy per kg fuel) of MGO, however, is 5% 
+higher than the gravimetric energy density of the low emission fuel. As such, the shipper would 
+need to burn a greater mass of the low emission fuel than MGO to conduct the same amount of 
+transportation activity. The shipper would be responsible for 88,929 kg of low emission fuel during 
+the reporting period:
+
+84,694 kg MGO × 105% = 88,929 kg low emission fuel
+
+Step 3
+
+The shipper wants to apply use of low emission fuel towards the shipper’s entire ocean freight 
+emissions for the reporting period. As such, the shipper purchases the GHG emission profile 
+associated with 88,929 kg of low emission fuel from the fuel provider.
+
+The shipper’s ocean freight emission footprint for the reporting period is 35,571 kg CO2e.
+
+88,929 kg fuel × 0.400
+
+kg CO2 e /
+
+kg fuel
+
+= 35,571 kg CO2e
+
+Constraints
+
+This is an indirect generation claim scenario. The shipper does not know where the low emission 
+marine fuel will be consumed, or the actual transportation activity conducted with that fuel.
+
+The shipper claimed the emission profile of a solution from a solution provider. The solution may 
+not have been applied anywhere in the shipper’s contracted marine transportation supply chain.
+
+As such: 
+
+• The shipper must consider the additionality of the marine fuel whose profile the shipper  
+  purchased (additionality constraint). 
+
+• The shipper may only apply the emission profile of the fuel only to the shipper’s marine  
+  transportation emission footprint (modal constraint).
+
+• The solution provider (i.e., the fuel provider) may not book the emission profile of the fuel    
+  that was allocated to the shipper for claiming by another customer (controls to avoid double  
+  counting, see Section 11).
+
+ 
+ 
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 10
+
+45
+
+Example: Low Emission Aviation Fuel 
+and Air Passenger Transportation
+
+An organization wants to apply the emission profile of a low emission aviation fuel towards 
+the organization’s business air travel footprint. A fuel supplier offers to sell the organization 
+the emission profile of a Fischer-Tropsch processed agricultural residue aviation fuel with a life 
+cycle emission factor of 0.33 kg CO2e/kg fuel.
+
+Step 1
+
+The organization calculates its transport activity at 1,000,000 passenger km (pkm) on regional 
+aircraft, 4,000,000 pkm on narrow body aircraft, and 2,000,000 pkm on wide body aircraft.
+
+Step 2
+
+The organization has been provided a fuel consumption intensity factor of 0.05 kg fuel/pkm 
+by its regional air carrier. The organization’s other air carriers do not provide fuel consumption 
+intensity to the organization. As such, the organization calculates narrow and wide body fuel 
+consumption intensities of 0.026 kg fuel/pkm (narrow body) and 0.027 kg fuel/pkm (wide body) 
+based on International Council on Clean Transportation data (9).
+
+The organization was responsible for 208,000 kg of fuel consumption during the 
+reporting period:
+
+(1,000,000 pkm)   0.05
+
+(
+
+kg fuel 
+
+/
+
+)
+
+pkm
+
++ (4,000,000 pkm)
+
+(
+
+Step 3
+
+kg fuel 
+
+0.026 
+
+)
+
+pkm
+
++ (2,000,000)
+
+(
+
+/
+
+kg fuel 
+
+0.027 
+
+pkm/
+
+)
+
+= 208,000 kg fuel
+
+The organization decides to apply use of low emission aviation fuel towards only a portion of 
+the organization’s air freight emissions and purchases the emission profile associated with 
+100,000 kg of low emission fuel from the fuel supplier. The low emission fuel has an energy 
+content comparable to that of conventional aviation fuel and, as such, one unit mass of the 
+low emission fuel can be treated as generating the same propulsive force in a jet engine as 
+one unit mass of conventional aviation fuel. Emissions associated with the remaining fuel can 
+be calculated using the conventional aviation fuel life cycle emission factor of 3.891 kg CO2e/
+kg fuel. The organization’s air passenger GHG emission footprint for the reporting period was 
+453,228 kg CO2e:
+
+(100,000 kg fuel)   0.33
+
+(
+
+kg CO2e
+/
+
+kg fuel 
+
+)
+
++ (208,000 kg fuel – 100,000 kg fuel) 
+
+(
+
+3.891
+
+kg CO2e
+/
+
+kg fuel 
+
+)
+
+= 453,228 kg CO2e
+
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 10
+
+46
+
+Constraints
+
+This is an indirect generation claim scenario. The claiming organization does not know where the low 
+emission aviation fuel will be consumed, or the actual transportation activity conducted with that fuel.
+
+Instead, the organization claimed the emission profile of a solution from a solution provider. The solution 
+may have not been applied anywhere in the claiming organization’s business travel supply chain.
+
+As such: 
+
+• The organization must consider the additionality of the aviation fuel whose profile it  
+  purchased (additionality constraint). 
+
+• The organization must apply the emission profile of the fuel only to the organization’s air  
+  transportation emission footprint (modal constraint).
+
+• The solution provider (i.e., the fuel provider) may not book the emission profile of the fuel    
+  that was allocated to the organization with a business travel footprint for claiming by another  
+  customer (controls to avoid double counting, see Section 11).
+
+Example: Electrification of Road Transportation
+
+A shipper wants to apply the emission profile from the use of electric trucks for road transportation 
+towards the organization’s road freight footprint. The shipper procures truck transportation services 
+through an LSP.
+
+The shipper’s LSP contracts for road transportation with many carriers, some of whom operate 
+electric trucks.
+
+Step 1
+
+The shipper is responsible for 8,000,000 tonne km of road transport activity over the reporting period. 
+The LSP contracts for 1,000,000,000 tonne km of road transport activity over the reporting period, 
+15,000,000 tonne km of which is conducted by electric trucks.
+
+Step 2
+
+Energy as electricity is not converted to transport activity in an electric motor by the same means 
+that energy as diesel fuel is converted to transport activity in an internal combustion engine. Stated 
+differently, a mass of diesel fuel with an energy content of one MJ cannot be assumed to generate 
+the same propulsive energy in an internal combustion engine that one MJ of electricity generates in 
+an electric motor. As such, energy consumption in the form of diesel burned in internal combustion 
+engines needs to be expressed in terms comparable to electricity consumed in electric motors. 
+Emission intensity can be used to enable this comparison across propulsion technologies.
+
+The LSP collects data from its electric truck-operating carriers that shows that the GHG emission 
+intensity of its 15,000,000 tonne km of contracted electric trucking activity for the reporting period is 
+0.080 kg CO2e/tonne km (this emission intensity was reported by the carriers based on the principles in 
+the Greenhouse Gas Protocol Scope 2 Guidance for purchased electricity).
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 10
+
+47
+
+The shipper determines that the overall average emission intensity for its road transportation footprint, 
+as described in the GLEC Framework, is 0.150 kg CO2e/tonne km.
+
+Step 3
+
+The LSP has booked 15,000,000 tonne km of a road LETS at 0.080 kg CO2e/tonne km.
+
+The shipper decides to apply use of the electric trucks towards only a portion of the organization’s road 
+freight emissions and claims 5,000,000 tonne km of its LSP’s 15,000,000 tonne km electric truck LETS 
+from the LSP (leaving 10,000,000 tonne km of electric truck LETS remaining in the LSP’s books).
+
+The shipper’s road transportation emission footprint for the reporting period is 850,000 kgCO2e:
+
+(
+
+0.080
+
+kg CO2e
+/
+
+tonne km
+
+)
+
+(5,000,000 tonne km) +   0.150 
+
+(
+
+kg CO2e
+/
+
+tonne km
+
+)
+
+(8,000,000 tonne km –  5,000,000 tonne km) = 850,000 kg CO2e 
+
+Constraints
+
+This is a direct generation booking scenario for the carriers, a direct claim and rebook scenario 
+for the LSP, and a direct claim scenario for the shipper.
+
+The carriers are generating an electric truck LETS by applying a solution (electric trucks) within 
+their owned-operated fleets.
+
+The LSP is claiming an electric truck LETS directly generated by carriers in the LSP’s contracted 
+carrier network. The LSP has information from its carriers regarding the emission intensity of 
+the electric trucking activity actually conducted in association with the LETS.
+
+The shipper is claiming an electric truck LETS that has been claimed from a carrier by the LSP 
+and rebooked by the LSP for claiming by the LSP’s customers.
+
+As such: 
+
+• An additionality assessment is not required. The electric trucking LETS was directly generated 
+  in this carrier-LSP-shipper network (additionality constraint). 
+
+• Neither the LSP nor the shipper may apply the electric trucking LETS emission intensity  
+  towards transportation activity in non-road modes of transport (modal constraint).
+
+• Neither the electric trucking carriers nor the LSP may book the emission profile of the electric  
+  trucking activity that was allocated to the shipper for claiming by another customer (controls  
+  to avoid double counting, see Section 11).
+
+ 
+  
+ 
+ 
+ 
+ 
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 12
+
+48
+
+Booking and 
+claiming without 
+erroneous 
+double counting
+
+11
+
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 11
+
+49
+
+Booking and claiming without 
+erroneous double counting
+
+Proper booking and claiming of the emission profiles of solutions and LETS is necessary to 
+avoid erroneous double counting. Double counting is defined here as two or more reporting 
+companies taking ownership of the same GHG emissions or emission profile (7).
+
+Not all double counting is erroneous. Because one organization’s direct emissions are often 
+indirect emissions for another organization, there are two facets of the emissions associated 
+with transport activity: 
+
+1  The “emitter’s emissions,” or the emissions as they apply for the carrier conducting the  
+
+transport activity. 
+
+2  The “supply chain” emissions, or the emissions as they apply for the organization on whose  
+  behalf the transport activity was conducted.
+
+While counting both emitter’s emissions and supply chain emissions separately may be 
+appropriate, LETS are bound by mode (or TOC)-specific transportation activity. Allocating the 
+GHG emission profile of a LETS to more transportation activity than was conducted in that LETS 
+will result in erroneous double counting of the emission profile of the LETS. That is, a solution 
+used to either directly or indirectly generate a LETS generates a transport activity limited LETS.
+
+Figure 7. Emitter’s emissions, supply chain emissions, emitter 
+emission profiles, and supply chain emission profiles
+
+The emitter emissions and the supply chain emissions are the same emissions. They are accounted for separately.
+
+Emissions
+
+Emissions
+
+Emitter
+Emissions
+
+Supply Chain
+Emissions
+
+Emitter’s emissions include emissions generated during 
+combustion of fuel (if any) and upstream emissions 
+associated with fuel distribution and production (if any).
+
+GHG accounting principles treat the emitter’s emissions and the supply 
+chain emissions as two versions of the same thing.
+
+Emissions Proﬁle
+
+Emitter Proﬁle
+
+Supply Chain Proﬁle
+
+This accounting principle can also be applied to the emission proﬁle of 
+solutions and LETS. The emitter proﬁle of a solution or a LETS can be tracked 
+separately from the supply chain proﬁle of the solution or LETS.
+
+ 
+ 
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 11
+
+50
+
+Principles to avoid incorrect double counting
+
+Controls on who can book and who can claim can be a useful tool to avoid erroneous 
+double counting.
+
+Solution 
+providers
+
+Solution providers may book the profile of solutions:
+
+• Bundled. In a bundled booking, the solution provider books the profile of the solution  
+  associated with the emitter’s emissions together with the profile of the solution associated  
+  with the supply chain emissions. 
+
+• Unbundled. In an unbundled booking, the solution provider books the profile of the solution  
+  associated with the emitter’s emissions separately from the characteristics of the solution   
+  associated with the supply chain emissions.
+
+The solution provider must clearly distinguish between bundled and unbundled solutions when 
+booking solutions.
+
+Solution providers may book bundled emission profiles for claiming directly by shippers or 
+forwarders, without the booking going through a carrier.
+
+Solution providers may allow a shipper or an LSP to claim the supply chain profile of an 
+unbundled booking even if the solution provider does not have a carrier arranged to purchase 
+the emitter profile of the unbundled booking. In these circumstances, the solution provider 
+may either:
+
+• Allow a carrier to claim the emitter profile associated with the supply chain profile that has   
+  already been claimed by the shipper or LSP, if a carrier is found to claim the emitter profile  
+  within 12 months of the claim of the supply chain profile. 
+
+• Retire the emitter profile without the emitter profile being claimed by a carrier. Any unclaimed  
+  emitter profiles that are retired by a solution provider must be documented by the solution   
+  provider. Retired emitter profiles must be traceable.
+
+See Figures 8-13.
+
+Unbundling can increase the risk of double counting if a carrier that has not purchased the 
+rights to the supply chain emission profile were to: 
+
+1  Unknowingly book a LETS 
+
+2  Report a lower emitter profile and customers with direct data access (e.g. supplier  
+  engagement programs) were to then claim associated scope 3 reductions.
+
+This risk is acknowledged and possible mitigation approaches are presented in the subsequent 
+section “Declaring Different GHG Emission Information To Different Stakeholders”.  The extent 
+of the risk will depend on the effectiveness of the book and claim registries that are in place.
+
+ 
+ 
+ 
+ 
+ 
+ 
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 11
+
+51
+
+Carriers
+
+Carriers can book a direct generation LETS only for the amount of transport activity they 
+conducted with the solution applied to generate the LETS.
+
+Carriers can book an indirect generation LETS only for the amount of transport activity they could 
+have conducted if the solution were applied to generate the LETS in their owned-operated fleet.
+
+If a carrier books a LETS and that LETS is claimed by another carrier, the booking carrier can no 
+longer disclose an emission profile based on the LETS that it booked.
+
+A carrier may claim the profile of either a bundled or unbundled solution from a solution provider.
+
+If the carrier claims the profile of a bundled solution (see Figure 8):
+
+• The carrier may report emissions based on that profile towards its own GHG emission footprint.
+
+• The carrier may book a LETS, either directly or indirectly, based on the profile of the solution.
+
+If the carrier claims the profile of an unbundled solution (see Figure 9):
+
+• The carrier may report emissions based on that profile towards its own GHG emission footprint.
+
+• The carrier may not book a LETS, either directly or indirectly, based on the profile of the solution.
+
+Figure 8. Bundled booking
+
+Emitter Proﬁle to Carrier Inventory
+
+Claim
+
+Emitter Proﬁle and 
+Supply Chain Proﬁle
+
+Emission Proﬁle 
+of LETS
+
+or
+
+Book
+
+Claim
+
+Book
+
+Claim
+
+A carrier claims a bundled booking from a solution provider. The carrier applies the emitter proﬁle of the solution to their own emission inventory, and 
+generates and books a LETS based on that proﬁle. A shipper or forwarder can then claim the proﬁle of the LETS from the carrier.
+
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 12
+
+52
+
+Figure 9. Unbundled booking
+
+Emitter Proﬁle to Carrier Inventory
+
+Emitter Proﬁle
+
+Claim
+
+or
+
+Retire
+
+A carrier claiming the emitter proﬁle of the  
+unbundled booking can apply the emitter proﬁle  
+to their own emission footprint. The carrier cannot   
+book a LETS based on that proﬁle for claiming by 
+a Shipper or Forwarder.
+
+If no carrier is found, the emitter proﬁle is retired 
+by the solution provider.
+
+Book
+
+Claim
+
+Supply Chain Proﬁle
+
+or
+
+A shipper or LSP can claim the supply chain  
+proﬁle fromthe solution provider.
+
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 11
+
+53
+
+LSP
+
+LSPs can book indirect generation LETS only for the amount of transport activity that their carriers 
+could have conducted if the solution were applied to generate the LETS by the LSP’s carriers. LSPs 
+can claim and rebook LETS only for the amount of transport activity directly or indirectly generated 
+by the carrier that generated the LETS.
+
+An LSP may claim the profile of either a bundled (see Figure 10) or unbundled (see Figure 11) solution 
+from a solution provider. If the LSP claims the profile of either a bundled or unbundled solution: 
+
+• The LSP may report emissions based on the solution’s profile towards its own GHG emission footprint. 
+
+• The LSP may indirectly generate and book a LETS based on the emission profile of the solution.
+
+Figure 10. Bundled booking
+
+Supply Chain Proﬁle to LSP Inventory
+
+Emitter Proﬁle and 
+Supply Chain Proﬁle
+
+Emission Proﬁle 
+of LETS
+
+Book
+
+Claim
+
+Book
+
+Claim
+
+An LSP claims a bundled booking from a solution provider. The LSP can apply the supply chain proﬁle to their own emission footprint and book a LETS 
+based on that proﬁle that is then claimed by a shipper.
+
+Figure 11. Unbundled booking
+
+Emitter Proﬁle
+
+Book
+
+Supply Chain Proﬁle
+
+Claim
+
+or
+
+Retire
+
+Claim
+
+A carrier claiming the emitter proﬁle of the unbundled 
+booking can apply the emitter proﬁle to their own emission
+footprint. The carrier cannot book a LETS based on that 
+proﬁle for claiming by a Shipper or Forwarder. 
+
+If no carrier is found, the emitter proﬁle is retired 
+by the solution provider. 
+
+Book
+
+Claim
+
+Emission Proﬁle of LETS
+
+Supply Chain Proﬁle 
+to LSP Inventory.
+
+An LSP claims the supply chain proﬁle of an 
+unbundled booking and applies that proﬁle to their 
+own emission footprint. The LSP generates a LETS 
+based on the solution proﬁle and books that proﬁle. 
+A shipper claims the LETS proﬁle from the LSP.
+
+ 
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 11
+
+54
+
+Shippers
+
+Shippers can claim LETS only for the amount of transport activity actually conducted to generate the 
+LETS or that could have been conducted by the shipper’s carriers or through the shipper’s LSPs.
+
+A shipper may claim the profile of either a bundled (see Figure 12) or unbundled (see Figure 13) 
+solution from a solution provider. If the shipper claims the profile of either a bundled or unbundled 
+solution, the shipper may report emissions based on the solution’s profile towards its own GHG 
+emission footprint.
+
+Figure 12. Bundled booking
+
+Emitter Proﬁle and 
+Supply Chain Proﬁle
+
+Book
+
+Claim
+
+A shipper claims the bundled booking from the solution provider and applies the solution proﬁle to their own emission footprint.
+
+Supply Chain Proﬁle to Shipper Inventory
+
+Figure 13. Unbundled booking
+
+Emitter Proﬁle
+
+Claim
+
+or
+
+Retire
+
+A carrier claiming the emitter proﬁle of the unbundled booking 
+can apply the emitter proﬁle to their own emission footprint. 
+The carrier cannot book a LETS based on that proﬁle for claiming 
+by a Shipper or Forwarder.
+
+If no carrier is found, the emitter proﬁle is retired by the 
+solution provider.
+
+Book
+
+Supply Chain Proﬁle
+
+Claim
+
+Supply Chain Proﬁle 
+to Shipper Inventory
+
+Shipper claims unbundled booking and applies the
+solution proﬁle to their own emission footprint.
+
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 11
+
+55
+
+Declaring different GHG emission information 
+to different stakeholders
+
+When an organization books the GHG emission profile of LETS and that profile is claimed by 
+another organization, the booking organization may need to report GHG emission intensity 
+information differently in their GLEC Declaration to External Stakeholders and in their GLEC 
+Business to Business Declarations (for more on these different types of declarations, see the 
+GLEC Framework (10))17.
+
+For example, Carrier A has two customers, Shipper 1 and Shipper 2. Carrier A generates a 
+LETS over the span of a reporting period. Carrier A books the emission profile of the LETS. 
+Shipper 1 claims the LETS emission profile. Shipper 2 does not claim any of the LETS emis-
+sion profile.
+
+When reporting on GHG emissions, Carrier A’s: 
+
+• GLEC Declaration to External Stakeholders, as captured in Carrier A’s annual sustainability  
+  report, will show an overall average transport emission intensity resulting from transport  
+  activity associated with the LETS as well as transport activity not associated with LETS. 
+
+• GLEC Business to Business Declaration to Shipper 1 will include a transport emission 
+  intensity that is lower than the emission intensity shown in Carrier A’s Declaration to  
+  External Stakeholders. The Declaration to Shipper 1 includes the effect of the LETS,  
+  and less of the effect of non LETS transport activity than is reflected in the Declaration to    
+  External Stakeholders. 
+
+• GLEC Business to Business Declaration to Shipper 2 will include a transport emission  
+  intensity that is higher than the emission intensity shown in Carrier A’s Declaration to  
+  External Stakeholders. The Declaration to Shipper 2 represents the emission intensity of  
+  transport activity not associated with the LETS.
+
+Because an organization may report different transport emission intensities in a GLEC 
+Declaration to External Stakeholders and in its GLEC Business to Business Declarations, 
+it is important for the reporting organization to be clear about the appropriate uses of the 
+intensity information provided in each type of declaration. As such, organizations that book 
+the emission profile of LETS for claiming by specific organizations (i.e., the profile of the 
+LETS is not provided to all of the booking organization’s customers equally) may include a 
+statement in their GLEC Declarations as follows.
+
+17  The framework described in this document builds on GHG emission calculations as described in the GLEC Framework. GHG emission reporting consistent with the GLEC 
+Framework (e.g., the GLEC Declaration to External Stakeholders and the GLEC Business to Business Declaration) continues to represent the foundation for organizational 
+freight GHG emission reporting. The GLEC Framework is supplemented, not replaced, by the principles provided in this document.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 11
+
+56
+
+Business to business declaration
+
+The GLEC Business to Business Declaration can include a statement that reads:
+
+“
+
+The greenhouse gas emission intensity information 
+presented here reflects calculations that account for allocation 
+of low emission transport activity to selected customers. 
+The emission intensity here applies to your organization 
+directly and may be different from emission intensity 
+information in other public or general reporting. Please use 
+the greenhouse gas emission intensity information 
+presented here for transportation activity associated with our 
+organization in your greenhouse gas emission calculations.
+
+“
+
+Declaration to external stakeholders
+
+One approach to transparency about use of GHG emission intensity information provided 
+in external stakeholder declarations is to clarify that the average intensity is not meant for 
+organization-specific use. For example:
+
+“
+
+The greenhouse gas emission intensity information presented 
+here reflects calculations that account for allocation of 
+low emission transport activity to selected customers. The 
+emission intensity presented here is therefore not appropriate 
+for use in customer specific greenhouse gas emission 
+calculations. Customers are encouraged to contact us 
+directly for information on the emission intensity appropriate 
+for use in their greenhouse gas emission calculations for 
+transportation activity associated with our organization.
+
+“
+
+ 
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 11
+
+57
+
+Another approach to transparency about the use of emission intensity information provided 
+in external stakeholder declarations is to clarify that the average intensity is not meant for 
+organization-specific use and to provide an alternative emission intensity. For example:
+
+“
+
+The greenhouse gas emission intensity information 
+presented here reflects calculations that account for 
+allocation of low emission transport activity to selected 
+customers. The emission intensity presented here is 
+therefore not appropriate for use in customer specific 
+greenhouse gas emission calculations. Unless we have 
+provided your organization directly with greenhouse gas 
+emission intensity information, please assume a 
+greenhouse gas emission intensity of [insert emission 
+intensity] for transportation activity associated with our 
+organization in your greenhouse gas emission calculations.
+
+“
+
+Additional considerations regarding 
+GHG emission information declarations
+
+Third party verifiers of emission declarations are encouraged to assess these declarations to 
+ensure that the declarations are transparent, not only in situations where a booking organization 
+must report GHG emission intensity information differently in their GLEC Declaration to External 
+Stakeholders and in their GLEC Business to Business Declarations, but also with respect to 
+transparency about additionality of solutions. See, in particular, the section regarding additionality 
+and cross modal opt-in schemes in Section 6.
+
+Determining the emission profile of non LETS activity
+
+Organizations that report different GHG emission profiles to different stakeholders may need to 
+calculate emission information for transportation activity that: 
+
+• Includes the effect of LETS for some stakeholders. 
+
+• Does not include the effect of LETS for other stakeholders.
+
+The section above on calculating the emission profile of a LETS provides steps to determine GHG 
+emission information for transportation activity associated with LETS. Emission information for 
+transportation activity not associated with LETS can be calculated based on two approaches, one 
+using primary data and the other using secondary data18. As described in the GLEC Framework, 
+the use of primary data is preferred over the use of secondary data wherever practicable.
+
+18  As used here, the term “secondary data” includes either modelled or default emission intensity values for the non-LETS transport activity.
+
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 11
+
+58
+
+Primary data
+
+Some organizations may have primary data to use in calculating emission information to provide 
+to customers that have not claimed the emission profile of a LETS.
+
+For example, an ocean container carrier operates most of its fleet on MGO and purchases low 
+emission marine fuel for a selection of voyages. The carrier books the LETS generated through 
+the use of the low emission marine fuel and a selection of specific shippers and LSPs claim the 
+profile of the LETS. The carrier needs to report on its emission intensity to other customers who 
+did not claim the profile of the LETS.
+
+The carrier may use actual data on voyages not associated with the LETS to determine the 
+emission profile of its non-LETS transportation. This emission profile can be provided to 
+customers that did not claim the LETS emission profiles.
+
+Secondary data
+
+Many organizations may not know the actual emission profile of transportation activity not 
+conducted in association with a LETS. These organizations can use secondary information for 
+the activity most likely replaced by the LETS.
+
+For example, an LSP is responsible for securing 10,000,000 tonne km of road freight 
+transportation activity for its customers. The LSP purchases the GHG emission profile for 
+1,000,000 tonne km of electric truck LETS and calculates and allocates the emission profile of 
+the electric trucking as described in Section 10 above.
+
+The LSP does not have carrier data for the remaining 9,000,000 tonne km of transportation 
+activity. The LSP assigns the appropriate emission intensities from the GLEC Framework to this 
+9,000,000 tonne km of transport activity.
+
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 12
+
+59
+
+Conclusion
+
+12
+
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 12
+
+60
+
+Conclusion
+
+The challenge of decarbonizing heavy transportation is not an easy one to overcome. 
+However, this challenge must be overcome if organizations with heavy transportation 
+GHG emission footprints are to contribute meaningfully to the rapid acceleration of 
+decarbonization required for the achievement of global climate goals. Heavy transport 
+decarbonization can be accelerated by mechanisms to share the cost of decarbonization 
+across LSPs, shippers, and carriers and by mechanisms that increase access to LETS for 
+LSPs, shippers, and carriers.
+
+Cost sharing and increased access can be enabled by a framework that: 
+
+• Permits a purchaser of freight transportation services to contribute to and report the benefits from   
+LETS, even if those LETS do not directly involve the transportation assets that physically transport    
+their freight.
+
+• Permits a provider of freight transportation services or a provider of a low emission transportation   
+  solution to allocate the emission profile of the solution or LETS to the organizations that contribute  
+  to the emission abatement cost, even if those organizations’ freight is not always transported  
+  using the LETS or solution.
+
+• Is consistent with established freight transportation GHG accounting methods.
+
+This document describes a framework based on a book and claim chain of custody approach to 
+meet these needs.
+
+While the framework outlined here can help facilitate transport decarbonization, this framework 
+is only one of a many tools to bring decarbonized heavy transportation to scale. Different tools 
+and requirements address other pieces of the voluntary freight decarbonization challenge. And 
+of course, beyond voluntary action, robust regulatory requirements for heavy transportation 
+decarbonization can create a level playing field for carriers generating LETS and reduce the need for 
+reliance on voluntary collaboration schemes to avoid the worst impacts of climate change.
+
+It also bears noting that this framework, like other tools to scale freight transportation 
+decarbonization, will likely evolve as it is implemented by organizations and as the framework’s 
+strengths and weaknesses are revealed in practice.
+
+The need for freight transportation decarbonization is hard to dispute. The barriers to achieving this 
+decarbonization are real but they are not insurmountable. There is no time to waste. The remaining 
+carbon budget for a 1.5°C world is quickly dwindling and “now is the only time there ever is to do a 
+thing” (11).
+
+ 
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Section 12
+
+61
+
+Annexes
+
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Annexes
+
+62
+
+Annex 1 
+Applying the framework 
+to the mail and parcel sector
+
+The GLEC Framework identifies the mail and parcel sector as a sector that warrants special 
+guidance regarding GHG emission inventory calculations. Unique characteristics of the mail 
+and parcel sector, as described in the GLEC Framework, are also relevant to the accounting 
+framework outlined in this document.
+
+For example, in mail and parcel networks, there are a large number of individual shipments, 
+many of these shipments being small volume consignments. A dynamic mix of modes and 
+routes is applied to transport these individual consignments from their point of origin to their final 
+destination. As such, it is not always possible to: 
+
+• Predict which route (and the mix of modes to be used on that route) an individual consignment  
+  will take through a mail and parcel network.
+
+• Determine, after a shipment has occurred, which route an individual consignment actually took  
+  through a mail and parcel network.
+
+Because of these characteristics of mail and parcel networks, it is often not practicable to 
+calculate mail and parcel transport activity as defined in Section 10 (i.e., mass or volume of freight 
+multiplied by the distance that mass or volume of freight was transported).
+
+Instead, the GLEC Framework outlines a process for calculating mail and parcel GHG emissions 
+based on the number of consignments (items) processed through a mail and parcel network. 
+Under the GLEC Framework, the emissions associated with a specific shipment are calculated 
+by dividing the total mail and parcel network emissions by the total number of items processed 
+through the network during a defined period of time.
+
+The example in this Annex describes a way of applying the GHG emission calculation methods 
+outlined in Section 10 to a mail and parcel network, considering the GLEC Framework approach 
+to mail and parcel networks.
+
+Example: Biogas and Heat Pumps in a Mail and Parcel Network
+
+A mail and parcel network operator wants to apply the emission profile of heat pumps powered 
+by renewable electricity and trucks powered by biogas towards the emission footprint of letters 
+processed through the operator’s sorting facilities and road transport operations on behalf of a 
+specific shipper.
+
+Step 1
+
+The mail and parcel network operator transported one billion letters during a one-year emission 
+reporting period.
+
+The shipper (i.e., the shipper whose letters will be allocated the emission profile of the heat pumps 
+and biogas) shipped ten million letters19 through the mail and parcel network operator’s network 
+during the one-year emission reporting period.
+
+19  Provided that the shipper only used the mail and parcel network operator described in this example, ten million letters 
+serves as the equivalent of the mail and parcel transport activity constraint for this shipper during the reporting period.
+
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Annexes
+
+63
+
+Step 2
+
+While mail and parcel tracking technologies are rapidly improving, the mail and parcel network 
+operator does not yet have the ability to calculate item-level emissions based on the characteristics 
+of a specific shipment.
+
+Instead, the mail and parcel network operator calculates its total network GHG emissions for the 
+reporting period based on primary data collected from the operator’s activities. The total network 
+emissions for the reporting period are 500,000,000 kg CO2e. Spread across ten billion shipments, 
+this emission footprint equates to 50 g CO2e per shipment:
+
+500,000,000 kg CO2e
+
+10,000,000,000 Shipments
+
+50=
+
+g CO2e/
+
+Item
+
+This 50 g CO2e per item emission intensity is based on an emission footprint (500,000,000 kg 
+CO2e) that does not include biogas trucking or heat pump utilization. That is, the emission intensity 
+represents operations before the mail and parcel network operator applied the biogas and heat 
+pump solutions in its network. In subsequent reporting periods, the “baseline” emission footprint 
+used to calculate the per shipment emission intensity:
+
+• Will not change based on the influence of biogas trucking or renewable electricity heat pumps  
+  in logistics sites. The “baseline” emission footprint will be calculated as if the biogas trucks were 
+  operated as conventional fuel trucks, and as if logistics sites heating was provided by conventional  
+  heating systems. 
+
+• May change as general efficiency or other variables in the mail and parcel network operator’s 
+  network change. For example, if changes in asset utilization, asset routing, or modal mix impact  
+  the overall emission intensity of the mail and parcel network’s operations, this impact will be 
+  reflected in a revised baseline for each reporting period.
+
+The mail and parcel network operator has determined that the 50 g CO2e per item emission 
+intensity, as it applies to the shipper, is associated with two modes of transport as follows: 
+
+• 40 g CO2e per item from road transport 
+
+• 10 g CO2e per item from logistics sites20 
+
+As such, the shipper’s mode-specific21 emission footprints for the reporting period 
+are as follows:
+
+10,000,000 Items ×
+
+40 g CO2e
+
+/
+
+Item Road
+
+= 400,000 kg CO2e Road
+
+10,000,000 Items ×
+
+10 g CO2e
+
+/
+
+Item Logistics  Sites
+
+= 100,000 CO2e Logistics Sites
+
+  20  These emissions are comprised entirely of emissions associated with heating the logistics sites.
+  21  TOC-specific emissions could also be applied, if available. See Section 7.
+
+ 
+ 
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Annexes
+
+64
+
+These emission footprints may be converted to a mass or volume of energy based on GHG 
+emission factors22. The shipper’s share of energy consumption in the mail and parcel network 
+operator’s network is 126,183 L of diesel and 416,667 kWh of natural gas:
+
+400,000,kg CO2e Road
+/
+
+CO2e
+
+L Diesel
+
+3.17 kg
+
+100,000 kg CO2e Logistics Sites
+/
+CO2e
+
+0.24 kg
+
+kWh Natural Gas
+
+=  126,183 L Diesel
+
+= 416,667 kWh Natural Gas
+
+These shares of energy consumption can be converted to a number of mode-specific assets:
+
+• 126,183 L of diesel equates to seven diesel truck-years. This calculation is based on data    
+  collected by the mail and parcel network operator on their network that shows each truck in 
+  the network traveling an average of 58,909 km each year, and each truck consuming an  
+  average of 0.306 L diesel per km23.
+
+58,909
+
+km
+
+/
+
+Truck Year
+
+× 0.306 L Diesel
+
+/
+
+km
+
+= 18,026
+
+L Diesel
+
+/
+
+Truck Year
+
+126,183 L Diesel
+
+18,026
+
+L Diesel
+
+/
+
+Truck Year
+
+=  7 Truck Year
+
+• 416,667 kWh of natural gas equates to 15 logistics site-years of heating capacity, based
+  on data collected by the mail and parcel network operator on their network that shows each  
+  logistics site consumes an average of 27,000 kWh of heating energy per year.
+
+416,667 kWh
+
+          kWh Heating Energy
+27,000
+
+/
+
+Site Year
+
+= 15 Site Years
+
+22  The appropriate emission factor to apply in these calculations could be taken from the GLEC Framework.
+23  The averages applied in these calculations must be realistic representations of the mail and parcel network into which the low 
+emissions assets or activities are introduced.
+
+ 
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Annexes
+
+65
+
+Step 3
+
+The mail and parcel network operator replaces seven diesel trucks with biogas trucks and 
+replaces gas heating units at 15 logistics sites with heat pumps powered by renewable electricity.
+
+The mail and parcel network operator’s fuel utilization data shows that the biogas trucks emit 
+a total of 60,000 kg CO2e over the reporting period. These emissions equate to 15% of the 
+emissions from the diesel trucks that the biogas trucks replaced:
+
+18,026
+
+L Diesel
+
+/
+
+Truck Year
+
+× 3.17 kg CO2e
+/
+
+L Diesel
+
+× 7 Trucks = 399,997 kg CO2e
+
+60,000 kg CO2e
+
+399,997 kg CO2e 
+
+= 15%
+
+Use of the heat pumps is associated with 5,900 kg CO2e over the reporting period, or 6% of 
+the emissions generated by the natural gas-consuming heating units that the heat pumps 
+replaced (the heat pumps are powered by renewable electricity with an emission factor of 
+14.1 g CO2e per kWh):
+
+27,000
+
+kWh
+
+/
+
+Site Year
+
+× 0.24 kg CO2e
+/
+
+kWh Natural Gas
+
+×15 Sites = 97,200 kg CO2e
+
+5,900 kg CO2e
+
+97,200 kg CO2e 
+
+= 6%
+
+These emissions percentages can then be applied to the per shipment emission intensity 
+of the shipper:
+
+40g
+
+CO2e
+/
+
+Shipment Road
+
+× 15% = 6g CO2e
+/
+
+Shipment Road
+
+10g
+
+CO2e
+/
+
+Shipment Logistics Sites
+
++ 6% = 0.6g CO2e
+/
+
+Shipment Logistics Sites
+
+The shipper’s emission footprint is therefore 66,000,000 g CO2e:
+
+6g
+
+CO2e
+
+/
+
+Shipment Road
+
++ 
+
+0.6g CO2e
+/
+
+Shipment Logistics Sites
+
+=
+
+6.6g CO2e 
+/
+
+Shipment Total
+
+6.6g
+
+CO2e
+/
+
+Shipment Total
+
+× 10,000,000 Shipments = 66,000,000 g CO2e
+
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Annexes
+
+66
+
+Annex 2
+Glossary
+
+Additionality: A criterion for assessing whether 
+a solution or a low emission transportation 
+service are required by regulation.
+
+Energy Intensity: The amount of energy 
+consumed in conducting a certain amount of 
+transportation activity.
+
+Book: The process of recording the 
+characteristics of a solution or a low emission 
+transportation service in a system for tracking 
+these characteristics. A registry is an example of 
+such a system.
+
+Bundled Booking: A booking in which 
+a solution provider books two sets of 
+characteristics together with each other, the 
+emitter’s emission profile and the supply chain 
+emission profile.
+
+Carrier: An organization that operates 
+transportation assets to conduct transportation 
+activity in providing transportation services.
+
+Chain of Custody System: A set of measures 
+underlying the process by which materials or 
+products (and information on those materials 
+or products) are transferred, monitored, and 
+controlled as they move through each step in a 
+supply chain.
+
+Claim: The process of securing the 
+characteristics of a solution or a low emission 
+transportation service from a system for tracking 
+these characteristics. A registry is an example of 
+such a system.
+
+Direct Generation of a Low Emission 
+Transportation Service: Conducting a 
+transportation service using a low emission 
+solution, where a physical tie can be established 
+between the solution and the carrier generating 
+the low emission transportation service. That 
+is, the carrier generating the LETS actually uses 
+or deploys the low emission solution in that 
+carrier’s owned or operated fleet.
+
+Greenhouse Gas Emission Intensity: The 
+amount of greenhouse gas emissions generated 
+for a certain amount of transport activity.
+
+Greenhouse Gas Emission Factor: The mass 
+of greenhouse gasses emitted per unit of energy 
+consumed.
+
+Indirect Generation of a Low Emission 
+Transportation Service: Generation of a low 
+emission transportation service by a carrier, 
+shipper, or LSP that calculates the transportation 
+service’s emissions footprint as if a low emission 
+solution was used in their owned-operated fleet 
+(carriers) or by the carriers in their supply chain 
+(shippers and forwarders). In indirect generation 
+scenarios, a physical tie cannot be made 
+between a low emission solution and the low 
+emission transportation service.
+
+Logistics Service Provider (LSP): An 
+organization that secures and facilitates 
+transportation activity for shippers. LSPs, 
+as defined here, do not operate their own 
+transportation assets or conduct transportation 
+activity. Instead, LSPs hire carriers to transport 
+the LSPs’ customers’ freight. Note that some 
+LSPs operate transportation assets. In these 
+cases, the LSP would also be a carrier.
+
+Product: An article or substance that is 
+manufactured or refined for sale. A fuel is an 
+example of a product.
+
+Registry: A tool to register and track the transfer 
+of the characteristics of a solution or service 
+according to a transparent and verifiable registry 
+standard.
+
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Annexes
+
+67
+
+Service: A piece of work done for a client or 
+customer that does not involve manufacturing 
+or producing goods. Transporting freight, or 
+arranging the transportation of freight, are 
+examples of services.
+
+Shipper: An organization with freight that 
+needs transportation. A shipper may retain 
+a logistics service provider to arrange 
+transportation of the shipper’s freight. A shipper 
+may also directly contract with carriers for 
+freight transportation activity.
+
+Solution: A product to decarbonize heavy 
+transport. One example of a solution is a low 
+emission fuel. Another example of a solution 
+is a low emission transportation asset like an 
+electric truck.
+
+Solution Provider: An organization that 
+provides a low emission material or product to 
+the transportation market. Solution providers 
+do not conduct transportation activity, nor 
+do they contract for transportation activity on 
+behalf of their customers. Instead, solution 
+providers provide the materials or assets that 
+make a low emission transportation service 
+possible. One example of a solution provider is 
+a supplier of a low emission fuel.
+
+Sustainability Certification System: A tool 
+to establish and track the sustainability profile 
+of a fuel (including the fuel’s greenhouse gas 
+emission factor).
+
+Transportation Activity: The product of the 
+amount of freight transported and the distance 
+that freight was transported.
+
+Transportation Operation Category (TOC): A 
+group of transportation operations with similar 
+characteristics (e.g., transportation asset type 
+and size, load factor, or geography of operation) 
+that correspond to how transportation services 
+are provided and procured.
+
+Transportation Service: A certain amount of 
+mode-specific (or transport operation category-
+specific) transportation activity.
+
+Unbundled Booking: A booking in which a 
+solution provider books the emitter profile of 
+a solution and the supply chain profile of that 
+solution separately.
+
+Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting | Annexes
+
+68
+
+Annex 3
+References
+
+1. ITF. ITF Transport Outlook 2021. Paris: 
+OECD Publishing, 2021.
+
+2. Energy Transitions Commission. Mission 
+Possible: Reaching Net-Zero Carbon Emissions 
+from Harder-to-Abate Sectors by Mid-Century. 
+2018.
+
+3. World Economic Forum. Supply Chain & 
+Transport industry statement of support for 
+Green Demand Alliances and a Book & Claims 
+Standard to accelerate decarbonization of the 
+freight industry. 2021.
+
+4. Roundtable on Sustainable Biomaterials. 
+Book & Claim. [Online] 2023. https://rsb.org/
+book-claim/.
+
+5. —. RSB Book & Claim Manual. 2023.
+
+6. International Organization for 
+Standardization. International Standard 22095, 
+Chain of Custody - General Terminology and 
+Models. 2020.
+
+7. World Resources Institute and World 
+Business Council for Sustainable 
+Development. The Greenhouse Gas Protocol: 
+A Corporate Accounting and Reporting 
+Standard. 2004.
+
+8. International Civil Aviation Organization. 
+Annex 16 to the Convention on International Civil 
+Aviation. 2018. Vols. IV, Carbon Offsetting and 
+Reduction Scheme for International Aviation.
+
+9. International Council on Clean 
+Transportation. CO2 Emission from Commercial 
+Aviation: 2013, 2018, and 2019. 2020.
+
+10. Smart Freight Centre. Global Logistics 
+Emissions Council Framework for Logistics 
+Emissions Accounting and Reporting. 2019.
+
+11. Stowe, Harriet Beecher. Uncle Tom’s Cabin. 
+1852.
+
+12. World Resources Institute and 
+World Business Council for Sustainable 
+Development. Greenhouse Gas Protocol 
+Corporate Value Chain (Scope 3) Standard. 
+2011.
+
+13. Energy Transitions Commission. 
+Bioresources within a Net-Zero Emissions 
+Economy: Making a Sustainable Approach 
+Possible. 2021.
+
+

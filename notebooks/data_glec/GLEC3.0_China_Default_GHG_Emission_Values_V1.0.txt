@@ -1,0 +1,417 @@
+China Default GHG Emission Values V1.0– 
+Complementing GLEC Framework v3.0 
+
+A brief description of China’s transport-related emission factors and GHG 
+emission intensity values 
+
+June 2024 
+
+ 
+ 
+ 
+Contents 
+
+Executive Summary ................................................................................................................................ 2 
+
+1.    Introduction ...................................................................................................................................... 3 
+
+Purpose of Document ..................................................................................................................... 3 
+
+Foundations (as defined in GLEC Framework v3.0) and Scope ..................................................... 3 
+
+Data Format .................................................................................................................................... 4 
+
+2.    Methodology .................................................................................................................................... 4 
+
+3.    Fuel Emission Factors ..................................................................................................................... 4 
+
+Key Data Sources ........................................................................................................................... 4 
+
+Gap Analysis ................................................................................................................................... 5 
+
+4.    Fuel Efficiency & GHG Emission Intensity Values ........................................................................... 6 
+
+Key Data Sources ........................................................................................................................... 6 
+
+Gap Analysis ................................................................................................................................... 6 
+
+5.    Future Improvements ...................................................................................................................... 7 
+
+References ............................................................................................................................................. 8 
+
+Tables 
+
+Table 1: Foundations of the GLEC Framework v3.0 vs. this document (default data for China) ............ 3 
+Table 2: Fuel Emission Factors .............................................................................................................. 4 
+Table 3: Default fuel efficiency and GHG emission intensity values ....................................................... 6 
+
+1 
+
+ 
+ 
+ 
+ 
+Executive Summary 
+
+This document provides the 1st version of the default values for “well-to-wheel” (WTW) fuel emission 
+factors and greenhouse gas (GHG) emission intensity for China road transport. It is developed by the 
+Smart Freight Centre China team, following the basic requirements of ISO 14083 and GLEC Framework 
+v3.0. It provides a summary of the default values, as well as a brief description of the methodologies, 
+sources, and gap analysis. 
+
+The  tables  of  the  default  data  for  China  shall  be  used  as  the  supplementary  material  for  Module  1 
+(Emission factors) and Module 2 (Default fuel efficiency and GHG emission intensity values) for GLEC 
+Framework Section 3 (Data).  
+
+As stated in the GLEC Framework, the GLEC default factors are our best attempt to provide reliable 
+estimates as a first step on a company's journey to inclusive, high-quality GHG emission reporting. This 
+document  will  be  continuously  updated  following  data  updates  and  the  inclusion  of  available  new 
+datasets. 
+
+We  have  adopted  a  conservative  approach  by  quoting  default  values.  We  strive  to  use  vehicle  fuel 
+consumption data that is as close to reality as possible, including the use of official figures on energy’s 
+Net Calorific Values, consolidated carbon emission factor for electricity, as well as carbon emission data, 
+e.g., default carbon content values published by the IPCC, in accordance with the conservativeness 
+principles (cautiously moderate) of ISO 14083. 
+
+2 
+
+ 
+ 
+ 
+1.  Introduction 
+
+Purpose of Document 
+
+The purpose of this document is to show the current development of the default values for fuel emission 
+factors and GHG emission intensity values for the transport sector in China. There are existing default 
+values for Europe and North America in ISO 140831 and GLEC Framework v3.02 that were updated 
+from  e.g.,  Ecoinvent,  GREET,  HBEFA,  SmartWay  program,  etc.  Since  China’s  logistics-relevant 
+emissions account for a large share of the world logistics, using the local defaults and following the 
+requirement of ISO 14083 and GLEC Framework is a trend for companies to conduct logistics GHG 
+accounting and reporting in China. The purpose is to help companies use the nation’s accurate local 
+data as much as possible based on the GLEC Framework principles. 
+
+The document meets the following principles: 
+
+§  Data collection and calculation methodologies on calculation and data collection comply with 
+
+ISO 14083 and GLEC Framework v3.0; 
+
+§ 
+
+All default values, as stated in the GLEC Framework, should be used as a last resort when 
+primary data is not available, or as a starting point that can lead to future calculations based 
+on primary data. The GLEC default factors are to provide reliable estimates as a first step on 
+a company’s journey to inclusive, high-quality GHG emission reporting. 
+
+Foundations (as defined in GLEC Framework v3.0) and Scope 
+
+The default data development follows the four “Foundations” as defined in GLEC Framework v3.0. 
+
+Table 1:  Foundations of the GLEC Framework v3.0 vs. this document (default data for China) 
+
+Foundation in the 
+
+This document 
+
+GLEC Framework 
+
+1  All modes in the 
+
+Road transport. Default data for other modes could be referred to GLEC 
+
+transport chain 
+
+Framework. 
+
+2  All IPCC GHGs and 
+
+CO2, CH4, and N2O (converted to CO2e @IPCC AR6 GWP100). 
+
+climate pollutants 
+
+3  All energy life cycles 
+
+Include TTW (downstream, operational emissions) and WTT (upstream, 
+
+(WTW) 
+
+energy provision emissions). We used European factor1 to uplift TTW to 
+
+WTW for China. 
+
+4  Alignment with 
+
+GLEC  Framework  v3.0,  ISO14083,  GHGP,  2006  IPCC  Guidelines, 
+
+international 
+
+IPCC  AR6,  WB/T  1135-2023,  NDRC  documents  (e.g.,  Guidance  for 
+
+standards 
+
+Compiling Provincial Greenhouse Gas Emission Lists (Trial)《省级温室
+
+⽓体清单编制指南(试⾏)》3,  Guidelines  for  Accounting  Methods  and 
+
+Reporting  of  Greenhouse  Gas  Emissions  for  Land  Transportation 
+
+1 Please note that the uplift although borrowed from a European fuel emission factor isn’t ‘really European’. The fossil fuel 
+production, refinement and transportation happen outside of Europe in the absolute vast majority of cases. The reason for 
+including the European WTT is more to do with the inclusion of Methane venting and for IPCC AR6 alignment. 
+
+3 
+
+ 
+ 
+ 
+Enterprises《陆上交通运输企业温室⽓体排放核算⽅法与报告指南》
+
+4） 
+
+Data Format 
+
+The default data are presented in the same format as the tables of GLEC Framework Section 3, Module 
+1 and Module 2. 
+
+2.  Methodology 
+
+China default values in this document include fuel emission factors, fuel efficiency, and GHG emission 
+intensity values. Fuel emission factors are divided into “well-to-tank” (WTT) energy provision emissions 
+and “tank-to-wheel” (TTW) operational emissions. The “well-to-wheel” (WTW) emissions, also referred 
+to as fuel life-cycle emissions, is the sum up of the WTT and TTW emissions. 
+
+For diesel, LPG, and gasoline, the calculation of fuel emission factors first considers the emissions of 
+CO2,  CH4,  and  N2O  from  vehicle  fuel  combustion  (TTW).  The  emission  factors  for  corresponding 
+energy sources are mainly calculated based on relevant official and IPCC default values. To calculate 
+the TTW CO2 emission intensity, we mainly used the actual fuel efficiency of different vehicle types (in 
+L/100km) and then converted it into transport activity-based fuel efficiency (in L/tkm) by considering the 
+parameters of the vehicle’s designed load capacity (maximum load in tonne), load factor, and the empty 
+running rate, and finally converted to CO2e emissions per tkm. CH4 and N2O emissions are calculated 
+based on IPCC default emission factors and converted to CO2e based on IPCC AR6 GWP100. 
+
+For electricity, we referred to grid emission factors from China’s official document (in kgCO2/kWh). With 
+the  combination  of  vehicle  electricity  consumption  (kWh/100km),  designed  maximum  load  capacity, 
+load factor, and empty running rate, we then obtained the transport activity-based emission intensity (in 
+gCO2/tkm). 
+
+We used the European fuel emission factor (i.e., the TTW to WTW ratio) from GLEC Framework v3.0 
+to uplift TTW to WTW for China in this document. 
+
+3.  Fuel Emission Factors 
+
+Table 2: Fuel Emission Factors 
+
+Key Data Sources 
+
+The fuel emission factor calculations are based on various official and peer-reviewed sources, including 
+China  Energy  Statistical  Yearbook  (2021)5,  Guidance  for  Compiling  Provincial  Greenhouse  Gas 
+Emission  Lists  (Trial)（省级温室⽓体清单编制指南(试⾏)）3,  Guidelines  for  Accounting  Methods  and 
+Reporting of Greenhouse Gas Emissions for Land Transportation Enterprises（陆上交通运输企业温室
+⽓体排放核算⽅法与报告指南）4,  2019  Refinement  to  the  2006  IPCC  Guidelines6,  GB/T  2589-2020 
+(2021) General Rules for Calculation of the Comprehensive Energy Consumption (综合能耗计算通则)7, 
+MEE (2023) Notice on the management of greenhouse gas emissions reporting of enterprises in the 
+
+4 
+
+ 
+ 
+power  generation  industry  from  2023  to  2025  (Huanban  Climate  Letter  [2023]  No.  43).  （关于做好
+2023—2025 年发电⾏业企业温室⽓体排放报告管理有关⼯作的通知）（环办⽓候函〔2023〕43 号）8, 
+IPCC  AR69,  and  WB/T  1135-2023  (2023.7)10  Requirements  of  the  GHG  emission  Accounting  and 
+Reporting for Logistics Service Provider (物流企业温室⽓体排放核算与报告要求), etc. 
+
+Gap Analysis 
+
+a.  WTT  emission  factors:  The  current  official  documents  in  China  don’t  provide  a  consolidated 
+emission factor for all electricity power plants, and CH4 and N2O emissions may not be included in 
+the official document’s GHG extent. Thus, in this document, we provide the TTW emission factors 
+for CH4, and N2O based on IPCC factors. We also have to use the European scale-up factors from 
+the GLEC Framework to adjust the TTW to WTW for China. TTW:WTW ratio from Europe in GLEC 
+Framework v3.0 is 76.7% for diesel, 75.8% for gasoline, 70.1% for LNG, and 74.3% for LPG. 
+
+From the most officially recognized sources for emission factors in China, we cannot find emissions 
+associated  with  energy  production  infrastructures  and  other  upstream  non-fuel  emissions  (e.g., 
+resource extraction, and material manufacturing)11. This is not in line with ISO 14083 and GLEC 
+Framework. To be compliant with these standards, further work on this part is needed. 
+
+b.  National-level grid emission factor: In China’s official document, the national-level grid emission 
+factor is only for CO2, other GHGs as required in ISO 14083 and GLEC Framework are not included 
+here. 
+
+c.  Energy  carriers  only  include  diesel,  NG,  and  electricity:  Currently,  six  energy  carriers  were 
+identified: 1) diesel, 2) liquified natural gas (LNG) and compressed natural gas (CNG), 3) gasoline, 
+4) electricity, 5) liquified petroleum gas (LPG), and 6) hydrogen. In this document, we only provide 
+emission  factors  for  diesel,  LNG/CNG,  and  electricity,  since  other  fuel  types  for  China's  road 
+transport are still in a small share. 
+
+5 
+
+ 
+ 
+ 
+4.  Fuel Efficiency & GHG Emission Intensity Values 
+
+Table 3: Default fuel efficiency and GHG emission intensity values2 
+
+Key Data Sources 
+
+The main source of the fuel efficiency and transport activity and performance data (e.g., distance, load 
+factor,  empty  running  rate)  is  from  Xi’an  Jiaotong  University’s  report  “Preliminary  Investigation and 
+Research on Freight Industry” 12. The calculation of road emission intensity factors follows mainly the 
+2006  IPCC  Guidance,  GHGP,  and  GLEC  Framework,  as  well  as  China’s  national-level  and  industry 
+standards regarding transport GHGs accounting and report, e.g., NDRC’s “GHGs Accounting Methods 
+and  Reporting  Guidelines  for  Land  Transport  Enterprises”.  Other  sources  related  to  calculations 
+including WB/T 1135-2023 (2023.7)10 “Requirements of the GHG emission Accounting and Reporting 
+for  Logistics  Service  Provider”  (物流企业温室⽓体排放核算与报告要求),  “Guidance  for  Compiling 
+
+Provincial  Greenhouse  Gas  Emission  Lists  (Trial)”  （省级温室⽓体清单编制指南(试⾏)）3,  and  IPCC 
+
+AR6 9. 
+
+Gap Analysis 
+
+a.  GHG emission intensity values are based on the SFD, but the “out of route trips/deviation” 
+are  not  considered.  The  values  in  the  future  could  be  uplifted  to  account  for  the  “out  of  route 
+trips/deviation”  from  the  planned  route  equating  to  the  5%  Distance  Adjustment  Factor  (DAF) 
+
+2 Please note that the load factors quoted used to calculated transport activity are considerably higher than one might 
+expect when comparing to other regions in the world. 
+
+6 
+
+ 
+  
+ 
+ 
+between the Shortest Feasible Distance (SFD) and actual distances. We expect to revisit this topic 
+before the next update of the GLEC Framework. This will be an “all across the board” application 
+– meaning for North America, India, China and Europe all at once. 
+
+5.  Future Improvements 
+
+Improvements and updates are scheduled in the following aspects: 
+
+§ 
+
+§ 
+
+§ 
+
+§ 
+
+§ 
+
+Enhance  the  compliance,  consistency,  and  accuracy  of  the  data.    We  will  expand  the 
+sample coverage to include more data from local companies and partners and continue to 
+update data from the literature, databases, and fleet samples to enhance the consistency of 
+values over time and space. We will incorporate more research on lifecycle GHG emissions 
+from road transport in China, including energy production infrastructure and other upstream 
+non-fuel-related emissions, to improve the accuracy and compliance of the calculations in the 
+energy supply part. We will continue to collect real-life cases, such as HFCs emissions from 
+refrigerant leaks, to supplement default values for this aspect in China. 
+
+Expand to other modes.  We will include the default data for other transport modes gradually 
+in future versions, such as inland waterways, domestic rail, domestic aviation, and logistics 
+hubs. 
+
+Expand  to  other  GHGs  and  air  pollutants.  Other  GHGs,  such  as  HFCs  from  refrigerant 
+leakage, the CH4 leakage, as well as other GHGs and air pollutants. 
+
+Provide  more  disaggregated  default  values.  We  will  continue  to  collect  road  transport 
+activity and fuel consumption data from literature and partners, continuously update values 
+such as load factor and empty running rate, and try to provide disaggregated values by vehicle 
+category, cargo type, and transport scenarios to better reflect actual operating conditions. 
+
+Expand to other energy carriers (e.g., hydrogen). Companies in China’s logistics market, 
+especially in the road sector, are very active in piloting hydrogen trucks. Hydrogen emission 
+factors have a wide range of values depending on upstream energy sources and production 
+technologies. Future works will also focus on the inclusion of hydrogen emission factors to 
+meet the accounting and reporting needs of local companies. 
+
+7 
+
+ 
+ 
+ 
+References 
+
+1.  ISO. ISO 14083:2023 Greenhouse gases Quantification and reporting of greenhouse gas 
+
+emissions arising from transport chain operations. Published online 2023. 
+
+2.  Smart Freight Centre. GLEC Framework 3.0 Updated.; 2023. Accessed April 13, 2024. 
+
+https://smart-freight-centre-
+media.s3.amazonaws.com/documents/GLEC_FRAMEWORK_v3_UPDATED_02_04_24.pdf 
+
+3.  NDRC. 省级温室⽓体清单编制指南（试⾏）.; 2011. Accessed April 13, 2024. 
+
+http://www.cbcsd.org.cn/sjk/nengyuan/standard/home/20140113/download/shengjiwenshiqiti.pdf 
+
+4.  陆上交通运输企业 温室⽓体排放核算⽅法与报告指南 （试⾏）. Accessed March 15, 2023. 
+
+https://www.ndrc.gov.cn/xxgk/zcfb/tz/201511/W020190905506438255108.pdf 
+
+5.  NSB. China Energy Statistical Yearbook (2021).; 2022. 
+
+6.  IPCC. 2006 IPCC Guidelines: V2_3_Ch3_Mobile_Combustion.Pdf.; 2006. Accessed June 9, 2023. 
+https://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf 
+
+7.  SAMR, Standardization Administration. GB-T 2589-2020 综合能耗计算通则.; 2021. 
+
+8.  MEE. 关于做好 2023—2025 年发电⾏业企业温室⽓体排放报告管理有关⼯作的通知（环办⽓候函
+
+〔2023〕43 号）. Published 2023. Accessed March 26, 2024. 
+http://www.ncsc.org.cn/xwdt/gnxw/202302/t20230207_1015624.shtml 
+
+9.  IPCC.  Sixth  Assessment  Report  —  IPCC.  Published  2023  2021.  Accessed  April  13,  2024. 
+
+https://www.ipcc.ch/assessment-report/ar6/ 
+
+10. NDRC. 报批稿《物流企业温室⽓体排放核算与报告要求》.pdf. Published online 2023. 
+
+11. IEA. Life Cycle Upstream Emission Factors 2023 (Pilot Edition). IEA; 2023. Accessed March 28, 
+
+2024. https://iea.blob.core.windows.net/assets/69b838f4-12ad-4f51-9155-
+9da6435b5d53/IEA_UpstreamLifeCycleEmissionFactors_Documentation.pdf 
+
+12.  ⻄南交通⼤学交通运输与物流学院,  综合交通⼤数据应⽤技术国家⼯程实验室-智慧物流⼤数据应⽤
+技术实验室. Preliminary Investigation and Research on Freight Industry.; 2019. Accessed April 29, 
+2024.  https://www.efchina.org/Attachments/Report/report-ctp-20201103/Preliminary-Investigation-
+and-research-on-freight-industry.pdf 
+
+8 
+
+ 
+ 
+ 
+ 
+Join our journey towards efficient 
+and zero-emission global freight 
+and logistics 
+
+Contact： 
+
+Smart Freight Centre 
+
+Keizersgracht 560, 1017 EM Amsterdam,  
+
+Netherlands P.O. Box 11772, 1001 GT Amsterdam, Netherlands  
+
+Tel. office: +31 6 4695 4405  
+
+www.smartfreightcentre.org  
+
+info@smartfreightcentre.org 
+
+9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+

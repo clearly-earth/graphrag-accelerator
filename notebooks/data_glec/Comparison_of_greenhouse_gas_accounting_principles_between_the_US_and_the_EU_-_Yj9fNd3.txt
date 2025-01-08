@@ -1,0 +1,3286 @@
+Comparison of greenhouse 
+gas accounting principles 
+between the US and the EU 
+Towards harmonizing geographical 
+approaches for GHG fuel emission factors 
+
+August 2022 
+
+ 
+ 
+ 
+of 
+
+greenhouse 
+
+gas 
+Comparison 
+accounting principles between the US and 
+the EU 
+Towards  harmonizing  geographical  approaches  for  GHG  fuel 
+emission factors 
+
+August 2022 
+
+© Smart Freight Centre, 2022 
+Suggested citation: Smart Freight Centre. Comparison of greenhouse gas accounting principles between the US 
+and the EU: Towards harmonizing approaches for GHG emission factors. 2022 
+This publication may be reproduced in whole or in part in any form for educational or non-profit purposes without special permission from 
+the copyright holder, provided acknowledgment of the source is made. Smart Freight Centre would appreciate  receiving a copy of any 
+publication that uses  “Comparison of greenhouse gas accounting principles between the US and the EU”as a source.  No use of this 
+publication may be made for resale or for any other commercial purpose whatsoever, without prior permission in writing from Smart Freight 
+Centre. 
+
+Disclaimer 
+The views expressed in this publication are those of Smart Freight Centre and staff, consultants and management, and do not necessarily 
+reflect the views of the Board of Trustees of Smart Freight Centre. Smart Freight Centre does not guarantee the accuracy of the data 
+included in this publication and does not accept responsibility for consequence of their use. 
+
+Acknowledgements 
+This report was written by Mehul Khandelwal and Tharsis Teoh of Smart Freight Centre and reviewed by Kirsten Biemann of ifeu. Special 
+thanks to Hui Xu and Yuan Li from Argonne National Laboratory for their support in the review of the report. 
+
+About Smart Freight Centre 
+Smart Freight Centre is an international non-profit organization focused on reducing greenhouse gas emissions from freight transportation. 
+Smart Freight Centre’s vision is an efficient and zero emission global logistics sector. Smart Freight Centre’s mission is to collaborate with 
+the organization’s global partners to quantify impacts, identify solutions, and propagate logistics decarbonization strategies. Smart Freight 
+Centre’s goal is to guide the global logistics industry in tracking and reducing the industry’s greenhouse gas emissions by one billion 
+tonnes by 2030 and to reach zero emissions by 2050 or earlier, consistent with a 1.5°C future. 
+
+Contact 
+Smart Freight Centre 
+Keizersgracht 560, 1017 EM, Amsterdam, Netherlands 
+P.O. Box 11772, 1001 GT, Amsterdam, Netherlands 
+Tel office: +31 6 4695 4405 
+www.smartfreightcentre.org 
+info@smartfreightcentre.org
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Comparison  of  greenhouse  gas  accounting 
+principles between the US and the EU 
+
+Contents 
+
+1 
+
+Introduction 
+
+1.1 
+1.2 
+1.3 
+
+GHG emission factors 
+Objectives and scope 
+Report structure 
+
+2 
+
+Analysis of the GREET model structure 
+
+2.1 
+2.2 
+2.3 
+2.4 
+2.5 
+
+Overview of the GREET tool 
+Units used as inputs and outputs 
+Vehicle type 
+Fuel production pathways 
+Energy and Environmental Metrics 
+
+3  Methodology 
+
+3.1 
+3.2 
+3.3 
+
+Database development 
+Calculation approach 
+Fuel Description 
+
+4 
+
+Comparison of GHG databases 
+
+4.1 
+4.2 
+4.3 
+
+Comparison with European databases 
+Coverage of fuels 
+Compatibility with the GLEC approach 
+
+5 
+
+Results 
+
+5.1 
+5.2 
+
+Comparison of the structure 
+Comparison of emission factors 
+
+6 
+
+7 
+
+Future work 
+
+References 
+
+7 
+
+7 
+8 
+8 
+
+9 
+
+9 
+9 
+9 
+11 
+12 
+
+15 
+
+15 
+15 
+16 
+
+20 
+
+20 
+22 
+23 
+
+25 
+
+25 
+27 
+
+31 
+
+32 
+
+3 
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+Comparison  of  greenhouse  gas  accounting 
+principles between the US and the EU 
+
+Tables 
+
+Table  1  Overview  of  vehicle  engine  type  and  fuels  used  (H.  Kwon  and  U.  Lee,  2019)  (A. 
+Elgowainy, 2019) ......................................................................................................................... 10 
+Table  2  Overview  of  scope  and  methodological  approach  (Adapted  and  edited  from  the  GHG 
+emission factors for road freight vehicles (Smart Freight Centre and ifeu, 2021)) ...................... 20 
+Table 3 Overview of coverage of fuel types (Adapted and edited from the GHG emission factors 
+for road freight vehicles) .............................................................................................................. 23 
+Table 4 Comparison of the GHG emission factors for road freight ............................................. 26 
+
+Figures 
+
+Figure 1 Fuel production pathways included in the GREET mode (adapted) (M. Wang, 2021) . 11 
+Figure 2 Detailed production pathways of biofuels in the GREET model (adapted) (H. Kwon and 
+U. Lee, 2019) ............................................................................................................................... 12 
+Figure 3 Schematics of land use change in GREET (ibid) .......................................................... 13 
+Figure 4 Flow of calculation in the GREET (Argonne National Laboratory, 2021) ...................... 16 
+Figure 5 System boundary for Corn ethanol production in the GREET model (adapted) (ibid) .. 17 
+Figure 6 System boundaries for biodiesel and renewable diesel pathway (adapted) (H. Xu et al., 
+2022) ............................................................................................................................................ 18 
+Figure  7  System  boundary  for  wastewater  sludge-based  Bio-CNG  and  Bio-LNG  via  anaerobic 
+digestion (adapted) (U. Lee et al., 2016) ..................................................................................... 19 
+Figure 8 Overview of emission factors for ethanol and substitutes ............................................. 28 
+Figure 9 Overview of emission factor for diesel and substitutes ................................................. 29 
+Figure 10 Overview of emission factors for LNG and substitutes ............................................... 30 
+
+4 
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Comparison  of  greenhouse  gas  accounting 
+principles between the US and the EU 
+
+Executive Summary 
+
+Low-carbon and sustainable biofuels can play a short term role in decarbonizing the road freight 
+sector,  where  zero  emission  technology  is  not  yet  readily  available.  It  can  act  as  a  short  term 
+drop-in  fuel  to  electric  and  fuel  cell  vehicles,  especially  as  these  technologies  and  markets 
+continue to mature. However, understanding the extent to which these biofuels can reduce GHG 
+emissions on a lifecycle basis is a challenge due to the wide variety of feedstock supply chains 
+and  use  cases,  as  well  as  different  methodologies  for  emission  accounting  in  the  biofuel 
+production sector.  
+Due  to  the  complexity  of  biofuel  greenhouse  gas  lifecycle  assessment,  it  is  vital  to  provide 
+transparency into the process of incorporating emission factors from  any existing database into 
+the set of default factors provided in the Global Logistics Emission Council (GLEC) Framework. 
+This ensures that the necessary steps towards harmonization of emission factor assumptions are 
+taken,  providing  a  consistent  approach  across  different  emission  database  sources  and 
+geographical regions. 
+The Comparison of greenhouse gas accounting principles between the US and the EU report is 
+part of Smart Freight Centre’s series on low and zero emission fuels, where we address different 
+implementation  challenges  of  biofuels  as  a 
+perspectives  on 
+decarbonization solution. The full series is available here. 
+
+impact,  emissions  and 
+
+This report analyzes the development of US biofuel emission factors in the Greenhouse gases, 
+Regulated Emissions, and Energy use in Technologies (GREET) model developed by Argonne 
+National Laboratory with the following aims: 
+▪  Provide visibility into the development of emission factors in the GREET 1 database, which 
+focuses on the  fuel  lifecycle analysis, specifically  in terms of database structure, emission 
+categories, and calculation approach.  
+
+▪  Provide recommendations on emission factor values to be used for North American biofuels 
+
+in the GLEC Framework 
+
+▪  Provide recommendations for harmonization of US and Europe emission factor calculation 
+approaches and accounting principles, in terms of feedstocks, production pathways, emission 
+categories, and separate categories for emissions from land-use change and indirect land-
+use change. 
+
+For  comparison,  the  EU  emission  factor  sources  are  taken  from  Annex  V  of  the  Renewable 
+Energy Directive II (RED II) and the JEC Well-to-Wheels report v5 (JECv5). Both sources have 
+been  used  to  define  the  biofuel  emission  factors  used  in  GLEC  Framework,  and  have  been 
+analyzed in Smart Freight Centre’s Desktop Review of GHG Emission Factors for Road Freight 
+and ifeu work on the EcoTransIT World-Environmental Methodology and Data report referenced 
+in ISO 14083.  
+The fuels studied are petroleum-, natural gas-derived fuels, and their biofuel replacements: 
+▪  Gasoline 
+▪  Diesel 
+▪  Liquefied natural gas (LNG) 
+▪  Bioethanol 
+▪  Biodiesel 
+▪  Renewable diesel 
+▪  Liquefied biomethane (LBM) 
+Database structure 
+The  GREET  model  includes  more  than  100  fuel  production  pathways/energy  systems  from 
+various energy feedstock sources, though not all at the same level of detail and some have been 
+updated more recently than others. The most important biofuel production pathways are: 
+
+5 
+
+    
+ 
+ 
+ 
+Comparison  of  greenhouse  gas  accounting 
+principles between the US and the EU 
+
+▪  Ethanol produced from food crops, such as corn, corn stover, and sugarcane.  
+▪  Biodiesel  produced  from  oilseed  crops,  such  as  soybean  and  rapeseed,  as  well  as  from 
+waste-based feedstock, such as used (waste) cooking oil, distillers corn oil, and animal fats. 
+▪  Renewable  diesel  (HVO  in  Europe)  produced  from  oilseed  crops,  such  as  soybean  and 
+
+rapeseed, as well as waste feedstock such as animal fats.  
+
+▪  Liquefied biomethane. 
+As such, there is significant coverage of different types of fuels between GREET 1 and the biofuel 
+production pathways covered in the JEC WTW v5 and RED II. The key difference is that GREET 
+predominantly  includes  the  production  of  renewable  diesel  also  known  as  HVO  in  Europe,  via 
+other processes besides hydrogenation, such as gasification, pyrolysis and other biochemical and 
+thermochemical  technologies.  RED  II  partly  covers  other  processes  for  renewable  diesel 
+excluding  HVO.  Another key difference is that the  emission factor  of waste-derived renewable 
+natural  gas  in  GREET  is  much  lower  than  their  European  counterparts  due  to  high  emission 
+credits from avoided emissions. 
+
+Emission categories  
+The  GREET  model  includes  a  module  for  estimating  land  use  and  land  management  change 
+emissions  using  the  Carbon  Calculator  for  Land  Use  and  Land  Management  Change  from 
+Biofuels Production (CCLUB) and the Global Trade Analysis Project (GTAP). According to RED 
+II, direct land use change emissions are to be included in the emission factor calculation, but in 
+Europe  it  does  not  occur  anymore  since  it  is  not  feasible  to  convert  land  to  land  for  biofuel 
+production as this would lead to GHG emissions above the threshold set in RED II. Indirect land 
+use  change  (iLUC)  emissions  are  not  included  in  RED  II  GHG  values  because  of  the  high 
+uncertainty in the values provided, however, RED II is limiting the use of biofuels with a high risk 
+of iLUC (e.g. palm oil) and looking to phase out these feedstocks in near future. As an example 
+of comparing iLUC values for biodiesel from soybean, the GREET value is 9 g CO2e/MJ  while in 
+the RED II has 55 gCO2e/MJ. This is due to the fact that iLUC can vary considerably across biofuel 
+pathways, mainly contingent on technologies and feedstocks, and iLUC emissions are uncertain 
+and sensitive to modeling parameters and assumptions.  
+GREET takes into account methane slip for the biomethane emission factor, which is not explicitly 
+addressed in the European databases. Nevertheless, a recent Smart Freight Centre analysis in 
+‘The Potential of Bio-LNG in Decarbonizing Logistics’ Whitepaper addressed and estimated the 
+amount of methane slip emissions in liquefied biomethane.  
+Other  challenges  that  require  harmonization  include  issues  surrounding  the  use  of  avoided 
+emissions, biogenic and industrial removals, and credit schemes. 
+
+Recommendations 
+The  following  recommendations  for  further  research  will  help  harmonize  the  approaches  for 
+emission factor development in the Europe and the US. 
+▪  Develop common consensus to address the (i) inclusion of methane slip, and (ii) allocation of 
+avoided  emissions  in  GHG  accounting  principles  for  the  end-users  to  have  a  universal 
+accounting and reporting structure. 
+
+▪  Develop principles to take into account when developing emission factors for GHG emission 
+reporting, in particular as emission factors are evolving over time due to the introduction of 
+new energy carriers, the available technology for the production of fuels improves, and lower 
+emission energy sources are deployed to power production processes.  
+
+▪  Review  how  iLUC  emissions  can  be  estimated  with  greater  reliability,  such  that  it  can  be 
+
+included in freight emissions reporting and the GLEC Framework emission factors. 
+
+Future  work  will  include  reviewing  the  availability  of  synthetic  and  e-fuels  in  the  market  and 
+importance to be included in the GLEC Framework. 
+
+6 
+
+    
+ 
+ 
+ 
+  
+ 
+  
+Comparison  of  greenhouse  gas  accounting 
+principles between the US and the EU 
+
+1  Introduction 
+
+The Comparison of greenhouse gas accounting principles between the US and the EU report is 
+part  of  Smart  Freight  Centre’s  series  on  biofuels,  where  we  address  different  perspectives  on 
+impact, emissions and implementation challenges of biofuels as a decarbonization solution. The 
+full series is available here. 
+
+A quick transition to low or zero-emission fuels and vehicle technology is essential to meet the 
+goals of the Paris Agreement on climate change in the freight and logistics sector. The road freight 
+sector  accounts  for  over  10%  of  global  greenhouse  gas  emissions,  and  these  emissions  are 
+increasing (E. & I. S. Department for Business, 2022). In the US, 36% of greenhouse gas (GHG) 
+emissions in 2020 came from the transport sector, of which 17% are due to light-duty vehicles 
+and  26  %  due  to  medium-  to  heavy-duty  vehicles.  This  is  largely  due  to  the  almost  exclusive 
+reliance  on  petroleum-derived  liquid  fuels  (e.g.,  gasoline  and  diesel)  as  an  energy  source 
+(Environmental Protection Agency, 2022).  
+Low-carbon and sustainable biofuels can play a role in decarbonizing the freight sector alongside 
+other technologies, such as electric and fuel cell vehicles, especially as these technologies and 
+markets continue to mature (N. Gray et al., 2021) (R. Chen et al., 2018). However, understanding 
+the extent to which these biofuels can reduce emissions is a challenge with the wide variety of 
+feedstock supply chains and uses, as well as different methodologies for emission accounting in 
+the biofuel production sector. 
+The  Smart  Freight  Centre  supports  companies  in  emission  reduction  related  to  their  freight 
+transport,  through  the  Global  Logistics  Emission  Council  (GLEC)  Framework,  the  industry’s 
+standard methodology for tracking freight GHG emissions. Part of the ongoing development work 
+of the GLEC Framework is the identification and review of reliable  GHG emission factors from 
+lifecycle emission factor databases established in different transport markets.  
+
+1.1  GHG emission factors  
+
+A  GHG  emission  factor  indicates  the  mass  of  carbon  dioxide  equivalent  (CO2e)  released  for  a 
+quantity of fuel or electricity used. The GLEC Framework uses full fuel lifecycle emission factors, 
+i.e., covering emissions produced in both Well-to-Tank (WTT) and Tank-to-Wheel (TTW) phases. 
+WTT emissions consist of emissions during the fuel production and distribution, while the TTW 
+emissions consist of emissions  from the combustion of fuel (Smart Freight Centre, 2019). The 
+GLEC Framework provides default emission factors for a wide variety of fuels, which are based 
+on representative and reasonable estimates for a specific area (e.g., the EU or North America). 
+These default emission factors are often used in place of certified emission factors specific to a 
+fuel  batch,  when  they  are  unavailable,  and  thus  play  an  important  role  in  emission  disclosure 
+practices. 
+For  biofuels,  the  carbon-based  emissions  (i.e.,  carbon  dioxide,  carbon  monoxide  and  volatile 
+organic compounds) in the TTW phase is designated zero, as it is assumed that an equivalent 
+amount  of  carbon  dioxide  is  sequestered  from  the  atmosphere  as  the  biomass  grew,  whether 
+from agriculture or naturally. This means that a major component of the lifecycle emissions comes 
+the WTT phase, that is from the agricultural and industrial activity. Biofuel WTT emissions strongly 
+depend  on  the  type  of  feedstock  used  and  the  production  pathways,  which  in  this  flourishing 
+sector, keep diversifying. Further, regional practices adopted by emission factor databases may 
+allow  for  various  ways  to  deal  with  different  emission  categories,  notably  carbon  or  manure 
+credits, induced or indirect land use change.  
+Due  to  the  complexity  of  biofuel  greenhouse  gas  lifecycle  assessment,  it  is  vital  to  provide 
+transparency into the process of incorporating emission factors from any existing database into 
+the set of default factors provided in the Global Logistics Emission Council (GLEC) Framework. 
+This ensures that the necessary steps towards harmonization of emission factor assumptions are 
+
+7 
+
+    
+ 
+ 
+ 
+Comparison  of  greenhouse  gas  accounting 
+principles between the US and the EU 
+
+taken,  providing  a  consistent  approach  across  different  emission  database  sources  and 
+geographical regions. 
+
+1.2  Objectives and scope 
+
+This report addresses a critical absence in the GLEC Framework, namely North American biofuel 
+emission factors. Specifically, the report will address the following: 
+▪  Provide visibility into the development of emission factors in the selected US-based lifecycle 
+emissions factor database, specifically in terms of database structure, emission categories, 
+and calculation approach.  
+
+▪  Provide recommendations on emissions factor values to be used for North American biofuels 
+
+in the GLEC framework 
+
+▪  Provide recommendations for harmonization  of US and Europe emission factor calculation 
+approaches and accounting principles, in terms of feedstocks, production pathways, emission 
+categories, and separate categories for emissions from direct and indirect land-use change. 
+The study uses the Greenhouse gases, Regulated Emissions, and Energy use in Technologies 
+(GREET)  model,  developed  by  Argonne  National  Laboratory  with  funding  from  the  U.S. 
+Department of Energy’s (DOE) Office of Energy Efficiency and Renewable Energy [13], which is 
+viewed as the de facto standard when it comes to transport lifecycle emission factors in the US. 
+For  comparison,  the  EU  emission  factor  sources  are  taken  from  Annex  V  of  the  Renewable 
+Energy Directive (recast) (RED II) and the JEC Well-to-Wheels report v5 (JECv5). Both sources 
+have been used to define the biofuel emission factors used in the GLEC Framework and ifeu work 
+on EcoTransIT World-Environmental Methodology and Data report included in ISO 14083.  
+The fuels studied are petroleum-, natural gas-derived fuels, and their biofuel replacements: 
+▪  Gasoline 
+▪  Diesel 
+▪  Liquefied natural gas (LNG) 
+▪  Bioethanol 
+▪  Biodiesel 
+▪  Renewable diesel 
+▪  Liquefied biomethane (LBM) 
+
+1.3  Report structure 
+
+The structure of the report is as follows. Section 2 presents the analysis of the GREET model 
+structure. Section 3 presents the analysis of methodology resulting in a list of adaptations needed 
+to  be  harmonized  with  the  GLEC  Framework.  Section  4  presents  the  results  of  adapting  the 
+GREET  model  emission  factors  for  biofuels  and  comparing  it  with  the  European  values.  This 
+section also presents insights into the differences between the values of fuels used in the US and 
+the EU. Section 5 concludes with highlighting several steps to take to increase harmonization of 
+emission factor work for biofuels and emerging fuel types.  
+
+8 
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+Comparison  of  greenhouse  gas  accounting 
+principles between the US and the EU 
+
+2  Analysis of the GREET model structure 
+
+This section presents an overview of the GREET model  by way of clarifying the tool’s general 
+structures, the units used and vehicle types, as well as its scope, with respect to biofuel production 
+pathways, emission categories, emissions from land-use and land management change, indirect 
+land use change (iLUC) and methane slip. 
+
+2.1  Overview of the GREET tool 
+
+The  GREET  model  (H.  Kwon  and  U.  Lee,  2019)  is  an  analytical  tool  and  hybrid  model  that 
+simulates  the  energy  use  and  emission  output  of  various  vehicle  and  fuel  combinations.  The 
+GREET  model  is  utilized  by  more  than  45,000  users  around  the  world  including  government 
+agencies, national labs, universities and industry. It is also an integral part of transportation and 
+bioenergy  technology  evaluation.  GREET  plays  a  valuable  role  in  the  identification  of 
+opportunities for improving the sustainability of technologies,  promoting the clean and efficient 
+vehicle and fuel technologies, and informing policies through high-quality, consistent and peer-
+reviewed analyses and publications. 
+In  GREET,  the  process  is  primarily  based  on  the  attributional  lifecycle  assessment  (LCA) 
+approach, while land-use change is essentially  based on the consequential approach. GREET 
+includes all transport subsectors such as road, air, rail and marine and in the current version of 
+2021 also includes LCA of buildings and building technologies. GREET can be accessed using 
+two platforms: the GREET Excel model and the GREET.net model. 
+GREET Excel provides a comprehensive lifecycle-based approach to comparing the energy use 
+and  emissions of conventional and advanced vehicle technologies. It consists of two  separate 
+excel sheets: 
+▪  GREET 1 presents the lifecycle analysis of the transport fuel, encompassing the fuel cycle, 
+
+that is the well-to-tank and tank-to-wheel emissions.    
+
+▪  GREET  2 presents the lifecycle analysis of the vehicle and provides energy  and emission 
+effects  associated  with  vehicle  material  recovery  and  production,  vehicle  component 
+fabrication, vehicle assembly, and vehicle disposal or recycling.  
+
+GREET.net  provides  a  more  user-friendly  graphical  interface  to  perform  lifecycle  analysis 
+simulations of alternative transportation fuels and vehicle technologies and makes use GREET1 
+and GREET2 Excel models.  
+
+2.2  Units used as inputs and outputs 
+
+The GREET model has various functional units depending on the services (e.g. mile, tonne-mile, 
+tonne-km, passenger-mile), outputs (e.g. MMBtu, MJ, gasoline gallon equivalent), and resources 
+(e.g. per tonne of biomass) (Argonne National Laboratory, 2021) (ibid). The interface allows the 
+user to quickly convert the units from one to another.  
+The values reported in this report are based on SI units (i.e. g CO2eq/MJ).  
+
+2.3  Vehicle type 
+
+GREET  includes  more  than  80  on-road  powertrain/fuel  systems  for  both  light-duty  and  heavy-
+duty vehicles (M. Wang, 2021). Table 1 provides an overview of the engine type and respective 
+fuel use in the GREET model. The fuel reported is based on the utilization in the class 7/8 trucks 
+i.e., heavy-duty vehicles that are mostly used for road freight in the U.S.  
+
+9 
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Comparison  of  greenhouse  gas  accounting 
+principles between the US and the EU 
+
+Table  1  Overview  of  vehicle  engine  type  and  fuels  used  (H.  Kwon  and  U.  Lee,  2019)  (A. 
+Elgowainy, 2019) 
+
+Engine Type 
+
+Fuel used  
+
+Conventional spark-ignition engine vehicles  Gasoline 
+
+Spark ignition, direct-Injection Engine 
+Vehicles`  
+
+Compressed-ignition, direct-injection engine 
+vehicles 
+
+CNG, LNG and LPG 
+
+Gaseous and Liquid Hydrogen 
+
+Renewable gas 
+
+Methanol and Ethanol 
+
+Gasoline 
+
+Methanol and ethanol 
+
+Diesel 
+
+Fischer-Tropsch Diesel 
+
+Dimethyl Ether 
+
+Biodiesel 
+
+Renewable diesel 
+
+Fuel cell vehicles 
+
+On-board hydrogen storage- Gaseous and liquid hydrogen from 
+various sources 
+
+On-board hydrocarbon reforming to hydrogen 
+
+Battery powered electric vehicles 
+
+Various electricity generation sources 
+
+Hybrid electric vehicles (HEVs) 
+
+Spark-ignition engines  
+
+Gasoline 
+
+Renewable Gas 
+
+CNG, LNG and LPG 
+
+Gaseous and liquid Hydrogen 
+
+Methanol and ethanol 
+
+Compressed-ignition engines 
+
+Diesel 
+
+Fischer-Tropsch Diesel 
+
+Dimethyl ether 
+
+Biodiesel 
+
+Renewable diesel 
+
+Plug-in hybrid electric vehicles 
+
+Spark-ignition engines  
+
+Gasoline 
+
+CNG, LNG and LPG 
+
+Various electricity generation sources 
+
+Gaseous and liquid Hydrogen 
+
+Methanol and ethanol 
+
+Compressed-ignition engines 
+
+Diesel 
+
+Fischer-Tropsch Diesel 
+
+Dimethyl ether 
+
+Biodiesel 
+
+Renewable diesel 
+
+10 
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+Comparison  of  greenhouse  gas  accounting 
+principles between the US and the EU 
+
+2.4  Fuel production pathways  
+
+The  GREET  model  includes  more  than  100  fuel  production  pathways/energy  systems  from 
+various energy feedstock sources (Figure 1), though not all at the same level of detail and some 
+have been updated more recently than others.  
+These include: 
+▪ 
+▪  hydrogen  produced  from  fossil  fuels,  biomass,  electricity  and  nuclear  energy,  as  well  as 
+
+conventional fuels derived from fossil fuels, such as petroleum and natural gas,  
+
+including carbon capture system  
+
+▪  electricity produced from fossil fuels, biomass, renewable power plants and nuclear energy, 
+
+as well as including CCS 
+
+▪  biofuels 
+▪  e-fuels produced from renewable hydrogen and CO2 sources. 
+
+Figure 1 Fuel production pathways included in the GREET mode (adapted) (M. Wang, 2021) 
+
+GREET  includes  various  possible  feedstocks  and  conversion  technologies  for  production  of 
+biofuels  as  depicted  in  Figure  2.  These  production  methods  are  described  extensively  in  the 
+GREET model. 
+
+11 
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Comparison  of  greenhouse  gas  accounting 
+principles between the US and the EU 
+
+Figure 2 Detailed production pathways of biofuels in the GREET model (adapted) (H. Kwon and 
+U. Lee, 2019) 
+
+For  the  purpose  of  this  report,  i.e.,  for  potential  inclusion  in  the  GLEC  Framework,  only  major 
+production pathways are analyzed. These are based on feedstocks that are prominent in the US 
+market,  as  well  as  those  which  fall  under  the  Low  Carbon  Fuel  Standard  (LCFS)  and  the 
+Renewable Fuel Standard (RFS).  
+▪  Ethanol produced from food crops, such as corn, corn stover, and sugarcane.  
+▪  Biodiesel produced from oilseed crops, such as soybean and rapeseed, as well from waste-
+
+based feedstock, such as waste cooking oil, corn oil, and animal fats.  
+
+▪  Renewable diesel produced from oilseed crops, such as soybean and rapeseed, as well as 
+
+waste feedstock i.e., animal fats.  
+
+▪  Liquefied biomethane produced from landfill gas and wet manure. 
+
+2.5  Energy and Environmental Metrics 
+
+The  model  sustainability  metric  includes  energy  use  (fossil  and  renewable),  and  air  pollutants 
+(such as VOC, CO, NOx, PM10, PM2.5, BC, OC, and SOx) which are estimated separately for total 
+and urban, greenhouse gases (CO2, CH4 and N2O) combined with their global warming potentials, 
+and water consumption (Argonne National Laboratory, 2021) (ibid). Land-use change and indirect 
+land-use change along with methane leakage is also addressed as it is mostly associated with 
+the storage and transportation of volatile fuels. 
+
+Land-use change and land management change 
+Direct  land-use  change  refers  to  a  process  in  which  human  activities  transform  the  natural 
+landscape  for  economic  activities  e.g.,  from  forest  to  farmland  to  produce  crops  for  biofuels. 
+Human  activities  which  affect  terrestrial  sinks  with  land  use,  land-use  change  and  forestry 
+(LULUCF) activities, alter the exchange of CO2 (carbon cycle) between the terrestrial biosphere 
+system and the atmosphere (UNFCCC, 2017). The changes in land use, as well as management 
+processes, have a massive impact on the soil ecosystems and in turn, can affect key soil functions 
+(D. J. Spurgeon, 2013).  
+The Carbon Calculator for Land Use and Land Management Change from Biofuels Production 
+(CCLUB) (H. Kwon, 2021) from the GREET model is used for analyzing the GHG emissions from 
+
+12 
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Comparison  of  greenhouse  gas  accounting 
+principles between the US and the EU 
+
+land-use  change  (LUC)  and  land  management  change  (LMC)  in  the  biofuel  life  cycle  analysis 
+(LCA). The values are expressed in grams of carbon dioxide equivalent per MJ of fuel produced.  
+The Global Trade Analysis Project (GTAP) developed by Purdue University is used to estimate 
+the domestic area (US) and international land areas such as forest, grassland, cropland pasture, 
+and feedstock lands that transitions to another land type at the agro-ecological zone(AEZ), which 
+is  multiplied  by  corresponding  emission  factors  (EF)  aggregated/disaggregated  from  different 
+spatial coverages, to estimate LUC GHG emissions for biofuel production scenarios (Figure 3).  
+
+Figure 3 Schematics of land use change in GREET (ibid) 
+
+Indirect land-use change 
+Crop-based biofuel production may cause indirect land-use change (iLUC) emissions (Z. Qin and 
+H. Kwon, 2018). iLUC refers to the indirect carbon emissions that would be expected to occur due 
+to  diverting  (crop-based)  feedstocks  from  their  current  use  or  purpose  to  the  production  of 
+biofuels. This relates to the fact that consumption of a feedstock to produce biofuels results in a 
+constraint on the availability of that feedstock for use in other purposes (e.g., food production). 
+This  leads  to  an  expansion  in  its  production  to  meet  market  needs.  Where  this  increase  in 
+production leads to the clearing of and/or cultivation of additional land, this can result in a loss of 
+carbon storage capacity (e.g., due to the felling of the forest) causing additional carbon emissions. 
+These emissions are attributable to the action that caused them (i.e., the production of crop-based 
+biofuels) to provide a complete system picture of the greenhouse gas profile of biofuels produced 
+from different feedstocks.  
+In the GREET Model, the iLUC emissions are calculated with the use of models that decide the 
+area  changes  of  specific  land  types  and  EFs  for  conversion  of  one  land  type  to  another.  The 
+factors responsible for iLUC emission calculations are (ibid):  
+▪ 
+▪ 
+
+the area of land that transits from one type of land use to another; and,  
+the EFs that determine specific (i.e., CO2, N2O, and CH4) or total GHG emissions per unit 
+area changed associated with specific iLUC. 
+
+When  it  comes  to  calculation  of  indirect  land-use  change  values,  it  is  not  easy  (essentially 
+impossible) to determine who causes indirect land-use change and to separate it from direct land-
+use  change.    Without  common  standards  for  the  treatment  of  different  land  use  emission 
+scenarios this leads to wide variability of outputs.  For example, in the case of biodiesel soybean, 
+the  iLUC  value  from  GREET  is  9  g  CO2e/MJ  whereas  from  RED  II  the  equivalent  value  is  55 
+
+13 
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+Comparison  of  greenhouse  gas  accounting 
+principles between the US and the EU 
+
+gCO2e/MJ.  Thus,  bearing  this  uncertainty  in  mind,  the  addition  of  the  iLUC  contribution  to  the 
+lifecycle  emissions  has  been  shown  to  outweigh  the  benefits  of  using  some  potential  biofuel 
+feedstocks, especially soy and palm oil in Europe and the implementation of the RED II directive 
+has restricted the amount of biofuel production from traditional crop-based feedstock to limit the 
+impact of indirect land-use change emissions.  
+Therefore,  to  be  compatible  with  the  European  values  and  the  new  ISO  14083,  iLUC  is  not 
+included into the GHG emission factors but given separately. 
+
+Methane Slip 
+Over  the  years  there  has  been  much  debate  about  the  potential  benefits  of  gaseous  fuels, 
+particularly  natural  gas,  as  part  of  the  energy  transition  to  a  low-carbon  transport  sector.  The 
+debate arises because  methane  is both volatile  and  a strong greenhouse gas, meaning that it 
+does not take much leakage to negate any benefit from the theoretical benefits that might result 
+from full combustion of what is potentially a more energy-efficient fuel.  
+The scope of this study does not include an in-depth discussion of this issue. Initial comparison 
+of GREET with European databases has concluded that GREET takes methane slip into account, 
+whereas many of the European databases do not, limiting their analysis to an assumption of full 
+combustion. Nevertheless, a recent Smart Freight Centre analysis in ‘The Potential of Bio-LNG 
+in  Decarbonizing  Logistics’  Whitepaper  addressed  and  estimated  the  amount  of  methane  slip 
+emissions  in  liquefied  biomethane,  and  also  included  in  the  recent  update  of  the  GLEC 
+Framework. 
+
+14 
+
+    
+ 
+ 
+ 
+ 
+ 
+Comparison  of  greenhouse  gas  accounting 
+principles between the US and the EU 
+
+3  Methodology  
+
+3.1  Database development 
+
+The GREET database builds upon past iterations of its life-cycle inventory datasets and additional 
+data  sets  that  are  compiled  from  industrial  surveys,  government  databases,  other  national 
+laboratories’  databases  and  literature.  For  baseline  technologies  and  systems,  the  values  are 
+taken from Energy Information Administration (EIA) data and annual energy outlook projections, 
+for electric systems U.S Environmental Protection Agency (EPA) eGrid, and water US geology 
+services  (M.  Wang,  2021).  The  farming  data  from  United  States  Department  of  Agriculture 
+(USDA), energy use from ethanol plants, and operational data from oil sands and shale oil are 
+used as underlying data for the field operation (H. Xu et al., 2022) (A. Elgowainy, 2019) (H. Kwon 
+and U. Lee, 2019).  
+For certain fuel production such as renewable diesel datasets, a simulation model such  as the  
+ASPEN plus model is used. As for fuel economy calculations, data is collected from the Argonne 
+National Laboratory (ANL) Autonomie database, whereas the data sets for LUC and iLUC values 
+are taken from the CCLUB model (M. Wang, 2021), (H. Kwon, 2021). In the case of vehicular 
+emission calculation, the values are based on EPA Moves and EPA AMPD (stationary) (M. Wang, 
+2021).  For  data  for  petroleum  refinery  operations,  linear  programming  models  are  used,  while 
+electricity utility dispatch models are used for marginal electricity analysis (A. Elgowainy, 2019). 
+The  inputs  from  industrial  surveys  are  used  for  the  data  collection  on  fuel  producers  and 
+technology developers with the automakers and system components producers on vehicles (H. 
+Kwon and U. Lee, 2019) (A. Elgowainy, 2019), (Argonne National Laboratory, 2014).  
+ANL  collected  datasets  for  major  biodiesel  and  renewable  diesel  pathways  through  industrial 
+surveys with the support of the National Biodiesel Board (NBB) and the North American Renders 
+Association (NARA) (H. Xu et al., 2022).  
+
+3.2  Calculation approach 
+
+combustion of fuels for heat and energy for the process, and  
+leakage through the storage and transportation of volatile fuels.  
+
+In GREET, life cycle calculation has several stages such as end-use, transportation, distribution, 
+and production, and each stage is represented as a stationary or transportation process (Argonne 
+National Laboratory, 2014). Within each process step, the emission is emitted through  
+▪ 
+▪ 
+In the result overview, emission factors (EF) are broken down into feedstock, fuels, and vehicle 
+operations.  
+The flow of the calculation in the GREET model is shown in  Figure 4: energy input accounting 
+to a process is done based on a list of resources, associated amounts and leakage rates(Argonne 
+National  Laboratory,  2021).  For  process  emissions  accounting,  notion  of  technology  is  used, 
+where technology is an abstraction defined by a set of emission factors for each of the criteria 
+pollutants. The resources used in a process can be allocated to one or more technologies and 
+then the entire life cycle is modelled once processes are combined into pathways (ibid).  
+All the resources and technologies used in the process of a pathway are combined to calculate 
+the energy and emissions associated with each pathway which has a single main product. The 
+energy  and  emissions  of  a  pathway  that  are  calculated  are  used  as  upstream  values  for  the 
+corresponding product in the case of being used as an input to any process within the model. The 
+circular references are resolved through iterative calculations. An input-output model is used for 
+each stage process within the fuel production pathway.  
+
+15 
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+Comparison  of  greenhouse  gas  accounting 
+principles between the US and the EU 
+
+Mix
+
+Pathway
+
+Process
+
+Technology
+
+Resource
+
+Figure 4 Flow of calculation in the GREET (Argonne National Laboratory, 2021) 
+
+In GREET, calculation is  based upon: 
+▪  energy consumption including total energy (energy in non-renewable and renewable sources) 
+
+and fossil fuels (petroleum, natural gas, and coal),  
+
+▪  water consumption,  
+▪  greenhouse gases (GHG) emissions and  
+▪  air  pollutant  emissions  including  volatile  organic  compounds,  carbon  monoxide,  nitrogen 
+oxides, particulate matter with different sizes (Argonne National Laboratory, 2021), (Argonne 
+National Laboratory, 2014).  
+
+Allocation methods are based on mass, energy content, market prices or resolved via a system 
+expansion and used to assign impacts and benefits to multiple co-products of the same process 
+or from various systems providing multiple functions, e.g., products and waste management. 
+
+3.3  Fuel Description 
+
+3.3.1  Ethanol 
+
+In the U.S., ethanol has accounted for more than 10% of the gasoline market share in 2019 due 
+to blending, during which corn ethanol production has increased from 6.1 billion liters in 2000 to 
+57 billion liters in 2019 (U. Lee et al., 2021) This is further encouraged by biofuel policies like US 
+Environmental  Protection  Agency’s  (EPA’s)  Renewable  Fuel  Standard  (RFS)  and  California’s 
+Low-Carbon Fuel Standard (LCFS) (ibid).  
+The system boundaries for ethanol are similar for different feedstocks such as sugarcane, corn 
+stover,  miscanthus  etc.  To  provide  an  idea  of  the  system  boundaries,  corn-based  ethanol  is 
+shown in Figure 5, and consists of four major stages, namely farming, ethanol production, ethanol 
+transportation and distribution (T&D), and ethanol combustion.   
+All  the  GHG  emissions  i.e.,  CO2,  CH4  and  N2O  are  accounted  for  in  each  stage  as  well  as 
+upstream  emissions  of  inputs  to  each  stage  (e.g.,  electricity,  natural  gas,  fertilizer,  etc.).  The 
+ethanol combustion stage accounts for ethanol combustion emissions during vehicle operations, 
+the CO2 emissions from ethanol combustion are offset by uptake of CO2 during corn plant growth, 
+meaning that biogenic CO2 emissions from combustion are considered carbon neutral.  
+Ethanol production has significantly evolved during the past two decades mostly due to increase 
+in  both  corn  farming  and  biorefineries.  Corn  yield  per  hectare  has  grown  continuously  while 
+chemical inputs per hectare remain constant leading to a decrease in fertilizer intensities per corn 
+harvest. In addition, increased corn grain ethanol yield and reductions in energy use have reduced 
+the  life-cycle  greenhouse  gas  (GHG)  emissions  per  megajoule  (MJ)  of  corn  grain  ethanol 
+
+16 
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Comparison  of  greenhouse  gas  accounting 
+principles between the US and the EU 
+
+produced  and  used.  In  2014,  the  carbon  intensity  of  corn  ethanol  was  estimated  to  be  65.5 
+gCO2e/MJ,  including  LUC  GHG  emissions  of  9.0  gCO2e/MJ,  while  the  calculated  CI  of  corn 
+ethanol is 53.2 gCO2e/MJ (including LUC GHG emissions of 7.4 gCO2e/MJ) in 2020 (U. Lee et 
+al., 2021). 
+
+Figure 5 System boundary for Corn ethanol production in the GREET model (adapted) (ibid) 
+
+17 
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Comparison  of  greenhouse  gas  accounting 
+principles between the US and the EU 
+
+3.3.2  Biodiesel and Renewable Diesel 
+
+In  the  U.S.,  two  major  types  of  biomass-derived  diesel  are  available  in  the  market,  including 
+biodiesel  (fatty  acid  methyl  ester  biodiesel)  and  hydrogenation-derived  renewable  diesel  (RD). 
+Biodiesel (BD) is produced via the transesterification process, whereas renewable diesel (RD) is 
+produced using the catalytic hydro-processing method. 
+The system boundary shown in Figure 6 provides information on biodiesel (fatty acid methyl ester) 
+and  Renewable  diesel  (hydro  processed  esters  and  fatty  acids)  pathways  produced  from 
+vegetable oil from oilseed crops (soybean, rapeseed/canola, carinata (aka Ethiopian mustard)) 
+and  low-value  feedstocks  (inedible  beef-tallow,  Distillers  corn  oil  (DCO),  and  used  cooking  oil 
+(UCO)). For oilseed crops, key stages include biomass production (i.e., farming), oilseed crushing 
+and oil extraction, biofuel conversion, and fuel distribution and consumption. In the case of tallow 
+and UCO pathways, key stages are grease/oil rendering, biofuel conversion, and fuel distribution 
+and consumption. Within all waste-based pathways for BD and RD, the most prominent feedstock, 
+inedible beef tallow which is a recovered by-product from the meat production process does not 
+share upstream emissions (e.g., livestock cultivation).  
+GHG emission reductions from producing biodiesel and renewable diesel from soybean, canola 
+(rapeseed), and carinata oils range from 40% to 69% including land-use change estimations when 
+compared with petroleum diesel. In comparison, the waste feedstocks such as animal fats, used 
+cooking oil, and distillers corn oil to biodiesel and renewable diesel could achieve greater WTW 
+GHG reductions of 79% to 86% compared to fossil diesel  (H. Xu et al., 2022), (B. Riazi, 2020), 
+(R. Chen et al., 2017-2018). The key factors driving biodiesel and renewable diesel lifecycle GHG 
+emissions consist of land-use change, allocation methods influencing the values, fertilizer use, 
+nitrous  oxide  used  in  crop  farming,  energy  inputs  to  grease  rendering  and  the  energy  and 
+chemical inputs for biofuel conversion (H. Xu et al., 2022). 
+
+Figure 6 System boundaries for biodiesel and renewable diesel pathway (adapted) (H. Xu et al., 
+2022) 
+
+For oilseed feedstock-based biodiesel, the GHG emissions are lower than for the RD route as the 
+transesterification  process  is  less  energy-intensive  than  hydro-processing.  On  the  other  hand, 
+animal waste biodiesel has slightly higher emissions than the RD from animal fats due to higher 
+energy  use  for  pre-treatment  (ibid).  The  process  level  hybrid  allocation  method  is  used  for 
+attributing the energy use and emissions to the various products ranging from oilseed crushing, 
+animal  fat  rendering  and  biofuel  conversion.  A  mass  based  allocation  is  used  for  both  oilseed 
+crushing and animal fat rendering due to oilseed meals and MBM having protein or feed products 
+
+18 
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Comparison  of  greenhouse  gas  accounting 
+principles between the US and the EU 
+
+rather than energy products. An alternative allocation method based on market based allocation 
+was  also  applied  to  both  oilseed  crushing  and  animal  fat  rendering  to  check  the  sensitivity  of 
+results for a different coproduct allocation method. For renewable diesel production, the energy 
+based allocation method was used because co products from hydro processing- fuel gas, LPG, 
+and naphtha are energy based products. For biodiesel production, market based allocation was 
+used as the co product glycerin from the transesterification process is not an energy product.  
+
+In  the  U.S.,  the  production  and  consumption  of  biomass-derived  diesel  have  been  expanding 
+steadily in the past decade. Biodiesel production has increased from 1.3 billion liters a year to 
+more than 7.1 billion liters in 2020 (ibid), (U.S. Energy Information Administration, 2022) guided 
+primarily by U.S. biofuel policies such as Renewable Fuel Standard and California Low-Carbon 
+Fuel Standard. 
+
+3.3.3  Liquified Biomethane (Bio-LNG) 
+
+In the US, between 8 and 77 million dry tons of sludge is generated from wastewater treatment 
+plants (WWTP) and municipal solid waste (MSW) (EPA, 2006) (U. Lee et al., 2016). Sludge, which 
+is commonly treated in Anaerobic Digesters (AD), produces biogas that is largely flared to reduce 
+methane emissions. Sludge has a homogeneous characteristic and high energy content and can 
+be  used  as  a  potential  feedstock  for  conversion  processes  to  produce  renewable  natural  gas 
+(RNG),  which  can  be  further  processed  to  produce  compressed  biomethane  (Bio-CNG)  and 
+liquified  biomethane  (Bio-LNG)  (ibid).  When  compared  to  gasoline  and  diesel,  the  sludge  to 
+renewable natural gas via anaerobic digestion leads to WTW GHG emission reduction between 
+39% to 80%. These reductions are due to GHG credits  within  the fuel  LCA based on  avoided 
+GHG emissions under the counterfactual scenario, and/or fertilizer displacement credits(ibid). 
+As shown in Figure 7, in the system boundaries, the alternative AD case utilizes biogas for energy 
+recovery instead of flaring it as in the counterfactual scenario. There are also other processes 
+(e.g.,  sludge  collection,  digestate  storage,  dewatering,  and  disposal)  included  as  in  the 
+counterfactual scenario. After the first cleanup process, the alternative AD generates heat and 
+power in Combined Heat and Power (CHP) by burning biogas. The heat generated from CHP via 
+a boiler is used to meet the onsite thermal demand, while the electricity from CHP can be used 
+to meet the onsite electricity demand and exported if there is an excess). The rest of the cleaned 
+biogas  is  further  processed  (second  cleanup)  to  produce  pipeline-quality  RNG.  RNG  is  then 
+transmitted to refueling stations via pipeline, compressed, and used as compressed biomethane 
+(Bio-CNG) and liquified biomethane (Bio-LNG) (U. Environmental Protection Agency, 2018), (U. 
+Lee et al., 2016). 
+
+Figure  7  System  boundary  for  wastewater  sludge-based  Bio-CNG  and  Bio-LNG  via  anaerobic 
+digestion (adapted) (U. Lee et al., 2016) 
+The well-to-wheel values for Bio-LNG produced from MSW or sewage sludge are negative due 
+to avoided landfill emission (mainly CH4), which has 30 times the global warming potential (GWP) 
+of CO2, thus resulting in carbon credits for the avoided emissions (U. Lee et al., 2021) In GREET, 
+the carbon intensities of waste derived renewable natural gas is much lower than their European 
+counterparts due to low yields leading to high emission credits (ibid) 
+
+19 
+
+    
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Comparison  of  greenhouse  gas  accounting 
+principles between the US and the EU 
+
+4  Comparison of GHG databases 
+
+4.1  Comparison with European databases 
+
+In comparison to publicly available GHG databases such as JECv5, RED II, UK BEIS and CO2 
+emissiefactoren; the GREET model has a more comprehensive database and fuel availability, as 
+shown  in  Table  2.  The  GREET  model  has  been  expanded  and  regularly  updated  since  1995. 
+There  are  other  European  LCA  databases  with  wide  coverage  such  as  ecoinvent,  however,  it 
+requires a licensed fee to use. 
+The  major  difference  between  the  sources  is  the  handling  of  multifunctional  processes,  for 
+example  when  a  refinery  supplies  a  wide  range  of  products  or  when  certain  biofuel  pathways 
+produce  energy  or  animal  feed  as  a  by-product.  Oil  refineries,  which  are  highly  complex  and 
+integrated  systems  supplying  several  assorted  products  with  different  properties,  require  an 
+approach to allocate emissions to multiple products arising from the refining processes (Smart 
+Freight  Centre  and  ifeu,  2021).  In  JEC  v5,  which  utilizes  a  consequential  approach,  a  linear 
+programming  model  of  an  oil  refinery  is  used  to  check  what  changes  result  from  a  marginal 
+difference in certain refinery output. Using these results, a division of the refinery emissions  is 
+applied between the products resulting in relatively high emissions for products that are in high 
+demand such as diesel or gasoline and lower emissions (or negative emissions) for products like 
+bitumen or heavy fuel oil (ibid). This differs from the approach taken by GREET which primarily 
+uses  the  attributional  LCA  approach  to  assign  refinery  emissions,  where  the  energy  and 
+emissions burdens of individual intermediates are estimated within the refinery by allocating the 
+burdens at the process/unit level using energy allocation by default. These approaches lead to a 
+different balance in emissions across the refinery outputs. In contrast to JEC v5, the RED II follows 
+a mainly attributional approach by allocating the process emissions to products according to the 
+share of the energy content.  
+The  UK  BEIS  and  CO2emissiefactoren  website  data  have  a  similar  approach  as  their  primary 
+function  is  to  provide  information  in  a  particular  format  that  is  more  directly  useable  by 
+practitioners, whether companies with a need to report emissions or those that support them to 
+do  so.  UK  BEIS  provides  much  greater  detail  in  the  background  and  breakdown  of  emission 
+factors  with  a  more  comprehensive  self-contained  analysis,  whereas  the  CO2emissiefactoren 
+website generally includes data from well-regarded external sources. Both data sources can be 
+traced back to the JEC WTW v4 study published in 2014.  
+The  attributional  approach  is  generally  preferred  for  GHG  accounting  since  it  is  based  on  the 
+typical emissions from the fuels, whereas the consequential approach is more appropriate for use 
+in  assessing  changes  away  from  the  current  situation  and  looking  at  the  effect  of  substituting 
+current fuels or production processes with alternative technologies and feedstocks. 
+
+Table  2  Overview  of  scope  and  methodological  approach  (Adapted  and  edited  from  the 
+GHG emission factors for road freight vehicles (Smart Freight Centre and ifeu, 2021)) 
+
+GREET 
+
+JEC WTW 
+study v5 
+
+RED II 
+
+CO2 emissie-
+factoren 
+
+UK BEIS 
+
+Scope  
+
+Time period validity 
+
+2021 and 
+2035+ 
+
+2016 and 
+2025+ 
+
+2018 
+
+2020 
+
+2019 
+
+New energy 
+infrastructure 
+construction included 
+
+No 
+
+No 
+
+No 
+
+No 
+
+Geographic boundary  USA 
+
+Europe 
+
+Europe 
+
+Fuel Cycle  WTT 
+
+Disaggregation of 
+WTT elements 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+NL 
+
+Yes 
+
+Yes 
+
+Yes, partially  No 
+
+UK 
+
+Yes 
+
+No 
+
+20 
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Comparison  of  greenhouse  gas  accounting 
+principles between the US and the EU 
+
+TTW 
+
+Emissions  CO2 
+
+CO2e 
+
+CH4 contribution 
+separated 
+
+N2O contribution 
+separated 
+
+Land use 
+
+Land Management 
+Changes 
+
+Direct LUC 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+No 
+
+No 
+
+Yes, partially  Yes 
+
+No 
+
+Yes 
+
+No 
+
+No 
+
+No 
+
+No 
+
+Yes 
+
+No 
+
+No 
+
+No 
+
+Yes, partially  No 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+No 
+
+No 
+
+Allocation 
+approach 
+
+Indirect LUC 
+
+Yes, partially  Yes, partially  Yes, partially  Yes, partially  No 
+
+Attributional 
+
+Yes 
+
+No 
+
+Yes 
+
+Consequential 
+
+Yes, partially  Yes 
+
+Yes, energy 
+allocation 
+
+Implied 
+
+Mixed 
+
+Yes 
+
+Yes 
+
+Approach to biogenic 
+emissions 
+
+Approach to waste 
+feedstock 
+
+CO2 balance  CO2 balance  CO2 balance  CO2 balance 
+
+ CO2 balance 
+
+emission free  emission free  emission free 
+
+emission free 
+
+Fuel 
+properties 
+
+Density and heating 
+value provided? 
+
+Yes, lower 
+and higher 
+heating values 
+
+Yes, lower 
+heating value 
+
+Yes, lower 
+heating value 
+
+No 
+
+Yes, lower 
+heating value 
+
+Vehicle 
+cycle 
+
+Is vehicle life cycle 
+provided 
+
+Yes 
+
+No 
+
+No 
+
+No 
+
+No 
+
+In GREET, emission factor values are subdivided into feedstock, fuel and vehicle operation.  In 
+reporting  the  emission  factors  from  the  GREET  model,  the  TTW  value  consists  of  traditional 
+greenhouse gases (CO2, CH4 and N2O) and air pollutants such as CO (carbon monoxide) & VOC 
+(volatile organic compound) which are oxidized into CO2.  
+The  GHG  emission  factor  values  from  the  GREET  model,  which  are  subdivided  into  different 
+emission categories apart from CO2, are clearly mentioned, whereas for RED II  this is not the 
+case. For JECv5, the emissions are split into CO2, CH4 and N2O based on IPCC 2007, however, 
+the exact characterization factors are not stated in the text or excel file. However, to be consistent 
+with guidelines from GHG protocol, the GLEC Framework does not include CO & VOC values, 
+only  CH4 and N2O values  are  included. However, CO & VOC values  are counted  in their fully 
+oxidized form as CO2 in the GREET model. 
+Furthermore, when calculating TTW values for biobased fuels, (biogenic) CO2 is considered zero 
+due  to  the  assumption  that  CO2  that  is  released  was  previously  absorbed  by  plants  and 
+animals[10], [30]. In the case of biomethane from all waste based feedstocks, there is credit for 
+avoiding direct methane emissions given to the output.  
+On a case-by-case basis, the GHG emissions from feedstock cultivation can be higher for certain 
+biofuels  in  Europe  as  compared  to  North  America  due  to  the  contribution  of  land-use  change 
+emissions and the productivity and yield capacity of the feedstock. In Europe, a high proportion 
+of  the  feedstocks  is  imported  whereas  the  balance  appears  to  favor  domestically  grown  or 
+produced feedstocks in the US. 
+
+21 
+
+    
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+Comparison  of  greenhouse  gas  accounting 
+principles between the US and the EU 
+
+4.2  Coverage of fuels 
+
+In a comparison of all the approaches of the sources for road fuel pathways, Table 3 sets out a 
+summary of the coverage. The coverage of CO2emissiefactoren and UK BEIS reflects fuels that 
+currently exist in the market, whereas RED II focuses on biofuels and the JEC WTW v5 presents 
+a broad set  of current  and potential future road transport fuels as  possible for  the  EU market, 
+while  GREET  presents  an  extensive  set  of  fuel  production  pathways  for  the  North  American 
+market. 
+Currently, GREET consists of more than 100 production pathways (for fuels and products) from 
+various  energy  feedstock  sources  including  conventional  fossil  resources  such  as  petroleum, 
+natural  gas,  and  coal  along  with  renewable  fuel  pathways  from  corn,  sugarcane,  soybeans, 
+cellulosic biomass, waste feedstocks, etc. The JECv5 study also contains many fuel categories 
+such as fossil-derived fuels, biofuels from vegetable oil, ethers, hydrogen, etc. in contrast RED II 
+only  contains  biofuels.  Compared  to  sources  in  Europe,  GREET  is  not  limited  to  the  HVO 
+(Hydrotreated  vegetable  oil)  process  to  produce  renewable  diesel,  it  also  includes  other 
+processes  such  as  gasification,  pyrolysis  and  other  biochemical  and 
+thermochemical 
+technologies.  
+The only similarity between all these sources is coverage of the conventional biofuels such as 
+HVO, bioethanol and biodiesel that are well enough established in the market.  
+
+22 
+
+    
+ 
+ 
+ 
+ 
+Comparison  of  greenhouse  gas  accounting 
+principles between the US and the EU 
+
+Table 3 Overview of coverage of fuel types (Adapted and edited from the GHG emission 
+factors for road freight vehicles) 
+
+GREET  JEC v5  RED II 
+
+CO2 
+emissie-
+factoren 
+
+UK 
+BEIS 
+
+Fossil fuels  
+
+Biofuels  
+
+Synthetic4 and e-
+fuels  
+
+Diesel  
+
+Gasoline 
+
+LNG  
+
+LPG 
+
+CNG  
+
+Dimethyl ether 
+
+Hydrogen (from methane)  
+
+Biodiesel  
+
+Renewable Diesel via another process2 
+
+HVO  
+
+Liquified Biomethane (LBM) Bio-LNG 
+
+Compressed Biomethane (CBM) /Bio-
+CNG 
+
+Bio methanol  
+
+Bioethanol  
+
+Biohydrogen3  
+
+Synthetic diesel  
+
+Synthetic methanol  
+
+Synthetic LNG  
+
+Synthetic CNG  
+
+eDiesel  
+
+eMethanol  
+
+eEthanol 
+
+eLNG  
+
+eCNG  
+
+eHydrogen  
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes  
+
+No 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+No 
+
+Yes1  
+
+No 
+
+No 
+
+No 
+
+No  
+
+No 
+
+No  
+
+Yes 
+
+Yes 
+
+Yes  
+
+Yes 
+
+Yes  
+
+No 
+
+Yes 
+
+No 
+
+Yes 
+
+Yes 
+
+No 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+No 
+
+No  
+
+Yes 
+
+No 
+
+Yes  
+
+Yes  
+
+Yes  
+
+Yes  
+
+Yes 
+
+No 
+
+No 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+No 
+
+No 
+
+No 
+
+Yes 
+
+Yes 
+
+Yes 
+
+No 
+
+No 
+
+No 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+No 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+No  
+
+Yes 
+
+No 
+
+No 
+
+No 
+
+No 
+
+No 
+
+No 
+
+No 
+
+No 
+
+No 
+
+No 
+
+No 
+
+No 
+
+No 
+
+No 
+
+No 
+
+No 
+
+No 
+
+No 
+
+No 
+
+No 
+
+No 
+
+Yes 
+
+No 
+
+No 
+
+Yes 
+
+Yes 
+
+No  
+
+No 
+
+No 
+
+No 
+
+No 
+
+No 
+
+No 
+
+No 
+
+No 
+
+No 
+
+No 
+
+4.3  Compatibility with the GLEC approach 
+
+Although the GREET and the GLEC Framework have many similarities in accounting principles, 
+which  are  highly  compatible,  there  are  slight  methodological  differences.  There  are  some 
+inconsistencies in the GHG accounting rules among the emission factor developers, regulatory 
+operators such as Low Carbon Fuel  Standard used by GREET model and Renewable Energy 
+
+1 RED II provides a fossil comparator at 94g CO2e/MJ (WTW), irrespective of the type of fossil fuel   
+2 via gasification, pyrolysis, and other biochemical and thermochemical technologies 
+3 Includes liquid and gaseous forms of H2 
+4 Gas-to-liquid 
+
+23 
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+    
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+ 
+ 
+ 
+Comparison  of  greenhouse  gas  accounting 
+principles between the US and the EU 
+
+Directive  used  in  Europe,  and  standard  developers  (e.g.  GHG  protocol  used  by  the  GLEC 
+Framework). This creates uncertainty in the market for fuel suppliers and end-users intending to 
+use  low-emission  fuels  e.g.,  biofuels.  This  leads  to  an  aggravated  issue  when  a  certain 
+corporation’s transport operation spans different regulatory boundaries such as Europe and the 
+US.  
+An example could be the Low Carbon Fuel Standard, intending to incentivize the fuel market in 
+California, which includes avoided emissions to the carbon intensity for biofuels reported in the 
+GREET  model,  whereas  the  GHG  Protocol  does  not,  as  reported  in  the  GLEC  Framework. 
+Instead,  the  GHG  Protocol,  which  sets  the  standard  for  corporate  emission  accounting, 
+recommends that avoided emissions are not to be added into the Scope 3 when calculating the 
+final  WTT  values.  End-users  accounting  GHG  emissions  are  confused  by  these  different 
+approaches and how to account for these principles in their reporting structure.  
+Therefore, it is required to modify the GREET emission values for example for renewable natural 
+gas due to credits for avoided emissions as it leads to negative value which is not in line with the 
+attributional  approach  followed  by  the  GLEC  Framework  and  ISO  14083.  Thus,  the  report 
+currently shows the emission factors of fuels as represented in the GREET model for the time 
+being,  however,  to  be  included  in  and  aligned  better  with  the  GLEC  Framework,  these  values 
+need to be modified. Thus a common consensus is required for the freight sector with a special 
+focus  on  harmonizing  emission  factors  across  Europe  and  the  US,  and  expanding  further  to 
+accommodate a global emission database in the near future. 
+Other challenges faced by fuel suppliers  in the GLEC  Framework revolve around dealing with 
+biogenic  and  industrial  removals,  credit  schemes,  and  the  inclusion  of  iLUC.  iLUC  values  are 
+provided separately if necessary and are not included in well-to-wheel values as the methodology 
+to  estimate  iLUC  is  still  relatively  new  and  more  uncertain  than  other  aspects  of  the  emission 
+factors.  Due  to  the  uncertainty,  none  of  the  sources  directly  include  the  impacts  of  land-use 
+change; however, GREET, RED II and JECv5 do include a possible range of iLUC impacts from 
+certain crop-based biofuels (e.g., corn, palm oil, sugarcane, rapeseed, soybean).  
+
+24 
+
+    
+ 
+ 
+ 
+ 
+ 
+Comparison  of  greenhouse  gas  accounting 
+principles between the US and the EU 
+
+5  Results 
+
+The objective of this report to publish well-founded information about the life cycle GHG emissions 
+of potential  low  emission transition fuels for road freight  in the US has been achieved through 
+outlining  an  overview  of  the  GHG  emission  factors  from  the  GREET  model.  The  report  has 
+identified similarities and differences between GREET and European databases such as JECv5 
+and RED II, based on their calculation approach and accounting rules. Emission factors for the 
+same fuel can vary a lot depending on the database. This will form a base for the upcoming GLEC 
+update  and  already  helped  in  the  development  of  the  US  emission  factors  in  ISO  14083 
+(forthcoming). 
+Fuel  emission  factors  depend  on  the  region  of  operation  due  to  different  feedstock  mixes  and 
+region-specific processes or energy provision emissions (e.g., electricity used). iLUC is relevant 
+and in some cases, a significant contributor to the overall greenhouse gas emissions of biofuel 
+and is, therefore, important to consider. In GREET, CCLUB is used to identify iLUC values for 
+different feedstocks, which are available on the Argonne National Laboratory website. In the EU, 
+the RED II directive has provided iLUC values. As an end-user calculating the emission factors of 
+fuels, iLUC values can be added using the respective databases. 
+However,  due  to  high  uncertainties  in  the  exact  values  of  iLUC  emissions,  SFC  in  the  GLEC 
+Framework  currently  do  not  include  iLUC  into  the  calculation  of  emission  factors.  In  the  near 
+future, it is anticipated that iLUC values will be more widely available and reliant and therefore 
+consolidated data on iLUC will be incorporated in the freight emission reporting.  
+The results of this report can be further subdivided into two parts. One part identifies the structural 
+differences between, and similarities among GREET, JECv5 and RED II,  the other part shows 
+the outcome of the comparison of the emission factor values between the US and Europe. 
+
+5.1  Comparison of the structure  
+
+The report has identified various differences and similarities among the GREET model, JECv5 
+and RED II models.  Table 4 provides the comparison of the emission factors of the fuel types for 
+road freight in both Europe and North America: 
+
+25 
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+Comparison  of  greenhouse  gas  accounting 
+principles between the US and the EU 
+
+Table 4 Comparison of the GHG emission factors for road freight 
+
+GREET 
+
+JEC v5 
+
+RED II5 
+
+SI engine  
+
+WTT6    TTW7    WTW8    WTT 
+
+TTW 
+
+WTW 
+
+WTT 
+
+TTW  WTW 
+
+g CO2e/MJ  
+
+Gasoline 
+
+Ethanol-Corn Stover 
+
+Ethanol- Sugarcane 
+
+Ethanol- Corn 
+
+ Ethanol-Miscanthus 
+
+17.1 
+
+12.6 
+
+25.9 
+
+55.3 
+
+-1.3 
+
+73.0 
+
+90.2  
+
+0.3 
+
+0.3 
+
+0.3 
+
+12.9 
+
+26.3 
+
+55.6 
+
+  0.3 
+
+  -1.010 
+
+Ethanol-Switchgrass 
+
+16.5 
+
+0.3 
+
+16.8 
+
+CI engine   
+
+Diesel 
+
+Biodiesel-Soybean 
+
+Biodiesel-Rapeseed 
+
+Biodiesel-Corn oil 
+
+Biodiesel-Waste  Cooking 
+Oil 
+
+Biodiesel-Algae 
+
+Biodiesel-Tallow 
+
+15.5 
+
+16.5 
+
+25.9 
+
+5.8 
+
+7.6 
+
+44.8 
+
+14.8 
+
+75.0 
+
+4.111 
+
+4.1 
+
+4.1 
+
+4.1 
+
+4.1 
+
+3.9 
+
+Renewable Diesel-Tallow  17.7 
+
+0.112 
+
+Diesel-
+
+23.4 
+
+0.1 
+
+90.5 
+
+20.6 
+
+30.0 
+
+9.9 
+
+11.7 
+
+48.9 
+
+18.7 
+
+17.7 
+
+23.4 
+
+17.0 
+
+NA 
+
+23.5 
+
+57.3 
+
+NA 
+
+NA 
+
+18.9 
+
+55.8 
+
+48.4 
+
+NA 
+
+8.3 
+
+NA 
+
+13.8 
+
+16 
+
+60.2 
+
+Diesel-
+
+33.0 
+
+0.1 
+
+33.1 
+
+51.9 
+
+Renewable 
+Soybean 
+
+Renewable 
+Rapeseed 
+
+LNG 
+
+73.4 
+
+90.4 
+
+NA 
+
+NA 
+
+0 
+
+0 
+
+NA 
+
+NA 
+
+73.2 
+
+0 
+
+0 
+
+NA 
+
+0 
+
+23.5 
+
+57.3 
+
+NA 
+
+NA 
+
+92.1 
+
+55.8 
+
+48.4 
+
+NA 
+
+8.3 
+
+NA9 
+
+NA 
+
+28.1 
+
+48.5 
+
+NA 
+
+NA 
+
+NA 
+
+NA 
+
+0 
+
+0 
+
+NA 
+
+NA 
+
+NA 
+
+NA 
+
+28.1 
+
+48.5 
+
+NA 
+
+NA 
+
+NA 
+
+42.2 
+
+45.5 
+
+NA 
+
+NA 
+
+0 
+
+0 
+
+42.2 
+
+45.5 
+
+NA 
+
+NA 
+
+NA 
+
+11.2 
+
+0 
+
+11.2 
+
+NA 
+
+NA 
+
+NA 
+
+NA 
+
+NA 
+
+0 
+
+0 
+
+0 
+
+0 
+
+13.8 
+
+16 
+
+60.2 
+
+15.3 
+
+16 
+
+41.9 
+
+51.9 
+
+45.8 
+
+0 
+
+0 
+
+0 
+
+0 
+
+NA 
+
+NA 
+
+7.9 
+
+15.3 
+
+16 
+
+41.9 
+
+45.8 
+
+NA 
+
+NA 
+
+58.4 
+
+Bio-LNG Landfill gas 
+
+Bio-LNG- Maize 
+
+19.1 
+
+73.8 
+
+NA 
+
+57.6 
+
+76.7 
+
+1.1 
+
+NA 
+
+74.9 
+
+NA 
+
+16.6 
+
+NA 
+
+30.6 
+
+55.1 
+
+71.7 
+
+NA 
+
+7.9 
+
+NA 
+
+30.6 
+
+NA 
+
+NA 
+
+50.5 
+
+5 RED II values are typical values 
+6 Well-to-tank 
+7 Tank-to-wheel 
+8 Well-to-wheel 
+9 Not available 
+10  Due to Miscanthus being a dedicated energy crop with high biomass carbon and SOC sequestration (roots)[31], [32] 
+11 4.02 gCO2e/MJ is a constant combustion value due to the burning of fossil methanol included in all types of biodiesels 
+12 Rounded off from 0.05 to 0.1 
+
+26 
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+   
+   
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Comparison  of  greenhouse  gas  accounting 
+principles between the US and the EU 
+
+Bio-LNG- Wet manure 
+
+-104.113 
+
+ 1.1 
+
+ -103.0 
+
+-30.1 
+
+7.9 
+
+-22.2 
+
+-31.4 
+
+7.9 
+
+-23.5 
+
+▪  GREET has very extensive alternative fuel production pathways and covers more fuel types 
+than RED II or JEC v5. However, the possibilities to include all fuel pathways in this report  
+are limited due to availability of feedstock and products in each particular regional market for 
+low emission fuels used in road freight. 
+
+▪  Breakdown of tailpipe emissions in the GREET model are separately mentioned and divided 
+into  the  three  traditional  greenhouse  gases  (CO2,  CH4,  and  N2O)  and  the  air  pollutant 
+emissions from transportation fuels. Volatile organic compounds (VOC) and carbon monoxide 
+(CO) are counted in their fully oxidized forms as CO2. Whereas, in the case of JECv5 and 
+RED II, they are not separately reported.  
+
+▪  Based  on a case by case  comparison, emission factor values for feedstock cultivation  are 
+higher for Europe as most of the feedstock is imported, whereas in North America due to high 
+productivity  and  yield  for  domestically  produced  feedstock,  the  contribution  of  feedstock 
+cultivation to the emission factor is lower. 
+
+▪  When considering renewable diesel, GREET is not limited to HVO (Hydrotreated vegetable 
+oil) as it also considers other alternative processes based on gasification, pyrolysis and other 
+biochemical and thermochemical technologies.  
+
+▪  For the reporting and calculation of iLUC values, GREET includes more consistent and robust 
+values than RED II and JECv5 based on the calculation approach described in the CCLUB 
+and GTAP-Bio model. However, since there is no consistent way of calculating iLUC across 
+different geographies and associated with different crop-based feedstocks, iLUC is therefore 
+presently not included in the calculation of emission factors in the GLEC Framework. 
+
+▪  The  corn  stover  industry  which  collects,  processes  and  transfers  corn  stover  to  biofuel 
+industries do not need additional land to provide feedstocks but pays higher fertilizer costs to 
+maintain productivity of land. Corn stover has little impact on LUC, however, biofuel produced 
+from corn stover does not need land, it affects the land prices and marginally causes some 
+reforestation  based  on  general  equilibrium  model.  In  the  real  world,  corn  stover  biofuel 
+production may produce some changes in corn-soy rotation in the short run (F. Taheripour 
+and W. E. Tyner, 2013). 
+
+▪  Ethanol  produced  from  miscanthus  and  switchgrass  has  negative  LUC  due  to  net  carbon 
+sequestration, as both crops are dedicated energy crops with high biomass carbon and soil 
+organic carbon (SOC) sequestration (roots) (ibid), (X. Zhao et al., 2021). 
+
+▪  Biofuels produced from waste streams such as used cooking oil, do not carry iLUC emissions 
+since their use does not impact land use. It is therefore important to consider what the indirect 
+emissions  associated  with  a  feedstock  are  when  assessing  the  emissions  performance  of 
+various sources of biofuel. Currently, only values of iLUC for soybean and rapeseed-based 
+biodiesel for the North American region can be found in the CCLUB model. 
+
+From the initial comparison, it can be concluded that GREET values have some minor differences 
+from  their  counterparts  in  Europe.  These  minor  differences  need  to  be  acknowledged  and 
+adjusted to be incorporated in the GLEC Framework and ISO 14083. For example, the biogas 
+values  are  not  included  in  the  ISO  14083,  due  to  the  credits  for  avoided  emissions  leading  to 
+negative values as it is not in line with the attributional approach followed by ISO 14083 and the 
+GLEC Framework. 
+
+5.2  Comparison of emission factors 
+
+The following figures show results for comparison of emission factors (composed of WTT, TTW 
+and WTW)  for GREET, JECv5 and RED II typical values.  
+
+13 Carbon credits from avoided emissions 
+
+27 
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Comparison  of  greenhouse  gas  accounting 
+principles between the US and the EU 
+
+In  Figure  8,  in  comparison  to  fossil  gasoline,  the  WTW  GHG  reduction  of  bioethanol  from 
+sugarcane is   65%. However, there is a small fraction of methane and N2O is present in the TTW 
+values of ethanol produced from sugarcane and corn in the GREET model. Comparing different 
+GHG databases, ethanol produced from sugarcane has almost similar emission values. However, 
+for ethanol produced from corn, the emission values differ due to  differences in procurement of 
+feedstocks as corn is domestically produced in the USA, while it is mainly imported into Europe. 
+
+Comparison of Emission factor of Gasoline and substitutes
+
+WTT
+
+TTW WTW
+
+/
+
+)
+J
+M
+e
+2
+O
+C
+g
+(
+
+r
+o
+
+t
+c
+a
+
+f
+
+i
+
+n
+o
+s
+s
+m
+E
+
+i
+
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+
+GREET
+
+JEC v5
+
+GREET
+
+JEC v5
+
+RED II
+
+GREET
+
+JEC v5
+
+RED II
+
+Gasoline
+
+Ethanol-Sugarcane
+
+Ethanol-Corn
+
+ Figure 8 Overview of emission factors for ethanol and substitutes  
+
+In Figure 9, comparing the WTW value of biodiesel from soybean, the value from GREET is at 
+least 50% lower than the value from JECv5. The most likely reason for this is the production of 
+soybean  domestically  in  the  US,  whereas  in  Europe  it  is  mainly  imported.  For  100%  biodiesel 
+blends in the GREET, the emission values include fossil methanol which acts as a denaturant 
+has an emission value of 4.02g CO2e/MJ. 
+Biodiesel values have lower WTW emissions than renewable diesel due to the energy required 
+for producing renewable diesel being much higher. The renewable diesel values  in the GREET 
+model are taken from the ASPEN+ model which is a leading chemical process simulator in the 
+market. Only first and second-generation feedstocks for biodiesel and renewable diesel can be 
+seen (for 3rd generation feedstock values refer to the GREET1 model). 
+
+28 
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Comparison  of  greenhouse  gas  accounting 
+principles between the US and the EU 
+
+100
+
+Comparison of Emission factor of Diesel and substitutes
+
+WTT
+
+TTW WTW
+
+/
+
+)
+J
+M
+e
+2
+O
+C
+g
+(
+
+r
+o
+
+t
+c
+a
+
+f
+
+i
+
+n
+o
+s
+s
+m
+E
+
+i
+
+90
+
+80
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+T
+E
+E
+R
+G
+
+5
+v
+C
+E
+J
+
+T
+E
+E
+R
+G
+
+5
+v
+C
+E
+J
+
+I
+I
+
+D
+E
+R
+
+T
+E
+E
+R
+G
+
+5
+v
+C
+E
+J
+
+I
+I
+
+D
+E
+R
+
+T
+E
+E
+R
+G
+
+5
+v
+C
+E
+J
+
+I
+I
+
+D
+E
+R
+
+T
+E
+E
+R
+G
+
+5
+v
+C
+E
+J
+
+I
+I
+
+D
+E
+R
+
+T
+E
+E
+R
+G
+
+5
+v
+C
+E
+J
+
+I
+I
+
+D
+E
+R
+
+T
+E
+E
+R
+G
+
+5
+v
+C
+E
+J
+
+I
+I
+
+D
+E
+R
+
+T
+E
+E
+R
+G
+
+5
+v
+C
+E
+J
+
+I
+I
+
+D
+E
+R
+
+Diesel
+
+Biodiesel-
+Soybean
+
+Biodiesel-
+Rapeseed
+
+Biodiesel-
+Waste
+Cooking Oil
+
+Biodiesel-
+Tallow
+
+Renewable
+Diesel (HVO)-
+Tallow
+
+Renewable
+Diesel-
+Soybean
+
+Renewable
+Diesel-
+Rapeseed
+
+Figure 9 Overview of emission factor for diesel and substitutes 
+
+Emission factors are generally shown on the basis of each fuel (energy carrier).  In Figure 10, 
+however, methane-based fuels present a difficulty in that  as the overall emissions depends on 
+the extent of methane slip, which itself depends on the effectiveness of the engine in preventing 
+this  leakage  of  methane,  a  powerful  greenhouse  gas  in  its  own  right,  to  the  atmosphere.  .  In 
+GREET, the carbon intensities of waste derived renewable natural gas is much lower than their 
+European  counterparts  leading  to  high  emission  credits  and  negative  emission  factors.  In 
+comparison, the Bio-LNG value from waste stream for GREET is at least 78% lower than the JEC 
+v5 value mainly due to carbon credits.  
+Bio-LNG values vary significantly due to the difference in emissions linked to each feedstock and 
+process combination.  Credits for the avoided emission of CH4 make a significant contribution for 
+some options.  
+
+29 
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Comparison  of  greenhouse  gas  accounting 
+principles between the US and the EU 
+
+Comparison of Emission factor of LNG and substitutes
+
+WTT
+
+TTW WTW
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+
+-20
+
+-40
+
+-60
+
+-80
+
+/
+
+)
+J
+M
+e
+2
+O
+C
+g
+(
+
+r
+o
+
+t
+c
+a
+
+f
+
+i
+
+n
+o
+s
+s
+m
+E
+
+i
+
+-100
+
+-120
+
+GREET
+
+JEC v5
+
+GREET
+
+JEC v5
+
+RED II
+
+GREET
+
+JEC v5
+
+RED II
+
+LNG
+
+Bio-LNG- Landfill gas
+
+Bio-LNG- Wet Manure
+
+Figure 10 Overview of emission factors for LNG and substitutes 
+
+It can be concluded that there are many similarities in RED II, JECv5 and GREET model, with 
+three  differences  in  accounting:  (i)  accounting  of  methane  slip,  (ii)accounting  of  iLUC,  and  (iii) 
+accounting of avoided emissions. The JECv5 follows consequetional approach as compared to 
+RED  II  attributional  approach,  GREET  follows  a  hybrid  approach  where  both  attribuitional  and 
+consequetional are used. There is a further variation in completeness of different feedstocks/fuel 
+pathways  which  can  be  explained  from  different  availability  and  pathways.  Thus,  there  is  a 
+particular need for harmonization of approaches for emission factors between the US and Europe 
+with development of principles when developing emission factors for GHG emission reporting, in 
+particular for emission factors that are evolving over time.  
+
+It  is  recommended  that  the  methane  slip  should  be  included  in  the  emission  factors  moving 
+forward (as it is currently included in the GLEC Framework). iLUC should be reported seperately 
+considering the current Land Sector Removals Guidance, until there is a reliable and consistent 
+way to estimate iLUC values. 
+
+30 
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Comparison  of  greenhouse  gas  accounting 
+principles between the US and the EU 
+
+6  Future work 
+
+This  report  has  highlighted  the  major  differences  between  and  similarities  among  the  fuel 
+emission factors commonly used in Europe and the US. However, it is recommended to consider 
+the following at later stages to provide a better understanding of the calculation of emission factors 
+for low emission fuels. 
+▪  Address  the  (i)  inclusion  of  methane  slip,  and  (ii)  avoided  emissions  in  GHG  accounting 
+
+principles for the end-users to have a universal accounting and reporting structure. 
+
+▪  Develop principles to take into account when developing emission factors for GHG emission 
+reporting, in particular as emission factors are evolving over time due to the introduction of 
+new energy carriers, the available technology for the production of fuels improves, and lower 
+emission energy sources are deployed to power production processes.  
+
+▪  Review  how  iLUC  emissions  can  be  estimated  with  greater  reliability,  such  that  it  can  be 
+
+included in freight emissions reporting and the GLEC Framework emission factors. 
+
+Future  work  will  include  reviewing  the  availability  of  synthetic  and  e-fuels  in  the  market,  their 
+respective emission factors and their importance to be included in the GLEC Framework. 
+
+31 
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Comparison  of  greenhouse  gas  accounting 
+principles between the US and the EU 
+
+7  References 
+
+A. Elgowainy, J. Kelly, Q. Dai, P. Sun, and X. Liu (2019). Life Cycle Analysis (LCA) of BEV and 
+
+H 2 FCEV with the GREET® Model. 
+
+A. Elgowainy, Z. Lu, and P. Sun (2019). Life Cycle Analysis (LCA) of Petroleum-Based Fuels with 
+
+the GREET® Model. 
+
+Argonne National Laboratory (2021). Summary of Expansions and Updates in GREET ® 2021 
+
+Energy Systems Division. [Online]. Available: www.anl.gov. 
+
+Argonne National Laboratory (2021). Argonne GREET Model. https://greet.es.anl.gov/index.php 
+
+(accessed Mar. 17, 2022). 
+
+B. Riazi, J. M. Mosby, B. Millet, and S. Spatari (2020). Renewable diesel from oils and animal fat 
+waste:  implications  of  feedstock,  technology,  co-products  and  ILUC  on  life  cycle  GWP. 
+doi: 
+Resources,  Conservation 
+10.1016/J.RESCONREC.2020.104944. 
+
+and  Recycling, 
+
+104944, 
+
+161, 
+
+vol. 
+
+p. 
+
+C.  Panoutsou  et  al.,  (2021).  Advanced  biofuels  to  decarbonise  European  transport  by  2030: 
+Markets,  challenges,  and  policies  that  impact  their  successful  market  uptake.  Energy 
+Strategy Reviews, vol. 34, p. 100633. doi: 10.1016/J.ESR.2021.100633. 
+
+Center for Transportation Research Energy Systems Division and Argonne National Laboratory 
+
+(2014). GREET LIFE-CYCLE MODEL.  
+
+D. J. Spurgeon, A. M. Keith, O. Schmidt, D. R. Lammertsma, and J. H. Faber (2013). Land-use 
+and land-management change: relationships with earthworm and fungi communities and 
+soil structural properties. BMC Ecol, vol. 13, doi: 10.1186/1472-6785-13-46. 
+
+E. & I. S. Department for Business (2020). Joint statement of the Zero Emission Vehicle Transition 
+Council  -  GOV.UK.  https://www.gov.uk/government/news/joint-statement-of-the-zero-
+emission-vehicle-transition-council (accessed Mar. 18, 2022). 
+
+Environmental Protection Agency (2022). Draft Inventory of U.S. Greenhouse Gas Emissions and 
+Sinks:  1990-2020.  U.S.  Environmental  Protection   Agency,  EPA  430-P-22-001.  
+Accessed: 
+Available: 
+https://www.epa.gov/ghgemissions/inventory-us-greenhouse-gas-emissions-and-sinks. 
+
+[Online]. 
+
+2022. 
+
+Mar. 
+
+17, 
+
+EPA (2006). Biosolids Technology Fact Sheet Multi-Stage Anaerobic Digestion. EPA 832-F-06-
+
+031. 
+
+F. Taheripour and W. E. Tyner (2013).  Induced  Land Use Emissions due to First and  Second 
+Generation Biofuels and Uncertainty in Land Use Emission Factors. Economics Research 
+International, vol. 2013, pp. 1–12, doi: 10.1155/2013/315787. 
+
+H. Kwon and U. Lee (2019). Life Cycle Analysis (LCA) of Biofuels and Land Use Change with the 
+
+GREET® Model. 
+
+H. Kwon, X. Liu, J. B. Dunn, S. Mueller, M. M. Wander, and M. Wang (2021). Carbon Calculator 
+for Land Use and Land Management Change from Biofuels Production (CCLUB) Users’ 
+[Online].  Available: 
+Manual 
+http://www.osti.gov/ 
+
+and  Technical  Documentation 
+
+prepared 
+
+by. 
+
+H. Xu, L. Ou, Y. Li, T. R. Hawkins, and M. Wang (2022). Life Cycle Greenhouse Gas Emissions 
+the  United  States.  doi: 
+
+of  Biodiesel  and  Renewable  Diesel  Production 
+10.1021/acs.est.2c00289. 
+
+in 
+
+L. M. Fulton, L. R. Lynd, A. Körner, N. Greene, and L. R. Tonachel (2015). The need for biofuels 
+as part of a low carbon energy future. Biofuels, Bioproducts and Biorefining, vol. 9, no. 5, 
+pp. 476–483, Sep. 2015, doi: 10.1002/BBB.1559. 
+
+M. Wang (2021). Life-cycle Analysis of Vehicle/Fuel Systems Using the GREET Model. 
+
+32 
+
+    
+ 
+ 
+ 
+ 
+Comparison  of  greenhouse  gas  accounting 
+principles between the US and the EU 
+
+N. Gray et al., (2021). Decarbonising ships, planes and trucks: An analysis of suitable low-carbon 
+fuels for the maritime, aviation and haulage sectors. Advances in Applied Energy, vol. 1, 
+p. 100008, doi: 10.1016/j.adapen.2021.100008. 
+
+R. Chen et al., (2018). Life cycle energy and greenhouse gas emission effects of biodiesel in the 
+United States with induced land use change impacts. Bioresource Technology, pp. 249–
+258, doi: 10.1016/j.biortech.2017.12.031. 
+
+Smart  Freight  Centre  (2019).  Global  Logistics  Emissions  Council  Framework  for  Logistics 
+
+Emissions Accounting and Reporting. 
+
+Smart Freight Centre and ifeu (2021). GHG emission factors for road freight vehicles. [Online]. 
+
+Available: www.smartfreightcentre.org 
+
+U.  Environmental  Protection  Agency,  O.  of  Land,  E.  Management,  and  O.  of  Resource 
+Conservation  (2018).  Advancing  Sustainable  Materials  Management:  2015  Fact  Sheet 
+Assessing  Trends  in  Material  Generation,  Recycling,  Composting,  Combustion  with 
+Energy Recovery and Landfilling in the United States. 
+
+U. Lee, J. Han, M. U. Demirtas, M. Wang, and L. Tao (2016). Lifecycle Analysis of Renewable 
+Natural Gas and Hydrocarbon Fuels from Wastewater Treatment Plant’s Sludge. Argonne 
+National 
+Available: 
+https://greet.es.anl.gov/publication-sludge-2016 
+
+Accessed:  May 
+
+Laboratory. 
+
+[Online]. 
+
+2022. 
+
+20, 
+
+U. Lee, H. Kwon, M. Wu, and M. Wang (2021). Retrospective analysis of the U.S. corn ethanol 
+industry for  2005–2019:  implications for greenhouse  gas emission reductions. Biofuels, 
+Bioproducts and Biorefining, vol. 15, no. 5, pp. 1318–1331, doi: 10.1002/BBB.2225. 
+U. Lee, A. Bhatt, T. R. Hawkins, L. Tao, P. T. Benavides, and M. Wang (2021). Life cycle analysis 
+of  renewable  natural  gas  and  lactic  acid  production  from  waste  feedstocks.  Journal  of 
+Cleaner 
+doi: 
+Production, 
+10.1016/J.JCLEPRO.2021.127653. 
+
+127653, 
+
+2021, 
+
+Aug. 
+
+311, 
+
+vol. 
+
+p. 
+
+UNFCCC  (2017).  Land  Use,  Land-Use  Change  and  Forestry  (LULUCF) 
+
+|  UNFCCC. 
+
+https://unfccc.int/topics/land-use/workstreams/land-use--land-use-change-and-forestry-
+lulucf (accessed May 06, 2022). 
+
+U.S.  Energy  Information  Administration  (2022).  Monthly  Energy  Review  –  February  2022. 
+
+Accessed: Mar. 17, 2022. [Online]. Available: www.eia.gov/mer 
+
+World  Business  Council  for  Sustainable  Development  (2004).  The  GHG  Protocol:  A  corporate 
+reporting and accounting standard (revised edition).  Accessed: May 22, 2022. [Online]. 
+Available:  https://www.wbcsd.org/Programs/Climate-and-Energy/Climate/Resources/A-
+corporate-reporting-and-accounting-standard-revised-edition 
+
+X. Zhao, F. Taheripour, R. Malina, M. D. Staples, and W. E. Tyner (2021). Estimating induced 
+land use change emissions for sustainable aviation biofuel pathways. Science of The Total 
+Environment, vol. 779, p. 146238, doi: 10.1016/J.SCITOTENV.2021.146238. 
+
+Y. van Fan, J. J. Klemeš, T. G. Walmsley, and S. Perry (2019). Minimising energy consumption 
+and  environmental  burden  of  freight  transport  using  a  novel  graphical  decision-making 
+tool.  Renewable  and  Sustainable  Energy  Reviews,  vol.  114,  Oct.  2019,  doi: 
+10.1016/J.RSER.2019.109335. 
+
+Z. Qin and H. Kwon (2018). Estimating emissions related to indirect peatland loss in Southeast 
+
+Asia due to biofuel production. 
+
+33 
+
+    
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+Join our journey towards 
+efficient and zero-emission 
+global freight and logistics 
+
+Contact 
+
+Smart Freight Centre 
+
+P.O. Box 11772, 1001 GT 
+
+Tel. office: +31 6 4695 4405 
+
+Keizersgracht 560, 1017 EM 
+
+Amsterdam, Netherlands 
+
+www.smartfreightcentre.org 
+
+Amsterdam, Netherlands 
+
+info@smartfreightcentre.org  
+
+ 
+ 
+ 
+ 
+ 
+ 
+

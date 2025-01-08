@@ -1,0 +1,310 @@
+Disputes 
+Edition: 02  I  Date: 20-09-24  I  A Smart Freight Centre initiative 
+
+1.  Introduction 
+
+1.1. This  procedure  covers  disputes  that  may  arise  from  the  Smart  Freight  Centre  (SFC) 
+Conformity Assessment Scheme (CAS), as defined in the key scheme documents: ER Manual 
+- ISO 14083 (ASU-PRO-001-2) ER Manual – MBM Specification (ASU-PRO-007-2),  VVB 
+Manual – ISO 14083 (ASU-PRO-002-2) and VVB Manual – MBM Specification (ASU-PRO-
+008-2). 
+
+1.2. This procedure becomes effective on the date of issue indicated above. 
+
+2.  Scope and applicability 
+
+2.1. ”Disputes” are both appeals and complaints.  
+
+2.2. “Appeal”  means  a  request  made  by  a  Validation  and  Verification  Body  (VVB)  to  SFC  for 
+
+reconsideration of an adverse approval decision which it has made. 
+
+2.3. “Complaint”,  means  expression  of  dissatisfaction,  other  than  an  appeal,  by  any  person  or 
+
+organization, relating to the activities related to  a) the SFC CAS, or of b) an Approved VVB. 
+
+2.4. For the purpose of this procedure, an appeal must be made by a VVB and be directly related 
+to an adverse approval decision. All other expressions of dissatisfaction will be regarded as 
+complaints. 
+
+3.  Appeals 
+
+3.1. A VVB, whether applicant, approved, suspended or withdrawn, has the right to appeal to SFC 
+to  reconsider  an  adverse  approval  decision  by  SFC,  which  relates  to  its  desired  approval 
+status. 
+
+3.2. Appeals shall be submitted in writing, in English, by email to: 
+
+assurance@smartfreightcentre.org,  within  30  days  of  the  date  of  written  notification  of  the 
+adverse approval decision. Any supporting documentation which the appellant wishes SFC to 
+consider must be submitted together with the appeal. 
+
+ASU-PRO-005-2 V02 Disputes 
+
+Editor: Assurance Manager 
+
+     Page 1 of 4 
+
+                                                          
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Disputes 
+
+[Title] 
+
+Edition 02 
+
+20.09.24  
+
+3.3. Any adverse approval decision that is the subject of an appeal shall remain in force during the 
+
+appeal process. 
+
+3.4. On receipt of an appeal, SFC shall carry out an initial review of the nature of the issue and the 
+reasons being cited for the appeal, and inform the appellant of the outcome of the initial review 
+within five working (business) days:   
+
+3.4.1.  If the issue is considered to fall within the definition of an appeal, SFC will inform the 
+
+VVB that the appeal has been accepted for investigation. 
+
+3.4.2.  If the issue is not considered to fall within the definition of an appeal, the appellant 
+will be notified as to why, and given the option to pursue their concerns following the 
+SFC complaint process. The decision on whether to accept an appeal is final.  
+
+3.5. If  the  appeal  is  accepted  for  investigation,  SFC  shall  appoint  as  the  appeals  investigator  a 
+senior manager who has not been involved in the decision-making process in question. 
+
+3.6. The investigator shall consider the grounds for the appeal and the evidence provided and may 
+convene a hearing at which both the appellant and SFC decision maker present their case, in 
+person or remotely. The appellant has the right to request a hearing to be held, even if the 
+investigator  does  not  consider  it  necessary.  The  appellant  may  also  decline  to  attend  the 
+hearing, if one is convened.  
+
+3.7. The investigator shall make a recommendation to the SFC CEO, within 10 (working) days of 
+
+the appeal having been accepted. 
+
+3.8. The SFC CEO shall make the final decision within five working (business) days of receipt of 
+
+the recommendation from the investigator.  
+
+3.9. The appellant shall be informed in writing of the outcome within 30 days of the appeal having 
+been received, as well as the grounds on which the appeal decision is based on. At this time, 
+the  appellant  shall  receive  a  copy  of  the  conclusions  and  recommendations  from  the 
+investigator. 
+
+3.10.  If the appeal is upheld, SFC will take appropriate corrective action and change the decision. 
+
+If the appeal is not upheld, SFC will not accept a future appeal on the same grounds.   
+
+4.  Complaints about a VVB that has been approved by SFC 
+
+4.1. Complaints about a VVB that has been approved by SFC must be submitted to the VVB first. 
+The VVB shall be given the opportunity to investigate and respond to the complaint before it 
+is escalated. If the complainant is not satisfied with the VVB’s response, it shall then escalate 
+it to their National Accreditation Body, which shall be given the opportunity to investigate and 
+respond to the complaint before it is escalated to SFC.  
+
+ASU-PRO-005-2 V02 Disputes 
+
+Editor: Assurance Manager 
+
+     Page 2 of 4 
+
+                                                                                                                                                                                     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Disputes 
+
+[Title] 
+
+Edition 02 
+
+20.09.24  
+
+4.2. Only complaints that are about a GHG verification service carried out as part of SFC CAS are 
+covered by this procedure. The focus of the SFC complaints process is on the performance 
+and  decision-making  of  SFC  or  of  VVBs  approved  by  SFC,  for  conformity  with  applicable 
+procedures and SFC CAS requirements. It is not within SFC´s remit to issue or change a GHG 
+verification opinion/ statement. Complaints regarding financial and contractual matters also fall 
+outside the remit of this procedure. 
+
+4.3. SFC  has  contractual  arrangements  in  place  with  all  approved  VVBs  to  protect  information 
+obtained or created during the approval process (License Agreement SFC-VVB, ASU-TPL-
+008-2).  Therefore,  SFC  cannot  disclose  confidential  information  about  approved  VVBs  to 
+complainants, and there is a limit to what can be shared with complainants. Consequently, for 
+complaints about an approved VVB there will be a limit as to the amount of information that 
+can be shared with complainants in relation to the SFC investigation. 
+
+5.  Complaints about SFC 
+
+5.1. Complaints  about  SFC  that  fall  within  the  scope  of  this  procedure  are  about  activities  and 
+
+personnel that are part of the SFC CAS. 
+
+6.  Complaints process 
+
+6.1. Complaints 
+
+shall 
+assurance@smartfreightcentre.org.  
+
+submitted 
+
+be 
+
+in  writing, 
+
+in  English, 
+
+by 
+
+email 
+
+to: 
+
+6.2. Complaints shall include: 
+
+6.2.1.  Description of the complaint and brief timeline of events 
+6.2.2.  Copy of the complaint submitted to the approved VVB, and any response received, 
+
+if applicable 
+
+6.2.3.  Copy of any relevant supporting evidence. 
+
+6.3. On receipt of a complaint, SFC shall: 1) (if applicable) inform the VVB that a complaint has 
+been  received,  2) carry  out  an  initial  review  and  3)  inform  the  complainant  (and  the VVB  if 
+applicable) of the outcome within one week. 
+
+6.4. The complaint shall be rejected in the following cases: 
+
+6.4.1.  The complaint is anonymous. 
+6.4.2.  The issue does not fall within SFC´s remit as described above. 
+6.4.3.  For  a  complaint  about  a  VVB,  the  VVB  has  not  been  given  the  opportunity  to 
+
+investigate and respond to it. 
+
+6.4.4.  The  complaint  about  a  VVB  is  submitted  more  than  one  month  after  the  date  of 
+rejection or closure of the complaint by the VVB or the National Accreditation Body, of 
+applicable.  
+
+6.4.5.  The complaint about SFC is submitted more than one month after the issue occurred.  
+
+ASU-PRO-005-2 V02 Disputes 
+
+Editor: Assurance Manager 
+
+     Page 3 of 4 
+
+                                                                                                                                                                                     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Disputes 
+
+[Title] 
+
+6.4.6.  There  is  compelling  evidence  that  the  complaint  is  frivolous,  malicious,  trivial, 
+
+vexatious, or generated to gain competitive advantage. 
+
+Edition 02 
+
+20.09.24  
+
+6.5. If the complaint is accepted for investigation, SFC shall appoint as the complaint investigator 
+someone  who is free of  conflict of interest. The  investigator can be any internal or external 
+resource  that  has  the  technical  knowledge  or  competence  relevant  to  the  issue  being 
+investigated. 
+
+6.6. The complainant and other relevant parties may be interviewed or otherwise approached to 
+
+provide evidence for the investigation. 
+
+6.7. The  complainant  will be  informed  in  writing  of  the  outcome  within  60  days  of  the  complaint 
+having been received. However, any conclusions will be provided within the constraints of the 
+confidentiality requirements mentioned above. 
+
+6.8. SFC reserves the right to invoice costs of investigating complaints about a VVB to the VVB, at 
+
+the SFC daily rate indicated in the Assurance fees for VVBs (ASU-FEE-001-2). 
+
+7.        Related policies and other information 
+
+7.1. ER Manual - ISO 14083 (ASU-PRO-001-2) 
+7.2. ER Manual - MBM Specification (ASU-PRO-007-2) 
+7.3. VVB Manual - ISO 14083 (ASU-PRO-002-2) 
+7.4. VVB Manual - MBM Specification(ASU-PRO-008-2) 
+7.5. Licence Agreement SFC-VVB (ASU-TPL-008-2) 
+7.6. Assurance fees for VVBs (ASU-FEE-001-2) 
+
+Version history 
+
+1  
+
+06/09/2023 First edition  
+
+2 
+
+20/09/2024 Second edition. Consideration of the new CAS scope for the Market 
+Based Measures Specification. Minor revisions for increased clarity. 
+
+___________________________________________________________ 
+
+© 2024 Smart Freight Centre (SFC) 
+
+This work is copyright of SFC. It may be reproduced for fair use by those seeking SFC approval, or those wishing to learn more 
+about the SFC CAS, but may not be used by others without the written permission of SFC. 
+
+ASU-PRO-005-2 V02 Disputes 
+
+Editor: Assurance Manager 
+
+     Page 4 of 4 
+
+                                                                                                                                                                                     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

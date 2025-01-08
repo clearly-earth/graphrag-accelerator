@@ -1,0 +1,1139 @@
+SUMMARY REPORT 
+
+SEMINAR CUM WORKSHOP - ACCELERATING LOW EMISSION LOGISTICS IN INDIA 
+
+12th June 2024/ India Habitat Centre, New Delhi 
+
+ABOUT SMART FREIGHT CENTRE 
+
+Smart Freight Centre launched the SFC India program in May 2023 as a regional initiative in South Asia, 
+
+in cognizance of the role of the region in the global ecosystem development for low-emission logistics. 
+
+The program aims to collaborate with the Indian freight sector on its mission to track and reduce global 
+
+GHG emissions by 1 billion tonnes by 2030 and reach Net Zero by 2050. SFC is involved in various freight 
+
+decarbonization  initiatives  in  India,  including   NITI  Aayog’s  e-FAST,  and  is  deeply  engaged  with  key 
+
+stakeholders of the Indian Freight ecosystem, key Central Government offices, Industry and Ecosystem 
+
+stakeholders to align on collaborative action for the advancement of Freight Electrification in India.  
+
+Smart  Freight  Centre  is  also  supporting  the  Ministry  of  Heavy  Industries,  Government  of  India  on  the 
+
+development of an e-Truck Ecosystem development roadmap, as part of a recently notified e-Mobility 
+
+Task Force. Additionally, SFC is working on a sub-national policy framework for ZET adoption in India, 
+
+along  with  a  few  related  activities  on  ZET  solutions.  The  ultimate  goal  is  to  drive  large-scale  e-truck 
+
+adoption through short/medium-term pilot projects, delivered in collaboration with stakeholders from 
+
+both the demand and supply sides of India's freight ecosystem. 
+
+Furthermore,  Smart  Freight  Centre  is  collaborating  with  TERI  And  IIM  Bangalore  to  develop  Freight 
+
+Emissions Accounting guidelines for India, leveraging its global credentials and expertise on the topic, 
+
+established  via  the  GLEC  (Global  Logistics  Emissions  Council)  framework.  GLEC  is  an  emissions 
+
+accounting  framework  developed  by  Smart  Freight  Centre  in  2014,  in  close  with  the  global  freight 
+
+ecosystem  which  is  now  recognized  as  an  Industry  standard  and  is  also  the  basis  of  the  ISO14083 
+
+standard. 
+
+SEMINAR OVERVIEW 
+
+The advent of Zero Emission Trucks (ZETs), or eTrucks, marks a pivotal shift in India’s road freight sector, 
+
+traditionally dominated by diesel trucks. With their zero tailpipe emissions and favorable TCO (Total Cost 
+
+of  Ownership)  economics,  ZETs  are  poised  to  capitalize  on  the  burgeoning  investments  in  India’s 
+
+logistics growth, steering the industry toward a sustainable, low-emission future in alignment with net-
+
+zero objectives. 
+
+The  Indian  Freight  Buyers  and  Logistics  Service  Providers  (LSPs)  are  increasingly  gravitating  towards 
+
+ZETs,  driven  by  a  heightened  commitment  to  sustainability  and  the  tangible  business  benefits  these 
+
+vehicles  offer.  This  growing  interest  has  received  robust  support  from  various  government  initiatives, 
+
+1 
+
+ 
+ 
+ 
+notably  NITI  Aayog’s  e-FAST  program,  which  champions  a  comprehensive  approach  to  accelerating 
+
+freight electrification. e-FAST India (Electric Freight Accelerator for Sustainable Transport – India) has 
+
+been instrumental in devising strategies and actions that spur the adoption of electric freight, with an 
+
+expanding network of partnerships that includes OEMs, shippers, and Think Tanks, further solidifying its 
+
+collaborative framework. 
+
+Recognizing the critical role of finance in the commercial viability of ZETs, there is a pressing need for 
+
+innovative  financing  models  that  surmount  the  prevailing  challenges.  Concurrently,  efforts  to 
+
+standardize  freight  emissions  accounting  framework  in  India  are  underway,  promising  to  significantly 
+
+reduce emissions via efficiency improvements and reduce fuel import reliance. 
+
+Smart  Freight  Centre,  in  continuation  to  earlier  stakeholder  engagement  and  consultations  for  the 
+
+development of ecosystem strategy for ZET deployment at scale, organised a workshop on ‘Accelerating 
+
+Low  Emission  Logistics  in  India’  in  Delhi  on  12th  June.  The  day-long  workshop  brought  together  key 
+
+stakeholders from the Indian freight ecosystem, including shippers, LSPs, financial institutions, OEMs, 
+
+and policymakers, focusing on: 
+
+1.  Opportunities and Strategic Lever for accelerating ZET adoption in India 
+
+2.  Emission Accounting for Low Emission Logistics 
+
+3.  Financing for ZETs 
+
+OBJECTIVE 
+
+The  seminar  aimed  to  build  upon  the  robust  industry  interest  showcased  at  CEM  Goa’s  inaugural 
+
+demand signal event, pinpointing ZET deployment prospects across diverse sectors and applications. 
+
+The discussions forged actionable strategies for actualizing the freight electrification vision. Experts also 
+
+delved  into  the  nuances  of  freight  emissions  accounting—a  vital  precursor  to  acknowledging  the 
+
+imperative for freight electrification with an assessment of the present freight emission scenario—and 
+
+investigated pioneering models designed to overcome the financial hurdles impeding ZET adoption. 
+
+SUMMARY 
+
+Smart Freight Centre (SFC) opened the workshop by welcoming all partners and participants including 
+
+senior officials from Niti Ayog, MHI, DPIIT, and representatives from SIDBI(Small Industries Development 
+
+Bank  of  India),  AITWA(All  India  Transport  Welfare  Association),  CESL(Convergence  Energy  Services 
+
+Limited), TERI, IIM Bangalore, e-FAST, Shakti Foundation along with other senior executives from Freight 
+
+Industry, Allied sectors, and Knowledge partner organisations.  
+
+Dr.  Christoph  Wolff,  CEO,  Smart  Freight  Centre  (SFC),  outlined  the  workshop’s  objective  in  line  with 
+
+SFC's vision to decarbonize global freight and stated the intent on assisting the international and national 
+
+2 
+
+ 
+ 
+shippers, cargo owners, together with the LSPs and the fleet providers in decarbonizing their operations. 
+
+Sudhendu  J  Sinha,  Advisor,  Infra  Connectivity  &  Electric  Mobility  Niti  Ayog  in  their  special  address 
+
+mentioned that approximately four million trucks currently running on the roads of India, are responsible 
+
+for spewing out 80% of greenhouse gas emissions from road transport, and thereby emphasized on the 
+
+urgency of addressing greenhouse gas emissions. 
+
+Further,  a  Memorandum  of  understanding  was  exchanged  between  SIDBI  and  Smart  Freight  Centre 
+
+(SFC), asserting confidence and unwavering ecosystem support for the vision of sustainable logistics via 
+
+low-emission freight in India. The signed MoU between SIDBI and SFC outlines a strategic objective to 
+
+systemically  identify  and  address  financing  as  a  key  challenge  hindering  the  widespread  adoption  of 
+
+electric trucks. It is expected that SIDBI’s extensive experience in promoting and financing small and 
+
+medium  enterprises  and  networking  with  other  financial  institutions(public  and  private)  coupled  with 
+
+SFCs'  strong  Industry  engagement  and  freight  decarbonization  credentials  will  facilitate  the 
+
+development  of  a  blended  finance  model  based  on  affordable  financing  options  for  fleet  operators 
+
+interested in electric truck transition. 
+
+Another  partnership  announced  at  the  event  was  an  MoU  between  IIM  Bangalore  and  SFC  on  the 
+
+development of an emission accounting framework for India, with IIM Bangalore supporting the creation 
+
+of the data framework, under the wider mandate of Emissions Accounting Framework development. This 
+
+initiative is currently undertaken as a collaborative exercise between SFC, TERI and IIM Bangalore. The 
+
+developed Emissions Accounting Framework will further be supported with disclosure guidelines, data 
+
+management, and governance framework, and a focused capacity development exercise covering all 
+
+technical  and  operations  pillars  of  emissions  accounting  for  freight  operations  in  India,  to  enable 
+
+industry-wide adoption of the established framework. 
+
+TERI, along with Smart Freight Centre, Shakti Sustainable, IIM Bangalore, and SIDBI also launched the 
+
+report “Baseline Study for Non-Urban Road Transport in India”. The report includes an assessment of 
+
+the  non-urban  HDV  goods  sector  in  the  Indian  context  and  establishes  the  importance  of  estimating 
+
+baseline emissions for long-distance road freight transport operators, specific energy consumption, and 
+
+distance-based specific energy consumption for truck operators or carriers. 
+
+PANEL DISCUSSION: DETAILS AND TAKEAWAYS 
+
+Plenary Session 1: Opportunities for ZET Deployment 
+
+3 
+
+ 
+ 
+ 
+ 
+The session focused on India’s e-FAST, a NITI (Government of India) initiative and India’s first platform 
+
+facilitating  collaboration  between  government  stakeholders  and  private  sector  players  to  shape 
+
+strategies to create a conducive environment for freight electrification.  
+
+Moderator: 
+
+•  Christoph Wolff - CEO, Smart Freight Centre 
+
+Panel members: 
+
+•  Sudhendu J Sinha – Advisor, Infra Connectivity & Electric Mobility, NITI Aayog 
+
+•  E. Srinivas – Joint Secretary, Ministry of Commerce & Industries (Logistics Division) 
+
+•  Sumit Kumar – Deputy Secretary, Ministry of Heavy Industries 
+
+•  Pradeep Singhal – Chairman, All India Transporters Welfare Association (AITWA) 
+
+•  Captain  Prashant  S.  Widge  -  Head  of  Public  Affairs,  South  Asia,  Group  Public  and  Regulatory 
+
+Affairs, AP Moller – Maersk 
+
+Session Objectives 
+
+•  Emphasize the primary areas and applications that could benefit from the adoption of E-trucks, 
+
+citing advantageous business cases and operational adaptability. 
+
+• 
+
+Identify key impediments preventing shippers from moving forward with scaled ZET rollout.  
+
+•  Assess  the  potential  impact  of  the  transition  to  electric  trucks  on  the  existing  Indian  logistics 
+
+market in terms of achieving sustainable logistics goals 
+
+•  Leverage logistics infrastructure push for electrification of highway corridors to support E-Trucks 
+
+movement in medium and long-haul applications. 
+
+•  Engage the industry in developing the e-truck ecosystem, with government support measures to 
+
+boost private sector contribution. 
+
+• 
+
+• 
+
+Interests  of  the  Indian  fleet  operators  in  transitioning  to  E-trucks,  as  well  as  measures  from 
+
+policymakers, shippers, and financial institutions to help the trucking sector  
+
+Identification of potential models that may have the potential to serve as a foundation for early 
+
+e-truck deployment in India.  
+
+Key takeaways 
+
+•  Three broad levers that can be applied to make freight activities more environment friendly with 
+
+less CO2 emission footprint, 
+
+ü  Avoid the need for energy and thus the CO2 emissions 
+
+ü  Shift towards a more sustainable mode of transport  
+
+4 
+
+ 
+ 
+ü  Efficiency  improvements  to  again  decarbonize  or  reduce  the  CO2  footprint  in  front  of 
+
+freight operations 
+
+•  About 70% of all freight in India is moved by road, with heavy-duty trucks carrying 76% of the 
+
+freight  and  medium-duty  trucks  carrying  21%.  Combined,  medium-  and  heavy-duty  trucks 
+
+handle a staggering 97% of all freight movement in India. 
+
+•  A transition across the board in terms of value drivers is the need of the hour. Transitioning from 
+
+an expensive logistics mode to a less expensive logistics mode, from a polluting transport mode 
+
+to a much lesser or cleaner transport mode will result to deliver the required result. 
+
+•  Three value cases which are of interest in ZET deployment are -   
+
+ü  Environmental case in terms of CO2 reductions  
+
+ü  Economical case in terms of energy savings and thus reducing the energy import 
+
+ü  Social value case that can be captured by this kind of transition 
+
+•  There is a need for the identification of corridors for Hydrogen as well as LNG-fuelled vehicles, 
+
+alongside a focus on the development of ZET corridors. The hub and spoke model are another 
+
+alternative that can be identified as a self-sufficient model for ZET deployment. 
+
+• 
+
+It is necessary to map the domestic market's supply chain and get a clear understanding of the 
+
+commodities that are being traded throughout it.  
+
+•  The electrification of railroads has already received substantial funding, and by December 2024, 
+
+all railroads will be fully electrified. Therefore, the model share that will be available on the roads 
+
+and railroads at the same time needs to be accurately assessed.  
+
+•  Government  intervention  needs  to  come  in  through  a  comprehensive  energy  and  investment 
+
+plan. If a particular green corridor needs to be developed, there is a requirement for planning for 
+
+charging stations and significant investments need to go into manufacturing of E-trucks. 
+
+•  There  are  10  million  trucks  on  the  road  out  of  which  1-2  million  run  on  the  long  route  with  a 
+
+national  permit  and  are  plying  inter-city  and  inter-state.  Seven  corridors  have  been  identified 
+
+where  70%  of  the  business  happens.  So  based  on  these  factors,  deployment  of  10000  ZETs 
+
+seems highly possible. 
+
+•  The  ZET  industry  will  be  in  direct  competition  with  the  railways  as  the  stated  policy  of  the 
+
+government is that freight movement through railways is to be promoted over road transport. 
+
+• 
+
+In India, 70% of the market is owned by small fleet operators. It is being observed that recently 
+
+there  has  been  a  shift  from  single  truck  owners  to  large  fleet  owners.  Development  of  a 
+
+framework  on  how  Cooperatives  of  different  truck  owner  categories  can  be  promoted,  as  a 
+
+means to support small fleet operation on asset financing aspect. 
+
+5 
+
+ 
+ 
+Plenary Session 2: Strategic Levers for ZET Deployment at Scale 
+
+While EVs in India have witnessed strong market growth since the GOI launched the two FAME schemes 
+
+(2015  and  2019)  and  followed  it  up  with  the  PLI  scheme  for  Battery  manufacturing,  the  spotlight  has 
+
+largely been confined to E-2W, e-3W and e-4W (passenger). Zero Emission Trucks (ZETs) have not found 
+
+enough traction due to unclear demand signals, low tech maturity amongst Indian truck manufacturers, 
+
+and inadequate policy focus despite the climate action potential with recognition of freight activities as 
+
+a key contributor to an entity’s ESG performance via Scope 3 emissions.  
+
+While Shipper's interest in ZETs with their ESG focus and initial demonstrated success of e-LCVs in last-
+
+mile delivery services has established a strong case for other freight use cases and haulage (medium 
+
+and long) categories getting electrified lately, concentrated efforts toward ecosystem development for 
+
+scaled ZET deployment projects is required to drive actual deployment on the group, with a scalability 
+
+potential.  This  session  focused  on  strategies  for  ZET  deployment  at  scale,  with  a  focus  on  specific 
+
+barriers across finance, technology, operations, and policy. 
+
+Moderator: 
+
+•  Chetna Nagpal - Senior Associate, RMI 
+
+Panel members: 
+
+•  Dr R K Singh - CGM, Green Climate Finance, SIDBI 
+
+•  Amit Sood – Head, Commercial/ e-trucks, Convergence Energy Services Ltd. 
+
+•  Sanjay Bajpai – Executive Director, CONCOR 
+
+•  Yashpal Sachar – VP Corporate Affairs, Ashok Leyland 
+
+•  Neha Nagpal Grover - International Finance Corporation (IFC)  
+
+Session Objectives 
+
+•  To Identify financing as a strategic lever in ZET (e-trucks) market development in India which will 
+
+de-risk investments and improve the business case for ZETs in India 
+
+•  Demand aggregation and joint procurements as tools to accelerate ZET adoption, particularly 
+
+given the fragmented Industry structure, dominated by private players 
+
+•  Applicability of ZETs across commodity types and sectors from a use case perspective 
+
+•  Existing  technology  is  an  important  barrier  in  moving  towards  a  low-emissions  logistics 
+
+paradigm, particularly from a performance and reliability standpoint 
+
+•  High  upfront  cost  as  a  key  hurdle  for  e-truck  adoption,  estimate  of  a  realistic  timeline  for 
+
+convergence of ICE and E-trucks in terms of price parity, and key factors driving the same. 
+
+Key Takeaways 
+
+6 
+
+ 
+ 
+•  The  two  main  obstacles  that  needs  to  be  overcome  includes  high  acquisition  cost,  and  the 
+
+residual value, which arises after the conclusion of asset ownership.  Both the factors have a 
+
+significant role in determining the TCO, which in turn affects the viability of the business.  
+
+•  The bankability is integral from a lender's perspective whether it is a multilateral or a commercial 
+
+lender or development institution. One of the primary ways of addressing bankability is working 
+
+on solutions such as demand aggregation. Demand aggregation models have been tested in the 
+
+EV buses space in India and have also been tested even in the trucking space in international 
+
+markets, and therefore, can be used as reference models for building a framework. 
+
+•  The most important factors contributing to a successful ZET deployment strategy are - 
+
+ü 
+
+Identification of the most feasible financing scheme and understanding of the feasibility 
+
+and applicability of various financing models 
+
+ü  A scale-up approach, i.e., initiating from a smaller deployment to expanding to a larger 
+
+deployment 
+
+ü  Establishing a robust risk-mitigating model  
+
+ü  Formation of a communication platform between various actors to synergize efforts 
+
+•  One  of  the  primary  areas  where  government  intervention  is  warranted  is  the  mitigation  of 
+
+obsolescence risk, whether through accelerated depreciation or other strategies. Governmental 
+
+intervention can solve one of the primary risk issues, which is the residual remaining value of the 
+
+electric vehicle trucks. It's possible that the development of hydrogen or other technologies will 
+
+render this industry obsolete in five or ten years.  
+
+•  Deploying  of  E-trucks  depends  heavily  on  the  availability  and  feasibility  of  longer  duration 
+
+contracts, since the initial cost is higher, Op-Ex will depend upon the running of the trucks.  
+
+•  Any logistical issues pertaining to loading or unloading must be fixed. It must be the case that the 
+
+truck is either running or meant to be charging. Therefore, a vehicle should never be idle, even 
+
+with the proper shift timings. If it remains inactive, the duration will undoubtedly lengthen, and 
+
+the economy will be undermined. 
+
+• 
+
+It's difficult to set up the infrastructure for charging. Obtaining a connection and acquiring the 
+
+load has gotten easier in recent years when viewed through the prism of ease of doing business. 
+
+Still,  it's  a  challenge,  and  a  lot  of  users  are  still  having  difficulty  with  it.  According  to  such  a 
+
+perspective, effective policy is necessary before the government intervenes.  
+
+• 
+
+It is important to implement a pilot project on the ground, to derive a practical understanding of 
+
+the ground situation. Without the learnings from a pilot project, past mistakes will probably be 
+
+repeated.  
+
+7 
+
+ 
+ 
+•  Electric mobility is meant to be profitable because it uses less energy. Although the total cost of 
+
+ownership  may  be  high,  the  cost  per  kilometer  is  essentially  lower  than  that  of  gasoline  and 
+
+diesel.  If,  after  ten  years,  the  infrastructure  for  mobility  has  not  shown  to  be  profitable,  then 
+
+something is wrong. 
+
+•  Analysis  of  the  previous  10-year  expenditure  on  infrastructure  development  for  EVs  and 
+
+consequent utilisation (<3-5%) is not very encouraging for further investments. The break-even 
+
+period with this level of utilization to 45 to 60 years and thus does not support the business case 
+
+for ZET charging infrastructure on the highways. 
+
+•  For the period 2030-35, investments in the scale of approximately 325 to 355 billion USD will be 
+
+required to achieve Net-zero emission targets. These two targets are the first two objectives of 
+
+the  2070  decarbonization  target.  If  a  proper  instrument  of  utilisation  and  framework  is  not 
+
+developed, then opting for other models such as PPP may have to be considered. 
+
+•  Focus needs to be on increasing the credit affordability of our banks to explore and support green 
+
+projects. Without a proper financing model, ZET deployment will be difficult to initiate. 
+
+• 
+
+It is recognized that upfront cost will continue to act as a barrier and as such, subsidy schemes 
+
+as  incentives  from  the  Government  cannot  be  a  feasible  solution  in  the  long  term  due  to  its 
+
+cascading impacts on the economy.  
+
+•  Policy  initiatives  to  bring  the  upfront  as  well  as  running  cost  of  ZETs  down  through  efficiency 
+
+improvements, technology enhancements, and economies of scale need to be prioritized. 
+
+Breakout Session 1: Financing for ZET Deployment 
+
+Indian  Freight  Industry  has  signaled  a  strong  interest  in  the  adoption  of  Electric  Trucks  with  the 
+
+aggregated  demand  of  7750  Trucks  under  NITI  Aayog’s  e-FAST  initiative.  Further  development  of  the 
+
+demand  signal  has  indicated  a  strong  potential  of  translating  the  same  into  immediate  wins  with  6-7 
+
+scalable pilots of initial 40-50 ZETs each, with a use case pivot and on selected corridors, over the next 
+
+two years, until 2025.  
+
+The  implementation  of  these  pilots  will  however  require  all  ecosystem  nodes  to  be  activated  to  lend 
+
+necessary support for making them viable as a fundable project. One of the key barriers and a critical 
+
+attribute defining the Business viability of these pilots is the availability of finance and the cost of capital 
+
+specific  to  each  use  case.  Considering  that  the  Indian  freight  sector  is  highly  fragmented  with  a  vast 
+
+majority  of  carriers  (fleet  operators)  with  small-scale  enterprise  profiles  with  less  than  5  trucks 
+
+ownership, it makes the financing of e-truck as an asset even more challenging due to high asset cost 
+
+along with low financial appetite and credit worthiness of prospective owners. This session focused on 
+
+8 
+
+ 
+ 
+deliberating key financial issues hampering the deployment of ZETs and exploring different models for 
+
+mitigating the same via presentation on the topic, following by a Panel Discussion on the topic. 
+
+Moderator 
+
+•  Vijay Jaiswal - Director, SFC India 
+
+Panel members 
+
+•  Mr. Rajiv Kumar - General Manager, SIDBI 
+
+•  Mr. Pramod Sharma - President, Corporate Affairs, SUN Mobility 
+
+•  Mr. Jayant Prasad - Executive Director, Ckers Finance 
+
+•  Mr. Nishant Idnani - Founder & Managing Director, Vaultus Green Funding 
+
+Session Objectives 
+
+•  Expand  on  high  ownership  cost  and  TCO  gaps  as  per  present  asset  utilization  scenarios  and 
+
+service contract arrangements. 
+
+•  Highlight  key  components  of  commercial  viability  gaps  for  ZET  adoption  to  be  addressed  by 
+
+Financial Institutions 
+
+•  Government support to address the viability gap and learning from e-BUS transition program 
+
+•  Explore potential ownership models given fragmented structure of the Freight Sector, with small-
+
+scale fleet operators as the dominant majority in the carrier pool 
+
+•  Bring in important learning from Internal ZET financing programs and service models 
+
+Key takeaways 
+
+•  The major challenge for ZET adoption at scale will be the Capex at almost or more than double in 
+
+case of e-trucks. Financing will be the key thing as far as the e-trucking is concerned. 
+
+•  MDV and HDV segments are growing exponentially and will be the case also in the future from 
+
+the perspective of transitioning to electric trucks. The CAGR currently as per trend is at 2.81% 
+
+and  even  with  that,  almost  1  million  new  truck  sales  can  be  estimated  in  2050.  This  will 
+
+approximately put 17 million trucks on the road by 2050 which will be 4X from current numbers. 
+
+•  Study on contracting arrangement for medium and heavy-duty trucks in India suggest that while 
+
+10%  is  captive  use,  the  fixed  contract  comprises  of  30%  while  majority  60%  is  still  reliant  on 
+
+transport service providers.  
+
+•  From the financing model perspective self-funded are roughly at 2% while finance with state or 
+
+private banks is at 15% with maximum borrowers relying on financing with NBFCs . 
+
+•  An alternative model can be truck leasing or hire purchase which tends to be more cost-effective 
+
+and provides flexibility and, particularly beneficial for upgradation of trucks on a regular basis. 
+
+9 
+
+ 
+ 
+•  Resale  risk  for  electric  trucks  is  significantly  higher  than  ICE  trucks  with  no  established 
+
+secondary market. A mature market for second-life batteries will allay the risk significantly. 
+
+•  Performance risk again is considered higher for e-truck in the current scenario as compared to 
+
+ICE. Similarly, operation risk and infrastructure risk are considerably higher for electric trucks 
+
+while the loan customer risk profile would probably stay the same apart from the differential in 
+
+the upfront capex which is required. 
+
+•  For  financing  longer  duration  of  borrowing  is  required  and  that  will  only  be  ensured  once  the 
+
+operational years or the contracts which is being given to the fleet owners are more. 
+
+•  Models for the financing of ZET deployment can be worked based on the financing models for E-
+
+buses. For instance, the GCC model gross cost contract has a longer period duration of around 
+
+10 to 12 years where the OEM/Operator needs to come up with a complete solution. 
+
+• 
+
+In the railway industry, the IRFC and NBFC lease assets to the Ministry of Railways for a period of 
+
+thirty years. During the first fifteen years, the IRFC recovers the principal and interest, and for the 
+
+remaining fifteen years, the Ministry of Railways pays the IRFC a minimum rent. After 30 years, 
+
+they charge the nominal price and transfer the assets to the Minister of Railways. This improved 
+
+the business flow of capital and business risk in railroads while also lowering the upfront risk of 
+
+putting  the  asset  on  the  track.  This  funding  model  can  serve  as  a  guide  for  developing  a 
+
+deployment plan akin to that of e-trucks. 
+
+•  The subsidies offered as part of FAME-I and FAME-II triggered a lot of interest and have brought 
+
+the market to a certain level of maturity where it becomes self-sustainable. Similar support from 
+
+the government can drastically shorten the transition time to an eco-development perspective. 
+
+•  There are huge opportunities in ZET ownership, but at the same time there are challenges and 
+
+barriers. Hence, large scale financing is not happening, this is where the role of a Development 
+
+Financial Institution like SIDBI exists. 
+
+•  A significant portion of the result depends on how the asset is being utilised and the manner in 
+
+which it is being monitored. It’s important to differentiate between perceived risks and actual 
+
+risks, which can be done by deploying at least 200 vehicles on the ground. 
+
+•  There  is  a  need  for  blended  finance  facilities,  so  that  when  SIDBI  can  bring  down  the  rate  of 
+
+interest, because if there is a higher upfront cost, rate of interest will be reasonable.  
+
+•  SIDBI  operates  a  risk-sharing  facility  for  sectors  with  high  perceived  risks,  such  as  the  energy 
+
+service  company  (ESCO)  market.  The  facility  provides  guarantees  to  lenders  for  projects  that 
+
+have been technically appraised, offering them comfort even if the project fails. 
+
+•  The risk-sharing facility has been successful in areas like energy efficiency, e-mobility for two and 
+
+three-wheelers, and municipal solid waste, with no defaults reported. 
+
+10 
+
+ 
+ 
+•  Running  such  facilities  requires  risk  capital,  which  SIDBI  has  obtained  through  grants  from 
+
+organizations like the World Bank, Shell Foundation, and GIZ. A similar risk-sharing facility for the 
+
+trucking segment could help bring 200 vehicles on the ground, providing extra comfort to lenders. 
+
+•  SIDBI  is  already  working  on  that  count  with  the  Green  Climate  Fund  and  other  funds  wherein 
+
+there is an opportunity to bring in concessional capital in the country. 
+
+•  There  are  cases  where  there  is  high-frequency  battery  swapping  possible  if  the  movement  is 
+
+point-to-point-loop.  
+
+•  By reducing the battery size of the vehicle as well as the downtime between the changes, upfront 
+
+costs can be lowered significantly.  
+
+•  The  residual  value  of  the  truck  can  be  seen  in  tandem  with  the  reusable  value  of  the  truck. 
+
+commercial life is 10 years only for ICE trucks. Thereafter, retrofitting or resale are the only viable 
+
+options. Therefore, swapping technology provides a benefit in terms of 15-20 years of utilization.  
+
+•  A deep understanding of battery technology and asset management is essential for financiers to 
+
+adapt  to  the  evolving  market.  The  presence  of  four  or  more  OEMs  with  mature  products  in  a 
+
+segment indicates the first step of market readiness. 
+
+• 
+
+India  is  identified  as  a  “green  discount  market,”  in  contrast  to  Europe,  which  is  considered  a 
+
+“green premium market.” 
+
+•  Demonstration fleets are crucial for building market confidence by demonstrating the viability of 
+
+ZET across various parameters including business and operational. 
+
+•  Small fleet operators and market load operators are driving the transition and often outperform 
+
+larger fleet operators due to their deeper investment in the success of their operation 
+
+•  The challenge lies in understanding electric vehicles and their technology as a new asset class. 
+
+•  Pre-delinquency management, a practice from the past, is being revisited to predict and prevent 
+
+defaults based on vehicle data and customer behavior. 
+
+•  Transport as a Service (TaaS) Model: The TaaS model, with asset financing and leasing at its core, 
+
+is becoming increasingly relevant in the Indian trucking sector. This model addresses changes in 
+
+ownership patterns and provides new financing solutions. 
+
+•  Leasing solutions are emerging as a go-to-market strategy for OEMs and new market entrants to 
+
+address these challenges. 
+
+•  Logistic companies are considering a mix of leasing and direct loans for adopting electric trucks. 
+
+This  mix  promotes  aggregation  and  economies  of  scale,  which  can  help  solve  ecosystem 
+
+challenges and improve charging station and vehicle viability. 
+
+11 
+
+ 
+ 
+•  There is a need for evolved digital monitoring and pre-emptive checks to ensure maintenance 
+
+and adherence to SOPs, especially when the driver is not the vehicle owner. 
+
+•  Financing aggregation can lead to the opening of markets like green bonds, which are not viable 
+
+at the individual operator level. This will be significant in the context of the evolving market. 
+
+•  Supporting  leasing  companies  is  crucial  as  they  enable  longer  tenors  for  loans,  which  are 
+
+necessary for the viability of truck operations. 
+
+•  Small businesses with distribution reach are setting up new leasing platforms, indicating a trend 
+
+towards more diverse financing options. The market is not expected to be dominated by a single 
+
+player, suggesting a competitive and diverse market environment. 
+
+•  Proper battery management, including cooling during charging and use, can extend the battery 
+
+life cycle by 20-30%. 
+
+•  The residual value of the battery electric truck, including the vehicle with or without the battery, 
+
+is  not  currently  a  primary  consideration  for  fleet  operators,  as  OEMs  or  swapping  station 
+
+providers manage the batteries. 
+
+•  Lithium  iron  phosphate  batteries  used  in  EVs  have  a  defined  life  cycle  of  2500  cycles  at  25 
+
+degrees Celsius, after which capacity depletes to 80%. 
+
+•  After the first life cycle, batteries can be repurposed for secondary uses like solar applications, 
+
+where they can undergo an additional 2000 cycles. 
+
+•  A strong credit flow is necessary for scaling up quickly, which is crucial for OEMs and the viability 
+
+of solutions like battery swapping. 
+
+•  Removing the battery from the financing scope of the operator and providing separate financing 
+
+for batteries and infrastructure could lower monthly instalments (EMIs) and prevent defaults. 
+
+•  Granting  infrastructure  status  to  the  EV  sector  could  enable  priority  funding  and  financing, 
+
+stimulating market growth. 
+
+•  There is a need for central recognition and policy support for battery swapping systems, which 
+
+some states have already implemented. 
+
+•  The government should invest in infrastructure to support the EV ecosystem, possibly through 
+
+Public-Private  Partnerships  (PPPs)  like  those  managed  by  the  National  Highway  Logistics 
+
+Management Company (NHLM). 
+
+•  Out of 1000 highway sites, only 200 have tenders for wayside amenities. The remaining 800 sites 
+
+could include charging and swapping infrastructure in their tenders, potentially using hybrid or 
+
+full annuity models. 
+
+12 
+
+ 
+ 
+•  The government could consider allocating 1000-2000 crore INR for VGF, with states contributing 
+
+additional funds, to facilitate infrastructure development. 
+
+•  Extending  the  tenor  of  loans  is  a  significant  change  for  banks  traditionally  financing  diesel 
+
+vehicles, as it exposes them to more cycles of logistics’ cyclical nature. 
+
+•  There  is  a  concern  about  technology  becoming  obsolete  over  extended  tenors,  especially  as 
+
+battery and vehicle prices decrease, potentially affecting the renewal of contracts. 
+
+•  The renewable sector has addressed similar challenges through government contracting, but the 
+
+private sector requires a portfolio approach to manage market risks and provision risk capital. 
+
+Breakout Session 2: Freight Emissions Accounting in India 
+
+Objective 
+
+1.  This session's goal was to discuss and envision a back-and-forth interaction with shippers and 
+
+carrier organizations and attempt to get a grasp of their experiences regarding challenges faced 
+
+by the logistics industry in dealing with their carbon emissions accounting.  
+
+2.  The larger goal, intended in the months to follow, is to figure out how to combine the efforts being 
+
+made by shippers and logistics companies and add a mechanism of incentive to it, either in the 
+
+form  of  a  PAT-style  scheme  or  a  carbon  trading  system  developed  by  the  Bureau  of  Energy 
+
+Efficiency. 
+
+Topic Relevance to Freight Decarbonisation 
+
+•  A significant portion of the economy is logistics. As the world's population grows, there will be a 
+
+greater  need  to  move  goods,  and  this  will  lead  to  additional  legislative  pressure,  primarily  in 
+
+Europe but also elsewhere. This pressure will eventually include carbon accounting and the need 
+
+to act to truly decarbonise your emissions. 
+
+•  There is essentially a road map that comprises of several pillars when it comes to decarbonising 
+
+existing emissions. The first step is reporting and charting emissions since no significant action 
+
+can be taken if they are not accounted for with some level of precision. Once the emissions are 
+
+calculated,  scientific  knowledge-based  targets  may  be  established  Thereafter,  different 
+
+decarbonisation mechanisms and tools can be deployed to cut emissions, and various actors 
+
+along the same physical supply chain may be partnered with to really construct the ecosystem 
+
+needed to achieve the change. 
+
+Key Challenges in Freight Emissions Accounting 
+
+•  The logistics sector in India needs a consistent emission accounting methodology for all players 
+
+operating there. If the Emission framework is standardized, then the customer can understand 
+
+13 
+
+ 
+ 
+ 
+that one similar framework, the emissions being calculated is a standard, and thus, becomes 
+
+comparable. 
+
+•  Most emission calculation techniques or accounting techniques are dedicated to and focused 
+
+on  Full  Truck  Load  (FTL)  freight.  The  same  tools  are  not  usable  for  Less-than-Truckload  (LTL) 
+
+freight. 
+
+•  Due  to  the  multi-tier  structure  of  a  freight  transport  system,  different  sets  of  benchmarks  are 
+
+required for different hierarchies. As such, different emission factors are required for different 
+
+types of vehicles, leading to complexities in the calculations. 
+
+Way Forward 
+
+•  As of now, the framework for emissions accounting has been developed. As a following step, a 
+
+few pilot projects will be conducted to test the framework, and as such, partnerships for doing 
+
+so, are already in the pipeline. For instance, the framework will be run through DP World, TCI, and 
+
+Safe  Express,  among  others,  to  verify  its  applicability.  Thereafter,  the  focus  will  be  on  the 
+
+development of the disclosure framework and the capability development framework. 
+
+•  Smart  Freight  Centre  (SFC),  IIM  Bangalore,  and  The  Energy  and  Resource  Institute  (TERI)  are 
+
+collaboratively  working  on  developing  the  emission  accounting  framework.  Principally  IIM 
+
+Bangalore is supporting SFC on the creation of the data framework. At the same time, TERI and 
+
+SFC are working together on the disclosure framework and the capacity development framework 
+
+•  Support requirements from Shippers and Carriers: 
+
+a)  Expression of interest in running the pilot projects. 
+
+b)  Deciding the scope for running the pilot projects.  
+
+•  Once the pilots are completed, the gap assessment is done. Eventually, all the variations and 
+
+feedback will be integrated into the final framework before it is submitted to the regulatory body. 
+
+14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANNEXURE I – Glimpses from the Workshop 
+
+Figure 1 Key note address by SFC, NITI Aayog, MHI and SIDBI 
+
+15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2 Group photograph with partners and stakeholders 
+
+Figure 3Panel Discussion on Opportunities for ZET Deployment 
+
+16 
+
+ 
+ 
+ 
+ 
+ 
+Figure 4 Panel Discussion on Strategic Levers for ZET Deployment at Scale 
+
+Figure 5 Panel Discussion on Innovative Financing models for ZET ownership 
+
+17 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 6 TERI and IIMB presentation during session on Emissions Accounting Framework for India 
+
+18 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANNEXURE II – List of participating Companies 
+
+•  Ashok Leyland 
+
+•  Maersk India 
+
+•  Container Corporation of India  
+
+•  Vaultus Green 
+
+• 
+
+IFC 
+
+•  DP World 
+
+•  Amazon 
+
+•  Switchlabs Automobiles 
+
+•  Wholsum Foods 
+
+• 
+
+JBM Group 
+
+•  Sun Mobility 
+
+•  VE Commercial vehicles 
+
+•  Aditya Birla Group 
+
+•  Bosch 
+
+•  Greencell Mobility 
+
+•  Pepsico 
+
+• 
+
+IPLT 
+
+•  MoEving 
+
+•  Safexpress 
+
+•  Tata Power 
+
+•  Transport Corporation of India Limited 
+
+• 
+
+ITC 
+
+•  Reliance Industries Limited 
+
+•  Power Finance Corporation 
+
+•  Ckers Finance 
+
+•  Mondelez 
+
+•  MRF 
+
+•  Creadble 
+
+•  Cushman & Wakefield 
+
+• 
+
+Intugine 
+
+19 
+
+ 
+ 
+ 
+ 
+HOSTED BY 
+
+Co-Hosts 
+
+Knowledge Partners 
+
+20 
+
+ 
+ 
+ 
+ 
+ 
+ 
+                  
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

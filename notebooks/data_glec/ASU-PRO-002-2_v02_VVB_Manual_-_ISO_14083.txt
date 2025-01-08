@@ -1,0 +1,741 @@
+Validation and Verification Body Manual – ISO 14083 
+
+Edition: 02  I  Date: 30-09-24  I  A Smart Freight Centre initiative 
+
+1.  Introduction 
+
+1.1.  The  Smart  Freight  Centre  Conformity  Assurance  Scheme  (SFC  CAS)  for  'Validation  and 
+Verification  of  GHG  emissions  statements  for  transport  chains'  provides  a  global  scheme  for 
+independent  verification  of  GHG  emissions.  It  is  based  on  the  requirements  set  out  in  ISO 
+standards as well as others that are specific to the SFC scheme as outlined in Section 4. It also 
+provides optional performance levels for organizations to apply for, as they move forward along 
+their decarbonization journey – criteria for these performance levels are also subject to verification, 
+if the reporter wants to apply them.   
+
+1.2. The SFC CAS defines two technical scopes:  
+
+1.2.1. ISO 14083 Scope: covered in this document.  
+
+1.2.2.  MBM  Specification  Scope:  covered  in  the  Validation  and  Verification  Body 
+Manual – MBM Specification (SFC-PRO-008-2).  
+
+1.3. The Validation and Verification Body Manual  – ISO 14083 (this document) provides the 
+specific criteria and procedures under which a Validation and Verification Body (VVB) becomes 
+approved (and maintains approval) for the ISO 14083 Scope. It also covers procedures that must 
+be followed by VVBs when providing verification services, as well as for qualification of individual 
+verifiers.   
+
+1.4. This procedure becomes effective on the date of issue indicated above. 
+
+2.  Scope and applicability 
+
+2.1. This document is applicable to all VVBs seeking to conduct verifications as part of the SFC 
+CAS for the ISO 14083 Scope. Specifically, this document contains:   
+
+2.1.1. Procedures for a VVB to apply for (and maintain) approval as an SFC VVB  for the 
+ISO 14083 Scope,   
+2.1.2.  Procedures  for  individuals  to  be  approved  as  SFC-qualified  verification  personnel, 
+and maintain their SFC approval for the ISO 14083 Scope,  
+2.1.3. Procedures for a VVB to carry out verification activities.  
+
+2.2. Participation in the SFC CAS is voluntary and based on objective criteria. The scheme is not 
+discriminatory to ERs or VVBs. 
+
+ASU-PRO-002-2 V02 VVB Manual - ISO 14083 
+
+Editor: Assurance Manager 
+
+     Page 1 of 11 
+
+                                                          
+ 
+ 
+ 
+ 
+ 
+ 
+Validation and Verification Body Manual – MBM Specification 
+
+Validation and Verification Body Manual – ISO 14083 
+[Title] 
+
+Edition 02 
+
+30.09.24  
+
+3.  Documents 
+
+3.1.  The  rules  and  requirements  for  the  SFC  CAS  are  set  out  in  the  program  documents. 
+Complementing  this document  are  other SFC  procedures,  templates  and  forms,  and  standards 
+issued by external entities or SFC. SFC may issue new documents, and the complete and current 
+list of the program documents is available on the SFC website.  
+
+3.2. SFC assurance documents are labeled with a version number and specify their effective date. 
+Where  documents  that  are  relevant  for  the  SFC  CAS  are  updated,  the  updates  made  will  be 
+summarized in an appendix. If applicable, a transition period will be specified. VVBs approved by 
+SFC and ERs registered with SFC will be informed of the updates.  
+
+3.3. Where documents are referenced, and such documents are updated, the most recent version 
+of the document shall be used, and their transition period considered.  
+
+3.4. The following are normative documents (i.e., standards) for the ISO 14083 Scope:  
+
+A. 
+
+Reporting standards: 
+
+3.4.1.  ISO  14064-1,  Greenhouse  gases  –  Part  1:  Specification  with  guidance  at  the 
+organization  level  for  quantification  and  reporting  of  greenhouse  gas  emissions  and 
+removals 
+
+3.4.2.  ISO  14083,  Greenhouse  gases  –  Quantification  and  reporting  of  GHG  emissions 
+arising from transport chain operations 
+
+B. 
+
+Verification standards: 
+
+3.4.3.  ISO  17029,  Conformity  Assessment  –  General  principles  and  requirements  for 
+Validation and Verification Bodies  
+
+3.4.4. ISO 14065, General principles and requirements for bodies validating and verifying 
+environmental information 
+
+3.4.5.  ISO  14064-3,  Greenhouse  gases  –  Part  3:  Specification  with  guidance  for  the 
+verification and validation of greenhouse gas statements  
+
+3.4.6. ISO 14066, Greenhouse gases – Competence requirements for validation teams and 
+verification teams 
+
+3.5.  The  standards  listed  above  are  part  of  the  requirements  of  the  SFC  CAS,  and  their 
+requirements shall be met either by the ER (set A above) or the VVB (set B above). 
+
+C. 
+
+Guidance: 
+
+3.6. The required scheme documents are complemented by guidance documents, which provide 
+additional information to assist with the interpretation of standards - these are mentioned explicitly 
+in ISO 14083 and/or published on the SFC website. An example of a guidance document is the 
+GLEC Framework (SFC-GUID-001). Reporters are expected to follow the recognized guidance 
+
+ASU-PRO-002-2 V02 VVB Manual - ISO 14083 
+
+Editor: Assurance Manager 
+
+     Page 2 of 11 
+
+                                                                                                                                                                                     
+ 
+ 
+ 
+Validation and Verification Body Manual – MBM Specification 
+
+Validation and Verification Body Manual – ISO 14083 
+[Title] 
+
+or explain  to their VVB why they have not and/or that the guidance they have followed is more 
+robust. 
+
+Edition 02 
+
+30.09.24  
+
+D. 
+
+Definitions: 
+
+3.7. Definitions as set out in ISO 17000 and the ISO standards referenced above apply to the SFC 
+CAS.  
+
+4. 
+
+Scope of Approval and Fees 
+
+4.1. The type of claims to be subject to verification are GHG emissions for an individual specified 
+transport chain operation (i.e., reported historic data). The criteria against which the claim is to be 
+assessed are listed in section 3B. 
+
+4.2. SFC has defined three performance levels within which verified emissions reports may lie and 
+for  which  Emissions  Reporter’s  may  apply;  if  the  Emissions  Reporter  intends  to  apply  for  SFC 
+recognition under a specific performance level, the associated criteria specified for that level will 
+be included within the verification criteria; performance level criteria are set out in the Emissions 
+Reporter Manual (ASU-PRO-001-2). Approval of VVBs is given for all performance levels, for a 
+worldwide scope for a set period. 
+
+4.3.  SFC  charges  fees  to  cover  administration  costs,  at  the  rates  set  out  in  the  document 
+Assurance Fees for VVBs (ASU-FEE-001-2).   
+
+5.  Approval of VVBs 
+5.1.  Approval Process 
+
+5.1.1.  Approval  will  only  be  granted  to  a  legal  entity  registered  under  applicable  national  laws, 
+irrespective of whether the entire organization or a part of it performs verification services.  
+
+5.1.2. Verification bodies are eligible  to provide verification services under the SFC CAS – ISO 
+14083 Scope if they are accredited under ISO 17029 for application of ISO 14065 for verification 
+of  GHG  statements  for  the  transport  sector,  by  an  accreditation  body  that  is  a  signatory  of  the 
+International Accreditation Forum Multilateral Agreement for GHG Verification. 
+
+5.1.3. An approved VVB shall maintain their ISO accreditation. Failure to maintain accreditation, 
+or lapse of accreditation, may result in the immediate suspension and revocation of SFC approval. 
+If a VVB loses, changes or does not renew its accreditation during the three-year period from the 
+date of approval, it shall immediately notify SFC. 
+
+5.1.4. To apply to become an approved VVB with the SFC CAS, organizations must complete the 
+VVB  application  form  (ASU-TPL-002-2)  and  submit  the  signed  application,  along  with  all 
+supporting 
+to 
+evidence 
+assurance@smartfreightcentre.org.  
+
+declarations  mentioned 
+
+application 
+
+form 
+
+and 
+
+the 
+
+in 
+
+ASU-PRO-002-2 V02 VVB Manual - ISO 14083 
+
+Editor: Assurance Manager 
+
+     Page 3 of 11 
+
+                                                                                                                                                                                     
+ 
+ 
+ 
+Validation and Verification Body Manual – MBM Specification 
+
+Validation and Verification Body Manual – ISO 14083 
+[Title] 
+
+5.1.5. Applicants must sign the License Agreement SFC-VVB (ASU-TPL-008-2). Applicants must 
+also pay the application fee defined in the fee schedule. The application shall only be considered 
+when SFC has received all the documentation  
+
+Edition 02 
+
+30.09.24  
+
+5.1.6. The objective of a VBB approval assessment is to determine whether the VVB complies with 
+additional  SFC  requirements  regarding  eligibility,  competence  and  operational  capability  to 
+perform verification services for the SFC CAS. 
+
+5.1.7. All documentation provided by a VVB as part of their application shall be in English. The 
+language used in approval assessments is English. 
+
+5.1.8. All decisions regarding the approval, suspension, or revocation of VVBs approval status are 
+made at the sole discretion of SFC, upon recommendation of the Assurance Manager and decision 
+of a senior person that is a member of the SFC Assurance Committee. 
+
+5.1.9. The approval of VVBs by SFC is provided on a recurring basis. The approval is valid  for 
+three years from the date of the approval decision. For re-approval the VVB shall re-submit the full 
+set of information, updated as required, and no later than eight weeks prior to the end of the three-
+year period.  
+
+5.1.10. If the documentation is found to be incomplete, SFC shall inform the VVB of the missing 
+elements  within  15  calendar  days  of  the  application  being  submitted.  If  the  documentation  is 
+complete, SFC shall acknowledge this to the VVB, and finalize an Assessment report (ASU-TPL-
+007-2) within four weeks of having acknowledged the application. 
+
+5.1.11. Based on the report findings, SFC shall decide whether to approve or reject the VVB and 
+inform the VVB accordingly.  
+
+5.1.12. VVBs can apply without having approved verifiers, but the application cannot be approved 
+until they have two approved personnel as detailed in section 6. Until this happens, SFC can issue 
+an “in principle approval”, which documents that this is the only element that is missing. 
+
+5.1.13.  Where  an  application  is  rejected,  SFC  shall  provide  the  applicant  with  a  justification. 
+Reapplication  by  the  VVB  may  be  submitted  no  sooner  than  six  months  after  the  date  of 
+communication of rejection by SFC and shall include details of how issues identified by SFC have 
+been addressed. 
+
+5.1.14. A list of VVBs approved to undertake verification services under the SFC CAS is available 
+on the SFC website, containing information on:   
+
+5.1.14.1. Contact details,  
+5.1.14.2. List of approved auditors,  
+5.1.14.3. Approval date and status (approved, suspended or revoked), 
+5.1.14.4. A link to the accreditation body certificate for its ISO 17029/ 14065 accreditation 
+certificate. 
+
+5.2.  Suspension or revocation of VVB status 
+
+ASU-PRO-002-2 V02 VVB Manual - ISO 14083 
+
+Editor: Assurance Manager 
+
+     Page 4 of 11 
+
+                                                                                                                                                                                     
+ 
+ 
+Validation and Verification Body Manual – MBM Specification 
+
+Validation and Verification Body Manual – ISO 14083 
+[Title] 
+
+5.2.1. If SFC receives complaints about VVBs it has approved from Emission Reporters or other 
+stakeholders, it shall investigate the allegations made. If as a result of this investigation SFC finds 
+evidence  that  a  VVB  intentionally  provided  false  information,  intentionally  omitted  to  provide 
+required information, deliberately violated any approval requirement, or performs poorly on regular 
+basis.  SFC shall promptly submit a draft assessment report to the VVB documenting its findings. 
+On the basis of this report, SFC may suspend or revoke the VVB’s approved status; this shall be 
+reflected in its updated status on the VVB database accessible on the SFC website.  
+
+Edition 02 
+
+30.09.24  
+
+5.2.2. The VVB shall be offered an opportunity to present clarification or further evidence before 
+its approval is suspended or revoked, and may later appeal such decisions. 
+
+5.2.3. Within 30 calendar days of suspension or revocation of SFC approval, the VVB shall remove 
+all  SFC  assurance marks  from  its  website  and  communication materials.  VVBs  that have  been 
+suspended or revoked shall not carry out verification services associated with the SFC CAS, and 
+shall not use SFC assurance marks for any purpose. 
+
+5.2.4.  An  approved  VVB  may  voluntarily  request  to  withdraw  its  approval  status  by  providing  a 
+written notice to SFC requesting such withdrawal. 
+
+5.3.  Notification of changes and SFC rights 
+
+5.3.1. A VVB shall notify SFC at least 30 calendar days before implementing a planned change in 
+its legal, commercial, or organizational status. It shall also inform SFC of significant changes to 
+organizational structure and top management, and of personnel directly involved in the SFC CAS. 
+
+5.3.2.  One  of  SFC’s  roles  is to oversee  VVBs  operating  under  the  scheme, both  for  their  initial 
+approval  and  ongoing  performance.  Where  SFC  identifies  serious  shortcomings  in  a  VVB’s 
+performance that are relevant for accreditation, it may provide feedback and require the VVB to 
+address these issues.    
+
+5.3.3. SFC reserves the right not to list approved VVBs or register clients of VVBs where it deems 
+that  they  do not  conform  with  the  scheme  rules.  SFC  reserves  the  right  to  delist  VVBs or  their 
+clients where it deems that they have not been verified in accordance with the scheme rules.  
+
+5.3.4. SFC also reserves the right to take action against VVBs in accordance with the provisions 
+set out in the agreements signed between individual VVBs and SFC. The rights and obligations for 
+VVBs are set out in these agreements. 
+
+ASU-PRO-002-2 V02 VVB Manual - ISO 14083 
+
+Editor: Assurance Manager 
+
+     Page 5 of 11 
+
+                                                                                                                                                                                     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Validation and Verification Body Manual – MBM Specification 
+
+Validation and Verification Body Manual – ISO 14083 
+[Title] 
+
+Verification Personnel 
+
+6. 
+6.1.  General Requirements 
+
+Edition 02 
+
+30.09.24  
+
+6.1.1. VVB may fulfil the ISO 17029/ 14065 requirement for sufficient resources by using internal 
+or external personnel (i.e., individuals). The VVB takes full responsibility for any work carried out 
+by external individuals, and obtains from them a written agreement that they shall comply with all 
+applicable VVB requirements and procedures, including confidentiality and impartiality. 
+
+6.1.2.  VVBs  shall  not  subcontract  key  verification  activities.  This  does  not  apply  to  the 
+subcontracting of individual external verifiers, as mentioned above. 
+
+6.1.3. Verification services must be carried out by persons who have been approved by SFC.  
+
+6.1.4. Overall, the VVB shall have a minimum of:  
+
+6.1.4.1.  one  qualified  person  approved  by  SFC  who  will  lead  a  verification  team  (lead 
+verifier), and 
+6.1.4.2. one qualified person approved by SFC who will conduct the technical review team 
+(technical reviewer), 
+
+at least one of which must be an employee of the VVB.  
+
+6.2.  Approval of verification personnel 
+
+6.2.1.  Technical  reviewers  shall  have  the  same  qualification  as  a  lead  verifier,  and  also  be 
+approved by SFC. 
+
+6.2.2.  Verification  personnel  shall  take  the  mandatory  training  specified  by  SFC,  and  the 
+subsequent examination, and score at least 70% in order to be SFC approved.      
+
+6.2.3.  Applications  for  approval  of  personnel  shall  be  submitted  by  the  VVB  using  the  Verifier 
+application form (ASU-TPL-003-2), via an email to assurance@smartfreightcentre.org which is 
+also sent to the person to be approved.  
+
+6.2.4. Requests for removal of personnel from the approved list shall also be made by the VVB to 
+the same SFC mail address given above with the approved person copied in, or vice versa.  
+
+6.2.5. Personnel may be listed as approved for more than one VVB.      
+
+6.3.  Training and examination 
+
+6.3.1. Approved personnel shall participate in all mandatory training and examinations run by SFC 
+to  maintain  their  SFC  approval.  Approved  VVB  personnel  shall  take  at  least  one  Continuous 
+Professional  Development  training  per  year  and  any  additional  training  sessions  when  new 
+versions  of  applicable  standards  are  released  or  when  relevant  updates  are  made  to  SFC 
+requirements. VVBs and approved personnel will be notified of such training events.  
+
+6.3.2. Personnel who score less than 70% shall retake the training and the subsequent exam. 
+
+ASU-PRO-002-2 V02 VVB Manual - ISO 14083 
+
+Editor: Assurance Manager 
+
+     Page 6 of 11 
+
+                                                                                                                                                                                     
+ 
+Validation and Verification Body Manual – MBM Specification 
+
+Validation and Verification Body Manual – ISO 14083 
+[Title] 
+
+6.3.3. SFC also accepts requests from individual verifiers to attend the training, if they want to work 
+for  more  than  one  VVB.  However  even  approved  verifiers  cannot  conduct  verifications  except 
+through an approved VVB. 
+
+Edition 02 
+
+30.09.24  
+
+6.3.4.  Any  approved  verifier  who  has  not  carried  out  a  verification  against  this  CAS  within  24 
+months following the award of their approved status must retake the exam if they wish to continue 
+as an approved SFC verifier.  
+
+6.3.5. Training and examination completion are monitored by SFC.  
+
+6.4.  Competence of verification personnel 
+
+6.4.1. The VVB, verification team and verifier shall meet the competence requirements set out in 
+ISO 14065 and ISO 14066. 
+
+6.4.2.  A  verifier  shall  have  the  competence  required  to  assess  the  compliance  of  the  GHG 
+statements or calculation tools against all applicable requirements, including: 
+
+6.4.2.1.  Knowledge  of  all  applicable  standards  that  constitute  criteria  for  verifying  claims 
+against (e.g. ISO 14083, ISO 14064-1),  
+6.4.2.2. Knowledge of all applicable SFC requirements and procedures,  
+6.4.2.3. competences specified in Annex E to ISO 14065, clauses E.1 though to E.2.3.3, 
+6.4.2.4. Knowledge of verification/ auditing, 
+
+6.4.3. A verifier shall also have knowledge of transport chain, including:  
+
+6.4.3.1. Modelling of transport systems and establishment of service level, travel distance 
+and baseline transport modes for all freight modes of transport, 
+6.4.3.2. Typical GHG reduction activities such as Introduction of modal shifts, fuel switches 
+and less GHG intensive transport modes in the transport of freight and passengers,  
+6.4.3.3.  Typical  GHG  emissions,  such  as  Well-to-Wheel  CO2  equivalent  emissions  from 
+fuel use in transport activities, and Well-to-Wheel CO2 equivalent emissions associated with 
+power generation,  
+6.4.3.4. Data input types (primary, etc.), 
+6.4.3.5. Activity- and fuel-based approaches to calculating emissions,  
+6.4.3.6.  Base  methodology  from  the  GLEC  framework  (e.g.:  mode  specific  emission 
+calculations), 
+6.4.3.7. Methods for the evaluation of GHG emissions from transport modes by means of 
+the quantification of primary energy use and standard GHG emission factors for power and 
+fuels. 
+
+6.4.4. A verifier shall also have knowledge of GHG accounting and monitoring, including:  
+
+6.4.4.1. GHGs eligible under the Kyoto Protocol,  
+6.4.4.2. Life Cycle Analysis methodology in the logistics sector (e.g.: Well-to-Wheel), 
+6.4.4.3. Methods for allocation of emissions, 
+6.4.4.4. Regional application when it comes to fuel emission factors and emission intensity 
+values,  
+
+ASU-PRO-002-2 V02 VVB Manual - ISO 14083 
+
+Editor: Assurance Manager 
+
+     Page 7 of 11 
+
+                                                                                                                                                                                     
+ 
+Validation and Verification Body Manual – MBM Specification 
+
+Validation and Verification Body Manual – ISO 14083 
+[Title] 
+
+Edition 02 
+
+30.09.24  
+
+6.4.4.5. Use of Global Warming Potential and conversion of non-CO2 GHG to equivalent 
+CO2 emissions,  
+6.4.4.6. Indirect evaluation of GHG emissions: use of GHG standard emission factors based 
+on energy content and service level, 
+6.4.4.7. Quality control of measurements, including the concepts of measurement range, 
+measurement uncertainty (accuracy, precision, sensitivity and bias) and meter calibrations,  
+6.4.4.8. Judgement of use case related data relevance and granularity. 
+
+include  relevant  documentation  related 
+
+6.4.5.  A  VVB  shall  maintain  up-to-date  personnel  records  of  management  and  administrative 
+personnel, as well as verification personnel including those external to the VVB. These records 
+to  recruitment,  evaluations,  qualifications, 
+shall 
+performance monitoring, training, experience, affiliations, professional status, and any consultancy 
+services that the personnel have provided that could be relevant for verification activities in which 
+they are involved. 
+
+Verification Process 
+7. 
+7.1.  Planning the verification 
+
+7.1.1. VVBs shall conform to the requirements of ISO 17029, ISO 14065 and ISO 1464-3. Set out 
+below are additional requirements needed for the SFC CAS, or clarifications are to how an element 
+of these standards are to be applied for the SFC CAS. 
+
+7.1.2. Before commencing a verification engagement, the VVB  will establish the objectives and 
+identify  the  type  of  GHG  claim  to  be  verified:  for  the  SFC  CAS,  claims  are  reportable  GHG 
+emissions (i.e., reported historic data). 
+
+7.1.3. Criteria are the set of requirements against which the emissions report is verified: for the 
+SFC CAS these are the relevant requirements of ISO 14083 and ISO 14064-1 as documented in 
+the Emissions Reporter’s Monitoring Plan1. 
+
+7.1.4.  The  level  of  assurance  shall  be  established  in  discussion  with  the  Emissions  Reporter, 
+considering the SFC Performance Level being sought - see Emissions Reporter Manual – ISO 
+14083  (ASU-PRO-001-2)  for  details.  The  justification  for  the  level  of  assurance  shall  be 
+documented by the VVB in the Verification Opinion. 
+
+7.2.  Uncertainty and materiality 
+
+7.2.1. SFC recognizes that there is uncertainty inherent in the use of calculation tools, estimates, 
+models,  defaults  factors  etc.  The  Monitoring  Plan  must  include  a  clear  description  of  any  such 
+estimate approaches applied.  
+
+1   Both ISO14064-1 and ISO14083 are context specific so not all elements will apply to an individual Emissions 
+Reporter, therefore the Reporter is required to compile a Monitoring Plan that details the elements that are applied in 
+their context.  Verifiers will check both the content of the Monitoring Plan against the ISO requirements; AND the 
+implementation of the Monitoring Plan to conform that emissions calculations are conformant with all three 
+documents. 
+
+ASU-PRO-002-2 V02 VVB Manual - ISO 14083 
+
+Editor: Assurance Manager 
+
+     Page 8 of 11 
+
+                                                                                                                                                                                     
+ 
+ 
+ 
+ 
+Validation and Verification Body Manual – MBM Specification 
+
+Validation and Verification Body Manual – ISO 14083 
+[Title] 
+
+7.2.2. If a calculation tool or model is ‘SFC approved’ then no further checking is required of it on 
+the part of the verifier, given that the verifier can presume that – provided the input data is valid – 
+a  correct  output  will  be  returned  and  inherent  uncertainty  is  acceptable.   If  a  calculation  tool or 
+model is NOT ‘SFC approved’ then the verifier will need to satisfy themselves that it returns valid 
+results. This may include requesting a validation report from the supplier of the model and/or other 
+information on how the model has been developed and submitted to independent validation. 
+
+Edition 02 
+
+30.09.24  
+
+7.2.3.  For  a  default  factor,  SFC  recognizes  those  mentioned  within  the  latest  versions  of  ISO 
+14083, or from another authoritative source such as published by the United Nations, governments 
+or GHG Protocol. Inherent uncertainty associated with recognized defaults is accepted. 
+
+7.2.4. ISO14064-3 defines materiality as: the concept that individual misstatements or aggregation 
+of misstatements in data reported could influence the intended user’s decisions.  Misstatements 
+are defined as: errors, omissions, misreporting or misrepresentations.  
+
+7.2.5. Materiality is used both for planning verification activities and their focus, and in formulating 
+the  final  conclusion.  Materiality  has  both  qualitative  and  quantitative  aspects:  when  assessing 
+qualitative  materiality,  VVBs  must  determine  whether  the  report  conforms  to  rules  and 
+methodology  requirements.  When  assessing  quantitative  materiality,  VVBs  must  assess  the 
+impact of errors etc. on the total sum of GHG emissions stated in the Emissions Report.  
+
+7.2.6.  Materiality  threshold  is  the  ‘defined  threshold’  above  which  a  verifier  will  not  accept 
+aggregate misstatements in the reported emissions.  This means - within the defined scope of the 
+emissions report, and ignoring acceptable ‘uncertainty’ as defined above - misstatements including 
+errors in data/ values used in calculations, formula errors, missing data, calculation errors etc. The 
+‘defined  threshold’  is  a  %  of  the  total  aggregate  emissions  agreed  between  the  VVB  and  the 
+Emissions  Reporter  and  stated  in  the  final  verification  report.  A materiality  threshold  of  5%  (for 
+example) means aggregate errors exceeding ±5% of the total sum are deemed material and would 
+result in a ‘not verified’ opinion statement.  Uncertainties inherent in the methodology itself are not 
+to be considered. 
+
+7.2.7. The materiality shall be established in discussion with the Emissions Reporter, considering 
+the SFC Performance Level being sought - see Emissions Reporter Manual (ASU-PRO-001-2) 
+for details. The justification for the materiality shall be documented by the VVB in the Verification 
+Opinion. 
+
+7.3.  Carrying out the verification 
+
+7.3.1.  Once  a  contractual  agreement  has  been  reached,  and  a  competent  verification  team 
+selected, the VVB is required to follow the steps included in section 6 of 14064-3 to carry out the 
+verification itself. Subsequently the VVB shall follow sections 8, 9 and 10 of 14064-3.  
+
+7.3.2. In the first year of the first verification cycle, the VVB shall visit the main location(s) where 
+emissions calculations are conducted and where records are stored. Over time (if the organization 
+is reporting annually) circumstances may justify verifications can be conducted remotely because 
+none of the relevant criteria mentioned in ISO 14064-3 are met. 
+
+ASU-PRO-002-2 V02 VVB Manual - ISO 14083 
+
+Editor: Assurance Manager 
+
+     Page 9 of 11 
+
+                                                                                                                                                                                     
+ 
+Validation and Verification Body Manual – MBM Specification 
+
+Validation and Verification Body Manual – ISO 14083 
+[Title] 
+
+7.3.3.  Verification  of  the  reported  GHG  emissions  shall  focus  on  the  appropriate  selection  of 
+Transport Chain Operation (TCO), Transport Chain Element (TCE), Transport Operation Category 
+(TOC)/  Hub  Operation  Category  (HOC),  correct  use  of  input  data  sources  and  the  correct 
+calculation of emissions including plausibility checks of inputs values.  
+
+Edition 02 
+
+30.09.24  
+
+7.3.4. Regarding the responsibility for acceptance of inputs taken into account as part of verification 
+activities,  conformity  assessment  results  which  are  generated  prior  to  the  engagement  or  are 
+provided by the client can be accepted by the VVB with no further verification needed, provided 
+they have been verified in a manner consistent with SFC requirements and a verification report 
+provides the adequate level of detail about the basis of the opinion.  
+
+7.3.5.  The  verifier  shall  prepare  a  verification  report  containing  its  opinion.  The  report  shall 
+document, among other things, any outstanding misstatements, either material or not.  
+
+7.3.6. The VVB shall establish procedures which it considers necessary to obtain sufficient and 
+appropriate  evidence  for  its  verification  conclusion  (both  for  limited  and  reasonable  assurance 
+levels). The procedures shall follow section 6.1.3 of 14064-3. 
+
+7.3.7. The following activities are expected in planning and carrying out verification activities:  
+
+7.3.7.1. Understand the scope and boundary (organizational and operational) of the claims made.  
+
+7.3.7.2.  Review  the  organization’s  GHG  reporting  guidance  and  Monitoring  Plan,  including  the 
+methodology for calculating GHG emissions. 
+
+7.3.7.3. Understand the organization’s procedures for: 
+
+7.3.7.3.1. data measurement and collection (relating to TCEs and TOCs),  
+
+7.3.7.3.2. data measurement and collection (relating to fuel and transport activity),  
+
+7.3.7.3.3. determining data sources, and related systems and internal control procedures. 
+
+7.3.7.4. Review the: 
+
+7.3.7.4.1. emissions sources identified by the organization and assess completeness,  
+
+7.3.7.4.2. sources of emissions factors and Global Warming Potentials used in calculating 
+its GHG emissions,  
+
+7.3.7.4.3. Quality control procedures carried out by the organization on the data collected, 
+
+7.3.7.4.4. Review the calculations and assertions relating to the data type (own fleet, carrier 
+direct,  carrier  data  from  programs,  models  /  tools,  default  factors)  claimed  by  the 
+organization,  
+
+7.3.7.4.5. Review the organization’s declaration of total logistics GHG emissions (Scope 1, 
+2 and 3) and carry out tests of detail to confirm the accuracy of the calculated emissions,   
+
+7.3.7.4.6. Review the organization’s emissions intensity data and carry out tests of detail to 
+confirm the accuracy of the calculated emissions. 
+
+ASU-PRO-002-2 V02 VVB Manual - ISO 14083 
+
+Editor: Assurance Manager 
+
+     Page 10 of 11 
+
+                                                                                                                                                                                     
+ 
+Validation and Verification Body Manual – MBM Specification 
+
+Validation and Verification Body Manual – ISO 14083 
+[Title] 
+
+7.3.8.  VVBs  shall  obtain  and  examine  sufficient  and  appropriate  evidence  in  relation  to  the 
+organization’s claims relating to the verification criteria outlined in its Monitoring Plan.   
+
+Edition 02 
+
+30.09.24  
+
+7.3.9. Verifiers shall use the templates for checklists and for reports (including opinions) prepared 
+by SFC: VVB checklist (ASU-TPL-004-2) and VVB report (ASU-TPL-005-2). VVBs and verifiers 
+can adapt these templates to their own layouts, as long as the content is maintained. Examples of 
+relevant verification trails and evidence are given in the checklist. 
+
+8. 
+
+      Related policies and other information 
+
+8.1. VVB Manual – MBM Specification (ASU-PRO-008-2) 
+8.2. GLEC Framework (SFC-GUID-001) 
+8.3. ER Manual – ISO 14083 (ASU-PRO-001-2) 
+8.4. Assurance Fees for VVBs (ASU-FEE-002-2) 
+8.5. VVB Application Form (ASU-TPL-002-2) 
+8.6. License Agreement SFC-VVB (ASU-TPL-008-2) 
+8.7. SFC assessment report (ASU-TPL-007-2) 
+8.8. Verifier Application Form (ASU-TPL-003-2) 
+8.9. VVB Checklist – ISO 14083 (ASU-TPL-005-2) 
+8.10. VVB Report (ASU-TPL-006-2) 
+
+Version history 
+
+1  
+
+30/06/2023 First edition  
+
+2 
+
+30/09/2024 Following  creation  of  the  new  scope:  SFC  CAS  –  scope  MBM  Specification, 
+adaptation of this document this procedure to refer only to SFC CAS – scope ISO 
+14083. New template. 
+
+___________________________________________________________ 
+
+This work is copyright of SFC. It may be reproduced for fair use by those seeking SFC approval, or those wishing to learn more 
+about the SFC CAS, but may not be used by others without the written permission of SFC. 
+
+© 2024 Smart Freight Centre (SFC) 
+
+ASU-PRO-002-2 V02 VVB Manual - ISO 14083 
+
+Editor: Assurance Manager 
+
+     Page 11 of 11 
+
+                                                                                                                                                                                     
+ 
+ 
+ 
+ 
+

@@ -1,0 +1,1724 @@
+Exploring Sustainability in 
+Road Freight Electrification  
+
+A Comprehensive FAQ 
+
+February 2024 
+
+ 
+ 
+ 
+Exploring Sustainability in Road Freight 
+Electrification  
+A Comprehensive FAQ 
+
+February 2024 
+
+© Smart Freight Centre, 2024 
+Suggested citation: Smart Freight Centre. Exploring Sustainability in Road Freight Electrification: A 
+Comprehensive FAQ. 2024. 
+This publication may be reproduced in whole or in part in any form for educational or non-profit purposes without special permission 
+from the copyright holder, provided acknowledgment of the source is made. Smart Freight Centre would appreciate receiving a copy of 
+any publication that uses ‘Exploring Sustainability in Road Freight Electrification: A Comprehensive FAQ.' as a source.  No use 
+of this publication may be made for resale or for any other commercial purpose whatsoever, without prior permission in writing from 
+Smart Freight Centre. 
+
+Disclaimer 
+The views expressed in this publication are those of Smart Freight Centre and staff, consultants and management, and do not 
+necessarily reflect the views of the Board of Trustees of Smart Freight Centre. Smart Freight Centre does not guarantee the accuracy 
+of the data included in this publication and does not accept responsibility for consequence of their use. 
+
+Acknowledgements 
+This report was written by Gabriela Rubio Domingo, Priyansh Doshi, and Tharsis Teoh of Smart Freight Centre. 
+
+About Smart Freight Centre 
+Smart Freight Centre is an international non-profit organization focused on reducing greenhouse gas emissions from freight 
+transportation. Smart Freight Centre’s vision is an efficient and zero emission global logistics sector. Smart Freight Centre’s mission is 
+to collaborate with the organization’s global partners to quantify impacts, identify solutions, and propagate logistics decarbonization 
+strategies. Smart Freight Centre’s goal is to guide the global logistics industry in tracking and reducing the industry’s greenhouse gas 
+emissions by one billion tonnes by 2030 and to reach zero emissions by 2050 or earlier, consistent with a 1.5°C future. 
+
+Contact 
+Smart Freight Centre 
+Keizersgracht 560, 1017 EM, Amsterdam, Netherlands 
+P.O. Box 11772, 1001 GT, Amsterdam, Netherlands 
+Tel office: +31 6 4695 4405 
+www.smartfreightcentre.org 
+info@smartfreightcentre.org  
+
+Exploring Sustainability in Road Freight 
+Electrification: A comprehensive FAQ 
+
+Table of Contents 
+
+1 
+
+Introduction .................................................................................................. 7 
+
+2  Environmental Sustainability ................................................................... 10 
+
+Overview ................................................................................................................... 10 
+2.1  What are the most energy-intensive stages of e-trucks lifecycle? ............................ 10 
+2.2  How does the lifecycle carbon footprint of e- trucks compare to that of traditional ICE 
+trucks? ................................................................................................................................. 11 
+
+Mining and extraction of key minerals and metals .............................................. 11 
+2.3  What are the main environmental issues associated with mining and extraction of 
+key minerals in e-trucks? ..................................................................................................... 11 
+2.4  What are the most critical sustainability issues associated with key materials 
+required for e-trucks? ........................................................................................................... 12 
+2.5 
+Is mining more impactful for ICE trucks or e-trucks? ................................................ 12 
+2.6  What are solutions to identify and minimize environmental impacts of mining and 
+extraction? ........................................................................................................................... 13 
+
+Processing and Manufacturing .............................................................................. 13 
+2.7  What are emissions levels from steel and aluminum manufacturing, and what viable 
+decarbonization solutions are being explored within these industries? ............................... 13 
+2.8  What are measures to reduce emissions related to battery manufacturing? ............ 14 
+
+Electricity Production & Use .................................................................................. 14 
+2.9  What are the environmental issues related to energy infrastructure and electricity 
+production? .......................................................................................................................... 14 
+2.10 
+How does additional demand created by charging e-trucks affect the carbon 
+content of the grid (marginal emissions)? ............................................................................ 15 
+2.11  Which energy source options for electricity production are more sustainable from a 
+broader sustainability perspective? How can this be measured? ........................................ 15 
+2.12  What mechanisms can be used to evaluate the sustainability attributes of the 
+electricity purchased and what do they include? ................................................................. 16 
+How can the use of e-trucks impact noise, air pollution and safety? ..................... 17 
+2.13 
+
+Environmental Sustainability: End of Life ............................................................. 17 
+
+2.14  What are EoL options for batteries of e-trucks? Which EoL option should be 
+preferred under what circumstances? ................................................................................. 17 
+2.15  What are main EoL challenges from a circularity perspective (assuming batteries 
+are not to be disposed of)? .................................................................................................. 18 
+2.16  What are the solutions that address environmental challenges arising from 
+batteries reaching its EoL? How can logistic actors aid in mitigating these challenges? .... 19 
+2.17 
+How should one report lifecycle GHG emissions for e-trucks according to the GHG 
+Protocol? .............................................................................................................................. 19 
+
+3  Social Sustainability .................................................................................. 21 
+3.1  What are the anticipated changes in the demand for specific materials crucial for 
+EVs and renewable electricity production, and what is done to address sustainable sourcing 
+shortages? ........................................................................................................................... 21 
+3.2  What are the social sustainability issues associated with sourcing of raw material? 21 
+
+                                                                                                                                   
+ 
+Exploring Sustainability in Road Freight 
+Electrification: A comprehensive FAQ 
+
+3.3  What initiatives and frameworks are in place to address social sustainability 
+challenges in the e-truck value chain, and how can logistic actors take advantage of them? . 
+ .................................................................................................................................. 21 
+
+3.4  Which stakeholders in the supply chain should hold responsibility for issues related 
+to raw material sourcing? ..................................................................................................... 22 
+
+4  Economic Sustainability ........................................................................... 24 
+4.1  What are the major economic sustainability challenges that affect e-trucks from the 
+OEM’s perspective? ............................................................................................................. 24 
+4.2  What are the main solutions to existing economic and supply chain challenges that 
+affect e-trucks? .................................................................................................................... 24 
+4.3  What economic transformation is necessary to ensure environmental and social 
+sustainability? ...................................................................................................................... 25 
+
+Glossary ........................................................................................................... 26 
+
+Bibliography ..................................................................................................... 27 
+
+                                                                                                                                   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exploring Sustainability in Road Freight 
+Electrification: A comprehensive FAQ 
+
+Table of Figures 
+
+Figure 1: E-trucks lifecycle and key stages involving sustainability issues. .................................. 9 
+
+Figure 2: Breakdown of GHG Emissions for e-trucks & ICE trucks ............................................ 10 
+
+Figure 3: Normalized, weighted, environmental impacts of the generation of 1 TWh of electricity
+ .................................................................................................................................................... 16 
+
+Figure 4: GHG emissions in the life cycle of e-trucks ................................................................. 20 
+
+Figure 5: Responsible Minerals Initiative -Assurance Standards Landscape for the Minerals 
+Supply Chain ............................................................................................................................... 23 
+
+Table of Tables 
+
+Table 1: Summary of sustainability issues for key metals in e-trucks ......................................... 12 
+
+Table 2: End of Life Options for electric batteries from a circularity perspective ........................ 17 
+
+Table 3: Main EoL challenges for batteries from a circularity perspective .................................. 18 
+
+Table 4: Emissions reporting for EV operations based on GHG Protocol .................................. 20 
+
+Table 5: Economic sustainability challenges that affect e-trucks from the OEMs perspective.. . 24 
+
+                                                                                                                                   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exploring Sustainability in Road Freight 
+Electrification: A comprehensive FAQ 
+
+Table of Abbreviations  
+
+AVAS: Acoustic Vehicle Alerting Systems 
+
+CDP: Carbon Disclosure Project 
+
+CO2: Carbon Dioxide 
+
+EEA: European Environment Agency 
+
+EoL: End of Life 
+
+ESG: Environmental,Social & Corporate Governance 
+
+e-truck: Electric Truck (Battery Powered) 
+
+EU: European Union 
+
+EV: Electric Vehicle 
+
+GHG: Greenhouse Gas 
+
+GoO: Guarantees of Origin 
+
+GRI: Global Reporting Initiative 
+
+ICE: Internal Combustion Engine 
+
+kt: kilotonne 
+
+OEM: Original Equipment Manufacturer 
+
+PM: Particulate Matter 
+
+PV: Photovoltaic 
+
+RMI: Responsible Mineral Initiative 
+
+TWh: Trillion watt hours 
+
+UNECE: United Nations Economic Commission for Europe 
+
+                                                                                                                                   
+ 
+ 
+ 
+ 
+Exploring Sustainability in Road Freight 
+Electrification: A comprehensive FAQ 
+
+1 
+
+Introduction 
+
+Road  freight,  predominantly  powered  by  fossil  fuel,  contributes  more  than  half  of  the  carbon 
+dioxide emissions produced in trade-related transport globally (ITF 2019). In Europe, road freight 
+is accountable for over 19% of the greenhouse gas (GHG) emissions in the transport sector, and 
+this figure is anticipated to grow by 8% by 2050 (ICCT 2022). Notably, a significant amount of 
+these  GHG  emissions  typically  arise  from  the  utilization  of  fossil  fuels  for  propulsion  (Scania 
+2020). Decarbonization efforts are advancing in the road freight transport sector globally to keep 
+in  line  with  the  Paris  Agreement  Goals.  For  instance,  the  Dutch  climate  agreement  plans  to 
+implement zero emission zones in city centers in the Netherlands from 2025 to reduce the logistics 
+carbon footprint by a total yearly CO2-reduction of 1 Mtonne in 2030 (Kin et al. 2021). Therefore, 
+a fast transition to zero-emission freight vehicles is vital for decarbonization of the logistic sector 
+and to keep in line with the emissions regulations placed globally. (ICCT 2022).  
+
+Electric  trucks  (e-trucks)  represent  a  highly  viable  alternative  for  supply  chain 
+decarbonization. 
+
+The adoption of e-trucks by logistics sector can significantly decouple the reliance on fossil fuels 
+especially  in  places  with  policies  that  support  the  reliance  on  greener  electricity  generation 
+choices. According to ICCT (2023), transitioning to e-trucks would result in a drastic reduction of 
+the  lifecycle  GHG  emissions  by  up  to  76%  considering  the  average  EU  electricity  mix.  The 
+reduction in GHG emissions can further improve along with the improvement in the energy mix 
+consisting of a higher percentage of electricity generated from renewable sources. 
+
+Logistic actors need to have a broader understanding of impacts on overall sustainability 
+arising from transitioning to e-trucks. 
+
+Despite  these  emissions  benefits,  e-trucks,  like  internal  combustion  engine  (ICE)  trucks,  have 
+associated environmental and social impacts across their lifecycle (Mowbray 2023). Therefore, to 
+avoid impact shifting, it is crucial to ensure a transition that goes beyond just eliminating fossil 
+fuel  emissions  but  acknowledges  the  social,  economic  and  environmental  dimension  as  well. 
+Furthermore, it’s of utmost importance to track and mitigate the sustainability challenges across 
+the  entire  lifecycle  of  the  vehicles  without  having  a  carbon  tunnel  vision  targeting  only  the 
+operational phase of e-trucks. 
+
+It’s  vital  to  understand  that  both  ICE  trucks  and  e-trucks  have  sustainability  impacts  across 
+different  phases  within  the  truck’s  lifecycle.  Therefore,  a  broader  understanding  is  required  to 
+identify and mitigate these sustainable challenges. For instance, concerning ICE trucks, the most 
+substantial sustainability impacts occur downstream during the utilization phase, particularly from 
+the combustion of fuels and upstream from the extraction, refining, and transportation of crude oil 
+to produce liquid transportation fuel, as well as in the distribution of the refined fuel (CRS 2020). 
+Long term dependency on the combustion of fossil fuel to power these ICE trucks have led to 
+significant environmental, human and geopolitical consequences (Transport & Environment 2021, 
+CRS 2020, O’Rourke & Connolly 2003). Conversely, the most crucial yet mitigable sustainability 
+challenges are associated with the manufacturing and final life (End-of-Life) stage of an e-truck. 
+For  instance,  the  energy-intensive  extraction  of  essential  materials  and  the  manufacturing  of 
+batteries to power the e-truck powertrain pose various sustainability risks. Additionally, during the 
+final  life  cycle  phase  of  the  e-truck,  the  disposal  and  treatment  of  batteries  present  unique 
+environmental  challenges.  While  adopting  a  circularity  approach  for  handling  spent  e-truck 
+batteries  is  considered  the  most  suitable  strategy,  it  comes  with  significant  economic  and 
+technical challenges. 
+
+This sustainability guidance report takes a triple-bottom line approach to highlight the mitigable 
+sustainability challenges categorized under environmental, social and economic aspects that can 
+
+                                                                                                                                   
+Exploring Sustainability in Road Freight 
+Electrification: A comprehensive FAQ 
+
+be associated throughout the lifecycle of e-trucks, including electricity generation. Furthermore, it 
+explores key strategies that can be implemented to mitigate these sustainability challenges.  
+
+Implementing  strategies  to  mitigate  associated  challenges  is  the  key  to  an  overall 
+sustainable transition within the road freight transport sector. 
+
+Several practices within the manufacturing, operational and end of life (EoL) phase of e-trucks 
+can be adopted to mitigate the environmental, social and economic challenges associated with 
+e-trucks. For instance, implementing circularity within the value chain aids in addressing the 
+sustainability issues arising from extraction of new raw materials. Circularity allows the 
+minimization of issues related to disposal of batteries and reduces the need for raw materials, 
+thereby mitigating the associated social, environmental and supply risks.  
+
+The use of alternative sources for energy generation is key to further reducing the sustainability 
+impacts from manufacturing and the operational phase of e-trucks. Technological advancement 
+and optimization of fleet and battery use, further contribute to reducing impacts arising from all 
+the three phases of e-trucks.  
+
+Additionally, adhering to the legislative measures in place such as the European Union (EU) 
+regulations and supply chain due diligence standards is another way to mitigate these broader 
+sustainability challenges arising from the material sourcing of the required raw materials. 
+Logistic actors should request for supply chain due diligence reports from the manufacturers to 
+ensure the e-trucks procured comply to the sustainability standards. This will subsequently also 
+give a signal to the market and stakeholders in the supply chain to progressively adhere to 
+adequate sustainability standards and take action to mitigate issues arising from the up- and 
+downstream activities in the e-truck materials supply chain. 
+
+Logistic actors can maximize the sustainability benefits of e-trucks by prioritizing adoption in 
+urban operations. A sustainable transition roadmap should prioritize specific regions for e-truck 
+deployment where the energy mix comprises of a greater share from renewable sources to gain 
+maximum benefits from the transition. 
+
+What can you expect from this document?  
+
+The  report  explores  mitigable  sustainability  challenges  and  solutions  categorized  under 
+environmental, social and economic aspects that can be associated throughout the lifecycle of e-
+trucks including electricity generation. In the section on environmental sustainability, the report 
+thoroughly  examines  challenges  and  mitigation  strategies  at  key  stages  such  as  raw  material 
+extraction,  processing,  component  and  e-truck  production,  vehicle  use  (considering  energy 
+infrastructure and production impacts), and the end-of-life phase. Subsequently, the section on 
+social  sustainability  identifies  potential  social  risks  associated  within  the  entire  battery  supply 
+chain and suggests mitigation measures to eliminate these risks. In the final section of the report 
+on economic sustainability, the focus is on strategies to tackle economic sustainability challenges 
+and ways in which economic transformation can contribute to achieving environmental and social 
+sustainability goals within the e-truck industry. 
+
+The report adopts a cradle-to-grave perspective to highlight sustainability challenges and present 
+mitigation  strategies  individually  for  both  the  vehicle  and  the  fuel  lifecycle  as  it  allows  for  the 
+evaluation of the total environmental impact, including emissions, energy efficiency, and use of 
+resource use, associated with different modes of transportation and energy sources. The vehicle 
+lifecycle  refers  to  the  various  stages  a  vehicle  goes  through  from  its  initial  design  and 
+manufacturing  to  its  eventual  disposal  or  recycling,  including  raw  material  extraction, 
+manufacturing, use and end-of-life, as depicted in Figure 1.  
+
+On the other hand, fuel lifecycle includes the complete life of a fuel source, from extraction or 
+production to its eventual consumption and (if relevant) disposal. This includes the extraction or 
+production, refinement and processing, distribution, storage and handling, consumption and end-
+of-life  or  disposal.  It  also  involves  the  construction,  operation  and  dismantling  of  any  relevant 
+
+                                                                                                                                   
+Exploring Sustainability in Road Freight 
+Electrification: A comprehensive FAQ 
+
+infrastructure. In the case of electricity consumption for e-trucks, fuel lifecycle refers to all aspects 
+related to the generation, distribution of electricity and the construction, operation and dismantling 
+of electricity generation and distribution related facilities.   
+
+Figure 1: E-trucks lifecycle and key stages involving sustainability issues. 
+
+The document is designed in the form of an FAQ as to offer concrete guidance to key questions 
+and concerns about sustainability in e-trucks from the different sustainability perspectives, as well 
+as comparing them with ICE trucks where relevant.  
+
+                                                                                                                                   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exploring Sustainability in Road Freight 
+Electrification: A comprehensive FAQ 
+
+2  Environmental Sustainability 
+
+This section aims to provide an objective examination of the environmental impacts associated 
+with  the  lifecycle  of  e-trucks.  It  comprehensively  covers  key  lifecycle  stages,  including  raw 
+material  extraction,  processing,  component  and  e-truck  production,  vehicle  use  (considering 
+energy  infrastructure  and  production  impacts),  and  the  end-of-life  phase.  The  discussion  also 
+highlights  potential  solutions  to  mitigate  environmental  risks  associated  with  e-trucks  and 
+electricity production. Adopting a cradle-to-grave perspective ensures a thorough and genuinely 
+environmentally sustainable transition to e-trucks, avoiding the perpetuation of issues, or creating 
+new ones upstream or downstream. 
+
+Overview 
+
+2.1  What are the most energy-intensive stages of e-trucks lifecycle? 
+
+The  lifecycle  stages  of  a  e-truck  include  the  production  phase,  comprising  extraction  of  raw 
+materials,  manufacturing  and  any  transportation  or  distribution;  the  use  phase  which  includes 
+electricity generation and distribution as well as charging of the vehicle and operations; and the 
+end-of-life stage which comprises of all processes related to the decommissioning of the vehicle, 
+such as re-selling, reuse, recycling and any waste management activities.   
+
+A report by Transport & Environment (2021), analyses the energy requirements for the different 
+lifecycle stages of an e-truck and establishes a comparison on the material requirements for diesel 
+and e-trucks. As per the findings, the production of electricity for e-truck operation stands out as 
+the most energy-intensive stage throughout its life cycle, comprising 60% of the overall energy 
+consumption, as illustrated in Figure 2. Therefore, decarbonizing the electricity grid to which e-
+trucks connect is crucial. Nevertheless, the emissions pales in comparison to the contribution of 
+GHG emissions in the fuel production and consumption for a diesel truck.  
+
+Figure 2: Breakdown of GHG Emissions for e-trucks & ICE trucks (Adapted from ICCT 
+2023, McKinsey 2023b) 
+
+Notably, battery manufacturing ranks as the second most carbon-intensive stage, accounting for 
+over  25%  of  total  life  cycle  energy  consumption.  This  highlights  the  importance  of  addressing 
+battery manufacturing to enhance energy efficiency and source energy from clean channels. The 
+
+                                                                                                                                   
+ 
+ 
+Exploring Sustainability in Road Freight 
+Electrification: A comprehensive FAQ 
+
+vehicle  production  phase,  particularly  steel  and  aluminium  manufacturing,  is  also  energy-
+intensive,  representing  11%  of  total  life  cycle  energy  consumption.  Note  that  the  amount  of 
+emissions in this category would be similar in the diesel truck. 
+
+2.2  How does the lifecycle carbon footprint of e- trucks compare to that of traditional 
+
+ICE trucks? 
+
+A  comprehensive  cradle-to-grave  analysis  of  GHG  emissions  is  imperative  to  facilitate  a  fair 
+comparison  of  the  lifecycle  GHG  emissions  of  ICE  and  e-trucks.  This  analysis  encompasses 
+emissions from all three stages of the truck’s lifecycle, namely upstream emissions from vehicle 
+manufacturing and energy production, emissions from the vehicle use phase, and the eventual 
+recovery of vehicles. The sustainability of e-trucks in each region is significantly influenced by the 
+type of energy mix prevalent in that specific geography (ICCT 2023; Scania 2020).  
+
+According to an analysis by ICCT (2023), transitioning from diesel to electric powertrains yields 
+substantial reductions in GHG emissions, even when considering the EU average electricity mix. 
+Throughout their lifecycle, e-trucks currently in production exhibit a 63% to 76% reduction in life 
+cycle GHG emissions compared to the present best-in-class diesel trucks. The decarbonization 
+and enhancement of the electricity grid can further augment the GHG emission reduction of e-
+trucks to a range of 84-92% (100% renewable energy scenario). These reductions stem from the 
+heightened  energy  efficiency  of  e-trucks  and  the  decreased  carbon  intensity  of  the  average 
+electricity mix in contrast to diesel. 
+
+Despite the overall emissions advantage of e-trucks, it is essential to acknowledge that they may 
+incur a production debt in terms of GHG emissions relative to ICE trucks as shown in figure 2. 
+This  arises  from  the  energy-intensive  nature  of  battery  production.  However,  e-trucks 
+demonstrate the potential to outperform ICE trucks in terms of GHG emissions as the GHG break-
+even point is typically reached within one or two years of operation (considering electricity mix of 
+EU 2020 & EU 2030). (Scania 2020) 
+
+Mining and extraction of key minerals and metals  
+
+2.3  What are the main environmental issues associated with mining and extraction of 
+
+key minerals in e-trucks? 
+
+Mining is a key activity in the lifecycle of e-trucks, as various minerals and metals are required for 
+their production. These are essential for the manufacturing of batteries, electric motors and other 
+components. Some of the significant minerals and metals used in e-trucks include lithium, cobalt, 
+nickel and manganese, which are used in the manufacturing of the batteries; rare elements and 
+copper for the electric motor; and steel and aluminum for manufacturing of the e-truck body.  
+
+The  mining  and  extraction  processes  of  raw  materials  used  in  e-trucks  give  rise  to  several 
+environmental concerns such as local pollution of air, water & soil, the depletion of vital resources 
+like water, biodiversity loss, and the generation of hazardous waste (Zimmermann 2023; GBA 
+and WEF 2019; McKinsey 2023a).  
+
+Moreover, specific raw materials used in e-truck production introduce additional environmental 
+challenges. For instance, manganese mining involves extensive land utilization and the emission 
+of airborne contaminants (GBA and WEF 2019). In the case of nickel, its extraction entails the 
+management of acid in leaching processes, which poses a distinct risk.  
+
+Due to the scarcity of certain minerals and metals, there is an anticipation that mining activities 
+may extend beyond terrestrial operations in the future. As suggested by GBA and WEF (2019), 
+deep seabed mining is expected to become a more widespread practice in the coming decade. 
+While this could potentially mitigate some of the challenges associated with terrestrial mining, it 
+also raises concerns about its impact on the ocean's ability to sequester CO2, in addition to other 
+potential, yet undiscovered issues. 
+
+                                                                                                                                   
+Exploring Sustainability in Road Freight 
+Electrification: A comprehensive FAQ 
+
+2.4  What are the most critical sustainability issues associated with key materials 
+
+required for e-trucks? 
+
+The most critical sustainability issues for cobalt, lithium, nickel and manganese, which are all key 
+components for the manufacture of e-trucks, are summarized in Table 1. The list is not exhaustive 
+and intends to point out the issues that are hardest to address particular to each material. 
+
+Lithium and nickel, due to their geographical concentration, present supply chain risks that can 
+potentially result in disruptions or high prices. Cobalt mining is also related to important social and 
+governance  issues  in  Congo,  where  most  of  world  resources  are  to  be  found  and  where 
+precarious  mining  sites  and  informal  working  conditions  affect  local  populations  (European 
+Commission 2023b; GBA and WEF 2019). 
+
+This section of the report covers the related environmental issues while the economic and social 
+issues, also reflected in the table, are addressed in detail in later sections of the FAQ. 
+
+Table 1: Summary of sustainability issues for key metals in e-trucks (Goldman Sachs 
+2022) 
+
+2.5 
+
+Is mining more impactful for ICE trucks or e-trucks? 
+
+The  mining  and  processing  stages  differ  significantly  for  ICE  and  e-trucks.  In  the  case  of  ICE 
+trucks, the mining phase is primarily focused on extracting the fuel needed for vehicle operation. 
+Conversely,  e-trucks  necessitate  the  extraction  of  specific  materials  essential  for  battery 
+manufacturing, with the potential for recycling or repurposing these materials as raw inputs for 
+new vehicles. 
+
+Presently, e-trucks exhibit greater environmental impacts during the mining phase compared to 
+ICE  trucks.  This  is  due  to  the  well-established  nature  of  the  fossil  fuel  industry,  which  has 
+optimized  fuel  extraction  processes.  Even  though  ICE  trucks  involve  the  extraction  of  more 
+substantial quantities of materials through mining, e-trucks tend to have higher lifecycle impacts 
+related to acidification, human toxicity, particulate matter emissions, and resource depletion (Del 
+Pero, Delogu, and Pierini 2018). 
+
+Despite of this, ongoing research anticipates a shift in this dynamic over time. As mining activities 
+related to e-truck production become more streamlined and efficient, and recycling practices for 
+e-trucks components get to be more widespread and effective, it is expected that material demand 
+will  gradually  diminish.  This  transition  is  expected  to  contribute  to  a  reduction  in  the  overall 
+environmental impact of e-trucks in the long term. 
+
+                                                                                                                                   
+ 
+Exploring Sustainability in Road Freight 
+Electrification: A comprehensive FAQ 
+
+2.6  What are solutions to identify and minimize environmental impacts of mining and 
+
+extraction? 
+
+Solutions to the issues mentioned in this chapter include identifying and minimizing environmental 
+impacts, following a consistent approach and adhering to international standards. An illustrative 
+example  is  the  Environmental,  Social  &  Corporate  Governance  (ESG)  Standard  for  Minerals 
+Supply  Chains  (Responsible  Minerals  Initiative  2021).  This  framework  proposes  a  set  of 
+measures to prevent or minimize these concerns such as:  
+
+•  providing relevant training for workers and managers  
+• 
+• 
+
+the establishment of corrective and preventive action protocols 
+the  sourcing  of  materials  exclusively  from  mines  independently  evaluated  against  global 
+standards. 
+the implementation of tailored measures for specific issues like water and soil pollution 
+
+• 
+•  and the enhancement of waste management practices on mining sites. 
+
+Furthermore, an additional approach to tackle environmental issues linked to mining is to reduce 
+mining activities by adopting circularity principles (GBA and WEF 2019). This can be achieved by 
+enhancing  the  traceability  of  materials,  for  instance,  implementing  mechanisms  like  battery 
+passports, and by creating appropriate market incentives and regulatory frameworks to promote 
+and implement recycling practices. 
+
+Processing and Manufacturing  
+
+2.7  What are emissions levels from steel and aluminum manufacturing, and what 
+viable decarbonization solutions are being explored within these industries? 
+
+Steel and aluminum exert a notable influence on the GHG emissions throughout the vehicle life 
+cycle, in the context of both diesel and e-trucks. In diesel trucks, steel production is the primary 
+contributor  to  emissions  arising  from  vehicle  manufacturing.  Conversely,  in  e-trucks,  materials 
+associated with lithium-ion batteries (including cathode, anode, aluminum, and battery assembly) 
+exhibit  the  highest  GHG  emissions  accounting  for  upto  35%  to  50%  of  the  material  carbon 
+footprint of an e-truck. (Iyer et al. 2023, Billy & Müller 2023) 
+
+A study by Iyer et al. (2023), illustrates that aluminum accounts for an outsized share of impact 
+on the vehicle cycle emissions compared to steel because of its highly energy- and GHG-intensive 
+production.  Consequently,  OEMs  must  carefully  evaluate  the  consequential  increase  in  GHG 
+emissions  resulting  from  the  substitution  of  steel  with  aluminum,  a  practice  aimed  at 
+manufacturing lightweight and fuel-efficient medium and heavy-duty vehicles. Furthermore, truck 
+manufacturers can optimize vehicle design to necessitate less material, thereby diminishing the 
+demand for steel and aluminum manufacturing. (Iyer et al. 2023; WEF 2020c; 2020a) 
+
+Manufacturers  of  steel  and  aluminum  can  contribute  to  emission  mitigation  efforts  by  either 
+enhancing  the  proportion  of  recycled  content  in  their  materials  or  by  adopting  more  energy-
+efficient  production  methods,  possibly  through  redesigning  fuel  systems.  Another  avenue  for 
+emission reduction involves the implementation of Carbon Capture and Storage coupled with low-
+carbon biomass and replacement of coking coal with hydrogen or green electricity. Additionally, 
+technical solutions, such as substituting carbon anode with inert anode in aluminum production, 
+hold promise for diminishing emissions stemming from aluminum manufacturing. (WEF 2020c; 
+2020a) 
+
+Lastly, a study by Iyer et al. (2023) concludes the impact of frequent battery replacement on e-
+truck’s vehicle-cycle impacts. Advancements in battery technology and the adoption of optimal 
+operational strategies for e-trucks can substantially reduce the frequency of battery replacements 
+
+                                                                                                                                   
+ 
+ 
+ 
+Exploring Sustainability in Road Freight 
+Electrification: A comprehensive FAQ 
+
+required during the e-truck’s lifecycle thereby enhancing the overall environmental outcomes in 
+the vehicle life cycle.  
+
+2.8  What are measures to reduce emissions related to battery manufacturing? 
+
+Electricity  produces  half  of  emissions  related  to  battery  manufacturing,  as  the  electrode 
+production and cell assembly processes are very energy intensive. Thus, it becomes critical to 
+decarbonize the grid to achieve improvements. With the prospective development of renewable 
+energy generation, emissions for battery manufacturing are expected to be 17% lower by 2030 
+according to (ICCT 2018). 
+
+Alternative measures to mitigate the environmental impacts of batteries also include (EEA 2018; 
+WEF 2020c): 
+
+•  Using battery capacity that is appropriate for the expected driving range (as larger batteries 
+involve  greater  impacts).  This  will  be  facilitated  by  an  increasingly  denser  charging 
+infrastructure. 
+
+•  Enhancing battery technology and opting for battery types that offer higher energy densities 
+
+and longer life cycle expectancy. 
+
+•  Manufacturing  for  energy  efficiency  by  making  use  of  economies  of  scale  in  battery 
+
+production. 
+
+Electricity Production & Use 
+
+2.9  What are the environmental issues related to energy infrastructure and electricity 
+
+production? 
+
+Similar  to  environmental  issues  within  the  ICE  trucks  in  terms  of  oil  exploration,  refining  and 
+distribution, there are a range of relevant issues within the e-truck ecosystem linked to energy 
+infrastructure and electricity production, from a life-cycle perspective. Most relevant issues for the 
+different sources of energy comprise: 
+
+•  Mining/raw materials/fuel production: There are important issues linked to the materials 
+needed to build energy infrastructure. Examples would be the use of rare earth materials in 
+motors  and  of  cobalt  in  wind  turbines  (Zimmermann  2023).  These  would  be  similar  to  the 
+issues for the mining of materials for electric batteries mentioned earlier. For fossil-fuel based 
+energy production, there are issues linked to crude oil, such as mining and risks of spilling. 
+When burning biofuels, potential issues could include land use change, resource depletion, 
+soil and ecosystem degradation, or labor issues.  
+
+•  Construction  of  power  generation  infrastructure  may  have  impacts  on  natural  habitats 
+and biodiversity, such as loss of habitats (hydropower), modification or fragmentation (wind, 
+solar farms). (UNDP Serbia 2010; EERE 2023) 
+
+•  Power  generation:  There  can  be  associated  GHG  emissions  and  air  pollution  from  fuel 
+combustion, in the case of fossil-based generation technologies – for example, the smog from 
+coal power plants. Power generation in many cases also has a water footprint, for example, 
+in steam generation or cooling systems that are common to many energy sources.  
+
+•  Decommissioning: The main environmental concerns associated with the decommissioning 
+of  power  plants,  regardless  of  their  type,  include  managing  residual  pollutants  from  the 
+operational phase, legacy pollution from the operational phase, managing hazardous waste 
+materials, preventing water and soil contamination, minimizing land disturbance and habitat 
+disruption, and controlling emissions during dismantling. 
+
+                                                                                                                                   
+Exploring Sustainability in Road Freight 
+Electrification: A comprehensive FAQ 
+
+2.10  How does additional demand created by charging e-trucks affect the carbon 
+
+content of the grid (marginal emissions)? 
+
+The term marginal emissions refers to the amount of additional GHG emissions or other pollutants 
+produced as a result of a specific change in energy or resource consumption. These emissions 
+represent  the  incremental  environmental  impact  associated  with  increasing  or  decreasing  a 
+particular activity, such as using an additional unit of electricity or fuel or producing an extra unit 
+of goods or services. 
+
+It is important to consider that the composition of the electricity mix on the grid is intimately tied 
+to its demand patterns. When introducing the charging of e-trucks into this equation, it can either 
+escalate or diminish emissions stemming from electricity generation, depending on if the charging 
+happens in periods of low or high demand. For instance, if e-truck charging predominantly occurs 
+during periods of low electricity demand, it can absorb surplus capacity generated by renewable 
+sources. This results in an overall greener grid mix because it maximizes the use of clean energy 
+sources.  Conversely,  if  e-truck  charging  aligns  with  high-demand  periods,  it  can  exacerbate 
+demand peaks, leading to increased reliance on natural gas power units and subsequent carbon 
+emissions. Consequently, the concept of marginal emissions becomes particularly significant in 
+situations  where  e-truck  charging  practices  either  align  with  or  counteract  prevailing  demand 
+dynamics. 
+
+To  address  these  challenges  and  optimize  the  environmental  benefits  of  e-truck  adoption,  it's 
+imperative to promote flexible charging practices. This approach allows us to harness low-carbon 
+electricity  when  it's  abundant  and  prevents  the  creation  or  worsening  of  demand  peaks.  This 
+aligns with the recommendations of the European Environment Agency (EEA) in 2018. 
+
+Furthermore, there are additional strategies to consider that would increase the sustainability of 
+power generation and transmission. These encompass enhancing grid infrastructure, including 
+enhancing  the  grid  energy  storage  capacity  and  achieving  better  grid  integration.  Additionally, 
+implementing practices like battery swapping allows for charging that is disconnected from vehicle 
+usage, and optimizing battery capacity to match actual travel needs—avoiding unnecessary over-
+sizing—further enhances the sustainable use of the vehicles. 
+
+2.11  Which energy source options for electricity production are more sustainable from 
+
+a broader sustainability perspective? How can this be measured? 
+
+To standardize the way different environmental impacts affect electricity production, the United 
+Nations  Economic  Commission  for  Europe  (UNECE)  proposes  16  categories  of  impacts  with 
+corresponding units of measurement and guidance for their calculation (UNECE 2022). These 
+impact categories include use of minerals and metals, water use, particular matter, human toxicity, 
+among others.   
+
+Figure 3 presents a summary of the normalized environmental impacts corresponding to 1 TWh 
+of electricity for the different categories, enabling a comparison of the main electricity generation 
+options.  
+
+                                                                                                                                   
+Exploring Sustainability in Road Freight 
+Electrification: A comprehensive FAQ 
+
+Figure 3: Normalized, weighted, environmental impacts of the generation of 1 TWh of 
+electricity (UNECE 2022) 
+Note: Consider this figure for illustrative purposes only. 
+
+Based on the analysis, it can be concluded that fossil fuels have the highest environmental impact, 
+even when considering broader impacts beyond just GHG emissions. In contrast, low carbon and 
+renewable energy sources display an overall reduced environmental impact. 
+
+Among the options with lower environmental impacts are nuclear energy, photovoltaic (PV) solar, 
+and wind power. This suggests that these sources are more appropriate for ensuring sustainable 
+electricity  production.  However,  it's  important  to  note  that  each  of  these  sources  has  its  own 
+unique challenges: 
+
+•  Nuclear Energy: While nuclear energy offers low environmental impact, it faces constraints 
+such as high initial costs, lengthy construction timelines, security concerns, public perception 
+issues, and regulatory complexities. 
+
+•  PV Solar and Wind Power: These sources are generally more accessible and environmentally 
+friendly.  However,  they  do  encounter  challenges  related  to  intermittency,  which  may 
+necessitate additional power generation, the integration of technologies with more consistent 
+output, or advancements in energy storage solutions to ensure a reliable energy supply. 
+
+In summary, while low carbon and renewable energy sources like nuclear, PV solar, and wind 
+show promise for sustainable electricity production, each has its unique set of obstacles that must 
+be addressed for their effective and widespread adoption. 
+
+2.12  What mechanisms can be used to evaluate the sustainability attributes of the 
+
+electricity purchased and what do they include? 
+
+transmission,  distribution,  and  retail  entities 
+
+The Global Reporting Initiative (GRI) Electric Utilities Sector Disclosures offers a framework for 
+to  assess  economic, 
+power  generation, 
+environmental, and social sustainability facets of electricity generation. Additionally, the Carbon 
+Disclosure  Project  (CDP)  reports  provide  a  means  to  evaluate  a  company's  environmental 
+performance and its social impacts across a spectrum of topics, including the adoption and effects 
+of e-trucks in their operations. 
+
+Beyond the documentation on the sustainability attributes of the electricity purchased, companies 
+can directly invest in and procure renewable electricity generation. According to Smart Freight 
+Centre  (2024),  the  primary  approaches  for  doing  so  include  on-site  or  “behind-the-meter” 
+
+                                                                                                                                   
+ 
+ 
+Exploring Sustainability in Road Freight 
+Electrification: A comprehensive FAQ 
+
+generation, power purchase agreements, green tariffs and green power products, as well as other 
+energy attribute certificates.  
+
+Finally, Guarantees of Origin (GoOs) or Renewable Energy Certificates serve as tools to enhance 
+the environmental sustainability of purchased electricity. They allow to sell low emission attributes 
+separate from the electricity delivered from the grid and are used to directly finance investment in 
+renewable  electricity  production.  GoOs  typically  provide  details  about  the  specific  renewable 
+energy  source,  the  location  of  the  generating  facility,  and  the  amount  of  electricity  produced. 
+However, they don´t provide information on broader sustainability issues. 
+
+2.13  How can the use of e-trucks impact noise, air pollution and safety? 
+
+E-trucks offer significant advantages over ICE trucks, including reduced noise levels that enhance 
+driver well-being and contribute to lower noise pollution. Moreover, e-trucks demonstrate benefits 
+in  local  pollution  within  urban  areas  by  producing  no  exhaust  emissions.  Additionally,  their 
+superior energy efficiency, attributed to higher efficiency of electric powertrain comparatively and 
+regenerative braking, sets them apart from ICE trucks (Ricardo 2021).  
+
+However,  these  advantages  come  with  certain  drawbacks.  While  low  noise  levels  are 
+advantageous at lower speeds, the friction between the e-trucks and the road generates noise 
+pollution at higher speeds that is comparable to that of ICE vehicles. In urban settings, the minimal 
+noise levels can pose a safety risk for pedestrians accustomed to the audible cues of traditional 
+vehicle engines. 
+
+Furthermore, the increased weight of e-trucks, primarily due to the weight of the battery (14% to 
+29% higher than ICE vehicles), contributes to elevated emissions from tire-road friction, partially 
+offsetting the air pollution benefits. This increase is particularly notable in particulate matter (PM) 
+emissions and the resuspension of road dust. (EEA 2018) 
+
+Addressing the safety concerns related to noise involves the implementation of "Acoustic Vehicle 
+Alerting Systems" (AVAS) to mitigate potential risks for pedestrians in urban areas, as outlined 
+by  the  EEA  (EEA  2018).  EU  legislation,  specifically  EU  Regulation  2017/1576,  mandates  the 
+incorporation  of  AVAS  as  a  requirement  for  electric  and  hybrid  vehicles  in  the  EU  (European 
+Commission 2019).  
+
+To  reduce  tire  emissions,  potential  solutions  include  opting  for  low  rolling  resistance  tires, 
+implementing  weight  reductions  through  advancements  in  battery  technology,  and  favoring 
+lightweight vehicle design. These measures aim to mitigate the challenges posed by noise and 
+emissions in the transition to e-trucks. 
+
+Environmental Sustainability: End of Life 
+
+2.14  What are EoL options for batteries of e-trucks? Which EoL option should be 
+
+preferred under what circumstances? 
+
+According to Börner et al. (2022), there are four possibilities for the EoL  batteries from a circularity 
+perspective. These are summarized in Table 2: End of Life Options for electric batteries from a 
+circularity perspective (Börner et al. 2022). 
+
+Table 2: End of Life Options for electric batteries from a circularity perspective (Börner et 
+al. 2022) 
+
+EoL Option   
+
+Definition  
+
+Conditions under which EoL option is 
+most suitable 
+
+Reuse  
+
+Reuse without additional works in the 
+original application 
+
+If the battery still retains a significant portion of its 
+original capacity and functionality, it can be reused 
+
+                                                                                                                                   
+Exploring Sustainability in Road Freight 
+Electrification: A comprehensive FAQ 
+
+Remanufacturing   Remanufacturing for batteries is a process 
+
+Repurpose  
+
+in which used or worn-out batteries are 
+restored to a like-new condition, allowing 
+them to be reused instead of being 
+discarded. 
+
+Refurbishment of the battery and use in a 
+new type of application. Second-life 
+applications can include stationary energy 
+storage for renewable energy systems, 
+backup power, or grid stabilization. 
+
+in another vehicle. This option is best when the 
+battery's degradation is minimal. 
+
+This option is the most suitable when only certain 
+components of the battery are damaged. 
+
+If the battery retains some of its original capacity 
+and functionality, repurposing it in a less demanding 
+second-life application can be an environmentally 
+and economically favorable option. 
+
+Recycling 
+
+The recycling process involves recovering 
+and processing valuable materials like 
+lithium, cobalt, nickel, and other metals. 
+
+It is a good EoL option for batteries that have 
+significantly degraded and can no longer be used 
+effectively in EVs or second-life applications. 
+
+From  a  circularity  perspective,  it  can  be  observed  that  in  the  reuse,  remanufacturing  and 
+repurpose options the battery re-enters the use loop. At the same time, for recycling the battery 
+does not come back to a second use phase, but just the materials are recovered.  
+
+In  addition  to  the  four  EoL  possibilities  mentioned,  a  fifth  EoL  option  would  be  the  disposal  of 
+batteries. This is a highly unrecommended option, presenting important risks due to the highly 
+polluting substances that landfilled batteries may release. Additionally, disposal of batteries will 
+lead  to  loss  of  valuable  materials  requiring  new  mining  activities  to  take  place  to  obtain  the 
+required minerals for battery production. Existing regulations, such as Regulation (EU) 2023/1542 
+of  the  European  Parliament  pertaining  to  batteries  and  waste  batteries  sets  minimum  rates  of 
+recycling  of  materials  and  explicitly  prohibit  the  disposal  of  batteries  (European  Commission 
+2023b). 
+
+2.15  What are main EoL challenges from a circularity perspective (assuming batteries 
+
+are not to be disposed of)? 
+
+The major EoL challenges from a circularity perspective are summarized in Table 3: Main EoL 
+challenges for batteries from a circularity perspective (GBA and WEF 2019; Börner et al. 2022) 
+
+Table 3: Main EoL challenges for batteries from a circularity perspective (GBA and WEF 
+2019; Börner et al. 2022) 
+
+EoL Option 
+
+Reuse / Repurpose 
+/Refurbish 
+
+Challenges 
+
+Lack of information on battery health. User data would be needed for evaluation, with the 
+restriction that details of battery design, BMS hard- and software are confidential. This 
+hinders the reincorporation of the battery to a second life purpose, (either it is reuse, 
+repurpose or remanufacturing).  
+
+Reuse 
+
+•  High transaction costs to be equalized by low prices of new batteries. 
+
+• 
+
+• 
+
+• 
+
+Thermal events and diminished performance are more subject to occur to reused 
+batteries. 
+
+Same requirements expected as in first life in terms of safety and liability, with lack of 
+adapted homologation test for second use. 
+
+Technical complexity: electrical, thermal, mechanical, ageing. All are linked and need 
+to be addressed to ensure quality standards are met. 
+
+                                                                                                                                   
+ 
+Exploring Sustainability in Road Freight 
+Electrification: A comprehensive FAQ 
+
+Recycling 
+
+• 
+
+• 
+
+Economic viability. Recycling is capital intensive, and costs could be higher than the 
+value of recovered materials. 
+
+Lack of infrastructure: Establishing the necessary infrastructure and facilities for 
+recycling demands substantial investments in specialized resources. Collection and 
+logistics infrastructure are also complex and need to be addressed.  
+
+•  Complex battery composition that needs to be effectively separated and processed. 
+
+This process is complex and costly. 
+
+• 
+
+Environmental and safety concerns: Battery recycling involves handling hazardous 
+materials, including toxic chemicals and flammable substances. Ensuring proper 
+safety measures, complying with environmental regulations, and managing potential 
+risks associated with the recycling process are critical but can pose barriers due to the 
+complexity and costs involved. 
+
+2.16  What are the solutions that address environmental challenges arising from 
+batteries reaching its EoL? How can logistic actors aid in mitigating these 
+challenges? 
+
+a.  Operational Measures  
+
+Planning  and  scheduling  of  e-truck  operations,  in  a  way  that  optimizes  battery  cycles  can 
+significantly  contribute  to  mitigating  environmental  sustainability  challenges.  Additionally, 
+strategic  operational measures by logistic actors,  that result in optimal battery life and  optimal 
+utilization of power, can further aid in mitigating environmental risks. This is due to the reduction 
+in  the  number  of  batteries  and  power  required  over  the  e-truck’s  lifetime  comparatively,  that 
+results  in  a  reduction  in  the  GHG  emissions  of  e-trucks  arising  from  additional  battery 
+manufacturing,  vehicle  utilization  and  EoL  phase.  These  measures  include  the  selection  of 
+appropriate battery technology, optimal battery capacity, awareness of factors influencing battery 
+life, and route optimization. 
+
+b.  Legislations & Initiatives 
+
+The Battery Passport initiative introduced by the Global Battery Alliance ensures transparency 
+throughout the battery lifecycle, encompassing critical information pertaining to the state of health 
+of batteries used in e-trucks (GBA and WEF 2019). In tandem with this initiative, the Regulation 
+(EU) 2023/1542 of the European Parliament pertaining to batteries and waste batteries, mandates 
+the implementation of a battery passport for all EVs. These regulatory measures and collaborative 
+initiatives facilitate effective EoL decision-making processes for retired batteries, ensuring their 
+judicious utilization in second-life applications and preventing unwarranted disposal. Furthermore, 
+the regulation explicitly prohibits the disposal of waste batteries, thereby promoting environmental 
+sustainability within the electric vehicle (EV) sector. Additionally, the regulation sets recycling and 
+recovery targets, alongside stipulating minimum quantities of recycled materials for integration 
+into  the  manufacturing  of  new  batteries.  (European  Commission  2023b)  The  adhesion  to  this 
+framework  would  ensure  a  certain  degree  of  circularity  within  the  ecosystem,  effectively 
+addressing environmental sustainability challenges arising from retired e-truck batteries.  
+
+2.17  How should one report lifecycle GHG emissions for e-trucks according to the GHG 
+
+Protocol? 
+
+Companies reporting the lifecycle GHG emissions of e-truck-based operations must differentiate 
+between the GHG emissions produced in the vehicle cycle (including the charging equipment) 
+and the emissions from the energy cycle. The emission categories are divided into Scope 2 and 
+different  subcategories  under  Scope  3.  Generally,  Scope  2  emissions  fall  under  mandatory 
+reporting, while Scope 3 emissions are optional. Figure 4 summarizes the stages of e-trucks life 
+cycle where emissions should be reported, together with the scopes this should be reported under 
+for truck owners and purchasers of logistics services.  
+
+                                                                                                                                   
+ 
+Exploring Sustainability in Road Freight 
+Electrification: A comprehensive FAQ 
+
+PRODUCTION
+
+USE PHASE
+
+END-OF-LIFE
+
+Extraction
+
+Transportation
+
+Manufacture/ 
+Production
+
+Fuel production
+
+Power 
+Generation
+
+Power 
+Distribution
+
+Scope 3 
+Category 2
+
+Fleet owner
+
+Service buyer
+
+Scope 3
+Category 3
+
+Scope 2
+
+Scope 3
+Category 3
+
+Scope 3
+Category 4 /9
+
+Vehicle 
+Re-sold
+
+Scope 3 
+Category 11
+
+Waste 
+management
+
+Scope 3 
+Category 12
+
+Figure 4: GHG emissions in the life cycle of e-trucks 
+
+It is not common practice for fleet owners to disclose the emissions related to the production and 
+end-of-life stages of the vehicle lifecycle, hence the following describes the interpretation of the 
+written Scope 3 standards.  
+
+§  Asset production: Scope 3 Category 2 “Capital Goods” includes all extraction, production 
+and transportation activities within the vehicle and charging equipment product lifecycle. 
+§  Asset end-of-life: Scope 3 Category 11 “Use of sold products” includes “direct use-phase 
+
+emissions of sold products over their expected lifetime” of vehicles resold in the secondhand 
+market. Scope 3 Category 12 “End-of-life treatment of sold products” would comprise 
+emissions from end-of-life treatments by waste management companies in case the vehicle 
+or parts of them are recycled or disposed of. 
+
+The emissions from the electricity lifecycle are disclosed by the Electric Vehicle (EV) operator and 
+buyer of EV services according to Table 4 (Smart Freight Centre 2024). 
+
+Table 4: Emissions reporting for EV operations based on GHG Protocol 
+
+Reporting firm 
+
+Emission category 
+
+Buyer of EV services  Scope 3 Category 4 and 9 only includes the amount of scope 2 emissions reported by carrier. 
+
+EV operator 
+
+Scope 2 for emission from power generation, that is emissions from fuel combustion at the 
+power plant. For instance, the emission of solar power, wind and hydropower is zero.  
+
+EV operator 
+
+Scope 3 Category 3 from  
+
+§  Fuel production, i.e., emissions from the extraction, production, and transportation of fuel. 
+
+§  Transmission and distribution losses, i.e., the Scope 2 emissions allocated to the electricity 
+
+lost in transmission and distribution 
+
+Note that the ISO 14083 “Greenhouse gases — Quantification and reporting of greenhouse gas 
+emissions arising from transport chain operations” despite being aligned with the GHG Protocol 
+differs  in  several  aspects,  such  as  the  definition  of  electricity  lifecycle  and  the  reporting 
+obligations. These are discussed in detail in the whitepaper providing guidance on how to apply 
+the ISO 14083 to EVs (Smart Freight Centre 2024).  
+
+                                                                                                                                   
+ 
+ 
+ 
+ 
+ 
+ 
+Exploring Sustainability in Road Freight 
+Electrification: A comprehensive FAQ 
+
+3  Social Sustainability 
+
+To  ensure  a  holistic  transition,  it  is  crucial  to  go  beyond  addressing  only  the  environmental 
+sustainability aspect and recognize the social dimension. This helps prevent the shift of impact 
+where trade-offs disadvantaging communities are made on behalf of the environment. Much like 
+their traditional counterparts, e-trucks are associated with social sustainability risks that can be 
+mitigated. Yet e-trucks also contribute significantly to fostering a positive impact on the job market 
+which’s assessed in a study undertaken by Transport & Environment (2023). Subsequently, the 
+section  illuminates  various  solutions  and  practices  that  logistics  stakeholders  can  adopt  to 
+address  these  risks,  ensuring  a  sustainable  transition  within  the  road  freight  transport  sector. 
+These mitigation solutions encompass the entire e-truck battery supply chain to promote social 
+sustainability throughout the e-truck lifecycle.  
+
+3.1  What are the anticipated changes in the demand for specific materials crucial for 
+
+EVs and renewable electricity production, and what is done to address sustainable 
+sourcing shortages?  
+
+Due  to  the  fast  development  of  the  EVs  and  renewable  electricity  production  markets,  whose 
+technologies require specific minerals for the construction of electronic components, there has 
+been a scale up of raw material sourcing for certain minerals. The upward trend in production is 
+anticipated to persist in the coming years, projecting an increase in demand for lithium sourcing 
+up  to  36kt,  cobalt  sourcing  up  to  21kt  and  nickel  up  to  276kt  by  the  year  2030.  (Transport  & 
+Environment 2021). 
+
+Due to the concentration of production of some of these minerals in certain regions, there is a risk 
+of disruption and projected imbalances which make it difficult to address the increased demand 
+sustainably.  Some  countries  or  regions  envision  taking  measures  to  address  these  demand 
+shortages and secure sourcing of raw materials. For example, under the Critical Raw Materials 
+Act, Europe is considering opening new mining sites and lowering environmental and ecosystem 
+restrictions for mining, as it is expected that the environmental benefits from clean energy would 
+compensate for those sustainability issues. (European Commission 2023a) 
+
+3.2  What are the social sustainability issues associated with sourcing of raw material? 
+
+Various  social  sustainability  issues  significantly  impact  the  sourcing  of  raw  materials,  with  a 
+particular emphasis on the cobalt supply chain. These issues include child labour, forced labour 
+and  unsafe  working  conditions  (European  Commission  2023b).  The  lack  of  safe  working 
+conditions not only exposes workers to fine dust and particulates but also poses risks of DNA-
+damaging toxicity and, in cases of poorly secured tunnels, even fatalities. Additionally, violations 
+of  indigenous  rights  and  labor  laws  may  occur,  giving  rise  to  governance  issues  such  as 
+corruption, bribery, funding of armed conflicts, and tax evasion (McKinsey 2023a). These issues 
+are exacerbated by the conditions of extreme poverty and vulnerability of local populations.  
+
+3.3  What initiatives and frameworks are in place to address social sustainability 
+
+challenges in the e-truck value chain, and how can logistic actors take advantage 
+of them?  
+
+Many initiatives, both public and private, are in place to address and alleviate social sustainability 
+challenges within the e-truck value chain. This section discusses a few of them and highlights 
+ways in which logistic actors can align with these initiatives.  
+
+Noteworthy among these are both local and international regulatory frameworks and standards, 
+exemplified by the OECD Due Diligence Guidance for Responsible Supply Chains of Minerals 
+
+                                                                                                                                   
+Exploring Sustainability in Road Freight 
+Electrification: A comprehensive FAQ 
+
+from Conflict-Affected and High-Risk Areas (OECD 2016) and Regulation (EU) 2023/1542 of the 
+European  Parliament  pertaining  to  batteries  and  waste  batteries.  These  directives  are 
+strategically  oriented  towards  the  responsible  sourcing  of  raw  materials,  imposing  a  set  of 
+obligations  on  Original  Equipment  Manufacturers  (OEMs).  These  obligations  include  the 
+establishment  of  robust  company  management  systems,  identification  of  supply  chain  risks, 
+formulation  and  implementation  of  risk  mitigation  strategies,  independent  third-party  audits  of 
+supply  chain  due  diligence  from  suppliers,  and  comprehensive  reporting  on  supply  chain  due 
+diligence (OECD 2016). Furthermore, these regulations will mandate traceability within the value 
+chain and articulate recycling and recovery targets within the upcoming years which would reduce 
+social sustainability challenges arising from new mining activities (European Commission 2023b)  
+
+In parallel, various private sector initiatives and consortiums actively engage in mitigating social 
+sustainability  concerns  emanating  from  raw  material  sourcing  in  the  e-truck  domain.  These 
+include  the  Initiative  for  Responsible  Mining  Assurance,  Responsible  Minerals  Initiative  (RMI), 
+Responsible Minerals Assurance Process, Responsible Cobalt Initiative, Drive Sustainability & 
+European  Commission  Partnership,  and  the  Global  Battery  Alliance's  Battery  Passport.  These 
+initiatives  lay  standards  aligned  with  international  benchmarks  for  the  responsible  sourcing  of 
+materials, conduct independent or third-party audits, provide digital tools for self-assessment of 
+mining activities, and promote transparency within the battery value chain.  
+
+Logistic actors are well-advised to procure their e-truck fleets exclusively from OEMs that adhere 
+to  the  supply  chain  due  diligence  regulations  and  standards  stipulated  by  the  aforementioned 
+public sector initiatives, which are expressly designed to address and mitigate social sustainability 
+issues within the e-truck battery value chain. Furthermore, logistic actors may find it prudent to 
+consider  procuring  their  fleets  exclusively  from  e-truck  manufacturers  that  have  contractual 
+agreements  with  battery  suppliers  mandating  the  procurement  of  raw  materials  solely  from 
+sources audited by the aforementioned private sector initiatives. 
+
+3.4  Which stakeholders in the supply chain should hold responsibility for issues 
+
+related to raw material sourcing? 
+
+As  depicted  in  Figure  5,  the  assurance  standards  landscape  by  RMI  covers  the  entire  supply 
+chain,  from  mining  companies  to  final  user  companies.  This  emphasizes  the  fact  that  all 
+stakeholders in the supply chain should hold responsibility for issues incurred in the sourcing of 
+raw materials and request appropriate action from their suppliers.   
+
+                                                                                                                                   
+Exploring Sustainability in Road Freight 
+Electrification: A comprehensive FAQ 
+
+Figure 5: Responsible Minerals Initiative -Assurance Standards Landscape for the 
+Minerals Supply Chain (Responsible Minerals Initiative n.d.) 
+
+                                                                                                                                   
+ 
+ 
+ 
+ 
+Exploring Sustainability in Road Freight 
+Electrification: A comprehensive FAQ 
+
+4  Economic Sustainability 
+
+The  future  trajectory  of  e-trucks  is  significantly  influenced  by  economic  sustainability, 
+necessitating wise decisions and advancements for market viability. This section delves into the 
+economic  challenges  that  needs  to  be  addressed  in  the  e-truck  industry,  to  accelerate  the 
+transition from conventional to e-trucks. Additionally, it underscores strategies to address these 
+economic  sustainability  challenges  and  ways  in  which  economic  transformation  can  aid  in 
+attainment of environmental and social sustainability goals within the e-truck industry. 
+
+4.1  What are the major economic sustainability challenges that affect e-trucks from 
+
+the OEM’s perspective? 
+
+The major economic sustainability challenges that affect e-trucks from the OEM’s perspective are 
+summarized in Table 5. 
+
+Table 5: Economic sustainability challenges that affect e-trucks from the OEMs 
+perspective. (GBA and WEF 2019; McKinsey 2023a). 
+
+Lack of charging 
+infrastructure and low 
+utilization of existing 
+infrastructure 
+
+Limited customer 
+acceptance 
+
+Supply chain risks 
+
+Unclear business 
+case for circularity 
+
+Volatility of energy 
+and materials price 
+
+Large scale 
+investment and 
+economies of scale 
+needed 
+
+The “chicken-egg” situation, also mentioned as part of the OEMs challenges, affects 
+the macro-economics of the BE market. The necessary infrastructure is not in place 
+for a stronger e-truck market to develop while at the same time, the under-utilization 
+of existing infrastructure hinders further investment in infrastructure. 
+
+E-trucks are not completely accepted in the market because of several reasons, 
+including limitations in range and charging infrastructure, lower payload capacity, 
+higher upfront costs and limited model availability. 
+
+There are important risks of disruption for some of the raw materials that are key to 
+the production of batteries. This is the case of Lithium, Cobalt, rare earth elements 
+and Nickel. 
+
+Recycling of batteries, which will be mandated by the regulation in the upcoming 
+year, is an expensive process and there is no clear business case for the re-
+incorporation of batteries in their 2nd life, especially in competition with newer 
+upgraded battery technologies. 
+
+The difficult prevision of prices for raw materials and energy creates a situation of 
+uncertainty that makes decision-making and investment in e-truck manufacturing 
+difficult if no appropriate regulatory measures in place. 
+
+The e-truck market and technology are still at a developing stage. Large scale 
+investments would be key to reach the required economies of scale. 
+
+Changing national 
+regulations & lack of 
+incentives 
+
+Changing national regulations and a diversified picture in terms of government 
+support to the development of a market for e-trucks create an uneven playing field for 
+stakeholders in different regions. Lack of sufficient incentives and subsidies for the 
+development of a still relatively costly technology 
+
+4.2  What are the main solutions to existing economic and supply chain challenges 
+
+that affect e-trucks? 
+
+From the OEM’s perspective there is a range of solutions to the aforementioned problems, which 
+include  vertical  supply-chain  integration  and  long-term  contracts,  greater  collaboration  among 
+stakeholders,  innovation  in  productivity,  and  cost  optimization.  Simultaneously,  flexibility  in 
+requirements and clear signals about long-term demand from the purchaser's side would greatly 
+facilitate planning and cost optimization efforts for the OEMs. 
+
+                                                                                                                                   
+ 
+Exploring Sustainability in Road Freight 
+Electrification: A comprehensive FAQ 
+
+From the macro-economic viewpoint, open dialogue and communication between stakeholders 
+to  support  the  battery  industry  would  be  important  to  overcome  many  of  the  existing  market 
+uncertainties.  At  the  same  time,  innovation  in  battery  technologies  and  the  harmonization  of 
+international standards would level the playing field and contribute to lowering current high costs 
+of the technology. (McKinsey 2023a) 
+
+4.3  What economic transformation is necessary to ensure environmental and social 
+
+sustainability? 
+
+Environmental and social issues can be addressed through economic transformation, which can 
+be  summarized  in  three  aspects:  demand  reduction,  circularity  and  decarbonization  of  energy 
+inputs (WEF 2020b), with the corresponding adhesion to standards and legislation that serve to 
+prove efforts to avoid and mitigate sustainability issues.  
+
+Demand  reduction  refers  to  the  reduction  of  materials  inputs,  which  can  take  place  through 
+technological advancement, optimization of fleet and battery use (e.g., extending the life of the 
+battery) (WEF 2020c). Circularity would allow the minimization of issues related to disposal of 
+batteries  and  would  contribute  to  minimizing  the  supply  needs  for  raw  materials.  And  finally, 
+decarbonization of energy inputs refers to the energy use for production of materials and battery 
+manufacture, and the electricity mix of the grid used to charge the vehicles.  
+
+Following  these  three  strategies,  the  optimization  of  material  and  energy  resources  and 
+economies of scale, which add to economic sustainability of the e-truck market, would support 
+environmental and social sustainability.  
+
+                                                                                                                                   
+ 
+ 
+ 
+Exploring Sustainability in Road Freight 
+Electrification: A comprehensive FAQ 
+
+Glossary 
+
+Battery  Degradation:  Battery  degradation  refers  to  a  phenomenon  in  which  the  health  of 
+batteries is adversely affected by its operating and storage conditions, with deterioration occurring 
+during  charging/discharging  and  during  storage.  It  leads  to  loss  in  the  battey’s  original  energy 
+capacity. 
+
+Battery  Passport:  A  Battery  Passport  functions  as  a  digital  record  for  individual  batteries, 
+documenting  their  entire  lifecycle,  from  the  initial  sourcing  of  raw  materials  throughout 
+refurbishment  and  recycling. 
+the  battery's  composition, 
+manufacturing, performance, and environmental impact. 
+
+information  about 
+
+It  contains 
+
+Carbon Capture and Storage: CCUS involves the capture of CO2, generally from large point 
+sources like power generation or industrial facilities that use either fossil fuels or biomass as fuel. 
+If not being used on-site, the captured CO2 is compressed and transported by pipeline, ship, rail 
+or truck to be used in a range of applications or injected into deep geological formations such as 
+depleted oil and gas reservoirs or saline aquifers. 
+
+Circularity: Circularity in electric vehicle industry is a practice in which the main components are 
+intentionally  designed  to  be  upgraded,  reused,  repurposed,  refurbished,  remanufactured  or 
+recycled to have precious/recoverable materials easily extracted from them post its end of life. 
+
+Cradle-to-grave: Cradle-to-grave assessment considers impacts at each stage of a product's life 
+cycle, from the time natural resources are extracted from the ground and processed through each 
+subsequent stage of manufacturing, transportation, product use, and ultimately, disposal. 
+
+End of Life: End of Life of e-truck batteries is the end of battery’s life in the automotive sector 
+beyond  which  the  battery  has  lost  a  significant  proportion  of  its  original  energy  capacity  and 
+therefore doesn’t perform efficiently comparatively. 
+
+Marginal  Emissions:  The  term  marginal  emissions  refer  to  the  amount  of  additional  GHG 
+emissions  or  other  pollutants  produced  as  a  result  of  a  specific  change  in  energy  or  resource 
+consumption.  The marginal emissions factor refers to rate at which emissions would change with 
+a small change to electricity load. 
+
+Retired/Spent  e-truck  Batteries:  This  refers  to  batteries  that  are  no  longer  useful  in  e-truck 
+application and can enter reuse/recycling phase. 
+
+Second Life of Batteries: The second life of e-truck batteries refer to batteries that have reached 
+its  end  of  first  life  in  e-truck  application,  but  still  have  enough  capacity  to  be  be  reused, 
+repurposed,  refurbished,  remanufactured  to  be  used  for  second  life  application  including 
+stationary application. 
+
+State of Health: State of health refers to the health of e-truck batteries which is represented in 
+percentage of remaining capacity of the battery. 
+
+Upstream and Downstream: Upstream operations refer to identifying, extracting and producing 
+materials  for  e-trucks  batteries  and  components  whereas  downstream  operations  include  the 
+production and manufacturing of these components and e-trucks bringing products to consumers. 
+
+                                                                                                                                   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exploring Sustainability in Road Freight 
+Electrification: A comprehensive FAQ 
+
+Bibliography 
+
+Billy, R. G., & Müller, D. B. (2023). Aluminium use in passenger cars poses systemic challenges 
+for  recycling  and  GHG  emissions.  Resources,  Conservation  and  Recycling,  190,  106827. 
+https://doi.org/10.1016/j.resconrec.2022.106827   
+
+Börner, Martin F., Moritz H. Frieges, Benedikt Späth, Kathrin Spütz, Heiner H. Heimes, Dirk Uwe 
+Sauer, and Weihan Li. (2022). “Challenges of Second-Life Concepts for Retired Electric Vehicle 
+101095. 
+Batteries.” 
+https://doi.org/10.1016/j.xcrp.2022.101095  
+
+Physical 
+
+Science 
+
+Reports 
+
+(10): 
+
+Cell 
+
+3 
+
+CGEP,  Columbia  |.  (2021).  “Low-Carbon  Production  of  Iron  &  Steel:  Technology  Options, 
+Economic Assessment, and Policy.” Center on Global Energy Policy at Columbia University SIPA 
+|  CGEP.  March  8,  2021.  https://www.energypolicy.columbia.edu/publications/low-carbon-
+production-iron-steel-technology-options-economic-assessment-and-policy/.   
+
+CRS (2020). Environmental Effects of Battery Electric and Internal Combustion Engine Vehicles. 
+https://sgp.fas.org/crs/misc/R46420.pdf  
+
+Del Pero, Francesco, Massimo Delogu, and Marco Pierini. (2018). “Life Cycle Assessment in the 
+Automotive Sector: A Comparative Case Study of Internal Combustion Enginge (ICE) and Electric 
+Car.”   
+
+EEA. 2018. “Electric Vehicles from Life Cycle and Circular Economy Perspectives.”   
+
+EERE.  2023.  “Environmental  Impacts  and  Siting  of  Wind  Projects.”  Energy.Gov.  2023. 
+https://www.energy.gov/eere/wind/environmental-impacts-and-siting-wind-projects.   
+
+European Commission. (2019). Electric and hybrid cars: New rules on noise emitting to protect 
+https://single-market-
+vulnerable 
+economy.ec.europa.eu/news/electric-and-hybrid-cars-new-rules-noise-emitting-protect-
+vulnerable-road-users-2019-07-03_en  
+
+Commission. 
+
+European 
+
+users 
+
+road 
+
+- 
+
+European  Commission.  (2023a).  “European  Critical  Raw  Materials  Act.”  Text.  European 
+Commission 
+2023. 
+https://ec.europa.eu/commission/presscorner/detail/en/ip_23_1661.   
+
+Commission. 
+
+European 
+
+- 
+
+———. (2023b). Regulation (EU) 2023/1542 of the European Parliament and of the Council of 12 
+July  2023  concerning  batteries  and  waste  batteries,  amending  Directive  2008/98/EC  and 
+Regulation  (EU)  2019/1020  and  repealing  Directive  2006/66/EC  (Text  with  EEA  relevance) 
+https://eur-lex.europa.eu/eli/reg/2023/1542/oj  
+
+GBA  and  WEF.  2019.  “A  Vision 
+https://www.globalbattery.org/media/publications/WEF_A_Vision_for_a_Sustainable_Battery_V
+alue_Chain_in_2030_Report.pdf.    
+
+for  a  Sustainable  Battery  Value  Chain 
+
+in  2030.” 
+
+Goldman  Sachs.  (2022)  Green  Metals  Battery  Metals  Watch  the  end  of  the  beginning 
+https://www.goldmansachs.com/intelligence/pages/gs-research/battery-metals-watch-the-end-
+of-the-beginning/report.pdf    
+
+                                                                                                                                   
+  
+  
+  
+  
+  
+  
+  
+  
+   
+  
+  
+  
+Exploring Sustainability in Road Freight 
+Electrification: A comprehensive FAQ 
+
+Hawkins,  Troy,  Guillaume  Majeau-Bettez,  Bhawna  Singh,  and  Anders  Stroemman.  2013. 
+“Comparative Environmental Life Cycle Assessment of Conventional and Electric Vehicles.”   
+ICCT.  2018.  “Effects  of  Battery  Manufacturing  on  Electric  Vehicle  Life-Cycle  Greenhouse  Gas 
+Emissions.”   
+
+ICCT. 2022. “Road freight decarbonization in Europe: Readiness of the European fleets for zero-
+emission  trucking.”  https://theicct.org/wp-content/uploads/2022/09/road-freight-decarbonization-
+europe-sep22.pdf   
+
+ICCT.  2023.  “A  COMPARISON  OF  THE  LIFE-CYCLE  GREENHOUSE  GAS  EMISSIONS  OF 
+EUROPEAN  HEAVY-DUTY  VEHICLES  AND  FUELS.”  https://theicct.org/publication/lca-ghg-
+emissions-hdv-fuels-europe-feb23/   
+
+ISO. 2023. “ISO 14083 Greenhouse Gases - Quantification and Reporting of Greenhouse Gas 
+Emissions Arising from Transport Chain Operations.” 2023.   
+
+ITF 
+Paris, https://doi.org/10.1787/transp_outlook-en-2019-en.  
+
+(2019), ITF 
+
+Transport 
+
+Outlook 
+
+2019, 
+
+OECD 
+
+Publishing, 
+
+Iyer, R. K., Kelly, J. C., & Elgowainy, A. (2023). Vehicle-cycle and life-cycle analysis of medium-
+duty and heavy-duty trucks in the United States. Science of The Total Environment, 891, 164093. 
+https://doi.org/10.1016/j.scitotenv.2023.164093   
+
+McKinsey.  2023a. 
+https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/battery-2030-
+resilient-sustainable-and-circular.   
+
+“Battery  2030:  Resilient,  Sustainable,  and  Circular.”  2023. 
+
+———.  2023b.  The  race  to  decarbonize  electric-vehicle  batteries,  McKinsey  &  Company. 
+https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/the-race-to-
+decarbonize-electric-vehicle-batteries   
+
+Mowbray, S. (2023) Internal Combustion vs. evs: Learning from the past to boost sustainability, 
+Mongabay  Environmental  News.  Available  at:  https://news.mongabay.com/2023/08/internal-
+combustion-vs-evs-learning-from-the-past-to-boost-sustainability/   
+
+OECD. 2016. OECD Due Diligence Guidance for Responsible Supply Chains of Minerals from 
+OECD. 
+High-Risk 
+Conflict-Affected 
+https://doi.org/10.1787/9789264252479-en.   
+
+Edition. 
+
+Areas: 
+
+Third 
+
+and 
+
+O’Rourke,  D.,  &  Connolly,  S.  (2003).  Just  Oil?  The  Distribution  of  Environmental  and  Social 
+Impacts  of  Oil  Production  and  Consumption.  Annual  Review  of  Environment  and  Resources, 
+28(1), 587–617. https://doi.org/10.1146/annurev.energy.28.050302.105617  
+
+Responsible  Minerals  Initiative.  2021.  “RESPONSIBLE  MINERALS  ASSURANCE  PROCESS 
+https://www.responsiblemineralsinitiative.org/minerals-due-
+and 
+diligence/standards/   
+
+STANDARDS.” 
+
+Ricardo. 2021. “Lifecycle Analysis of UK Road Vehicles.” Final Report, no. 4.   
+
+Scania.  2020  Life  cycle  assessment  of  distribution  vehicles  ‘battery  electric  vs  diesel 
+driven’. https://www.scania.com/content/dam/group/press-and-media/press-
+releases/documents/Scania-Life-cycle-assessment-of-distribution-vehicles.pdf.   
+
+                                                                                                                                   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Exploring Sustainability in Road Freight 
+Electrification: A comprehensive FAQ 
+
+Smart Freight Centre. 2024. “Measuring and Reporting the Carbon Footprint of Electric Freight 
+Vehicle Operations.”  
+
+Transport & Environment. 2021. “From Dirty Oil to Clean Batteries. Batteries vs. Oil: A Systematic 
+Comparison of Material Requirements.”   
+
+Transport & Environment. (2023). Impact assessment of the transition to zero-emission trucks in 
+Europe.  Transport  &  Environment.  https://www.transportenvironment.org/discover/impact-
+assessment-of-the-transition-to-zero-emission-trucks-in-europe/   
+
+UNDP Serbia. 2010. “Guidelines on the Environmental Impact Assessment for Wind Farms.”   
+
+UNECE.  2022. 
+https://unece.org/sed/documents/2021/10/reports/life-cycle-assessment-electricity-generation-
+options.   
+
+“Life  Cycle  Assessment  of  Electricity  Generation  Options.”  2022. 
+
+Verma,  Shrey,  Puneet  Verma,  and  Gaurav  Dwivedi.  2021.  “Life  Cycle  Assessment  of  Electric 
+Vehicles in Comparison to Combustion Engine Vehicles: A Review.”   
+
+WEF.  2020a.  “Aluminum  for  Climate:  Exploring  Pathways  to  Decarbonize  the  Aluminium 
+Industry.”   
+
+———. 2020b. “Forging Ahead: A Materials Roadmap for the Zero-Carbon Car.”   
+
+———. 2020c. “The Road Ahead: A Policy Research Agenda for Automotive Circularity.”   
+WRI and WBCSD. (2011) Corporate Value Chain (Scope 3) Accounting and Reporting Standard, 
+World Business Council for Sustainable Development (WBCSD). https://www.wbcsd.org/girhj    
+
+WEF and McKinsey. (2021). Road Freight Zero: Pathways to faster adoption of zero-emission 
+trucks.https://www.mckinsey.com/~/media/mckinsey/industries/automotive%20and%20assembl
+y/our%20insights/road%20freight%20global%20pathways%20report/pathways-to-faster-
+adoption-of-zero-emission-trucks-2021.pdf   
+
+WRI, and WBCSD. 2013. “Greenhouse Gas Protocol - Technical Guidance for Calculating Scope 
+3 Emissions.”   
+
+Zimmermann, Antonia. 2023. “Europe’s Green Dilemma: Mining Key Minerals without Destroying 
+Nature.”  POLITICO  (blog).  March  15,  2023.  https://www.politico.eu/article/europes-green-
+dilemma-mining-key-minerals-without-destroying-nature/   
+
+                                                                                                                                   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+Join our journey towards 
+efficient and zero-emission 
+global freight and logistics 
+
+Contact 
+
+Smart Freight Centre 
+
+P.O. Box 11772, 1001 GT 
+
+Tel. office: +31 6 4695 4405 
+
+Keizersgracht 560, 1017 EM 
+
+Amsterdam, Netherlands 
+
+www.smartfreightcentre.org 
+
+Amsterdam, Netherlands 
+
+info@smartfreightcentre.org  
+
+   
+ 
+ 
+ 
+ 
+ 
+ 
+

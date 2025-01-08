@@ -1,0 +1,1190 @@
+1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+© Smart Freight Centre 2024 
+
+Suggested citation: Smart Freight Centre. Breakbulk GHG Emissions Accounting and Reporting Guidance 
+2024 
+
+This publication may be reproduced in whole or in part in any form for educational or non-profit purposes without 
+special  permission  from  the  copyright  holder,  provided  acknowledgment  of  the  source  is  made.  Smart  Freight 
+Centre would appreciate receiving a copy of any publication that uses Breakbulk GHG Emissions Accounting 
+and  Reporting  Guidance  as  a  source.  No  use  of  this  publication  may  be  made  for  resale  or  for  any  other 
+commercial purpose whatsoever, without prior permission in writing from Smart Freight Centre.  
+
+Disclaimer 
+The views expressed in this publication are those Smart Freight Centre and staff, consultants and management, 
+and do not necessarily reflect the views of the Board of Trustees of SFC. SFC does not guarantee the accuracy of 
+the data included in this publication and does not accept responsibility for consequence of their use. 
+
+Acknowledgements 
+This report was written by Marcus Lomax and Rickard Lindström of Smart Freight Centre. 
+
+About Smart Freight Centre 
+Smart Freight Centre (SFC) is a global non-profit organization dedicated to an efficient and zero emission freight 
+sector. We cover all freight and only freight. SFC works with the Global Logistics Emissions Council (GLEC) and 
+other stakeholders to drive transparency and industry action – contributing to Paris Climate Agreement targets and 
+Sustainable Development Goals.  
+
+Our role is to guide companies on their journey to zero emission logistics, advocate for supportive policy and 
+programs, and raise awareness. Our goal is that 100+ multinationals reduce at least 30% of their logistics emissions 
+by 2030 compared to 2015 and reach net-zero emissions by 2050. 
+
+Contact 
+Smart Freight Centre 
+Keizersgracht 560, 1017 EM, Amsterdam, Netherlands 
+P.O. Box 11772, 1001 GT, Amsterdam, Netherlands 
+Tel office: +31 6 4695 4405 
+www.smartfreightcentre.org 
+info@smartfreightcentre.org 
+
+2 
+
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table of Contents 
+
+PROJECT BACKGROUND ............................................................................................... 4 
+
+ISO14083 and GLEC Framework ...................................................................................... 4 
+
+Benchmarking challenges in a diverse shipping segment ................................................. 4 
+
+How this guidance has been developed ............................................................................... 5 
+
+Regulations influencing the methods development ........................................................... 5 
+
+Intensity Measures ................................................................................................................ 6 
+Cargo volume and mass definition .................................................................................................................. 6 
+Intensity principles and calculation of GHG intensity values ......................................................................... 7 
+
+Transport Operation Categories (TOC) ............................................................................. 9 
+Description ....................................................................................................................................................... 9 
+Ballast leg(s) inclusion and assignment ......................................................................................................... 10 
+Vessel integrated cargo handling gear ........................................................................................................... 10 
+
+Reporting period and vessel inclusion .............................................................................. 11 
+
+Distance measure ................................................................................................................ 11 
+Distance to apply in GHG intensity calculations ........................................................................................... 11 
+Distance to apply in scope 3 ‘footprinting’ calculations ............................................................................... 12 
+
+ISO 14083 reporting requirements at a Transport Service Level .................................. 12 
+
+Fuel emission factors (carbon conversion factors) .......................................................... 13 
+
+Intensity and scope 3 calculation examples ...................................................................... 17 
+Intensity calculation ....................................................................................................................................... 17 
+Scope 3 calculation ........................................................................................................................................ 18 
+
+By SFC suggested developments and revisions ................................................................ 18 
+
+3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROJECT BACKGROUND 
+
+Smart Freight Centre (SFC) has conducted this methods development for the breakbulk sector 
+by request from a significant part of the breakbulk shipping industry stakeholders. The main 
+objective was to create a standard methodology for the calculation and reporting of logistics 
+emissions  for  the  breakbulk  industry  in  accordance  with  and  in  alignment  to  the  existing 
+industry and international standards namely the GLEC Framework1 and ISO 140832. This will 
+lead  to  a  unified  and  transparent  GHG  accounting  and  reporting  methodology  within  the 
+breakbulk sector, expected to trigger an increase in reporting and to lay a foundation for a more 
+structured collaboration on GHG emission reduction initiatives in this sector. This includes the 
+calculation and reporting of life cycle emissions in the form of Well-to-Wake (WTW) and CO2 
+equivalents which can be further split into Well-to-Tank and Tank-to-Wake emissions. 
+
+ISO14083 and the GLEC Framework 
+
+International  standards  give  consumers  and  investors  more  confidence  in  the  products, 
+services and information that they solicit from companies. Regulators and governments count 
+on  standards  to  help  develop  better  and  more  consistent  policy  measures  and  regulations. 
+Companies themselves save time when they can rely on standards, because they don’t have to 
+reinvent the wheel. 
+
+The GLEC Framework has rapidly become the common industry standard for calculating and 
+reporting  emissions  for  freight  transportation  and  logistics. However,  a  formal  ISO  standard 
+ensures a single approach that can be widely accepted by industry, governments and investors. 
+SFC, together with partners, have developed a new ISO Standard ‘ISO14083’ that covers both 
+passenger  and 
+for 
+Standardization (DIN) which  hosts  the  International  Secretariat.  The  intention  is  that  the 
+principles  and  methodology  for  freight  transport  will  be  based  on,  and  consistent  with,  the 
+GLEC  Framework.  This  will  emphasize  its  position  as the industry  reference  for  logistics 
+emission  accounting  and  reporting  across  the  multimodal  supply  chain. ISO  14083 has 
+now replaced the existing European standard EN 162583. 
+
+in  collaboration  with  the  German 
+
+freight  transport, 
+
+Institute 
+
+Benchmarking challenges in a diverse shipping segment 
+
+Even though part of the idea of having segment specific GHG accounting standards introduced 
+is to increase comparability among industry players, to facilitate benchmarking activities, it’s 
+important to notice that unique designs and individual operational conditions brings complexity 
+and decrease utility of benchmarking activities. It may be hard to forecast the GHG emission 
+performance of a vessel, or group of vessels, and transport activity, based on another unique 
+transport  activity  (cargo  type  and  operational  conditions).  For  instance,  cargo  space 
+
+1 What is the GLEC Framework? - How to implement items | Smart Freight Centre - How to implement items | 
+Smart Freight Centre 
+2 ISO 14083:2023 - Greenhouse gases — Quantification and reporting of greenhouse gas emissions arising from 
+transport chain operations 
+3 EN 16258 - European Standards (en-standard.eu) 
+
+4 
+
+ 
+ 
+ 
+ 
+occupation/density will highly influence the transport efficiency. Still, the ambition is to offer a 
+standard that somewhat increases the comparability and forecasting of GHG emissions.  
+
+How this guidance was developed 
+
+To  reach  an  agreement,  a  structured  dialogue  took  place  to  carefully  carve  out  a  GHG 
+accounting  and  reporting  framework  that  gained  acceptance  among  the  sector’s  various 
+stakeholders. This was done through a series of meetings with breakbulk shipper and carrier 
+stakeholders  over  the  course  of  Q2,  Q3,  Q4  2023  and  Q1  of  2024.  There  were  also  some 
+preparatory work done in Q3 and Q4 of 2022 during which SFC probed the interest, garnered 
+support and started the identification of key methodological challenges. In parallel to group 
+gatherings, written input was requested through emails and questionnaires in order to make 
+sure  nothing  was  overlooked.  Overall,  the  discussions  evolved  to  focus  on  the  capturing  of 
+transport activity and fuel consumption in an accurate, consistent and ‘fair’ manner.  
+
+Key  concepts  and  operational  circumstances  were  identified  and  evaluated  from  a  GHG 
+accounting perspective to ensure a common guideline that fully reflects the diverse breakbulk 
+shipping  segment  and  the  requirements  of  the  aforementioned  standards  –  the  GLEC 
+Framework and ISO14083. Central topics covered: 
+
+•  A  calcula_on  methodology  for  breakbulk  sea  transport  which  takes  into  account  the 
+diﬀerent types of exis_ng cargo and vessels for specialized and mixed-use, based on exis_ng 
+industry prac_ces. In other words, focus on ensuring that GHG emission performances are 
+fairly reﬂected irrespec_ve of cargo and vessel type.   
+
+•  Decide  on  a  set  of  Transport  Opera_ng  Categories  (TOCs)  that  represent  a  ra_onal 
+
+categoriza_on of commonly occurring opera_ons.  
+
+•  The desire to oﬀer a methodology that does not rely solely on cargo mass as the unit for 
+
+‘quan_ty of freight’ in the calcula_on of transport ac_vity. 
+
+•  The calcula_on of GHG emissions and emission intensi_es using primary data including all 
+
+legs and fuel consump_on during the iden_ﬁed repor_ng period. 
+
+•  Transport  Service  Providers  report  transport  ac_vity  and  calculate  emission  intensi_es 
+using actual distances (rather than the shortest-feasible-distance (SFD) or the great circular 
+distance (GCD); 
+
+Regulations influencing the methods development 
+
+Regulations are clearly an incentive for carriers to improve data monitoring and reporting and 
+have been a driver for the reporting of KPIs. In general, shipping emissions accounting under 
+ISO 14083 and the GLEC Framework follow the principles developed by the maritime sector. 
+ISO 14083 and the GLEC Framework are in alignment with the principles of the International 
+Maritime  Organization  (IMO)  Energy  Efficiency  Operation  Index  (EEOI)  guidelines.  The  IMO 
+provides guidelines to calculate the EEOI but there is no requirement to report this metric. The 
+EU MRV regulation has gone a step further requiring the reporting of EEOI data which is publicly 
+available (non-anonymized) on an individual ship basis.  
+
+5 
+
+ 
+ 
+ 
+ 
+ 
+Intensity Measures 
+
+Good quality primary data is what should be used by transport service providers (carriers) to 
+calculate scope 1 and scope 3 GHG emissions, and what cargo owners commonly aim to collect 
+from transport service providers for their Scope 3 emissions accounting. Scope 3 emissions are 
+generally based on carrier transport activity data in Tonne Kilometers (Tonne-kms), which is a 
+product of quantity (mass) of freight * distance, coupled with primary fuel consumption data. 
+Primary  data  can  range  from  highly  precise  information  to  aggregated  values.  Primary  fuel 
+consumption  data  is  to  be  measured  by  the  transport  service  provider’s  actual  fuel 
+consumption over the identified reporting period. To adapt the GHG reporting method to the 
+breakbulk  sector’s  operational  and  commercial  circumstances,  it  was  decided  to  settle  on 
+Freight-Revenue-tonne-kms  (FRT-kms”  (also  called  “Freight-tonne-kms“  “Revenue-tonne-
+kms”)  as  the  primary  measure  of  transport  activity.  Freight  Revenue  Tonnes  represent  an 
+amount of cargo where both metric tonnes and cubic meters can be included and make up the 
+numerical value. Whether a shipment’s transport activity calculation is done by applying the 
+cargo tonnes or cubic meters is determined by which of the two units is the greatest. In other 
+words, if the value of total cargo volume occupied in cubic meters is higher than the total cargo 
+tonnes, then the cubic meters value constitute the basis for calculating freight tonnes for that 
+particular  shipment.  Similarily,  tonnes  would  be  the  choice  if  this  value  is  the  greater  one. 
+Consequently, when summarizing all laden voyages’/shipments’ transport activity into a total 
+transport  activity  number  of  FRT-kms,  the  result  will  in  most  cases  represent  an  undefined 
+combined  sum  of  tonne-kms  and  cubic  meter-kms.  As  mentioned,  FRT-kms  is  the  primary 
+measure of transport activity, and, as a result the primary measure for emission allocation. 
+The  cargo  owner(s)  may  very  well  then  decide  to  reallocate  its  share  of  the  emissions  into 
+CO2e/Tonne-kms (see reallocation calculation example on page 15) for harmonized multimodal 
+reporting  where  transport  activity  and  emission  intensities  are  more  commonly  expressed 
+using  a  transport  activity  measure  in  tonne-kms.  This  is  why  it  is  important  for  breakbulk 
+transport service providers to report emission intensities and transport activity also in tonne-
+kms (while FRT-kms remain the allocation parameter and primary transport activity measure). 
+
+Cargo volume and mass definition   
+
+When calculating the volume or mass of cargo when determining the RFT value, the measure 
+includes any cargo handling/carrying structure, e.g. racks, cradles, or other structures in place 
+to fix and handle the cargo. It also includes any packaging provided for transport by the cargo 
+owner. The cubic meter measure is defined (meters) as the width * hight * depth of the overall 
+cargo. The metric tonne is simply the mass in tonnes. See "intensity principles and calculation 
+of GHG intensity values” section for more information on transport service provider’s provision 
+of cargo mass values to cargo owners.      
+
+The ambition of the breakbulk working group is to use the highest quality emission data from 
+transport service providers and for this to be made available to actors along the same physical 
+supply chain. All emission calculations, including scope 3, should be done using primary fuel 
+consumption to match the cargo owner’s solicited cargo transport and the transport service 
+provider’s  emission  performance  over  the  reporting  period.  In  the  case  that  emission  data 
+sharing  between  transport  service  provider  and  cargo  owner  cannot  be  actioned  for  any 
+
+6 
+
+ 
+ 
+ 
+ 
+ 
+number  of  reasons,  the  cargo  owner  starting  on  their  journey  to  calculate  and  report  their 
+emissions  can  use  transport  activity  data  coupled  with  a  default  emission  intensity  value 
+representative of average industry operating practices. In this case, the transport activity data 
+applied needs to be calculated using tonne-kms since this is the measure behind the publicly 
+available default emission intensity values. As a starting point, default data with varying levels 
+of precision can provide a general indication of emissions. The source of any default data used 
+ought to be clearly specified by the reporting entity (typically a cargo owner). Please note that 
+the  default  emission  intensity  values  in  the  GLEC  Framework  sourced  from  the  IMO  are 
+expressed using tonne-kms as a measure of transport-activity and may not accurately reflect 
+Breakbulk operations. A year after having started to report their Scope 3 emissions, a Cargo 
+owner  should  not  rely  on  default  emission  values  for  scope  3  reporting  but  request  carrier 
+specific emission intensity values for their solicited cargo transport. The commitment remains 
+to  report  carrier  specific  emission  values  based  on  primary  data  for  the  transport  service 
+solicited.  
+
+It  is  important  to  remember  that  primary  data  is  more  representative  of  actual  freight 
+operations than default data. Using default data may lead to results that over- or underestimate 
+emissions  compared  with  actual  freight  operations.  As  efforts  to  improve  visibility  of  the 
+transport chain continue to expand, a company reporting their scope 3 emissions will be able 
+to transition from using default emission intensity data to using and reporting more detailed 
+values based on primary data. Another option is to apply modelled emission intensity values, 
+also in this case primary data generally brings higher accuracy to the result. 
+
+Intensity principles and calculation of GHG intensity values 
+
+The principle appointed by this standard for calculating GHG intensities is the same logic as 
+behind the Energy Efficiency Operational Indicator (EEOI). This means a leg-by-leg principle is 
+applied, e.g.:  
+
+LEG 1: 1,000 Km x 20,000 FRT = 20,000,000 FRT-kms 
++ 
+LEG 2: 4,000 Km x 30,000 FRT = 120,000,000 FRT-kms 
++ 
+LEG 3: 3,000 Km x 0 FRT = 0 FRT-kms 
+
+= 140,000,000 FRT-kms 
+
+All  (see  exception  below)  fuel  consumption  at  sea  and  in  port,  laden  and  ballast, should  be 
+included  in  the  production  of  the intensity  value (total  fuel  consumption / total  transport 
+activity), while only cargo should go into the transport activity value, not ballast. Note that also 
+shore side electricity energy consumption should be included in the consumption side of the 
+calculation. Principally, fuel/energy consumption related to maintaining the cargo and/or the 
+vessel in proper condition in port is included on the consumption side of the transport chain 
+intensity calculation.   
+
+7 
+
+ 
+ 
+ 
+ 
+ 
+ 
+  
+   
+ 
+ 
+See GLEC Framework V 3.0 section 3 module 4 for more information on this topic. 
+
+Fuel  consumption  exceptions:  if  a  vessel  is  “out  of  service”,  meaning  not  in  a  commercial 
+operation (e.g. due to maintenance), this part of the consumption should be excluded. 
+
+Containers  are  included  on  “equal  terms”  as  any  other  cargo,  meaning  a  loaded  container 
+should  be  included  in  transport  activity  calculation,  and,  as  such  include  the  total  mass  (or 
+volume) of the cargo and container needs to be accounted in the FRT calculation and emission 
+allocation but the tonne-km calculation must only include the net cargo mass (excluding the 
+container weight). An empty container however should be fully excluded from the transport 
+activity calculation, meaning neither account for the empty weight of the container nor the 
+volume  it  occupies.  Unless,  the  empty  container  is  considered  cargo  whereby  the  transport 
+service provider has been contracted to transport the empty container by a cargo owner. This 
+principle is applicable to both the tonne and cubic meter based transport activity calculations.  
+
+Please note that for the transport service provider, generally, the ‘cargo’ is quantified as both 
+the actual cargo and any packaging (e.g. a container). Therefore, when determining transport 
+activity, the full weight of all those components will most often be included in the calculation 
+(“cargo gross weight”). From the cargo owner’s perspective however, only the actual cargo is 
+considered the ‘quantity of freight’ when determining the transport activity. As a result, the 
+cargo owner must be aware that the emission intensity value provided by the transport service 
+provider may represent the ‘gross quantity of freight’. It is therefore of paramount importance 
+that the transport service provider communicates to the cargo owner the total Well-to-Wake 
+emissions, the emission intensities in tonne-kms and FRT-kms and the total transport activity 
+values  for  the  cargo  owners  solicited  transport  services,  with  the  emission  intensities  and 
+transport  activity  in  tonne-kms  expressed  using  the  net  mass  of  the  cargo  excluding  the 
+container weight or cargo handling equipment. 
+
+8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Transport Operation Categories (TOC) 
+
+The rationale behind Transport Operation Categories is to find the most appropriate grouping 
+of  vessel  operations  that  share  similar  characteristics  and  reflect  the  identified  transport 
+activities in a manner that enables cargo owners to select a representative emission intensity 
+value to apply for their scope 3 foot printing, as opposed to applying a value ‘diluted’ by vessels 
+and voyages not relevant for the cargo owner concerned. There may be some degree of dilution 
+which  inevitably  needs  to  be  accepted  for  the  sake  of  practicality.  Likewise,  dilution/lower 
+granularity may be a well-informed deliberate decision in cases where granularity ambitions 
+are low and simplicity prioritized. In the elaborative discussions and assessment in finding the 
+most suitable TOC’s, below categorization’s were identified:  
+
+-  Voyage basis 
+-  Vessel basis 
+-  DWT category basis 
+-  Full ﬂeet 
+
+Description 
+
+Voyage basis 
+
+TOC defined as a single vessel on a single voyage (including intermediary port calls). Specific 
+voyages/legs are selected for aggregation. Suitable, for instance, when operations are scattered 
+in  terms  of  space,  time,  and  vessel  deployment  but  high  granularity  is  desired.  Fuel 
+consumption  and  transport  activity  are  summarized  from  the  selected  voyage’s  operational 
+data. See section on reporting period and “ballast leg(s) inclusion and assignment” below. 
+
+Vessel basis  
+
+TOC defined as a single vessel’s aggregated operational and emission data over the reporting 
+period (typically 12 months). See section on reporting period and “ballast leg(s) inclusion and 
+assignment” below. 
+
+DWT category basis 
+
+A  group  of  vessels  operational  and  emission  data  aggregated  over  the  reporting  period 
+(typically 12 months). DWT is the determining factor for vessel selection. There are four DWT 
+categories (TOC 1 – 4) to apply, those are (DWT value): TOC 1 = 0 – 9,999. TOC 2 = 10,000 – 
+34,999. TOC 3 = 35,000 – 59,999. TOC 4 = >59,999. This categorization is derived from IMO’s 
+4th GHG study. Operational data from each respective DWT category is aggregated separately. 
+See section on reporting period below.  
+
+9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Full fleet 
+
+All vessels in the fleet are selected for aggregation. See section on reporting period below.   
+
+Ballast leg(s) inclusion and assignment 
+
+The  guiding  principle  is  that  all  operations  should  be  accounted  for,  meaning  all  fuel 
+consumption  from  laden  and  ballast  voyages  need  to  be  included  in  the  GHG  emissions 
+intensity calculation(s). It is therefore of importance to include the emissions of ballast voyages 
+when  calculating  the  TOC’s  emission  intensity.  This  inclusion  of  ballast  emissions  can  be 
+accounted as follows:  
+
+Voyage basis 
+
+Voyage basis aggregation refers to when operational and emission data of a single voyage forms 
+the basis of the emission intensity of the TOC. The TOC is defined as a single vessel on a single 
+voyage  (including  intermediary  port  calls).  All  ballast  legs  related  to  the  voyage  are  to  be 
+included. Generally, if preceded by a ballast leg, it’s associated fuel consumption and emissions 
+is allocated to the rest of the transport chain. (See example 4.4 on p.119 of GLEC Framework 
+V3.) In this context, a transport chain is defined as a consecutive series of loading and discharge 
+operations, whereby a (or multiple) cargo owner(s) charter a Breakbulk ship, and this may or 
+may not be preceded by a ballast leg.  
+
+Vessel basis 
+
+When the TOC is defined as the operations of a vessel of the reporting period. Assigning ballast 
+leg emission is straightforward. All ballast leg emissions of the specific vessel during the reporting 
+period are included in the calculation of the emission intensity of the TOC. If a laden or ballast leg 
+crosses over two reporting periods, the Estimated Time of Departure (ETD) shall determine the 
+reporting period to which it belongs. 
+
+Fleet and DWT basis 
+
+Same logic as for “vessel specific basis”, applied for all vessels in the fleet or the DWT grouping to 
+form a fleet or DWT based Transport Operation Category (TOC.) 
+
+Vessel integrated cargo handling gear 
+
+Fuel  consumption  related  to  cargo  handling  in  port  should  in  principle  be  assigned  to  the 
+calculation  related  to  “hub  activities”.  This  is  typically  a  separate  part  of  the  cargo  owner’s 
+scope 3 calculations constituting a separate element in the cargo owner’s overall multi-modal 
+transport chain. ISO14083 and the GLEC Framework offers guidance with regards to accounting 
+for  emission  and  activity  data  related  to  hub  operations.  In  the  breakbulk  sector  it  is  very 
+common  for  vessels  to  integrate  cargo  handling  gear.  However,  it  became  clear  during  the 
+working  group’s  methodological  development  that  it  is  often  hard  to  separate  the  fuel 
+
+10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+consumption induced by cargo handling from the propulsion related one. Therefore, it is of 
+high  importance  that  the  carrier  informs  the  cargo  owner,  whether  cargo  handling  fuel 
+consumption  is  part  of  the  vessel  (or  other  TOC  category)  GHG  intensity  value.  If  the  fuel 
+consumption due to cargo handling in port is part of the vessel/TOC operational intensity value 
+this will increase the emission intensity value. The cargo owner as a result will either not need 
+to account for the hub operation related to the maritime container terminal operation and/or 
+transshipment or modify the value associated with any transshipment if this is already taken 
+into account in the breakbulk operation.  
+
+Reporting period and vessel inclusion 
+
+The repor_ng period occurs on a calendar year basis, meaning the data collected will represent 
+the past calendar year’s operational data. This is similar to the repor_ng period used in the Sea 
+Cargo  Charter  (SCC)4  and  Clean  Cargo5.  In  the  future,  the  reporting  period  may  move  to  a 
+quarterly  basis  to  the  carrier  performance  data  from  2025  onwards  to  meet  the  desires  of 
+shippers  requesting  higher  reporting  frequency  in  their  scope  3  foot  printing.  Naturally,  the 
+voyage  based  TOC  reporting  will  not  by  default  represent  a  full  calendar  year  but  instead  a 
+specific  and  punctual  transport  operation.  The  other  TOC’s  are  principally  produced  by 
+aggregating all operations from the full past calendar year.  
+
+All  owned,  managed  and  operated  vessels  should  be  included  in  the  reporting.  A  shipper 
+applying  a  GHG  intensity  value  in  its  scope  3  calculations  might  (depending  on  ambition  on 
+granularity) need to be informed whether any potential transshipments have been part of the 
+cargo movements or not.  
+
+Distance measure 
+
+Distance to apply in GHG intensity calculations 
+
+The distance by which a shipment is transported is measured from the point where the cargo 
+is ﬁrst loaded onboard the vessel to where the cargo is unloaded at its ﬁnal port des_na_on. 
+While this may seem simple, especially in light of developments in GPS and telematics systems, 
+finding distance is part of what makes logistics GHG accounting a complicated endeavor. Many 
+shipments involve multiple transport legs and modes; some are handled by multiple carriers. 
+Sometimes  there  are  intermediate  stopovers  in  locations  that  reflect  a  carrier’s  transport 
+network rather than the most direct route. Sometimes routes are modified due to weather, 
+tides, construction or traffic conditions, information that may or may not be known to other 
+parties.  This  is  complicated  further  by  goods  traveling  on  shared  transport  assets,  where 
+shipments are consolidated to increase vehicle loading and hence efficiency, but may lead to 
+longer distances being travelled than would be the most direct route for an individual shipment. 
+Distance  information  should  be  collected  for  each  transport  leg,  either  through  direct 
+measurement or estimation and represent the overall route as far as possible. The transport 
+
+4 Sea Cargo Charter is a maritime organisation set up to help signatories understand their operating carbon 
+footprint and determine whether their overall emissions intensity aligns with IMO targets to reduce absolute 
+emissions from global activity by 50% compared to 2008 levels 
+5 Clean Cargo | Smart Freight Centre 
+
+11 
+
+ 
+ 
+ 
+ 
+activity distance is the actual distance, meaning the actual distance travelled between port a 
+and D including intermediary stopovers.  
+
+Distance to apply in scope 3 ‘footprinting’ calculations 
+
+Distance  information  should  be  collected  directly  or  indirectly  (e.g.,  via  a  Logistics  Service 
+Provider) from the carrier(s) concerned and represent the overall route as far as possible. It is 
+of fundamental importance (provided high accuracy is aspired to) that the distance measure 
+applied in scope 3 application is the same as applied the GHG intensity calculation. To bring 
+about an accurate end-result, there ought to be an information link between the carrier and 
+cargo owner to ensure the real route (and actual distances) between port of origin and port of 
+destination is reflected in the distance number. As mentioned above, a carrier who applies the 
+actual distance will still need to ensure the overall route (e.g. port A-C-D-E) is reflected since 
+actual  distance  refers  to  the  actual  distance  travelled  between  a  port  of  origin  and  port  of 
+destination including intermediary port stopovers/port calls.  
+
+Breakbulk carriers report emission intensity value and transport activity using actual distances 
+for the transport service they provide to cargo owners and freight forwarders. If the working 
+group were to produce emission intensity values for general scope 3 reporting for the wider 
+public, then emission intensity values would need to be provided using the shortest feasible 
+distance or the great circular distance or actual distance adjusted with a distance adjustment 
+factor.  This  is  due  to  the  fact  that  actual  distances  are  only  typically  known  by  carriers  and 
+therefore relies on a direct information link between carrier and cargo owner. 
+
+ISO 14083 reporting requirements at a Transport Service Level 
+
+The report needs to identify 1) Transport Chain Elements (TCEs) or Transport Chain(s) covered 
+in the report. 2) State that the report was done in reference to ISO 14083:2023.3) The total 
+WTW emissions (broken down into TTW as well).4)The total WTW emission intensity(also in 
+TTW) in Kgs or Tonnes of CO2e/FRT-km and Kgs or Tonnes of CO2e/tonne-km (stating the 
+type of transport activity distance - actual). 5) Reference to Breakbulk accounting and 
+reporting guidance. 6)The transport activity in FRT-kms and tonne-kms as described in the 
+methodology (stating the transport activity distance – actual). 7) Any omissions of GHG 
+sources and state reason and impact of any associated omissions. 
+
+12 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fuel emission factors (carbon conversion factors)  
+
+GHG emission factors play a crucial role in the calculation of transport GHG emissions and the 
+calculation  of  carbon  footprints.  They  provide  a  consistent  metric  to  convert  the  fuel  and 
+energy used on board to transport freight into greenhouse gas emission values. 
+
+It is vital that GHG emission factors are based on the most credible sources. For example, the 
+shipping  industry  mainly  focuses  on  the  values  published  by  International  Maritime 
+Organization (IMO). However, until now the approach of the IMO has been to publish only tank-
+to-wake (TTW) values. 
+
+The  IMO  recently  decided  to  move  to  a  WTW  (well-to-wake)  reporting  basis  as  part  of  its 
+updated decarbonization strategy. The IMO has been working on well-to-tank (WTT) emission 
+factors that can be combined with its existing tank-to-wake (TTW) emission factors in order to 
+provide a full WTW view of GHG emissions. 
+
+This  work  lags  behind  the  decision  by  several  organizations  and  groups  (incl.  this  Breakbulk 
+working  group)  to  use  well-to-wake  (WTW)  factors  to  calculate  emission  intensity  values. 
+Nonetheless, the IMO’s change of perspective should be welcomed. 
+
+The  current  status  of  the  process  is  set  out  in  MEPC  80/7/4,  the  Final  Report  of  the 
+Correspondence Group on Marine Life Cycle Analysis.  Annex 1 to MEPC 80/7/4 contains draft 
+guidelines on the calculation of life cycle GHG intensity of marine fuels and initial proposals for 
+default values and accepted ranges for a small number of the 128 pathways identified therein. 
+The fact that only a small number of the fuel pathways are represented in this way, largely due 
+to a perceived lack of sufficient data, suggests that the process still has some way to go.  The 
+IMO  lifecycle  assessment  guidance  (MEPC  80/7/4)  is  due  to  be  finalized  and  published  at 
+MEPC81 (scheduled for Q2 2024). This document will provide a widely accepted framework for 
+defining emission factors which will become the standard for the maritime industry; however, 
+the timing of this publication implies that it will not be available for the next reporting period. 
+Once this is published, it may still not be a definitive answer to emission factor definition as 
+further changes are expected as this is an evolving topic and the IMO guidance is scheduled to 
+be reviewed every 3 years to ensure it is kept up to date and in alignment with other related 
+initiatives. 
+
+In  the  absence  of  IMO  published  WTW  emission  factors,  the  emission  factors  used  is 
+recommended to be based on Global Logistics Emission Council (GLEC) Framework. The GLEC 
+Framework has itself recently been updated to make use of the best available sources in line 
+with the approach developed for, and described in, Annex J of ISO 14083. 
+
+These emission factors are derived from the North American and European Life-cycle Inventory 
+(LCI)  databases  and  their  supporting  literature  recommended  in  ISO  14083  and  the  GLEC 
+Framework v3, namely: 
+
+• 
+
+• 
+
+for North America the 2022 update to the GREET model, which is used as a de facto 
+standard lifecycle emission inventory database for transport calcula_on throughout the 
+US and as a basis for many interna_onal regula_ons and ini_a_ves; 
+
+for Europe the primary sources are the Ecoinvent lifecycle database (v3.9.1) and work 
+by  IFEU  et  al.  that  is  related  to  the  implementa_on  of  the  European  Commission’s 
+renewable energy direc_ve. 
+
+13 
+
+ 
+These values have been supplemented by additional data, primarily from JEC (a collaboration 
+between the European Commission’s Joint Research Centre, EUCAR (the European Council for 
+Automotive  Research  and  development)  and  Concawe  (the  European  oil  companies‟ 
+association  for  environment,  health  and  safety  in  refining  &  distribution)),  and  Fuel.EU 
+maritime for Europe, to provide emission factors for a more complete list of fuels relevant to 
+the maritime sector. 
+
+However, there are clearly identifiable differences between the North American and European 
+values which may result from real geographical variations in input data and fuel production 
+processes,  but  which  may  also  be  due  to  methodological  inconsistencies.  There  are  also 
+differences within the European values that depend on the available source and result directly 
+from: 
+
+•  Ecoinvent being progressive in terms of including the latest knowledge about the extent 
+of fugi_ve emission in the WTT phase of fossil fuels; resul_ng in higher WTT values. 
+
+•  Ecoinvent not currently presen_ng a full set of mari_me fuel emission factors, which is 
+what introduces the need to fall back on the less up-to-date values within the Fuel.EU 
+mari_me dataset. 
+
+In the short term it is thought (position of SFC and Breakbulk working group) being best, i.e. 
+pragmatic, to adopt a single set of emission factors for use - irrespective of geography.  With 
+this  in  mind,  and  keeping  the  logic  that  transparency  will  be  key  to  ensure  legitimacy  and 
+credibility for any pragmatic way forward, we propose the following cascading order of priority 
+in coming up with a set of default emission factor values: 
+
+1.  Emission  factors  for  conventional  liquid  fuels  in  MEPC  80/7/4  should  be  used,  where 
+available; 
+
+2. All other emission factors should be taken from the Fuel EU/ecoinvent; 
+
+3. Any emission factors not available from 1 or 2 should be taken from the GREET database. 
+
+Whilst this approach is biased towards European values, it does provide simplicity in not having 
+two lists based on geography. Therefore we believe the values presented in the following table 
+represent the best currently available set of emission factors. 
+
+We  propose  that  once  IMO  fixes  on  a  full  set  of  WTW  values  then  these  values  will  take 
+precedence. It is likely, subject to SFC and Breakbulk working group gaining a full and proper 
+understanding of the approach used by IMO, that the internal consistency that will come with 
+such  a  development  will  be  highly  beneficial  and  is  probably  the  best  way  forward  in  the 
+medium term. 
+
+14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fuel  
+
+Heavy Fuel Oil (HSHFO) 
+
+Blends (VLSFO) 
+
+Ultra-Low Sulfur Fuel Oil  
+
+Liquefied Natural Gas  
+
+Liquefied Petroleum Gas 
+(Butane)  
+
+Liquefied Petroleum Gas 
+(Propane)  
+
+Methanol  
+
+Other  
+
+Where:  
+
+WTW 
+Emissions  
+(KgCO2e / 
+Kg fuel)  
+
+TTW 
+Emissions  
+(KgCO2e / 
+Kg fuel)  
+
+Source 
+
+3.76 
+
+3.84 
+
+4.06 
+
+4.05 
+
+4.05 
+
+4.02 
+
+1.50 
+
+3.84 
+
+3.16  MEPC 80/7/4 
+
+3.16  MEPC 80/7/4 
+
+3.21 
+
+3.24 
+
+3.00 
+
+2.97 
+
+Ecoinvent 3.9.1 cut-off 
+
+Fuel EU maritime amended 
+
+Ecoinvent  3.9.1  + 
+maritime 
+
+fuel  EU 
+
+Ecoinvent  3.9.1  + 
+maritime 
+
+fuel  EU 
+
+1.11  GREET (USA) 
+
+3.16  MEPC 80/7/4 
+
+§  Heavy Fuel Oil means residual marine fuel comprised of greater than 2.5% sulfur by 
+
+mass. This is usually low sulfur fuel oil – 3.5% sulfur (LSFO). 
+
+§  Blends  means  marine  fuel  oil  blends  comprised  of  0.1  to  0.5%  (inclusive)  sulfur  by 
+
+mass. It is also called as Very low sulfur fuel oil (VLSFO). 
+
+§  Ultra-Low Sulfur Fuel Oil means a distillate or residual fuel oil comprised of less than 
+0.1% sulfur by mass. Ultra-low sulfur fuel oil includes light fuel oil (LFO), marine diesel 
+oil (MDO) and marine gas oil (MGO).  
+
+§  Liquified Natural Gas means fossil based liquified natural gas. Emission factor for Otto 
+
+dual fuel slow speed engine is applied. 
+
+§  Liquified Petroleum Gas means fossil based liquified petroleum gas as butane or as 
+
+propane.  
+
+§  Methanol means natural gas based methanol.  
+
+§  Other  means  the  fuel  is  assigned  the  “Blends”  emission  factor.  When  a  carrier  has 
+burned a lower emission marine fuel, the carrier must report the fuel using this “Other” 
+category.  Default  emission  factors  for  these  lower  emission  fuels  are  still  being 
+determined.  Additionally,  there  is  an  increasing  use  of  lower  emission  marine  fuels 
+whose emission profile is allocated by a carrier to a specific customer or customers. In 
+these situations, the emission factor of the fuel actually used on a vessel cannot be 
+captured in the general reporting without causing potential erroneous double counting 
+of the emission profile of the lower emission marine fuel. By reporting these fuels in the 
+“Other” category, the risk of erroneous double counting of the emission profile of the 
+lower  emission  fuel  is  reduced. When  emission  factors  for  the  most  common  lower 
+emission  fuels  are  settled  it  is  recommended  to  introduce  a  reporting  practice  that 
+ensures non-customer assigned emission reductions are captured in the carriers’ GHG 
+intensity numbers. This could be done by a ‘split reporting system’ where any lower 
+emission  fuel  consumption  bunkered  on  behalf  of  the  carrier  itself  is  reported 
+separately,  while  customer  specific  emission  reductions  are  still  reported  as 
+conventional fossil fuel. This ensures no double counting and fair representation of the 
+carriers’ own/in-house efforts in the GHG intensity numbers.   
+
+15 
+
+ 
+ 
+GREET (USA)  
+
+EUROPE  
+
+Source 
+
+Biofuels/efuels  Feedstock/Remarks  
+
+kgCO2e/kg of fuel 
+
+kgCO2e/kg of fuel  
+
+WTT  TTW    WTW    WTT   TTW   WTW  
+
+Ethanol E100   Mixed feedstock  
+
+n.a. 
+
+n.a 
+
+n.a 
+
+1.29 
+
+0.00 
+
+1.29 
+
+Biodiesel  
+
+HVO  
+
+Waste 
+mix  
+Waste 
+mix  
+
+feedstock 
+
+feedstock 
+
+n.a. 
+
+n.a. 
+
+n.a. 
+
+1.27 
+
+0.00 
+
+1.27 
+
+n.a. 
+
+n.a. 
+
+n.a. 
+
+1.26 
+
+0.00 
+
+1.26 
+
+Bio Methanol   Waste wood  
+Black liquor  
+Bio Methanol  
+
+0.21 
+0.62 
+
+0.00 
+0.00 
+
+0.21 
+0.62 
+
+n.a 
+n.a 
+
+n.a 
+n.a 
+
+Bio-LNG  
+
+dual 
+
+Otto 
+(medium speed)  
+
+fuel 
+
+n.a. 
+
+n.a. 
+
+n.a. 
+
+1.44 
+
+0.95 
+
+Bio-LNG  
+
+Otto  dual  fuel  (slow 
+speed)  
+
+n.a. 
+
+n.a. 
+
+n.a. 
+
+1.44 
+
+0.54 
+
+Bio-LNG  
+
+LNG diesel 
+
+n.a. 
+
+n.a. 
+
+n.a. 
+
+1.44 
+
+0.09 
+
+Bio-LNG  
+
+LBSI 
+
+n.a. 
+
+n.a. 
+
+n.a. 
+
+1.44 
+
+0.03 
+
+IFEU et al, 
+amended 
+
+IFEU et al, 
+amended 
+
+2.39 
+
+IFEU et al, 
+amended 
+n.a  GREET 
+n.a  GREET 
+Ifeu et al. 
+amended, 
+FuelEU Maritime 
+amended, MEPC 
+80/7/4 
+Ifeu et al. 
+amended, 
+FuelEU Maritime 
+amended, MEPC 
+80/7/4 
+Ifeu et al. 
+amended, 
+FuelEU Maritime 
+amended, MEPC 
+80/7/4 
+Ifeu et al. 
+amended, 
+FuelEU Maritime 
+amended, MEPC 
+80/7/4 
+
+1.98 
+
+1.53 
+
+1.47 
+
+eMethanol  
+
+W/ H2 recycling  
+
+0.06 
+
+0.00 
+
+0.06 
+
+n.a 
+
+n.a 
+
+n.a  GREET 
+
+16 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Intensity and scope 3 calculation examples 
+
+Intensity calculation  
+
+The calculation logics will be the same irrespective of TOC categorization. Ballast leg assignment 
+will be vital keeping track of in case of a voyage based TOC aggregation. In the other TOC cases 
+(vessel, DWT, fleet) all ballast legs goes into one calculation (one fuel consumption assignment) 
+only. 
+
+Freight-Revenue-tonne-kms (FRT-kms) 
+
+Leg 1: 0 FRT x 4,000 km = 0 (ballast) 
+
+Leg 2: 20,000 FRT x 3,500 km = 70,000,000 
+
+Leg 3: 25,000 FRT x 1,800 km = 45,000,000 
+
+Total FRT-kms: 115,000,000 
+
+Fuel consumption 
+
+Total consumption in tonnes Leg 1 + Leg 2 + Leg 3: HFO 1,300 + ULSFO 2,900 
+
+Total CO2e in tonnes: (1,300 x 3.76) + (2,900 x 4.06) = 16,662 
+
+Intensity 
+
+Gram CO2e per FRT-kms: (16,662 x 1,000,000) / 115,000,000 = 145 
+
+17 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Scope 3 calculation 
+
+If multiple cargo owners are having their cargo transportation taking place somewhere along the 
+identified transport chain, all of them will apply the same intensity value (in above example 
+145gCO2e/FRT-kms) representative for the chain as a whole. In other words the intensity value 
+calculated summarizing all consumption including related ballast leg(s) and the full transport activity 
+performed along the chain in the unit of FRT-kms. 
+
+Tonne-km based calculation 
+
+A cargo owner deploying a Breakbulk vessel from port A to D. The carrier informs the cargo 
+owner that the Actual Distance is applied for the intensity calculation. The carrier also informs 
+the cargo owner about this Actual Distance from port A to D, in this example being 17,000 km.  
+
+The cargo owner had 80 tonnes of cargo onboard transported from port A to D. The freight 
+tonne value for the same transport is 105. 
+
+Emissions allocated to the cargo owner: 105 x 17,000 = 1,785,000 FRT-kms. 1,785,000 x 145 / 
+1,000,000 = 258.8 tonne CO2e. 
+
+Emissions per tonne cargo: 258.8 / 80 = 3.24 tonne CO2e 
+
+TonneKm carried out on behalf of the cargo owner: 80 x 17,000 = 1,360,000  
+
+Emission intensity in gram CO2e per tonne-kms: 258.8 / 1,360,000 x 1,000,000 = 190 
+
+By SFC suggested developments and revisions 
+
+-  Forma_on and establishment of a Breakbulk buyer-supplier ini_a_ve that follows this 
+repor_ng standard in unity, maintain and develop its methods, and poten_ally report 
+via a central plauorm to both minimize eﬀorts of bilateral sharing, and, minimize risks 
+of non-standard compliant repor_ng procedures 
+
+-  A third-party veriﬁca_on scheme 
+-  Tracking of Breakbulk industry averages over _me to relate to interna_onal targets 
+-  Annual revision of Fuel Emission Factors (including renewable fuels/low emission fuels) 
+- 
+Introduc_on  of  a  ‘split  repor_ng  system’  enabling  renewable  fuels  to  be  reﬂected  in 
+cases where bunkering is done on behalf of the carrier itself (not assigned to speciﬁc 
+cargo owners/shippers or LSPs) 
+
+18 
+
+ 
+ 
+ 
+ 
+ 
+ 
+

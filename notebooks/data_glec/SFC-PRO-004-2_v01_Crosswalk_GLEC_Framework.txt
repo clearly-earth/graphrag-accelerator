@@ -1,0 +1,514 @@
+Crosswalk: GLEC 
+Framework 
+
+Edition 
+
+1 
+
+Date 
+
+22-10-24 
+
+Page 
+
+1 
+
+1. Purpose of this document: 
+
+The purpose of this crosswalk document is to outline and explain the changes made to the  GLEC 
+Framework between versions v3.1 (October 2024) and v3.0 (September 2023). It serves as a guide 
+to  help  users  of  the  Framework  understand  how  the  new  version  differs  from  the  previous  one, 
+ensuring a smooth transition to the updated guidelines. 
+
+2. Objectives: 
+
+•  Mapping  Changes:  The  document  will  provide  a  comparison  between  the  two  versions, 
+identifying specific sections that have been updated, removed, or added. This allows users to 
+quickly identify what has changed without needing to review the entire framework. 
+
+•  Clarifying  Updates:  For  each  change,  the  crosswalk  document  will  offer  explanations  or 
+justifications  for  why  these  updates  were  made,  e.g.  due  to  technological  advancements, 
+regulatory shifts, or user feedback. 
+
+•  Ensuring Compliance: Stakeholders who rely on the  GLEC Framework for environmental 
+reporting  can  use  the  crosswalk  document  to ensure  they  remain  compliant  with  the latest 
+standards. 
+
+3. Key 
+
+1  Updated content  
+2  Expanded content 
+3  Reduced content 
+4  New content 
+5  Removed content 
+
+4. Crosswalk 
+
+Paragraph  Headline 
+
+Key  Summary of change 
+
+Introduction 
+
+Foreword 
+
+Acknowledgements 
+
+Structure of the document 
+
+1  Updated figures on the percentage of global GHG 
+emissions freight transport contribution and the 
+expected freight transport demand by 2050. 
+Updated author’s job title 
+Updated text on third party assurance 
+
+1 
+
+1 
+
+Updated disclaimer to give more clarity. 
+Updated the organization of contributors 
+Updated Smart Freight Centre introduction according 
+to our latest boiler plate  
+
+Updated page indication 
+Updated copyright and reference permission 
+Updated suggested citation 
+SFC internal document control ID added 
+
+SFC-PRO-004-2 v1        Crosswalk: GLEC Framework          editor: Head of MS&A        
+
+ 1 of 4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Paragraph  Headline 
+
+Key  Summary of change 
+
+Introduction to Logistics 
+Emission Accounting - Freight 
+transport’s Climate Impact 
+
+How to use the GLEC 
+Framework 
+
+-  Scopes of Accounting 
+
+Section 1: Calculating 
+
+Chapter 1 
+
+Foundations of the GLEC 
+Framework 
+
+Chapter 3 
+
+Steps for establishing the 
+emission intensity of a TOC or 
+a HOC 
+
+References 
+
+Section 2: Using emission results 
+
+Section 2 
+Chapter 1 
+
+ Reporting emissions 
+
+Section 2 
+Chapter 3 
+
+Outlook & the path towards 
+global uptake 
+
+Section 2 
+References 
+
+Section 3; Data 
+
+Module 1 
+
+. Emission factors 
+
+-  Biogenic GHG 
+
+emissions factor 
+
+-  Emission factors table: 
+European & North 
+America sources 
+
+-  Emission factors: 
+China sources 
+
+-  GHG Emissions from 
+
+Electricity 
+
+Updated figures for transport demand prediction, and 
+the prediction of logistics emission contributed per 
+transport mode in 2050 (big infographic). The update is 
+based on International Transport Forum Outlook 2023 
+report 
+
+Added to refer the readers to the last page of change 
+overview table for the summary of v3.1 updates 
+
+Update the description of Scope 3 emissions to be 
+more accurate 
+
+Updates on table 1. Overview of emissions accounting 
+and reporting methods which are harmonized in the 
+GLEC Framework. As we are using updated standards 
+for Hubs and Rail. 
+
+Typo correction in the infographic 
+
+The reference page was updated with new sources 
+used in this revision. The hyperlinks of the old sources 
+are also reviewed and give new access date. 
+
+Correction on the definition of scope 3 category 8 & 13 
+in the info box: additional reporting requirements by 
+other standards 
+
+Updated text in the paragraph for Data Exchange and 
+Assurance, following the evolving work in SFC projects 
+and the SFC Conformity Assessment Scheme (CAS). 
+
+The hyperlinks of the sources have been reviewed and 
+given new access date. 
+
+We included the biogenic GHG emissions operational 
+values for the bio-based fuels (in multiple tables) as 
+required for complete Scope 3 reporting under the 
+GHG Protocol. 
+
+Update the values in these emission factors table 
+following the updated data source: GREET 2023 & 
+EcoTransIT methodology 2024 
+
+New content and emission factor table incorporated 
+from the China Default GHG Emission Values report 
+V1.0 (SFC,2024) 
+
+New content incorporated from Measuring and 
+Reporting the Carbon Footprint of Electric Freight 
+Vehicle Operations: Whitepaper (SFC, 2024) 
+
+1 
+
+2 
+
+1 
+
+1 
+
+1 
+
+1 
+
+2 
+
+2 
+
+1 
+
+4 
+
+1 
+
+4 
+
+4 
+
+SFC-PRO-004-2 v1        Crosswalk: GLEC Framework          editor: Head of MS&A        
+
+ 2 of 4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Paragraph  Headline 
+
+Key  Summary of change 
+
+-  Marine Fuel Emission 
+
+Factor 
+
+-  Air Fuel Emission 
+
+Factor 
+
+-  Notes about the main 
+
+sources 
+
+-  Biofuel blends 
+
+-  Scaling emission 
+
+factors: GLEC Version 
+3 to GLEC Version 
+3.1  
+
+New content and emission factors table source from 
+IMO MEPC 81, Infras & Fraunhofer, EcoTransIT 
+World: Environmental Methodology and Data (2024), 
+Fuel.EU Maritime amended & RED II 
+
+The air fuel emission factor was originally provided 
+separately in the European and North American table. 
+With this update, we are separating it as an individual 
+table and section by recognizing the need to realign 
+emission factors across the GLEC Framework and the 
+IATA recommended practices. With this update, we 
+wish to provide a single set of emission factors for use 
+irrespective of geographic difference 
+
+Additional paragraph to introduce the new data source 
+of IMO MEPC 81 
+
+Expanded the number of tables from 1 to 6, to cover 
+the blending options for gasoline/ethanol, 
+diesel/ethanol, diesel/HVO in both Europe and North 
+America 
+
+The scaling factor table was updated and divided into 
+2 tables to give separate indication for European and 
+North American value. 
+
+2 
+
+2 
+
+4 
+
+2 
+
+2 
+
+Module 2 
+
+Default fuel efficiency and GHG emission intensity values 
+
+-  Distance uplift factor  
+
+4 
+
+An uplift to the relevant emission intensity values has 
+been included in the GLEC Framework v3.1 to account 
+'Out of route trips and deviations' equating to the 
+Distance Adjustment Factor (DAF) between the SFD 
+and GCD (for air) and the actual distance. These apply 
+to Air, Road and Sea. 
+
+-  Air transport 
+
+1  Updated emission intensity table 
+
+- 
+
+- 
+
+Inland Waterway 
+transport 
+
+1 
+
+Updated emission intensity table 
+
+Logistics hubs 
+
+1  Updated emission intensity table 
+
+-  Rail transport 
+
+-  Road transport 
+
+2 
+
+2 
+
+Updated emission intensity table 
+We have changed the electricity emission factor 
+source from IEA global electricity factors (2022) to the 
+latest EcoTransIT technical update and used the 
+railway-specific values, to get closer to the full life-
+cycle approach recommended by ISO 14083. 
+We added a new sentence to give directions on the 
+uplift for temperature-controlled Rail Freight. 
+
+Updated the emission intensity table for both North 
+America and Europe 
+Added a new table for China road emission intensity 
+value sourced from the China Default GHG Emission 
+Values report V1.0 (SFC,2024) 
+Deleted the reference of boarder scope specific data 
+set on request to SFC 
+
+-  Sea transport 
+
+emission intensities 
+
+1 
+
+Updated emission intensity table for both non-
+container vessel and container vessel. 
+
+SFC-PRO-004-2 v1        Crosswalk: GLEC Framework          editor: Head of MS&A        
+
+ 3 of 4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Paragraph  Headline 
+
+Key  Summary of change 
+
+Module 3 
+
+Refrigerant emission factors 
+
+Module 4 
+
+. Examples of emission 
+calculations – step-by-step 
+
+- 
+
+1.2 EV operations 
+emission intensity 
+TOC 
+
+References 
+
+Section 4 Annexes 
+
+Module 5 
+
+Calculating GHG transport and 
+logistics emissions for the 
+European Chemical Industry 
+
+Version 
+History 
+
+ Version History 
+
+Version history: 
+
+1 
+
+22/10/24 
+
+First edition 
+
+1 
+
+1 
+
+4 
+
+2 
+
+1 
+
+4 
+
+Typo correction on the GWP100 value in the 
+Refrigerant emission factor table 
+
+The figures used in the calculation example through 
+this module have been updated due to the changes in 
+the default value in this revision. 
+
+New section added following the inclusion of EV 
+content in this revision, the content here was sourced 
+from the Measuring and Reporting the Carbon 
+Footprint of Electric Freight Vehicle Operations: 
+Whitepaper (SFC, 2024) 
+
+The reference page was updated with new sources 
+used in this revision. The hyperlinks of the old sources 
+are also reviewed and given new access date. 
+
+The default emission intensity provided in this module 
+are updated in relation to Module 2. 
+The values used in the calculation example through 
+this Module are updated due to the changes in the 
+default values in this revision. 
+
+A version history table was added to summarize the 
+GLEC Framework updates. 
+
+SFC-PRO-004-2 v1        Crosswalk: GLEC Framework          editor: Head of MS&A        
+
+ 4 of 4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

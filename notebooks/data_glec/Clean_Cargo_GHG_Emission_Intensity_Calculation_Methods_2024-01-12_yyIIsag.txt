@@ -1,0 +1,1363 @@
+Clean Cargo 
+
+Ocean  Containership  Greenhouse  Gas  Emission 
+Intensity Calculation Methods 
+
+JANUARY 2024 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+© Smart Freight Centre. 2024. 
+
+This publication may be reproduced in whole or in part in any form for educational or non-profit 
+purposes without special permission from Smart Freight Centre, provided that Smart Freight 
+Centre  is  acknowledged  as  the  source  of  the  information.  Smart  Freight  Centre  would 
+appreciate  receiving  a  copy  of  any  publication  that  uses  this  publication  as  a  source.  This 
+publication may be used for resale or for commercial purposes, provided that the user provides 
+written notification to info@smartfreightcentre.org prior to the use of the publication for resale 
+or commercial purposes. 
+
+SUGGESTED CITATION 
+
+Smart Freight Centre. Clean Cargo Ocean Containership Greenhouse Gas Emission Intensity 
+Calculation Methods. February 2024. 
+
+DISCLAIMER 
+
+The  information  presented  in  this  publication  does  not  necessarily  reflect  the  views  of  the 
+Board  of  Trustees  of  Smart  Freight  Centre.  Smart  Freight  Centre  does  not  guarantee  the 
+accuracy of the content included in this publication and does not accept any responsibility for 
+the consequences of its use. 
+
+ABOUT SMART FREIGHT CENTRE 
+
+Smart  Freight  Centre  is  an  international  non-profit  organization  focused  on  reducing 
+greenhouse  gas  emissions  from  freight  transportation.  Smart  Freight  Centre’s  vision  is  an 
+efficient  and  zero  emission  global  logistics  sector.  Smart  Freight  Centre’s  mission  is  to 
+collaborate with the organization’s global partners to quantify impacts, identify solutions, and 
+propagate  logistics  decarbonization  strategies.  Smart  Freight  Centre’s  goal  is  to  guide  the 
+global logistics industry in tracking and reducing the industry’s greenhouse gas emissions by 
+one billion tonnes by 2030 and to reach zero emissions by 2050 or earlier, consistent with a 
+1.5°C future. 
+
+ABOUT CLEAN CARGO 
+
+Clean  Cargo  is  a collaborative  initiative  between  ocean  container  carriers,  logistics  service 
+providers, and cargo owners. Clean Cargo serves as a source of high-quality containership 
+greenhouse gas  emission  performance  information  that  supports  members  in  their  work  to 
+decarbonize  containerized  ocean  cargo  transportation.  Specifically,  the  Clean  Cargo 
+secretariat collects operational and technical data from ocean container carriers to generate 
+containership emission performance information that: 
+
+▪  Facilitates accurate greenhouse gas emissions inventory calculations for Clean Cargo 
+
+members. 
+
+▪  Guides member companies in making educated ocean freight procurement decisions. 
+
+Clean  Cargo  also  serves  as  a  forum  for  decarbonization  best  practice  sharing  amongst 
+members.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TABLE OF CONTENTS 
+
+INTRODUCTION .................................................................................................................. 4 
+
+PART 1: CALCULATING CONTAINERSHIP GHG EMISSION PERFORMANCE ................. 5 
+
+PART 2: CARRIER DATA COLLECTION ............................................................................. 7 
+
+PART 3: AGGREGATING DATA INTO PORT PAIR EMISSION INTENSITIES .................... 9 
+
+PART 4: AGGREGATING DATA INTO TRADELANE EMISSION INTENSITIES ................ 13 
+
+PART 5: VERIFICATION OF CARRIER DATA ................................................................... 15 
+
+ANNEX 1: FUEL EMISSION FACTORS ............................................................................. 16 
+
+ANNEX 2: TRADE REGIONS AND TRADELANES ............................................................ 17 
+
+ANNEX 3: VESSEL SIZE RANGES .................................................................................... 21 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INTRODUCTION 
+
+This  document  outlines  the  methods  applied  in  calculating  Clean  Cargo  containership 
+greenhouse  gas  (GHG)  emission  intensities.  The  methods  described  here  are  based  on 
+methods  originally  developed  by  the  members  and  secretariat  of  the  Business  for  Social 
+Responsibility (BSR) Clean Cargo Working Group collaborative initiative. 
+
+In 2022, the Clean Cargo secretariat transitioned from BSR to Smart Freight Centre (SFC). 
+SFC established a Clean Cargo Methods Committee tasked with revising and maintaining the 
+Clean Cargo GHG emission calculation methods. Clean Cargo member companies elect eight 
+Clean Cargo Methods Committee members to represent them on the Clean Cargo Methods 
+Committee  for  two-year  terms.  SFC  representatives  serve  as  the  permanent  chair  and  co-
+chair of the Committee. The methods described here include changes to the previous (2015) 
+version of the Clean Cargo methods. The changes were written based on Methods Committee 
+deliberations in 2022. 
+
+These  Clean  Cargo  methods  are  consistent  with  the  guidelines  described  in  the  Global 
+Logistics Emissions Council (GLEC) Framework. For example, the Clean Cargo methods1: 
+
+▪  Are based on emissions associated with the entire life cycle of an energy source (i.e., 
+
+Well-to-Wake emissions). 
+
+▪ 
+
+Incorporate  the  warming  effect  from  all  GHGs  described  in  the  United  Nations 
+Framework Convention on Climate Change Kyoto Protocol (currently: carbon dioxide 
+(CO2),  methane 
+(HFCs), 
+perfluorocarbons  (PFCs),  sulphur  hexafluoride  (SF6),  and  nitrogen  trifluoride  (NF3)). 
+That is, Clean Cargo calculations are based on CO2 equivalent (CO2e) emissions. 
+
+(N2O),  hydrofluorocarbons 
+
+(CH4),  nitrous  oxide 
+
+For more on the GLEC Framework, see here. 
+
+The methods described in this document: 
+
+▪  Supersede all previous versions of the Clean Cargo methods. 
+▪  Will  be  implemented  for  calculating  Clean  Cargo  GHG  emission  performance 
+
+information beginning in 2024. 
+
+For questions about these methods or about Clean Cargo in general, please contact SFC at 
+info@smartfreightcentre.org. 
+
+1 Emission factors applied in Clean Cargo calculations are listed at Annex 1 to this document. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                
+PART 1: CALCULATING CONTAINERSHIP GHG EMISSION PERFORMANCE 
+
+Overview  
+
+Clean Cargo GHG emission performance information reflects the GHG emissions intensity of 
+Clean  Cargo  carriers’  vessels.  Emission  intensity  is  calculated  as  GHG  emissions  per 
+transport activity, where transport activity is represented in twenty-foot equivalent unit (TEU) 
+kilometers (km). Units of measure for Clean Cargo emission intensities, then, are gCO2e per 
+TEU-km. As noted above, the emission intensities are based on well-to-wake energy emission 
+factors. 
+
+Dry and Refrigerated Containers 
+
+The Clean Cargo calculation methods distinguish between the emission intensity of standard 
+dry container transportation and the emission intensity of refrigerated container transportation. 
+This  distinction  allows  for 
+the  increased  energy  consumption  associated  with  the 
+transportation  of  temperature-controlled  cargo  to  be  reflected  in  the  Clean  Cargo  GHG 
+emission intensities. 
+
+Emission Intensity Formulas 
+
+Clean Cargo dry and refrigerated container emission intensities are calculated based on the 
+following formulas. 
+
+𝐷𝑟𝑦 𝐶𝑜𝑛𝑡𝑎𝑖𝑛𝑒𝑟 𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛 𝐼𝑛𝑡𝑒𝑛𝑠𝑖𝑡𝑦
+
+=
+
+𝐹𝑢𝑒𝑙 𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛 𝐹𝑎𝑐𝑡𝑜𝑟 × (𝑇𝑜𝑡𝑎𝑙 𝐹𝑢𝑒𝑙 𝐶𝑜𝑛𝑠𝑢𝑚𝑝𝑡𝑖𝑜𝑛 − 𝑅𝑒𝑓𝑟𝑖𝑔𝑒𝑟𝑎𝑡𝑜𝑟 𝐹𝑢𝑒𝑙 𝐶𝑜𝑛𝑠𝑢𝑚𝑝𝑡𝑖𝑜𝑛)
+𝐷𝑖𝑠𝑡𝑎𝑛𝑐𝑒 𝑆𝑎𝑖𝑙𝑒𝑑 × 0.7 × 𝑉𝑒𝑠𝑠𝑒𝑙 𝑇𝐸𝑈 𝐶𝑎𝑝𝑎𝑐𝑖𝑡𝑦
+
+𝑅𝑒𝑓𝑟𝑖𝑔𝑒𝑟𝑎𝑡𝑒𝑑 𝐶𝑜𝑛𝑡𝑎𝑖𝑛𝑒𝑟 𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛 𝐼𝑛𝑡𝑒𝑛𝑠𝑖𝑡𝑦
+
+= 𝐷𝑟𝑦 𝐶𝑜𝑛𝑡𝑎𝑖𝑛𝑒𝑟 𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠 +
+
+𝐹𝑢𝑒𝑙 𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛 𝐹𝑎𝑐𝑡𝑜𝑟 × 𝑅𝑒𝑓𝑟𝑖𝑔𝑒𝑟𝑎𝑡𝑜𝑟 𝐹𝑢𝑒𝑙 𝐶𝑜𝑛𝑠𝑢𝑚𝑝𝑡𝑖𝑜𝑛
+𝐷𝑖𝑠𝑡𝑎𝑛𝑐𝑒 𝑆𝑎𝑖𝑙𝑒𝑑 × 0.7 × 𝑅𝑒𝑓𝑟𝑖𝑔𝑒𝑟𝑎𝑡𝑒𝑑 𝑇𝐸𝑈 𝐶𝑎𝑝𝑎𝑐𝑖𝑡𝑦
+
+Where: 
+
+▪  Fuel Emission Factor means the emission factor of the fuel consumed by the vessel. 
+
+See Annex 1 for fuel emission factors applied in Clean Cargo calculations. 
+
+▪  Total Fuel Consumption means the mass of all fuel consumed by the vessel (i.e., fuel 
+consumed in main engines, auxiliary engines, and boilers) during the reporting period. 
+Fuel Consumed includes fuel consumed in sea and at port. 
+
+▪  Refrigerator Fuel Consumption is calculated as described below. 
+
+▪  Distance  Sailed  means  the  total  distance  sailed  by  the  vessel  during  the  reporting 
+period, in kilometers. Distance Sailed includes distance sailed at sea and in port. 
+
+▪  Vessel  TEU  Capacity  means  the  maximum  number  of  TEU  a  vessel  can  carry,  as 
+represented in the vessel capacity plan, general arrangement plan, or loading plan. 
+
+▪  Vessel Refrigerated TEU Capacity means the number of refrigerated container plugs 
+on the vessel multiplied by 1.9 (in many cases, a refrigerated plug services a container 
+larger than a TEU). 
+
+▪  0.7 represents an assumption that the vessel operates at 70% capacity utilization (i.e., 
+
+the vessel carries 70% of its nominal container capacity, on every voyage)2. 
+
+2 Historical analysis of carrier-reported vessel utilization data reflected an average capacity utilization 
+of 70% across the largest historical Clean Cargo tradelanes. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                
+𝑅𝑒𝑓𝑟𝑖𝑔𝑒𝑟𝑎𝑡𝑜𝑟 𝐹𝑢𝑒𝑙 𝐶𝑜𝑛𝑠𝑢𝑚𝑝𝑡𝑖𝑜𝑛
+
+= 𝑉𝑒𝑠𝑠𝑒𝑙 𝑅𝑒𝑓𝑟𝑖𝑔𝑒𝑟𝑎𝑡𝑒𝑑 𝑇𝐸𝑈 𝐶𝑎𝑝𝑎𝑐𝑖𝑡𝑦 × 𝐴𝑛𝑛𝑢𝑎𝑙 𝑅𝑒𝑓𝑟𝑖𝑔𝑒𝑟𝑎𝑡𝑜𝑟 𝐶𝑜𝑛𝑠𝑢𝑚𝑝𝑡𝑖𝑜𝑛 ×
+
+𝐷𝑎𝑦𝑠 𝑉𝑒𝑠𝑠𝑒𝑙 𝑂𝑝𝑒𝑟𝑎𝑡𝑒𝑑
+365
+
+Where: 
+
+▪  Vessel Refrigerated TEU Capacity means the number of refrigerated container plugs 
+on the vessel multiplied by 1.9 (in many cases, a refrigerated plug services a container 
+larger than a TEU). 
+
+▪  Annual Refrigerator Consumption means 1,914 kg fuel per refrigerated container per 
+
+year, as calculated below. 
+
+▪  Days Vessel Operated means the number of days the vessel is operational during a 
+
+reporting period. 
+
+𝐴𝑛𝑛𝑢𝑎𝑙 𝑅𝑒𝑓𝑟𝑖𝑔𝑒𝑟𝑎𝑡𝑜𝑟 𝐶𝑜𝑛𝑠𝑢𝑚𝑝𝑡𝑖𝑜𝑛 = 3.8𝑘𝑊 × 0.23
+
+𝑘𝑔 𝑓𝑢𝑒𝑙
+
+⁄
+𝑘𝑊ℎ
+
+× 365 𝑑𝑎𝑦𝑠 × 24  ℎ𝑜𝑢𝑟𝑠
+
+𝑑𝑎𝑦⁄
+
+× 25% 
+
+Where: 
+
+▪  3.8kW is the average energy consumption per refrigerated container (a historical Clean 
+
+Cargo carrier average). 
+
+▪  0.23 kg/kWh is used to convert energy consumption in kW to energy consumption in 
+
+mass of fuel. 
+
+▪  365 represents the number of days in a year. 
+
+▪  24 represents the number of hours in a day. 
+
+▪  25% represents the average refrigerated plug utilization in a given year (a historical 
+
+Clean Cargo carrier average). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PART 2: CARRIER DATA COLLECTION 
+
+Carrier Data 
+
+Clean Cargo carriers report the following data to SFC, by vessel name and IMO number, for 
+each vessel in their operated or chartered fleet: 
+
+▪  Amount of fuel consumed (for each type of fuel consumed) 
+
+▪  Distance sailed 
+
+▪  Number of days of operation 
+
+▪  TEU capacity 
+
+▪  Number of refrigerated container plugs 
+
+This  data  is  applied  in  the  formulas  outlined  in  Part  1  to  calculate  vessel-specific  emission 
+intensities for each vessel in each carrier’s fleet. 
+
+Carriers  assign  a  tradelane  (or  tradelanes)  to  each  vessel  in  their  fleets.  Clean  Cargo 
+tradelanes and trade regions are listed in Annex 2. Carriers must assign vessels to tradelanes 
+as follows: 
+
+1.  Determine the string on which the vessel was operating on the last day of that vessel’s 
+
+operations for the carrier during a reporting period. 
+
+2.  Determine which Clean Cargo trade regions in which the ports of call on that string are 
+
+located. 
+
+3.  If more than 75% of the vessel’s port calls on the string are in one region, assign the 
+
+vessel to an intra-regional tradelane for that region. 
+
+▪ 
+
+If the vessel’s main service is on a global tradelane, assign the vessel to a global 
+tradelane regardless of the percentage of port calls in a particular region. 
+
+4.  If fewer than 75% of the vessel’s port calls on the string are in one region, assign the 
+
+vessel to a global tradelane or tradelanes. 
+
+▪ 
+
+▪ 
+
+Include all regions on the string in which 25% or more of the ports on the string are 
+located. 
+
+Include  the  regions  on  the  string  in  which  string’s  start  and  end  points  (i.e.,  the 
+string’s “turnaround points”) are located. 
+
+Tradelane assignments are applied in the formulas outlined in Part 4 to calculate tradelane 
+level emission intensities for each carrier. 
+
+Vessels Covered 
+
+Carriers are required to report on vessels in their owned or chartered fleet but are not required 
+to report on vessels that may carry cargo for the carrier under a vessel sharing agreement 
+with another carrier. Similarly, carriers are not required to report on vessels that they do not 
+own or operate but that they ship cargo on under a slot charter agreement. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reporting Period 
+
+Carriers report the data described above twice per year: 
+
+1.  In March, carrier reporting is completed for operations covering the previous calendar 
+year  (e.g.,  a  carrier  will  complete reporting  on  2023 calendar  year  data in  March  of 
+2024). 
+
+2.  In September, carrier reporting is completed for operations covering the period from 1 
+July  of  the  previous  year  through  30  June  of  the  current  year  (e.g.,  a  carrier  will 
+complete reporting of July 2022 data through June 2023 data in September of 2023). 
+
+Vessels that were operational for 90 or fewer days in a reporting period may be omitted from 
+carrier reports. For example: 
+
+▪  A  vessel  operational  for  less  than  90  days  during  the  2022  calendar  year  may  be 
+
+omitted from the reporting completed in March 2023. 
+
+▪  A vessel that was operational for fewer than 90 days between 1 July 2022 and 30 June 
+
+2023 may be omitted from the reporting completed in September 2023. 
+
+Data submitted in March serves as the foundation for SFC’s annual Global Ocean Container 
+Greenhouse Gas Emission Intensity reports. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PART 3: AGGREGATING DATA INTO PORT PAIR EMISSION INTENSITIES 
+
+Port Pair Aggregation: General Calculation Methods 
+
+As described in Part 2, Clean Cargo carrier data is collected at a vessel level. SFC partners 
+with  its  data  reporting  platform  service  provider  to  aggregate  this  vessel  level  data  to  a 
+weighted  average  carrier-specific  port  pair  emission  intensity.  Port  pair  aggregation  is 
+conducted following three steps: 
+
+1.  Calculate the transport activity (in TEU-km) each of the carrier’s vessels conducted on 
+the port pair during the reporting period and use that transport activity to calculate the 
+emissions each of the carrier’s vessels generated sailing on the port pair during the 
+reporting period. 
+
+2.  Calculate the total emissions of all the carrier’s vessels sailing on the port pair during 
+the reporting period and the total transport activity conducted by the carrier’s vessels 
+sailing on the port pair during the reporting period. 
+
+3.  Divide the carrier’s total emissions from all vessels sailing on the port pair during the 
+reporting period by the carrier’s total transport activity across all vessels sailing on the 
+port pair during the reporting period. 
+
+For example, a carrier has three vessels that sailed between ports A and B during the reporting 
+period, Vessel 1, Vessel 2, and Vessel 3. The weighted average carrier-specific dry container 
+emission intensity3 for the reporting period is calculated as follows: 
+
+STEP 1 
+
+Vessel 1 
+
+𝑇𝑟𝑎𝑛𝑠𝑝𝑜𝑟𝑡 𝐴𝑐𝑡𝑖𝑣𝑖𝑡𝑦 𝐴 ↔ 𝐵𝑉𝑒𝑠𝑠𝑒𝑙 1 = 𝐷𝑖𝑠𝑡𝑎𝑛𝑐𝑒 𝐴 ↔ 𝐵 × 𝑁𝑢𝑚𝑏𝑒𝑟 𝑜𝑓 𝑇𝑟𝑖𝑝𝑠 𝐴 ↔ 𝐵𝑉𝑒𝑠𝑠𝑒𝑙 1 × 0.7 × 𝑁𝑜𝑚𝑖𝑛𝑎𝑙 𝐶𝑎𝑝𝑎𝑐𝑖𝑡𝑦𝑉𝑒𝑠𝑠𝑒𝑙 1 
+
+𝐴 ↔ 𝐵 𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠𝑉𝑒𝑠𝑠𝑒𝑙 1 = 𝑇𝑟𝑎𝑛𝑠𝑝𝑜𝑟𝑡 𝐴𝑐𝑡𝑖𝑣𝑖𝑡𝑦 𝐴 ↔ 𝐵𝑉𝑒𝑠𝑠𝑒𝑙 1 × 𝐷𝑟𝑦 𝐶𝑜𝑛𝑡𝑎𝑖𝑛𝑒𝑟 𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛 𝐼𝑛𝑡𝑒𝑛𝑠𝑖𝑡𝑦𝑉𝑒𝑠𝑠𝑒𝑙 1 
+
+Vessel 2 
+
+𝑇𝑟𝑎𝑛𝑠𝑝𝑜𝑟𝑡 𝐴𝑐𝑡𝑖𝑣𝑖𝑡𝑦 𝐴 ↔ 𝐵𝑉𝑒𝑠𝑠𝑒𝑙 2 = 𝐷𝑖𝑠𝑡𝑎𝑛𝑐𝑒 𝐴 ↔ 𝐵 × 𝑁𝑢𝑚𝑏𝑒𝑟 𝑜𝑓 𝑇𝑟𝑖𝑝𝑠 𝐴 ↔ 𝐵𝑉𝑒𝑠𝑠𝑒𝑙 2 × 0.7 × 𝑁𝑜𝑚𝑖𝑛𝑎𝑙 𝐶𝑎𝑝𝑎𝑐𝑖𝑡𝑦𝑉𝑒𝑠𝑠𝑒𝑙 2 
+
+𝐴 ↔ 𝐵 𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠𝑉𝑒𝑠𝑠𝑒𝑙 2 = 𝑇𝑟𝑎𝑛𝑠𝑝𝑜𝑟𝑡 𝐴𝑐𝑡𝑖𝑣𝑖𝑡𝑦 𝐴 ↔ 𝐵𝑉𝑒𝑠𝑠𝑒𝑙 2 × 𝐷𝑟𝑦 𝐶𝑜𝑛𝑡𝑎𝑖𝑛𝑒𝑟 𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛 𝐼𝑛𝑡𝑒𝑛𝑠𝑖𝑡𝑦𝑉𝑒𝑠𝑠𝑒𝑙 2 
+
+Vessel 3 
+
+𝑇𝑟𝑎𝑛𝑠𝑝𝑜𝑟𝑡 𝐴𝑐𝑡𝑖𝑣𝑖𝑡𝑦 𝐴 ↔ 𝐵𝑉𝑒𝑠𝑠𝑒𝑙 3 = 𝐷𝑖𝑠𝑡𝑎𝑛𝑐𝑒 𝐴 ↔ 𝐵 × 𝑁𝑢𝑚𝑏𝑒𝑟 𝑜𝑓 𝑇𝑟𝑖𝑝𝑠 𝐴 ↔ 𝐵𝑉𝑒𝑠𝑠𝑒𝑙 3 × 0.7 × 𝑁𝑜𝑚𝑖𝑛𝑎𝑙 𝐶𝑎𝑝𝑎𝑐𝑖𝑡𝑦𝑉𝑒𝑠𝑠𝑒𝑙 3 
+
+𝐴 ↔ 𝐵 𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠𝑉𝑒𝑠𝑠𝑒𝑙 3 = 𝑇𝑟𝑎𝑛𝑠𝑝𝑜𝑟𝑡 𝐴𝑐𝑡𝑖𝑣𝑖𝑡𝑦 𝐴 ↔ 𝐵𝑉𝑒𝑠𝑠𝑒𝑙 3 × 𝐷𝑟𝑦 𝐶𝑜𝑛𝑡𝑎𝑖𝑛𝑒𝑟 𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛 𝐼𝑛𝑡𝑒𝑛𝑠𝑖𝑡𝑦𝑉𝑒𝑠𝑠𝑒𝑙 3 
+
+STEP 2 
+
+𝐴 ↔ 𝐵 𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠𝐶𝑎𝑟𝑟𝑖𝑒𝑟 = 𝐴 ↔ 𝐵 𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠𝑉𝑒𝑠𝑠𝑒𝑙 1 + 𝐴 ↔ 𝐵 𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠𝑉𝑒𝑠𝑠𝑒𝑙 2 + 𝐴 ↔ 𝐵 𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠𝑉𝑒𝑠𝑠𝑒𝑙 3 
+
+𝐴 ↔ 𝐵 𝑇𝑟𝑎𝑛𝑠𝑝𝑜𝑟𝑡 𝐴𝑐𝑡𝑖𝑣𝑖𝑡𝑦𝐶𝑎𝑟𝑟𝑖𝑒𝑟
+
+= 𝑇𝑟𝑎𝑛𝑠𝑝𝑜𝑟𝑡 𝐴𝑐𝑡𝑖𝑣𝑖𝑡𝑦 𝐴 ↔ 𝐵𝑉𝑒𝑠𝑠𝑒𝑙 1 + 𝑇𝑟𝑎𝑛𝑠𝑝𝑜𝑟𝑡 𝐴𝑐𝑡𝑖𝑣𝑖𝑡𝑦 𝐴 ↔ 𝐵𝑉𝑒𝑠𝑠𝑒𝑙 2 + 𝑇𝑟𝑎𝑛𝑠𝑝𝑜𝑟𝑡 𝐴𝑐𝑡𝑖𝑣𝑖𝑡𝑦 𝐴 ↔ 𝐵𝑉𝑒𝑠𝑠𝑒𝑙 3 
+
+3 The method shown here is also applied to calculate aggregated refrigerated container emissions for 
+AB, by applying the vessel specific refrigerated container emission intensity (as described in Part 1) 
+in the place of the vessel specific dry container emission intensity. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                
+STEP 3 
+
+𝐴 ↔ 𝐵 𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛 𝐼𝑛𝑡𝑒𝑛𝑠𝑖𝑡𝑦𝐶𝑎𝑟𝑟𝑖𝑒𝑟 =
+
+𝐴 ↔ 𝐵 𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠𝐶𝑎𝑟𝑟𝑖𝑒𝑟
+𝐴 ↔ 𝐵 𝑇𝑟𝑎𝑛𝑠𝑝𝑜𝑟𝑡 𝐴𝑐𝑡𝑖𝑣𝑖𝑡𝑦𝐶𝑎𝑟𝑟𝑖𝑒𝑟
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Variables in this example are determined as follows: 
+
+▪  The  number  of  trips  AB  are  calculated  based  on  an  analysis  of  Automatic 
+
+Identification System (AIS) data. 
+
+▪  Distance sailed AB is calculated based on AIS data. 
+
+▪  The vessel specific nominal capacity is reported by the carrier. 
+
+▪  The vessel dry container emission intensity is calculated as described in Part 1. 
+
+A carrier’s vessel is identified as sailing on the AB route during a reporting period based on 
+AIS data. 
+
+Transshipment: Introduction (not included in 2023 data reporting – to be implemented soon) 
+
+When a carrier does not operate vessels that sail directly between a container’s port of origin 
+and port of final destination but the carrier still offers a cargo transportation service between 
+those  ports,  the  cargo  is  assumed  to  be  “transshipped.”  That  is,  the  cargo  is  transferred 
+between vessels at intermediate ports on its voyage from the port of origin to the port of final 
+destination. 
+
+When a carrier does not operate vessels that sail directly between a container’s port of origin 
+and  port  of  final  destination,  there  may  be  several  different  routes  that  cargo  could  take 
+between those ports. For example, a carrier does not operate any vessels directly between 
+ports A and E, but offers a transport service between ports A and E. The carrier can get cargo 
+from port A to E by routing the cargo A-B-C-D-E, or A-F-E, or A-B-H-E, or A-G-D-E. 
+
+In these transshipment situations, the route between the container’s port of origin and port of 
+final destination is selected based on the Clean Cargo reporting platform service provider’s 
+routing  identification system.  This routing identification system  selects the  most  likely  route 
+between the container’s port of origin and port of final destination. For additional details on the 
+approach applied in determining the “most likely” route, see Annex 4. 
+
+Transshipment: Calculating Emission Intensities 
+
+The  emission  intensity  for  container  transportation  on  the  route  selected  by  the  routing 
+identification system is the weighted average of the emission intensity for a carrier’s transport 
+on each leg of the selected route. 
+
+For example, a carrier offers a transportation service between ports A and C. This carrier does 
+not operate any vessels that sail directly between ports A and C. A shipper queries the Clean 
+Cargo  reporting  platform  for  the  carrier’s  emission  intensity  for  container  transportation 
+between A and C and the routing identification system determines that the most likely route 
+between A and C is A-B-C. 
+
+The  carrier’s  AB  and  BC  emission  intensities  are  calculated  individually  following  the 
+three  steps  described  in  the  section  describing  general  calculation  methods  for  port  pair 
+aggregation above. 
+
+The carrier’s AC emission intensity is then calculated as follows: 
+
+𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛 𝐼𝑛𝑡𝑒𝑛𝑠𝑖𝑡𝑦𝐴↔𝐶 =
+
+(𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛 𝐼𝑛𝑡𝑒𝑛𝑠𝑖𝑡𝑦𝐴↔𝐵 × 𝐷𝑖𝑠𝑡𝑎𝑛𝑐𝑒𝐴↔𝐵) + (𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛 𝐼𝑛𝑡𝑒𝑛𝑠𝑖𝑡𝑦𝐵↔𝐶 × 𝐷𝑖𝑠𝑡𝑎𝑛𝑐𝑒𝐵↔𝐶)
+𝐷𝑖𝑠𝑡𝑎𝑛𝑐𝑒𝐴↔𝐵 + 𝐷𝑖𝑠𝑡𝑎𝑛𝑐𝑒𝐵↔𝐶
+
+This approach to calculating the emission intensity of transport between the container’s port 
+of  origin  and  port  of  final  destination  means  that  the  emission  intensity  of  the  longer  legs 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+between these ports have a greater influence on the route’s emission intensity than the shorter 
+legs have on the route’s emission intensity. 
+
+Transshipment: Carrier Does not Operate Vessels on all Legs of a Route 
+
+A carrier may: 
+
+▪  Offer a transportation service between a port of origin and port of final destination; and 
+
+▪  Not operate vessels sailing directly between those ports; and 
+
+▪  Not operate vessels sailing on all legs of the most likely route between those two ports. 
+
+For the legs of the route between the port of origin and the port of final destination on which 
+the  carrier  does  operate  vessels,  each  leg’s  emission  intensity  is  calculated  individually 
+following the three steps described in the section describing general calculation methods for 
+port pair aggregation above. 
+
+For the legs of the route between the port of origin and the port of final destination on which 
+the carrier does not operate vessels, the leg’s emission intensity is calculated based on the 
+emission intensity for a vessel size range. 
+
+For example: 
+
+▪  Carrier 1 offers a transportation service between ports A and D. 
+
+▪  Carrier 1 does not operate any vessels that sail directly between ports A and D. 
+
+▪  The Clean Cargo reporting platform routing identification system determines that the 
+
+most likely route between A and D is A-B-C-D. 
+
+▪  Carrier 1 operates vessels on the legs AB and CD, but not on the leg BC. 
+
+Carrier 1’s AB and CD emission intensities are calculated individually following the three 
+steps described in the section describing general calculation methods for port pair aggregation 
+above. The emission intensity for the leg BC is calculated as follows: 
+
+1.  Determine the size range4 of the most common vessel sailing BC, across all Clean 
+
+Cargo carriers that operate vessels sailing BC. 
+
+2.  Determine  the  average  emission  intensity  in  Carrier  1’s  fleet  for  all  of  Carrier  1’s 
+
+vessels in the size range determined at step one. 
+
+3.  Assign the emission intensity determined at step two to the leg BC. 
+
+4.  If Carrier 1 does not operate any vessels in the size range  determined at step one, 
+determine the average global emission intensity out of all reporting carriers’ vessels in 
+that size range. 
+
+5.  Assign the emission intensity determined at step four to the leg BC. 
+
+Carrier 1’s emission intensity for cargo shipped from A to D is then calculated as follows: 
+
+𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛 𝐼𝑛𝑡𝑒𝑛𝑠𝑖𝑡𝑦𝐴↔𝐷
+
+=
+
+(𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛 𝐼𝑛𝑡𝑒𝑛𝑠𝑖𝑡𝑦𝐴↔𝐵 × 𝐷𝑖𝑠𝑡𝑎𝑛𝑐𝑒𝐴↔𝐵) + (𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛 𝐼𝑛𝑡𝑒𝑛𝑠𝑖𝑡𝑦𝐵↔𝐶 × 𝐷𝑖𝑠𝑡𝑎𝑛𝑐𝑒𝐵↔𝐶)(𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛 𝐼𝑛𝑡𝑒𝑛𝑠𝑖𝑡𝑦𝐶↔𝐷 × 𝐷𝑖𝑠𝑡𝑎𝑛𝑐𝑒𝐶↔𝐷)
+𝐷𝑖𝑠𝑡𝑎𝑛𝑐𝑒𝐴↔𝐵 + 𝐷𝑖𝑠𝑡𝑎𝑛𝑐𝑒𝐵↔𝐶 + 𝐷𝑖𝑠𝑡𝑎𝑛𝑐𝑒𝐶↔𝐷
+
+4 There are ten container vessel size ranges used for this analysis. For more on the size ranges, see 
+Annex 3. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                
+PART 4: AGGREGATING DATA INTO TRADELANE EMISSION INTENSITIES 
+
+As described in Part 2, Clean Cargo carrier data is collected at a vessel level. SFC partners 
+with its data reporting platform service provider to aggregate this vessel level data to carrier 
+specific  tradelane  emission  intensities.  Carrier-specific  tradelane  aggregation  is  conducted 
+following three steps: 
+
+1.  Calculate the total transport activity for each vessel in a carrier’s fleet that has been 
+assigned  to  a  specific  tradelane  (see  Part  2  for  a  description  of  the  tradelane 
+assignment process). 
+
+2.  Calculate the total emissions generated by each vessel in a carrier’s fleet that has been 
+assigned to that tradelane. These emissions are the product of the transport activity 
+calculated at step one and the vessel’s global average emission intensity, calculated 
+as  described  at  Part  1.  Calculate  the  emissions  separately  for  dry  and  refrigerated 
+containers. 
+
+3.  Divide  the  emissions  generated  by  all  vessels  in  the  carrier’s  fleet  assigned  to  the 
+tradelane by the sum of the transport activity of all vessels in the carrier’s fleet assigned 
+to  the  tradelane.  Calculate  the  emissions  separately  for  dry  and  refrigerated 
+containers. 
+
+For  example,  a  carrier  has  three  vessels  that  are  assigned  to  Tradelane  Z  for  a  reporting 
+period (based on the tradelane assignment process described in Part 2), Vessel 1, Vessel 2, 
+and Vessel 3. 
+
+STEP 1 
+
+Vessel 1 
+
+𝑇𝑟𝑎𝑛𝑠𝑝𝑜𝑟𝑡 𝐴𝑐𝑡𝑖𝑣𝑖𝑡𝑦𝑉𝑒𝑠𝑠𝑒𝑙 1 = 𝑇𝑜𝑡𝑎𝑙 𝐷𝑖𝑠𝑡𝑎𝑛𝑐𝑒 𝑆𝑎𝑖𝑙𝑒𝑑𝑉𝑒𝑠𝑠𝑒𝑙 1 × 𝑇𝐸𝑈 𝐶𝑎𝑝𝑎𝑐𝑖𝑡𝑦𝑉𝑒𝑠𝑠𝑒𝑙 1 × 0.7 
+
+Vessel 2 
+
+𝑇𝑟𝑎𝑛𝑠𝑝𝑜𝑟𝑡 𝐴𝑐𝑡𝑖𝑣𝑖𝑡𝑦𝑉𝑒𝑠𝑠𝑒𝑙 2 = 𝑇𝑜𝑡𝑎𝑙 𝐷𝑖𝑠𝑡𝑎𝑛𝑐𝑒 𝑆𝑎𝑖𝑙𝑒𝑑𝑉𝑒𝑠𝑠𝑒𝑙 2 × 𝑇𝐸𝑈 𝐶𝑎𝑝𝑎𝑐𝑖𝑡𝑦𝑉𝑒𝑠𝑠𝑒𝑙 2 × 0.7 
+
+Vessel 3 
+
+𝑇𝑟𝑎𝑛𝑠𝑝𝑜𝑟𝑡 𝐴𝑐𝑡𝑖𝑣𝑖𝑡𝑦𝑉𝑒𝑠𝑠𝑒𝑙 3 = 𝑇𝑜𝑡𝑎𝑙 𝐷𝑖𝑠𝑡𝑎𝑛𝑐𝑒 𝑆𝑎𝑖𝑙𝑒𝑑𝑉𝑒𝑠𝑠𝑒𝑙 3 × 𝑇𝐸𝑈 𝐶𝑎𝑝𝑎𝑐𝑖𝑡𝑦𝑉𝑒𝑠𝑠𝑒𝑙 3 × 0.7 
+
+STEP 2 
+
+Vessel 1 
+
+𝐷𝑟𝑦 𝐶𝑜𝑛𝑡𝑎𝑖𝑛𝑒𝑟 𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠𝑉𝑒𝑠𝑠𝑒𝑙 1 = 𝑇𝑟𝑎𝑛𝑠𝑝𝑜𝑟𝑡 𝐴𝑐𝑡𝑖𝑣𝑖𝑡𝑦𝑉𝑒𝑠𝑠𝑒𝑙 1 × 𝐷𝑟𝑦 𝐶𝑜𝑛𝑡𝑎𝑖𝑛𝑒𝑟 𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛 𝐼𝑛𝑡𝑒𝑛𝑠𝑖𝑡𝑦𝑉𝑒𝑠𝑠𝑒𝑙 1 
+
+𝑅𝑒𝑓𝑟𝑖𝑔𝑒𝑟𝑎𝑡𝑒𝑑 𝐶𝑜𝑛𝑡𝑎𝑖𝑛𝑒𝑟 𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠𝑉𝑒𝑠𝑠𝑒𝑙 1
+
+= 𝑇𝑟𝑎𝑛𝑠𝑝𝑜𝑟𝑡 𝐴𝑐𝑡𝑖𝑣𝑖𝑡𝑦𝑉𝑒𝑠𝑠𝑒𝑙 1 × 𝑅𝑒𝑓𝑟𝑖𝑔𝑒𝑟𝑎𝑡𝑒𝑑 𝐶𝑜𝑛𝑡𝑎𝑖𝑛𝑒𝑟 𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛 𝐼𝑛𝑡𝑒𝑛𝑠𝑖𝑡𝑦𝑉𝑒𝑠𝑠𝑒𝑙 1 
+
+Vessel 2 
+
+𝐷𝑟𝑦 𝐶𝑜𝑛𝑡𝑎𝑖𝑛𝑒𝑟 𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠𝑉𝑒𝑠𝑠𝑒𝑙 2 = 𝑇𝑟𝑎𝑛𝑠𝑝𝑜𝑟𝑡 𝐴𝑐𝑡𝑖𝑣𝑖𝑡𝑦𝑉𝑒𝑠𝑠𝑒𝑙 2 × 𝐷𝑟𝑦 𝐶𝑜𝑛𝑡𝑎𝑖𝑛𝑒𝑟 𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛 𝐼𝑛𝑡𝑒𝑛𝑠𝑖𝑡𝑦𝑉𝑒𝑠𝑠𝑒𝑙 2 
+
+𝑅𝑒𝑓𝑟𝑖𝑔𝑒𝑟𝑎𝑡𝑒𝑑 𝐶𝑜𝑛𝑡𝑎𝑖𝑛𝑒𝑟 𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠𝑉𝑒𝑠𝑠𝑒𝑙 2
+
+= 𝑇𝑟𝑎𝑛𝑠𝑝𝑜𝑟𝑡 𝐴𝑐𝑡𝑖𝑣𝑖𝑡𝑦𝑉𝑒𝑠𝑠𝑒𝑙 2 × 𝑅𝑒𝑓𝑟𝑖𝑔𝑒𝑟𝑎𝑡𝑒𝑑 𝐶𝑜𝑛𝑡𝑎𝑖𝑛𝑒𝑟 𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛 𝐼𝑛𝑡𝑒𝑛𝑠𝑖𝑡𝑦𝑉𝑒𝑠𝑠𝑒𝑙 2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Vessel 3 
+
+𝐷𝑟𝑦 𝐶𝑜𝑛𝑡𝑎𝑖𝑛𝑒𝑟 𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠𝑉𝑒𝑠𝑠𝑒𝑙 3 = 𝑇𝑟𝑎𝑛𝑠𝑝𝑜𝑟𝑡 𝐴𝑐𝑡𝑖𝑣𝑖𝑡𝑦𝑉𝑒𝑠𝑠𝑒𝑙 3 × 𝐷𝑟𝑦 𝐶𝑜𝑛𝑡𝑎𝑖𝑛𝑒𝑟 𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛 𝐼𝑛𝑡𝑒𝑛𝑠𝑖𝑡𝑦𝑉𝑒𝑠𝑠𝑒𝑙 3 
+
+𝑅𝑒𝑓𝑟𝑖𝑔𝑒𝑟𝑎𝑡𝑒𝑑 𝐶𝑜𝑛𝑡𝑎𝑖𝑛𝑒𝑟 𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠𝑉𝑒𝑠𝑠𝑒𝑙 3
+
+= 𝑇𝑟𝑎𝑛𝑠𝑝𝑜𝑟𝑡 𝐴𝑐𝑡𝑖𝑣𝑖𝑡𝑦𝑉𝑒𝑠𝑠𝑒𝑙 3 × 𝑅𝑒𝑓𝑟𝑖𝑔𝑒𝑟𝑎𝑡𝑒𝑑 𝐶𝑜𝑛𝑡𝑎𝑖𝑛𝑒𝑟 𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛 𝐼𝑛𝑡𝑒𝑛𝑠𝑖𝑡𝑦𝑉𝑒𝑠𝑠𝑒𝑙 3 
+
+STEP 3 
+
+𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛 𝐼𝑛𝑡𝑒𝑛𝑠𝑖𝑡𝑦𝑍 𝐷𝑟𝑦 𝐶𝑜𝑛𝑡𝑎𝑖𝑛𝑒𝑟
+
+=
+
+𝐷𝑟𝑦 𝐶𝑜𝑛𝑡𝑎𝑖𝑛𝑒𝑟 𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠𝑉𝑒𝑠𝑠𝑒𝑙 1 + 𝐷𝑟𝑦 𝐶𝑜𝑛𝑡𝑎𝑖𝑛𝑒𝑟 𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠𝑉𝑒𝑠𝑠𝑒𝑙 2 + 𝐷𝑟𝑦 𝐶𝑜𝑛𝑡𝑎𝑖𝑛𝑒𝑟 𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠𝑉𝑒𝑠𝑠𝑒𝑙 3
+𝑇𝑟𝑎𝑛𝑠𝑝𝑜𝑟𝑡 𝐴𝑐𝑡𝑖𝑣𝑖𝑡𝑦𝑉𝑒𝑠𝑠𝑒𝑙 1 + 𝑇𝑟𝑎𝑛𝑠𝑝𝑜𝑟𝑡 𝐴𝑐𝑡𝑖𝑣𝑖𝑡𝑦𝑉𝑒𝑠𝑠𝑒𝑙 2 + 𝑇𝑟𝑎𝑛𝑠𝑝𝑜𝑟𝑡 𝐴𝑐𝑡𝑖𝑣𝑖𝑡𝑦𝑉𝑒𝑠𝑠𝑒𝑙 3
+
+𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛 𝐼𝑛𝑡𝑒𝑛𝑠𝑖𝑡𝑦𝑍 𝑅𝑒𝑓𝑟𝑖𝑔𝑒𝑟𝑎𝑡𝑒𝑑 𝐶𝑜𝑛𝑡𝑎𝑖𝑛𝑒𝑟
+
+=
+
+𝑅𝑒𝑓𝑟𝑖𝑔𝑒𝑟𝑎𝑡𝑒𝑑 𝐶𝑜𝑛𝑡𝑎𝑖𝑛𝑒𝑟 𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠𝑉𝑒𝑠𝑠𝑒𝑙 1 + 𝑅𝑒𝑓𝑟𝑖𝑔𝑒𝑟𝑎𝑡𝑒𝑑 𝐶𝑜𝑛𝑡𝑎𝑖𝑛𝑒𝑟 𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠𝑉𝑒𝑠𝑠𝑒𝑙 2 + 𝑅𝑒𝑓𝑟𝑖𝑔𝑒𝑟𝑎𝑡𝑒𝑑 𝐶𝑜𝑛𝑡𝑎𝑖𝑛𝑒𝑟 𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠𝑉𝑒𝑠𝑠𝑒𝑙 3
+𝑇𝑟𝑎𝑛𝑠𝑝𝑜𝑟𝑡 𝐴𝑐𝑡𝑖𝑣𝑖𝑡𝑦𝑉𝑒𝑠𝑠𝑒𝑙 1 + 𝑇𝑟𝑎𝑛𝑠𝑝𝑜𝑟𝑡 𝐴𝑐𝑡𝑖𝑣𝑖𝑡𝑦𝑉𝑒𝑠𝑠𝑒𝑙 2 + 𝑇𝑟𝑎𝑛𝑠𝑝𝑜𝑟𝑡 𝐴𝑐𝑡𝑖𝑣𝑖𝑡𝑦𝑉𝑒𝑠𝑠𝑒𝑙 3
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PART 5: VERIFICATION OF CARRIER DATA 
+
+Carriers must have the data they submit to SFC verified by a third party. Details on verification 
+of data are described in the Clean Cargo verification guidelines. Verification is only required 
+for  carrier  data  submitted  in  March  for  the  previous  calendar  year  (i.e.,  verification  is  not 
+required for data submitted in September). Carriers must submit a verification statement along 
+with data reported to SFC for the previous calendar year. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANNEX 1: FUEL EMISSION FACTORS 
+
+All emission factors used for Clean Cargo calculations are based on emission factors in the 
+Global Logistics Emission Council Framework (2023). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANNEX 2: TRADE REGIONS AND TRADELANES 
+
+Coverage 
+
+Name 
+
+Global 
+Global 
+Global 
+Global 
+Global 
+Global 
+
+Global 
+Global 
+Global 
+Global 
+Global 
+Global 
+
+Global 
+Global 
+Global 
+Global 
+Global 
+Global 
+
+Global 
+Global 
+Global 
+Global 
+Global 
+Intra 
+
+Intra 
+Intra 
+Intra 
+Intra 
+Intra 
+Intra 
+
+Intra 
+Other 
+
+Asia to-from Africa 
+Asia to-from Mediterranean/Black Sea 
+Asia to-from Middle East/India 
+Asia to-from North America EC/Gulf 
+Asia to-from North America WC 
+Asia to-from North Europe 
+
+Asia to-from Oceania 
+Asia to-from South America (including Central America) 
+Europe (North and Med) to-from Africa 
+Europe (North and Med) to-from Middle East/India 
+Europe (North and Med) to-from Oceania (via Suez / via Panama) 
+Europe (North and Med) to-from South America (including Central America) 
+
+Mediterranean/Black Sea to-from North America EC/Gulf 
+Mediterranean/Black Sea to-from North America WC 
+North America EC/Gulf/WC to-from Africa 
+North America EC/Gulf/WC to-from Middle East/India 
+North America EC/Gulf/WC to-from Oceania 
+North America EC/Gulf/WC to-from South America (including Central America) 
+
+North Europe to-from Mediterranean/Black Sea 
+North Europe to-from North America EC/Gulf 
+North Europe to-from North America WC 
+SE Asia to-from NE Asia 
+South America (including Central America) to-from Africa 
+Intra Africa 
+
+Intra Mediterranean/Black Sea 
+Intra Middle East/India 
+Intra NE Asia 
+Intra North America EC/Gulf/WC 
+Intra North Europe 
+Intra SE Asia 
+
+Intra South America (including Central America) 
+Other 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Trade Region 
+
+Countries in Region 
+
+Selected Ports in Region 
+
+Africa 
+
+NE Asia 
+
+SE Asia 
+
+Mediterranean/Black Sea 
+
+Angola 
+Benin 
+Cameroon 
+Cape Verde 
+Comoros 
+Congo 
+Cote d’Ivoire 
+Democratic Republic of the 
+Congo 
+Equatorial Guinea 
+Gabon 
+Gambia 
+Ghana 
+Guinea 
+Guinea-Bissau 
+Kenya 
+Liberia 
+Madagascar 
+Mauritania 
+Mauritius 
+Mozambique 
+Namibia 
+Nigeria 
+Sao Tome and Principe 
+Senegal 
+Seychelles 
+Sierra Leone 
+Somalia 
+South Africa 
+Tanzania 
+Togo 
+China 
+Japan 
+Korea 
+Russia (Pacific) 
+Taiwan 
+
+Brunei  
+Burma 
+Cambodia 
+East Timor 
+Indonesia 
+Malaysia 
+Philippines 
+Singapore 
+Thailand 
+Vietnam 
+Albania 
+Algeria 
+Bulgaria 
+Croatia 
+Cyprus 
+Egypt (Mediterranean) 
+France (Mediterranean) 
+Georgia 
+Gibraltar 
+
+Cape Town 
+Dakar 
+Dar Es Salaam 
+Douala 
+Douala 
+Durban 
+Luanda 
+Mogadishu 
+Mombasa 
+Port Elizabeth 
+Tripola 
+Walvis Bay 
+
+Busan 
+Dalian 
+Hong Kong 
+Kaohsiung 
+Kobe 
+Shanghai 
+Shekou 
+Yantian 
+Ho Chi Minh 
+Laem Chabang 
+Manila 
+Port Kelang 
+Singapore 
+Surabaya 
+
+Alexandria 
+Algeciras 
+Barcelona 
+Genoa 
+Gioia Tauro 
+Istanbul 
+Latakia 
+Lisbon 
+Novorossiysk 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Greece 
+Israel 
+Italy 
+Lebanon 
+Libya 
+Malta 
+Montenegro 
+Morocco 
+Portugal 
+Romania 
+Russia (Black Sea) 
+Slovenia 
+Spain 
+Syria 
+Tunisia 
+Turkey 
+Ukraine 
+Bahrain 
+Bangladesh 
+Djibouti 
+Egypt (Red Sea) 
+Eritrea 
+India 
+Iran 
+Iraq 
+Jordon 
+Kuwait 
+Maldives 
+Oman 
+Pakistan 
+Qatar 
+Saudi Arabia 
+Sri Lanka 
+Sudan 
+United Arab Emirates 
+Yemen 
+Bahamas 
+Canada (East Coast) 
+Caribbean Island nations 
+Cuba 
+Dominican Republic 
+Haiti 
+Mexico (East/Gulf Coast) 
+United States (East Coast and 
+Gulf Coast) 
+Canada (West Coast) 
+Mexico (West/Pacific Coast) 
+United States (West Coast) 
+
+Belgium 
+Denmark 
+Estonia 
+Finland 
+France (Atlantic) 
+Germany 
+Ireland 
+Latvia 
+Lithuania 
+Netherlands 
+
+Odessa 
+Tangier 
+Tunis 
+
+Abu Dhabi 
+Aqaba 
+Bandar Abbas 
+Chennai 
+Chittagong 
+Colombo 
+Hodeidah 
+Jebel Ali Dubai 
+Jeddah 
+Mina Sulman 
+Nhava Sheva 
+Port Qasim 
+Port Said 
+Salalah 
+Shuwaikh 
+Swakin 
+
+Charlestown 
+Houston 
+Miami 
+Montreal 
+Newark 
+Savannah 
+Toronto 
+Veracruz 
+
+LA / Long Beach 
+Lazaro Cardenas 
+Oakland 
+Tacoma 
+Vancouver 
+Antwerp 
+Bremerhaven 
+Copenhagen 
+Felixstowe 
+Gothenburg 
+Hamburg 
+Le Havre 
+Oslo 
+Rotterdam 
+Southampton 
+
+Middle East/India 
+
+North America EC/Gulf 
+
+North America WC 
+
+North Europe 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+South America (Including 
+Central America) 
+
+Oceania 
+
+Norway 
+Poland 
+Russia (North European) 
+Sweden 
+United Kingdom 
+Argentina 
+Belize 
+Brazil 
+Chile 
+Columbia 
+Costa Rica 
+Ecuador 
+El Salvador 
+French Guiana 
+Guatemala 
+Guyana 
+Honduras 
+Nicaragua 
+Panama 
+Peru 
+Suriname 
+Uraguay 
+Venezuela 
+Australia 
+New Zealand 
+Pacific Island nations 
+Papua New Guinea 
+
+Vyborg 
+
+Antofagasta 
+Buenaventura 
+Buenos Aires 
+Callao 
+Guayaquil 
+Iquique 
+Itaguai 
+Itajai 
+Parangua 
+Rio Grande 
+Santos 
+Valparaíso 
+
+Adelaide 
+Auckland 
+Brisbane 
+Fremantle 
+Melbourne 
+Sydney 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANNEX 3: VESSEL SIZE RANGES 
+
+Vessel size ranges in capacity of TEU: 
+
+▪  0-999 
+
+▪  1,000-1,999 
+
+▪  2,000-2,999 
+
+▪  3,000-4,999 
+
+▪  5,000-7,999 
+
+▪  8,000-11,999 
+
+▪  12,000-14,499 
+
+▪  14,500-19,999 
+▪  20,000-30,000 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

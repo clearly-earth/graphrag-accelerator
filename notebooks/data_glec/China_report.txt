@@ -1,0 +1,2773 @@
+Powering Forward: Insights for 
+Scaling Electric Truck Projects 
+China’s Shenzhen-Dongguan-Huizhou 
+Pilot Project 
+
+December 2024 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Powering Forward: Insights for Scaling 
+Electric Truck Projects 
+China’s China’s Shenzhen-Dongguan-Huizhou Pilot Project Pilot 
+Project 
+
+December 2024 
+
+© Smart Freight Centre, 2024 
+Suggested citation: Smart Freight Centre. Powering Forward: Insights for Scaling Electric Truck Projects,  
+China’s Shenzhen, Dongguan, Huizhou Pilot Project. 2024. 
+This publication may be reproduced in whole or in part in any form for educational or non-profit purposes without special permission from 
+the copyright holder, provided acknowledgment of the source is made. Smart Freight Centre would appreciate receiving a copy of any 
+publication that uses ‘Powering Forward: Insights for Scaling Electric Truck Projects' as a source.  No use of this publication may be made 
+for resale or for any other commercial purpose whatsoever, without prior permission in writing from Smart Freight Centre. 
+
+Disclaimer 
+The views expressed in this publication are those of Smart Freight Centre and staff, consultants and management, and do not necessarily 
+reflect the views of the Board of Trustees of Smart Freight Centre. Smart Freight Centre does not guarantee the accuracy of the data 
+included in this publication and does not accept responsibility for consequence of their use. 
+
+Acknowledgements 
+This report was written by Tharsis Teoh, Meena Bibra, Boyong Wang, Shixin Li 
+
+About Smart Freight Centre 
+Smart Freight Centre is an international non-profit organization focused on reducing greenhouse gas emissions from freight transportation. 
+Smart Freight Centre’s vision is an efficient and zero-emission global logistics sector. Smart Freight Centre’s mission is to collaborate with 
+the organization’s global partners to quantify impacts, identify solutions, and propagate logistics decarbonization strategies. Smart Freight 
+Centre’s  goal  is  to  guide  the  global  logistics  industry  in  tracking  and  reducing  the  industry’s  greenhouse gas  emissions by  one  billion 
+tonnes by 2030 and to reach zero emissions by 2050 or earlier, consistent with a 1.5°C future. 
+
+Contact 
+Smart Freight Centre 
+Keizersgracht 560, 1017 EM, Amsterdam, Netherlands 
+P.O. Box 11772, 1001 GT, Amsterdam, Netherlands 
+Tel office: +31 6 4695 4405 
+www.smartfreightcentre.org 
+info@smartfreightcentre.org      
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents 
+
+Glossary ............................................................................................................................... 5 
+
+Executive Summary .............................................................................................................. 6 
+
+Smart Freight Centre China .................................................................................................. 8 
+
+Zero Emission Freight Initiative ............................................................................................................... 8 
+
+Strategic Approach for Project Development ....................................................................... 9 
+
+Project Objectives ................................................................................................................................... 9 
+
+Scoping ............................................................................................................................... 11 
+
+Regional Developments in China and Shenzhen-Dongguan-Huizhou ................................................. 11 
+Electrification Progress in Shenzhen ........................................................................................ 11 
+The Importance of Road Freight in the Shenzhen, Dongguan, Huizhou Region ...................... 12 
+Project Objectives and Vision ............................................................................................................... 13 
+Project Development Process .............................................................................................................. 13 
+
+Partnerships ....................................................................................................................... 14 
+
+Government .......................................................................................................................................... 14 
+Shippers ................................................................................................................................................ 15 
+Carriers ................................................................................................................................................. 15 
+Truck OEMs .......................................................................................................................................... 15 
+Charging Infrastructure Providers ......................................................................................................... 15 
+
+Planning .............................................................................................................................. 17 
+
+Carrier Interviews .................................................................................................................................. 17 
+Route Identification ............................................................................................................................... 17 
+Matching the Right Electric Models with Participating Companies ....................................................... 18 
+Charging Infrastructure ......................................................................................................................... 20 
+
+Deployment ........................................................................................................................ 21 
+
+Execution .............................................................................................................................................. 21 
+Monitoring ............................................................................................................................................. 21 
+
+Evaluation ........................................................................................................................... 22 
+
+Operational Suitability ........................................................................................................................... 22 
+Financial Viability .................................................................................................................................. 24 
+Environmental Benefits ......................................................................................................................... 25 
+Conclusions .......................................................................................................................................... 25 
+
+Lessons Learned ................................................................................................................ 27 
+
+ 
+ 
+Specific Challenges and Solutions Encountered During Deployment .................................................. 27 
+Conditions for Project Development Success ....................................................................................... 28 
+
+Expansion ........................................................................................................................... 29 
+
+Extension of Deployment Projects Towards Corridor Electrification ..................................................... 29 
+Goals of a Shenzhen - Freight Corridor Pilot ............................................................................ 30 
+Shenzhen-Hong Kong Cross-Border Fresh Produce Zero-Emission Freight Corridor ............. 31 
+East Port Zero-Emission Freight Corridor ................................................................................. 31 
+Future Expansion of Zero-Emission Freight Corridors .............................................................. 32 
+Measures for Industry-Wide Electrification ........................................................................................... 32 
+
+Annex I: SFC Project Deployment Process ........................................................................ 34 
+
+Annex II: List of Participants in the Project ......................................................................... 36 
+
+Annex III: Detailed Total Cost of Ownership Breakdown ................................................... 37 
+
+ 
+ 
+ 
+ 
+Glossary 
+
+•  Battery electric vehicle (BEV): is a vehicle that relies exclusively on an electric battery for propulsion. 
+
+BEVs do not have an internal combustion engine or any other backup fuel source. 
+
+•  NEICV: Shenzhen Xieli Innovation Center of New Energy and Intelligent Connected Vehicle 
+•  Rigid trucks: are a type of truck with a fixed chassis where the cab and cargo area are permanently 
+
+attached to the same frame. 
+
+•  Tractor trucks: are a type of truck with a separate tractor unit and trailer connected by a joint. 
+•  Zero-emission vehicle (ZEV): is a vehicle that produces zero-emission at its tailpipe. This includes 
+
+BEV, fuel cell electric vehicles (FCEV) and plug-in hybrid vehicles (PHEV). 
+
+ 
+ 
+ 
+ 
+ 
+Executive Summary 
+
+Freight trucks continue to be a major source of transportation CO2 emissions, and there is increasing pressure 
+to decarbonize its operations to achieve global climate goals. The need for deploying sustainable solutions at 
+scale  could  never  be  more  urgent.  Electrification  of  heavy-duty  trucks  offers  a  promising  pathway  towards 
+decarbonization, and the rapidly expanding electric vehicle market provides a unique opportunity for large-
+scale action.  
+
+With an increase in electric truck model availability and applications, more options are available when looking 
+to electrify. This is in part due to government regulations and incentives and improving production economics 
+due to market certainty. Still, several challenges remain in the path towards the mass deployment of electric 
+trucks. One key challenge, as with any new technology, is a high learning curve for users to understand and 
+adjust  to  the  capabilities  and  economics  of  electric  trucks.  While  this  may  be  viewed  purely  as  a  technical 
+problem, the challenge derives from determining new operational profiles that are needed to maximize the 
+benefits from electric trucks. The only way to meaningfully rectify this is through on-the-ground testing, building 
+collaborative models across different actors and having carriers and industry partners deploy electric trucks 
+within their existing operational models and evaluate the need for new ones. 
+
+The  Shenzhen-Dongguan-Huizhou  (SDH)  deployment  project,  initiated  and  coordinated  by  SFC  China, 
+addresses this challenge. This report presents the motivation, challenges and actions carried out to develop 
+and initiate the project, as well as an overview of the stages required to plan, execute and evaluate the project. 
+In  addition,  a  summary  recap  of  the  lessons  learned  throughout  the  process  will  enable  others  to  view 
+recommendations to replicate similar projects and expand to other regions of China.  
+
+The SDH pilot project underscored the importance of collaborative efforts among government bodies, private 
+enterprises,  and  infrastructure  providers  in  overcoming  the  operational,  financial,  and  environmental 
+challenges of transitioning to zero-emission freight solutions. 
+
+§  Operationally, the pilot highlighted the suitability of electric trucks for sub-300 km daily logistics operations 
+and  showcased  how  strategic  placement  of  charging  and  battery-swapping  infrastructure  can  ensure 
+operational  continuity.  However,  gaps  in  infrastructure  density  and  design—such  as  the  need  for  truck-
+specific charging stations—indicate areas requiring immediate attention for future projects. 
+
+§  Financially,  the  total  cost  of  ownership  (TCO)  analysis  revealed  varying  outcomes,  with  high-mileage 
+operations achieving economic competitiveness while low-mileage operations facing barriers to cost parity. 
+These  findings  emphasize  the  importance  of  optimizing  vehicle  deployment  on  routes  that  maximize 
+operational mileage and leveraging economies of scale to drive down costs. 
+
+§  Environmentally, the pilot project achieved significant greenhouse gas emissions reductions. As China’s 
+energy grid continues to decarbonize, the environmental benefits of electric trucks will become even more 
+pronounced, making them a cornerstone of sustainable freight systems. 
+
+Looking  ahead,  the  success  of  the  SDH  pilot  sets  the  stage  for  expanding  zero-emission  freight  corridors 
+across  China.  Strategic  regions,  including  the  Pearl  River  Delta,  the  Yangtze  River  Delta,  and  the  Beijing-
+Tianjin-Hebei  area,  have  been  identified  as  prime  candidates  for  electrification  due  to  their  dense  logistics 
+networks and significant freight volumes. Building upon the lessons from SDH, these corridors can integrate 
+scalable  charging  infrastructure,  battery-swapping  networks,  and  policy  incentives  to  facilitate  widespread 
+adoption. 
+
+For instance, the proposed Shenzhen-Hong Kong Cross-Border Fresh Produce Corridor and the East Port 
+Zero-Emission  Corridor  exemplify  targeted  initiatives  aimed  at  optimizing  freight  efficiency  and  promoting 
+sustainability.  Future  expansions  should  prioritize  high-density  logistics  hubs  and  intercity  freight  corridors, 
+leveraging  data-driven  planning  to  align  infrastructure  development  with  transport  demands.  Collaborative 
+policy frameworks, such as relaxing road restrictions for electric trucks and providing financial incentives, will 
+be critical in scaling these efforts. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Moreover, regional integration will play a key role in achieving nationwide impacts. For example, connecting 
+electrified corridors across provinces and linking them with major ports, airports, and railway hubs can establish 
+a  comprehensive  zero-emission  logistics  network.  By  fostering  partnerships  between  stakeholders  at  all 
+levels—government, private sector, and academia—China can create a robust ecosystem that accelerates the 
+transition to zero-emission freight solutions. 
+
+The outcomes of the SDH pilot not only pave the way for electrification within China but also offer a replicable 
+model for other countries and regions. With continued innovation, investment, and stakeholder engagement, 
+zero-emission freight systems can be scaled globally, contributing significantly to achieving net-zero logistics 
+and aligning with international climate goals. 
+
+ 
+ 
+ 
+ 
+ 
+Smart Freight Centre China 
+
+The Smart Freight Centre (SFC) is an international non-profit organization focused on reducing greenhouse 
+gas emissions from freight transportation. Its mission is to accelerate the reduction of logistics emissions by 
+fostering collaboration within the global logistics ecosystem. SFC mobilizes global shippers to track and reduce 
+emissions towards net-zero carbon by 2050. This is done through three selected core strategies. 
+
+1.  By  setting  global  standards  for  emission  accounting  in  logistics  and  maintaining  recognition  as  a  global 
+
+authority to enable validation and impacting/tracking; 
+
+2.  By creating and scaling capacity building programs within the logistics ecosystem in partnerships, with a 
+
+focus to spread implementation of standards, foster collaboration, and support impact; and,  
+
+3.  By shaping collaborative initiative’s for action, focusing on high impact scalable decarbonization levers, that 
+
+require joint action across the logistics ecosystem.  
+
+This project has been led by SFC China and focuses on SFC’s third core strategy – collaborating initiatives for 
+action.  China  is  at  the  forefront  of  global  truck  electrification  efforts,  demonstrating  significant  progress  in 
+vehicle  and  battery  technology,  market  development,  and  research  into  innovative  solutions  like  battery 
+swapping.  Despite  these  advancements,  the  actual  uptake  of  electric  trucks  in  China's  road  freight  sector 
+remains  below  1%  of  the  total  vehicle  stock,  highlighting  the  need  for  continued  efforts  to  accelerate  the 
+transition to electric trucks and overcome existing barriers to their implementation. 
+
+Zero Emission Freight Initiative 
+
+The Zero Emission Freight Initiative (ZEFI) is a non-profit, collaborative partnership dedicated to accelerating 
+the adoption of zero-emission trucks in China. Supported by the Energy Foundation, ZEFI brings together a 
+diverse  range  of  stakeholders,  including  research  institutions,  OEMs,  energy  providers,  shippers,  logistics 
+companies, and industry associations. By fostering collaboration, promoting supportive policies, and building 
+consensus on zero-emission freight pathways, ZEFI aims to drive the transition towards a cleaner and more 
+sustainable freight sector in China. 
+
+SFC China is ZEFI’s Secretariat, setting the agenda and leading discussions among stakeholders. SFC China 
+has been instrumental in organizing workshops, conferences, and meetings to facilitate knowledge sharing 
+and  consensus-building  on  key  topics  such  as  charging  infrastructure  development,  financing  models,  and 
+policy incentives for zero-emission trucks.  They have also developed and published several reports on zero-
+emission freight, providing valuable data and analysis to inform decision-making. 
+
+Beyond  its  role  in  ZEFI,  SFC  China  has  been  actively  involved  in  various  zero-emission  freight  corridor 
+projects, including the Beijing-Tianjin-Hebei (BTH) Zero-Emission Freight Demonstration Project. This project, 
+launched in 2022, has successfully deployed over 400 new energy vehicles and established 8 zero-emission 
+freight corridors in northern China, showcasing the viability of electric and hydrogen fuel cell trucks for freight 
+transport.  SFC China played a key role in this project by: 
+
+§  Facilitating stakeholder engagement: They brought together key players from government, industry, 
+
+and academia to create a collaborative ecosystem. 
+
+§  Conducting research and analysis: They analyzed operational data, evaluated different technologies, 
+
+and identified best practices for zero-emission freight corridors. 
+
+§  Developing and disseminating resources: They created toolkits and guidance documents to support 
+
+the replication of the project's successes in other regions. 
+
+The BTH project has achieved significant milestones, including the establishment of 7 hydrogen fuel cell long-
+haul corridors, 1 electric vehicle charging long-haul corridor, and 1 battery swapping corridor.  The project's 
+Beijing-Tianjin Daily Goods Hydrogen Corridor was even recognized as a "Zero Carbon Pilot Project" by the 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ministry of Transport. By developing and sharing toolkits and best practices, ZEFI and SFC China are helping 
+to accelerate the adoption of zero-emission freight solutions across China. 
+
+Strategic Approach for Project Development 
+
+Real-world implementation projects have significant value in road freight electrification. Whether for temporary 
+vehicle  or  infrastructure  testing  or  towards  scaled  deployment,  having  a  focused  approach  to  project 
+development is key. With these caveats in mind, the key areas of strategic value to be derived from this project 
+include:  
+
+§  Mobilizing the resources needed to initiate a sector-
+wide  transition  within  the  (limited)  scope  of  an 
+application  area,  by  funding  vehicles,  infrastructure 
+and aggregating demand. 
+
+§  Generating real-world data and learnings to underpin 
+implementation design and sectoral transition.  
+§  Developing recommendations for the logistics sector, 
+solution providers and governments for the scaling of 
+similar projects.  
+
+§  Creating  awareness  and  increasing  the  sectoral 
+trucks  and  charging 
+
+competence  of  electric 
+infrastructure within the logistics sector.  
+
+Scoping
+
+Expansion
+
+Partnership
+
+Lessons
+
+Planning
+
+Evaluation
+
+ZEFI's project development approach prioritizes collaboration 
+and  real-world  impact  (Figure  1).  It  begins  with  Scoping, 
+where stakeholder needs, particularly those of shippers, are 
+mapped to define the project's scope and aims. This ensures 
+that projects are anchored in addressing practical challenges 
+and  meeting  tangible  demands.  The  Partnership  stage  focuses  on  building  a  strong  consortium,  bringing 
+together  diverse  stakeholders  like  shippers,  carriers,  and  technology  providers,  to  foster  collaboration  and 
+resource  sharing.  The  remaining  stages  (Planning,  Deployment,  Evaluation,  Lessons,  and  Expansion) 
+follow  a  cyclical  process  of  designing,  implementing,  assessing,  and  scaling  pilot  projects.  This  iterative 
+approach allows for continuous learning and improvement, ensuring that projects effectively address shipper 
+needs  and  contribute  to  broader  sectoral  transformation.  (Refer  to  Annex  I  for  a  detailed  outline  of  the 
+process). 
+
+Figure 1. Key project stages 
+
+Deployment
+
+Project Objectives 
+
+The  SDH  Heavy  Truck  Electrification  Pilot  Project  described  in  this  report  applies  the  project  development 
+approach  in  Figure  1  to  trucking  operations  within  and  from  Shenzhen  towards  the  neighboring  cities 
+Dongguan and Huizhou (Figure 2). The demonstration project in SDH region aims to: 
+
+§ 
+
+Investigate the critical factors necessary for widespread adoption of electric heavy-duty trucks in the 
+SDH  region.  This  includes  evaluating  current  policies,  charging  infrastructure,  vehicle  technology, 
+operational routes, and transport and logistics management practices. 
+
+§  Conduct a pilot demonstration to validate the feasibility of operating electric heavy-duty trucks within 
+
+the region and establish a viable zero-emission truck corridor.  
+
+§  Gather practical experience and insights from the pilot project to inform the broader application and 
+
+promotion of electric heavy-duty trucks in the Pearl River Delta and across China. 
+
+The project was coordinated by the ZEFI team, with strong support from the Shenzhen Xieli Innovation Center 
+of New Energy and Intelligent Connected Vehicle (NEICV), with funding from the Rocky Mountain Institute. 
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Figure 2. Main freight routes covered through the project 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Scoping 
+
+Regional Developments in China and Shenzhen-Dongguan-Huizhou 
+
+China is demonstrating global leadership in the electrification of road freight. In the first half of 2024, China 
+accounted for over 80% of global zero-emission truck sales, with a new sales share of 5.5%. This strong uptake 
+of electric trucks is driven by several factors, including government support, rapid technological advancements, 
+and increasing awareness of the environmental and economic benefits of electrification. 
+
+China's commitment to electrification is evident in its proactive policies and initiatives. The government has 
+implemented various measures to incentivize electric truck production and purchase, such as subsidies, tax 
+breaks,  and  preferential  road  access  policies.  Moreover,  China  is  actively  investing  in  research  and 
+development to advance battery technology, charging infrastructure, and other essential components of the 
+electric vehicle ecosystem. 
+
+Shenzhen,  a  major  economic  and  transportation  hub  in  the  Pearl  River  Delta,  is  at  the  forefront  of  this 
+electrification drive. The city's high volume of road freight and its dedication to sustainable development make 
+it an ideal location for piloting and scaling electric truck solutions. Shenzhen aims to lead the way in heavy-
+duty  vehicle  electrification  by  building  demonstration  projects  and  exploring  suitable  technologies  and 
+infrastructure. This will generate valuable lessons that can be applied across China and potentially to other 
+countries facing similar challenges. 
+
+Electrification Progress in Shenzhen 
+
+Zero-emission vehicles in Shenzhen in 2023 
+
+Figure 3. The number and share of zero-emission vehicles 
+in  Shenzhen  in  2023  (Source:  Smart  Freight  Centre  China 
+based on NEICV Annual Vehicle Ownership) 
+
+Regionally,  Shenzhen  has  strong  ambitions, 
+aiming  to  electrify  all  road  transport  operating 
+within its city. As seen in Figure 3, to-date, more 
+than 675,000 private passenger vehicles on the 
+road  are  electric.  In  2023,  all  of  Shenzhen's 
+buses,  cabs,  and  ride-hailing  vehicles,  as  well 
+as  87%  of  the  city’s  sanitation  vehicles  have 
+been fully electrified.  
+
+the  city’s 
+
+logistics 
+Almost  one  quarter  of 
+vehicles, or about 130,000 vehicles, are electric. 
+Electric light-duty vehicles make up 30% of the 
+light-duty  vehicle  segment,  while  the  electric 
+medium- and heavy-duty vehicles make up only 
+5% of its segment.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+The Importance of Road Freight in the Shenzhen, Dongguan, Huizhou Region 
+
+Shenzhen  plays  a  pivotal  role  as  an  international  transportation  hub.  Shenzhen  boasts  a  comprehensive 
+transportation network connecting sea, land, and air routes, facilitating efficient resource allocation and trade 
+both  domestically  and  internationally.  Its  strategic  importance  is  underscored  by  its  designation  as  one  of 
+China's 45 national highway hubs and its ranking as the 
+fourth busiest container port globally, handling nearly 30 
+million containers in 2023.  
+
+the 
+
+robust 
+
+This 
+thriving 
+infrastructure  supports 
+manufacturing  industries  of  Dongguan  and  Huizhou. 
+Dongguan,  a  key  production  base 
+for  electronics, 
+machinery,  clothing,  and  footwear,  relies  heavily  on 
+Shenzhen's  port  for  exporting  goods  to  global  markets. 
+Similarly,  Huizhou,  a  major  producer  of  electronics  and 
+automotive products, depends on efficient transport links 
+between its factories and Shenzhen's port for both exports 
+and  imports.  With  these  considerations  in  mind,  this 
+makes  the  road  freight  sector  crucial  to  continue  the 
+movement of goods across the SDH region and beyond.  
+
+Shenzhen has approximately 127,000 heavy-duty trucks in 
+operation.  The  majority  of  these  trucks  transport  goods 
+within the SDH area. This additionally highlights the area’s 
+critical role in regional and global supply chains. Figure 4 
+shows  that  90%  of  the  operations  by  medium-  and  heavy-duty  vehicles  (MHDV)  registered  in  Shenzhen 
+operate within the Guangdong province, and almost 70% operate between Shenzhen and Dongguan.  
+
+Figure  4.  Daily  distribution  of  operational 
+destinations  for  medium  and  heavy  trucks  in 
+Shenzhen. (Source: SFC China) 
+
+Special-purpose truck
+
+Dump truck
+
+Concrete mixer truck
+
+Rigid Truck
+
+Refrigerated truck
+
+Tractor Truck
+
+0
+
+50
+
+100 150 200 250 300
+
+Annual active days  (days)
+
+Average daily mileage (kilometers)
+
+Transport data collected within Shenzhen by NEICV 
+depicts  the  operational  demands  of  the  current 
+MHDVs  registered  in  the  city.  The  active  days  and 
+average daily mileage of the fleet are summarized in 
+Figure 5.  
+
+The  trucks  in  the  city  demonstrate  high  utilization, 
+averaging  242  operational  days  per  year.  However, 
+there  is  variation  across  truck  types.  Refrigerated 
+trucks,  essential  for  transporting  perishable  goods, 
+show  the  highest  usage  with  272  operational  days, 
+while  dump  trucks,  likely  tied  to  construction  and 
+infrastructure projects, have the fewest at 204 days. 
+Tractor  trucks  and  rigid  trucks  operate  close  to  250 
+days a year. 
+
+Figure  5.  Annual  active  days  and  daily  mileage  of 
+major  operational  trucks  in  Shenzhen  (Source: 
+NEICV) 
+
+February in line with the national festivities.  
+
+in 
+trucks  also  demonstrate  seasonality 
+The 
+operations,  with  high  activity  occurring  within  a  10- 
+month  period  and  considerably  less  in  January  and 
+
+The daily operational mileage shows a stronger variation across vehicle types. Tractor trucks and refrigerated 
+trucks show the highest daily utilization of close to 250 kms driven per day. Rigid trucks run considerably less 
+- on average 160 km per day. Special-purpose trucks and dump trucks run only about 100kms per day.  
+
+The operational data and freight activity within the region point to two key conditions necessary for scalable 
+truck electrification. The first is operational feasibility. Current electric truck ranges available on the market are 
+within the demands of current daily operational mileage for heavy-duty trucks. Second, high transport density 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+in  the  region  increases  the  viability  and  attractiveness  of  charging  and  grid  infrastructure  construction  and 
+upgrades, as well as other logistic synergies.  
+
+Project Objectives and Vision 
+
+In line with the broader aims of ZEFI to promote the widespread adoption of electric heavy-duty trucks in China, 
+the demonstration project in the SDH region aims: 
+
+§  To  investigate  the  critical  factors  necessary  for  the  widespread  adoption  of  electric  heavy-duty 
+trucks  in  the  SDH  region.  This  includes  evaluating  policies,  charging  infrastructure,  vehicle 
+technology, operational routes, and transportation organization methods. 
+
+§  To conduct a pilot demonstration to validate the feasibility of operating electric heavy-duty trucks 
+
+within the region and to establish a viable zero-emission truck corridor.  
+
+§  To gather practical experience and insights from the pilot project to inform the broader application 
+
+and promotion of electric heavy-duty trucks in the Pearl River Delta and across China. 
+
+Project Development Process 
+
+Once the initial stage of project scoping is concluded, the work to define, facilitate, implement, and evaluate 
+the project begins (Figure 6). The following chapters present the outcomes and main findings of each stage 
+of the project. 
+
+Partnership
+
+Planning
+
+Deployment
+
+Evaluation
+
+Lessons
+
+• Stakeholder 
+consultation
+• Consortium 
+building
+• Resource 
+Integration
+
+• Pilot design and 
+execution
+• Establishing KPIs 
+and data 
+collection methods
+
+• Execution
+• Data Collection
+• Monitoring
+
+• Operational, 
+financial and 
+environmental 
+assessment
+
+• Key findings from 
+deployment
+• Project process 
+evaluation
+
+Figure 6. Project development process 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Partnerships 
+
+To lay a strong foundation for the pilot project, the first step is to take stock of the resources the project will 
+have access to, the conditions under which the project will be implemented, and to understand and elicit the 
+cooperation  from  key  stakeholders  in  the  ecosystem  (Figure  7).  Developing  a  collaborative  model  that 
+engages  this  network  of  key  stakeholders  is  critical  to  the  optimal  deployment  of  the  project.  This  section 
+provides further details on each stakeholder’s role in the project’s development process. In total, 40 participants 
+across  5  different  stakeholder  groups  participated  in  the  project.  Thus,  demonstrating  the  importance  of 
+collaborating effectively across different groups. A full list of project participants can be found in Annex II. A 
+summary of stakeholder groups and key actions can be found in Table 1.  
+
+Carriers
+
+Shippers
+
+Truck OEMs
+
+Government
+
+Project 
+Stakeholders
+
+Charging 
+Infrastructure 
+Providers
+
+Figure 7. Key stakeholders in the project development process 
+
+Government 
+
+Government  involvement  was  a  key  support  pillar  for  the  project’s  development.  A  strong  commitment  to 
+support  the  adoption  of  electric  heavy-duty  trucks  was  demonstrated  through  early  and  continual  active 
+engagement  throughout  the  project.  It  was  identified  early-on  the  importance  of  partnering  with  real-world 
+projects to be able to better inform policy decisions, roadmaps and charging infrastructure deployment.  
+
+As a starting point, the project team’s initial alignment with key government departments’, such as the Ministry 
+of Transport and the Ministry of Industry and Information Technology, national zero-emission transportation 
+goals  helped  to  facilitate  action  in  line  with  government  decarbonization  priorities.  Critical  guidance  on 
+technology choices that were in alignment with national roadmaps helped to keep the project scope focused 
+to be able to provide tangible results. In addition, connections were facilitated with relevant stakeholders in 
+Shenzhen’s logistics industry.  
+
+During  the  project,  government  representatives  maintained  close  communication,  monitoring  progress  and 
+gathering  valuable  information  about  the  challenges  encountered  in  promoting  electric  trucks.  Financial 
+incentives, such as subsidies for electric vehicles and batteries, were also provided to encourage adoption.  
+
+Looking ahead, the government plans to leverage the project findings to inform policy development, including 
+refining the dual credit policy to set realistic targets for OEMs and fleet operators. The findings will also guide 
+updates to the national technology roadmap and inform strategic decisions about the placement and type of 
+charging infrastructure needed to support the widespread adoption of electric heavy-duty trucks. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Shippers 
+
+Shippers, which form the core of ZEFI’s network, are integral to truck electrification on a wide-scale basis. 
+Aggregating shipper demand to be able to support scalable deployment of electric heavy-duty trucks is a critical 
+part of the project. The shippers that supported the project were multinational companies, such as IKEA, Mars, 
+and Walmart, as well as Chinese companies, such as Hsu Fu Chi and JUSDA.  
+
+These companies were willing to participate in the project, and contributed the following: 
+
+§  Shared operational plans and data for electric heavy-duty trucks through the pilot project; 
+§  Recommended and introduced carriers to join the project; and, 
+§  Suggested pilot routes based on the existing electric heavy-duty models under consideration and a 
+
+set of selection criteria that was put together by the XieLi Innovation Center. 
+
+Having a strong shipper network to access not only facilitated the development of important operational data, 
+but also necessary relationships to bring in carriers, provide aggregate estimates for vehicle demand to OEMs 
+and inform charging infrastructure providers on key pilot routes. 
+
+Carriers 
+
+Carriers play a key role in truck electrification. They are the ones that will have to adopt the vehicles within 
+their operations and put the upfront capital investment on the vehicles themselves. Most carriers involved in 
+the  project  were  identified  by  leveraging  the  shipper  network.  Some  though  were  identified  by  vehicle 
+manufacturers, dealers and industry associations.   
+
+During the research phase, the project team conducted intensive visits to various carrier sites to understand 
+their actual operational conditions, as well as their awareness of and demands for electric heavy-duty trucks. 
+(featured  more  in  the  next  section).  More  than  20  companies  were  surveyed,  with  10  companies  currently 
+participating in the project.  
+
+Participants of the projects received subsidies for renting the electric trucks. This is essential to reduce the 
+investment  needed  for  vehicle  use,  encouraging  more  carriers  to  join  the  pilot  project  and  experience  new 
+energy heavy-duty trucks. 
+
+Truck OEMs  
+
+The project team engaged with 15 electric truck OEMs, which included major ones such as China National 
+Heavy Duty Truck Group (CNHTC), SAIC Hongyan, Geely, Liuzhou Motor. The first step was to ascertain their 
+willingness to participate in the project.  
+
+These companies saw the pilot project as an opportunity to promote new energy products and solutions in the 
+Shenzhen-Dongguan-Huizhou area and the Pearl River Delta. They contributed by providing rental subsidies 
+to  carriers  during  the  trial  period.  In  addition,  during  the  pilot  project,  the  OEMs  had  the  responsibility  of 
+coordinating the vehicle trials. 
+
+Charging Infrastructure Providers 
+
+The project team collaborated with charging infrastructure and battery swapping station providers, such as 
+Teld, State Power Investment Corporation, Era Qiji Green Energy Technology, Che Dian Wang. Charging and 
+swapping companies are highly focused on the operational plans and route planning for electric heavy-duty 
+trucks in the SDH area, which provides important information about their future construction plans for charging 
+and swapping stations.  
+
+For the pilot participants, they supported the project team in providing access to the services of the existing 
+charging stations available for heavy-duty trucks in the Shenzhen area. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 1. Summary of stakeholder groups, motivation, and key actions 
+
+Motivation for Supporting the Initiative 
+
+Engagement and Actions for Project 
+
+Stakeholder 
+Group 
+
+Government 
+
+§  Align with national zero-emission 
+
+Shippers 
+
+transportation goals;  
+
+§  Gather information and insights to inform 
+
+policies, update technology roadmaps, and 
+guide charging infrastructure development;  
+
+§  Support the growth of a domestic electric 
+
+vehicle industry. 
+
+§  Demonstrate commitment to sustainability;  
+§  Gain insights into electric truck operations;  
+§  Potentially reduce freight costs and 
+
+emissions;  
+Improve supply chain efficiency. 
+
+§ 
+
+Carriers 
+
+§  Gain firsthand experience with electric 
+
+trucks;  
+
+§  Potentially reduce operational costs and 
+
+emissions;  
+
+§  Gain a competitive advantage in the 
+
+market; 
+
+§  Operational testing with subsidized rental 
+
+costs 
+
+Truck OEMs 
+
+§  Contribute to the development of the 
+
+Charging 
+Infrastructure 
+Providers 
+
+electric vehicle ecosystem;  
+§  Gather real-world data on vehicle 
+
+performance;  
+
+§  Potentially used pilot findings for product 
+
+development and marketing. 
+
+§  Gain insights into charging needs and 
+operational patterns of electric trucks;  
+Inform future charging infrastructure 
+development plans;  
+
+§ 
+
+§  Expand their customer base and market 
+share in the electric truck charging 
+segment. 
+
+§  Engaged in pre-project planning to 
+
+ensure alignment;  
+
+§  Provided financial incentives; 
+§  Were debriefed about project progress, 
+
+results and learnings. 
+
+§  Shared operational data,  
+§  Provided company’s strategy and plan 
+
+for sustainable logistics;  
+
+§  Recommended carriers to join the 
+
+project;  
+
+§  Suggested pilot routes. 
+
+§  Operated vehicles in the pilot project;  
+§  Provided operational data;  
+§  Shared feedback on electric truck 
+performance and challenges. 
+
+§  Provided rental subsidies to carriers;  
+§  Coordinated trial vehicles.  
+
+§  Provided access to existing charging 
+
+stations for pilot participants;  
+
+§  Collaborated with the project team on 
+
+route planning and charging strategies. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Planning  
+
+The  deployment  planning  stage  aimed  to  understand  carrier  requirements  for  vehicles  and  energy 
+infrastructure, based on routes selected for the project. These had to be decided or optimized simultaneously, 
+based  on  route  operational  demand,  vehicle  availability  and  capability,  and  the  availability  of  energy 
+infrastructure  along  those  routes.  The  basis  for  the  plan  was  informed  through  20  carrier  interviews.  The 
+selected carriers were recommended to the project by other shippers. Key aspects of this deployment plan 
+can be found in Figure 8. 
+
+Carrier 
+interviews
+
+Vehicle 
+matching
+
+Route 
+identification
+
+Charging 
+infrastructure
+
+Figure 8. Key aspects of the deployment plan 
+
+Carrier Interviews 
+
+To identify suitable carriers for the electric truck pilot project, over 20 logistics and transportation companies 
+were  interviewed.  These  interviews  assessed  their  operational  needs  and  capabilities,  including  existing 
+vehicle conditions, typical routes, energy consumption, and awareness of electric truck technology.  Carriers 
+who expressed a clear interest in participating and whose operations aligned with the available electric trucks 
+and charging infrastructure were then asked to provide detailed information on their routes. This information, 
+along with an evaluation of current electric truck technology, informed the development of the initial pilot project 
+plan. 
+
+Route Identification 
+
+This pilot project involved a diverse range of participants and transportation scenarios. A total of 40 companies 
+participated, utilizing both 4x2 and 6x4 electric heavy-duty tractors. These trucks were used for various short- 
+and  medium-distance  transportation  needs  within  the  SDH  region  and  the  surrounding  Pearl  River  Delta 
+(Figure 9). Cargo types included general goods, sand and gravel, hazardous materials, and refrigerated food, 
+with  loads  ranging  from  8  to  30  tonnes.  The  trucks  operated  between  ports,  factories,  and  warehouses, 
+covering an average daily distance of under 300 kilometers.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 9. Overview of routes tested in the pilots 
+
+The operational profiles of the heavy-duty trucks were then categorized into three major groups: 
+
+§  Port collection and distribution 
+§  Short distance factory shuttle 
+§  Short distance bulk shuttle 
+
+The  typical  annual  mileage  of  the  trucks  used  on  these  routes  varies,  not  only  depending  on  the  type  of 
+operation but also according to the carriers operating the routes. An overview of the operations selected for 
+the pilot are presented in Table 2. 
+
+Table 2. Summary of operation categories and scenarios for different routes 
+
+Operation Category 
+
+Scenarios 
+
+Typical Annual Mileage 
+(km) 
+
+Port collection and 
+distribution transportation 
+scenario 
+
+Short Distance Factory Shuttle 
+Transportation Scenario 
+
+Scenario 1：Chao Shidai 
+
+Scenario 2：Weichai Zhike 
+
+Scenario 3: Mingxin Logistics 
+
+Scenario 4: Qihang Logistics 
+
+Scenario 5: Dongguan Harbor 
+
+Scenario 6: Xiangyue Logistics 
+
+Scenario 7: DST 
+
+Scenario 8: Nansha 
+
+Short Distance Bulk Shuttle 
+Transportation Scenario 
+
+Scenario 9 Yunfu Junpeng 
+
+Scenario 10: Jiangmen 
+
+99,500 
+
+15,700 
+
+23,700 
+
+59,200 
+
+21,300 
+
+Route 1: 24,200 
+
+Route 2: 27,500 
+
+4,800 
+
+8,500 
+
+68,200 
+
+61,300 
+
+Matching the Right Electric Models with Participating Companies 
+
+The  pilot  project  carefully  matched  electric  truck  models  and  battery  capacities  to  the  specific  operational 
+needs of participating companies (Table 3). This involved considering factors like daily mileage, typical routes, 
+and  cargo  weight.  The  selected  models  included  4x2  and  6x4  pure  electric  tractors  with  varying  battery 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+capacities (141 kWh, 282 kWh, or 350 kWh), equipped with both charging and battery swapping capabilities. 
+These specifications were chosen to effectively meet the diverse logistics and transportation demands within 
+the SDH region and the broader Pearl River Delta. 
+
+Table 3. Electric heavy-duty truck models used in the pilot project 
+
+Figure  
+
+Details  
+
+Figure  
+
+Details  
+
+CNHTC ZZ4257V384GZ1  
+Type: 6 x 4 Tractor  
+
+Battery Capacity: 350 kWh  
+
+BYD BYD4260C3EV1  
+Type: 6 x 4 Tractor  
+
+Battery Capacity: 355 kWh  
+
+SAIC Hongyan 
+CQ4180BEVSS44  
+Type: 4 x 2 Tractor  
+
+Battery Capacity: 350 kWh  
+
+CAMC 
+HN4253H36C8BEV  
+Type: 6 x 4 Tractor  
+Battery Capacity: 141 kWh  
+
+Shaanxi Automobile 
+SX4257MF4BEV1  
+
+Type: 4 x 2 Tractor  
+
+Battery Capacity: 282 kWh  
+
+CNHTC ZZ4257V384GZ1  
+Type: 6 x 4 Tractor  
+
+Battery Capacity: 282 kWh  
+
+CNHTC ZZ4187N421JZ1  
+Type: 4 x 2 Tractor  
+Battery Capacity: 282 kWh  
+
+Faw Jiefang 
+CA4250P66T1BEVA2  
+
+Type: 6 x 4 Tractor  
+
+Battery Capacity: 350 kWh 
+
+Liuzhou Motor 
+LZ4250H5DZBEV1  
+
+Type: 4 x 2 Tractor  
+Battery Capacity: 282 kWh  
+
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Charging Infrastructure 
+
+To optimize charging station operations to best meet the needs of electric trucks, they were first screened 
+based  on  specific  criteria.  This  included  the  charging  power  (i.e.  rated  power  output  kW),  accessibility  for 
+heavy-duty vehicles in terms of vehicle dimensions, and operating hours.  
+
+The next set of criteria assessed the strategic location of the chosen charging stations. The locations were 
+chosen based on the specific routes and operational patterns of the pilot participants. Locations were selected 
+based on factors such as route starting points, transit points and parking locations.  
+
+Carriers were involved in on-site inspections and continued communication with the station operators to ensure 
+compatibility  and  to  address  any  operational  concerns.  The  distribution  of  these  bus  charging  stations  is 
+presented in Figure 11. Most of these stations are concentrated in the Shenzhen and Dongguan cities. 
+
+The pilot project ultimately incorporated three energy replenishment modes: 
+§  Bus charging stations: Operators of bus charging stations were approached to request for access during 
+
+the pilot. 
+
+§  Private  depot  charging  stations:  Some  of  the  operators  had  charging  stations  intended  for  light  duty 
+vehicles. The project investigated whether the sites were suitable for the trucks running in the pilot (Figure 
+10). 
+
+§  Truck battery swapping stations: Yunfu Junpeng provided a battery swapping station for use in the pilot 
+
+(Figure 12).  
+
+Figure 10. Example of one of the bus charging 
+stations. Currently used for light-duty vehicles 
+
+Figure 11. Locations of bus charging stations 
+
+Figure 12. Yunfu Junpeng's battery swapping station 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Deployment 
+
+The deployment stage marked the transition from planning to action. It involved deploying electric trucks in 
+real-world  freight  operations  and  closely  monitoring  their  performance,  along  with  the  supporting  charging 
+infrastructure. This hands-on experience provided valuable data and insights into the practicalities of electric 
+truck  adoption,  informing  the  evaluation  of  their  performance  and  generating  lessons  learned  for  future 
+applications. 
+
+Execution 
+
+the  project 
+
+To ensure the smooth operation of the pilot project, a coordinated vehicle delivery and carrier training process 
+was implemented (Figure 13). 
+First, 
+team  worked  closely  with 
+participating  vehicle  manufacturers  to  confirm  truck 
+availability  and  delivery  schedules.  This  involved 
+facilitating  agreements  between  manufacturers  and 
+carriers for the use of 38 electric heavy-duty trucks, 
+ultimately operated by 10 different carrier companies. 
+Before 
+training 
+programs  were  conducted  by  the  manufacturers  to 
+familiarize  drivers  with 
+the  operation  and 
+maintenance  of  electric  trucks.  To  further  support 
+smooth operations, manufacturers provided ongoing 
+technical  support  and  arranged  for  personnel  to 
+monitor  vehicle  conditions  and  address  any  issues 
+the  safe  and  reliable 
+promptly.  This  ensured 
+performance of the electric trucks throughout the pilot 
+project. 
+
+Figure 13. Vehicle delivery site (Source: SFC China) 
+
+comprehensive 
+
+deployment, 
+
+After  deployment,  the  drivers  were  also  interviewed  about  their  driving  experience  to  understand  the 
+advantages and disadvantages of the electric truck from the drivers’ perspective.  
+
+Monitoring 
+
+To ensure the collection of robust and reliable data during the pilot project, a comprehensive data collection 
+strategy was implemented. This involved gathering two types of data: 
+
+§  Transport data: This included information about the vehicles used, the routes they traveled, and the weight 
+
+of the cargo being transported; and, 
+
+§  Vehicle and energy data: This focused on the operational performance of the electric trucks, including 
+
+distance traveled and electricity consumption. 
+
+Clear communication and coordination were essential to the success of this data collection effort. The project 
+team worked closely with vehicle manufacturers to ensure the accuracy and completeness of the vehicle and 
+energy  data.  They  also  communicated  with  carriers,  providing  them  with  templates  and  instructions  for 
+recording essential transport data, and followed up monthly to ensure data quality. 
+
+The  project  team  successfully  coordinated  283  vehicle  months  for  the  pilot  schedule.  From  this  the  team 
+collected 142 vehicle months of operational and monitoring data, with over 400,000 km driven by a fleet of 38 
+electric trucks. This valuable dataset will be used to analyze the performance of the electric trucks, assess 
+their suitability for various transportation tasks, and evaluate their economic and environmental benefits. 
+
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Evaluation 
+
+The data collected from the real-world operational testing of the electric trucks will be used to evaluate their 
+performance  across  three  key  dimensions:  operational  suitability,  financial  viability,  and  greenhouse  gas 
+emission benefits. 
+
+Operational Suitability 
+
+The pilot project demonstrated that electric trucks are well-suited to meet the operational demands of the SDH 
+region.  
+
+As a major economic hub with established transportation routes, it offers a stable operating environment with 
+high logistics demand. The region's focus on lighter cargo (15-20 tonnes) aligns well with the capabilities of 
+current electric trucks, minimizing concerns about overloading or underutilization.  
+
+Furthermore, most heavy-duty trucks in the SDH area operate within a daily range of less than 300 km, mainly 
+on urban roads, making them well-suited to the range and performance of current electric truck and charging 
+technology. The pilot project also successfully demonstrated the effectiveness of a combined fast charging 
+and battery swapping model, balancing transportation efficiency with cost-effectiveness. 
+
+The project identified over 130 charging stations suitable for heavy-duty electric trucks in the SDH region and 
+the surrounding areas. These stations are strategically located in logistics hubs, parking lots, and bus depots, 
+thus offering convenient access for charging and battery swapping. The availability of high-power charging 
+infrastructure at these locations ensured efficient charging and minimized downtime for the electric trucks. 
+
+Overall, the operational suitability analysis indicates that electric trucks are a viable and effective solution for 
+meeting  the  freight  transportation  needs  of  the  SDH  region.  The  alignment  of  transport  demand,  vehicle 
+capabilities,  and  charging  infrastructure  creates  a  favorable  environment  for  the  wider  adoption  of  electric 
+trucks. Vehicle and operating data collected during the pilot can be seen in Table 4.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 4. Vehicle and operating data collected during pilot 
+
+Operation 
+Category 
+
+Scenarios 
+
+Vehicle 
+Brand 
+
+Battery 
+Capacity 
+(kWh) 
+
+Number of 
+vehicles 
+
+Total Distance 
+Operated in 
+Pilot (km) 
+
+Total 
+Electricity 
+Consumption 
+(kWh) 
+
+Energy 
+Consumpt
+ion Rate 
+(kWh/km) 
+
+Scenario 1：
+Chao Shidai 
+
+SAIC 
+Hongyan 
+
+350 
+
+Scenario 2：
+Weichai Zhike 
+
+CNHTC 
+
+350 
+
+Port 
+Collection 
+and 
+Distribution 
+
+Short 
+Distance 
+Factory 
+Shuttle 
+
+Short 
+Distance 
+Bulk Shuttle  
+
+Scenario 3: 
+Mingxin 
+Logistics 
+
+Scenario 4: 
+Qihang 
+Logistics 
+
+Scenario 5: 
+Dongguan 
+Harbor 
+
+Scenario 6: 
+Xiangyue 
+Logistics 
+
+Scenario 7: 
+DST 
+
+Scenario 8: 
+Nansha 
+
+Scenario 9: 
+Yunfu 
+Junpeng 
+
+Scenario 10: 
+Jiangmen 
+
+CNHTC 
+
+282 
+
+BYD 
+
+355 
+
+Liuzhou Motor 
+
+282 
+
+SAIC 
+Hongyan 
+
+CNHTC 
+
+Geely 
+
+SAIC 
+Hongyan 
+
+282 
+
+350 
+
+141 
+
+282 
+
+CNHTC 
+
+282 
+
+2 
+
+1 
+
+1 
+
+5 
+
+1 
+
+1 
+
+1 
+
+1 
+
+9 
+
+2 
+
+97,082 
+
+102,865 
+
+1.06 
+
+503 
+
+770 
+
+1.53 
+
+6,920 
+
+8,440 
+
+1.22 
+
+53,015 
+
+77,899 
+
+1.47 
+
+1,109 
+
+1,788 
+
+1.61 
+
+2,811 
+
+989 
+
+114 
+
+4,427 
+
+1,328 
+
+184 
+
+1.58 
+
+1.34 
+
+1.61 
+
+221,793 
+
+301,596 
+
+1.36 
+
+338 
+
+503 
+
+1.49 
+
+CNHTC 
+
+282 
+
+10 
+
+19,375 
+
+33,504 
+
+1.73 
+
+The energy consumption rate based on the measured data of the pilots showed variability within operation 
+types, as well as vehicle brands, when used in multiple operations. In particular, across the three categories: 
+
+§  Port collection and distribution: the energy consumption rate ranged from 1.06 to 1.61 kWh/km, whereas 
+
+its diesel consumption rate ranged from 0.25 to 0.30 liter/km.  
+
+§  Short distance factory shuttle: the energy consumption rate ranged from 1.34 to 1.61 kWh/km, whereas its 
+
+diesel consumption rate ranged from 0.30 to 0.50 liter/km. 
+
+§  Short distance bulk shuttle: the energy consumption rate ranged from 1.36 to 1.73 kWh/km, whereas its 
+
+diesel consumption rate ranged from 0.30 to 0.50 liter/km. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Financial Viability 
+
+The financial viability of 10 different operations (scenarios) using electric trucks was analyzed using a TCO 
+approach (Figure 14).  
+
+ Diesel vehicle
+
+ Electric vehicle
+
++1%
+
++11%
+
+-16%
+
+-24%
+
++35%
+
++21%
+
++2%
+
++20%
+
++21%
+
++12%
+
+)
+
+B
+M
+R
+0
+0
+0
+,
+0
+1
+(
+
+O
+C
+T
+
+ 180
+
+ 160
+
+ 140
+
+ 120
+
+ 100
+
+ 80
+
+ 60
+
+ 40
+
+ 20
+
+ -
+
+S1
+
+S2
+
+S3
+
+S4
+
+S5
+
+S6
+
+S7
+
+S8
+
+S9
+
+S10
+
+Port Collection and Distribution
+
+Short Distance Factory
+Shuttle
+
+Short Distance
+Bulk Shuttle
+
+Figure 14. 5-year TCO comparison of diesel and electric vehicles 
+
+When analyzing the TCO results, some conclusions can be made. First, the TCO of electric vehicles for port 
+collection and distribution as well as short distance factory shuttle operations was higher than diesel’s TCO – 
+but varied significantly from scenario to scenario. While both scenario 1 and scenario 6 came close to TCO 
+parity, scenarios 2, 3, 5 and 8 had TCO gaps of 20% or more.  
+
+Second,  the  TCO  gaps  for  both  scenarios  in  the  short  distance  bulk  shuttles  were  significantly  in  favor  of 
+electric  vehicles.  Each  vehicle  was  intensively  used  and  therefore  made  use  of  the  advantageous  lower 
+operating  costs  compared  to  diesel  vehicles.  This  may  enable  operators  to  recuperate  the  costs  of  their 
+investments more quickly.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Environmental Benefits  
+
+The evaluation of greenhouse gas emissions savings showed significant potential for emissions reductions of 
+a transport operation (Figure 15). The emissions for each scenario were calculated based on the principles of 
+the Global Logistics Emissions Council Framework for Logistics Emissions Accounting and Reporting V3.0 
+(GLEC  3.0)  and  ISO14083.  The  emission-related  default  factors  were  based  on  the  GLEC  Framework  3.0 
+China Default Emission Factors v1.0, and local conditions were considered for selection or estimation.  
+
+In total, 256 tonnes of CO2 were generated during the pilot due to electricity production. Avoided emissions 
+from the substitution of diesel with electricity were at least 253 tonnes of CO2.
+1
+
+The  emissions  intensity  reduction  potential  varied  according  to  the  operation  category.  In  most  cases,  an 
+emission  intensity  reduction  of  25%  was  reached.  Only  scenarios  2  and  5  had  an  uncharacteristically  low 
+reduction potential.  
+
+)
+
+m
+k
+t
+/
+e
+2
+O
+C
+g
+W
+T
+W
+
+(
+
+y
+t
+i
+s
+n
+e
+n
+
+t
+
+i
+
+i
+
+n
+o
+s
+s
+m
+E
+
+i
+
+450
+
+400
+
+350
+
+300
+
+250
+
+200
+
+150
+
+100
+
+50
+
+0
+
+Diesel vehicle
+
+ Electric vehicle
+
+-27%
+
+-15%
+
+-38%
+
+-35%
+
+-27%
+
+-28%
+
+-6%
+
+-59%
+
+-56%
+
+-52%
+
+S1
+
+S2
+
+S3
+
+S4
+
+S5
+
+S6
+
+S7
+
+S8
+
+S9
+
+S10
+
+Port Collection and Distribution
+
+Short Distance Factory
+Shuttle
+
+Short Distance
+Bulk Shuttle
+
+Figure 15. Well-to-wheel greenhouse gas emission intensity comparison for diesel and electric vehicles 
+
+Conclusions 
+
+Based  on  individual  scenarios  and  operational  conditions,  it  is  evidently  clear  that  there  are  significant 
+variations in financial viability and emissions savings. Generally speaking, scenarios with higher total distances 
+tended to have more lucrative TCO analysis in comparison to their diesel equivalents compared to shorter total 
+distances. Of note, scenarios 9 and 10, with a particularly high total distance travelled had the most attractive 
+TCO. When coupling intensity in kWh/km (translating to a higher cost of electricity per km), TCO that had low 
+total distances with high energy intensities have less attractive TCO. For example, scenarios 2, 7 and 8.  
+
+In that same vein, higher amounts of displaced diesel equated to better overall emissions benefits due to the 
+lower overall carbon intensity of electricity. Naturally, as the carbon intensity of China’s electrical grid continues 
+to decline, these emissions savings would only increase over time.  
+
+Overall, electric trucks demonstrated operational suitability for the routes chosen within the pilot. Due to most 
+travel falling within a 300 km daily range, it was well within the current battery electric ranges offered by different 
+
+1 Emissions factors for China’s electrical grid were provided in CO2 units only. Other pollutants such as NOx, SOx and CO were not included. Hence, to make 
+the same unit comparisons, avoided emissions are also calculated in CO2 units only, with the caveat that if including other pollutants, the emissions 
+savings would be greater. 
+
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+models  and  the  available  density  of  charging  infrastructure.  Considerations  were  also  made  between  fast 
+charging and battery swapping stations when balancing cost effectiveness with convenience.  
+
+ 
+ 
+ 
+Lessons Learned 
+
+Real-world deployment of electric trucks in the SDH pilot project provided valuable insights and highlighted 
+key challenges. These lessons learned are crucial for informing future electric truck projects and optimizing 
+implementation strategies. 
+
+Specific Challenges and Solutions Encountered During Deployment 
+
+Real-world project deployment provided key insights into the operational and economic reality of the transition 
+to electric. Challenges faced at the time of the project included: 
+
+§  Lack of familiarity with electric trucks and technology: Many transportation companies lack an accurate 
+understanding  of  key  concepts  like  "battery  capacity,"  "charging,"  and  "battery  swapping."  This  lack  of 
+knowledge made it difficult for them to purchase models that were accurately aligned with their operational 
+needs.  
+
+§  Lack  of  infrastructure  to  support  operations:  While  an  effort  was  made  to  ensure  a  comprehensive 
+charging  network  would  be  developed,  many  scenarios  still  required  significant  detours  for  recharging, 
+which reduced operational efficiency. The network of charging facilities was found to not be dense enough 
+to support the operational demands of the electric trucks.  
+
+§  Unsuitable  dimensions  of  charging  stations:  For  trucks  with  a  total  length  exceeding  17  meters 
+(including  the  tractor  and  trailer),  the  challenge  of  charging  at  stations  was  prominent.  Most  locations 
+required the trailer to be detached before entering the station for charging. 
+
+§  Unfavorable electric truck economic conditions: In the SDH region, the annual mileage for trucks was 
+generally low, and the per-kilometer cost difference between electric and fuel vehicles was minimal. In its 
+current  operational  conditions  this  made  it  difficult  for  electric  trucks  to  demonstrate  a  clear  economic 
+advantage over diesel vehicles. 
+
+These challenges are typical in the early stages of electric truck adoption and are expected to diminish as the 
+vehicle and charging infrastructure markets mature. However, the pilot project demonstrates that carriers can 
+already leverage the capabilities of current electric truck models and available charging infrastructure.  
+
+Based on the collective experience of the project participants, the following recommendations are offered to 
+support wider deployment in the current market.  
+
+§ 
+
+Increase  the  opportunity  for  fleet  operator  vehicle  testing:  To  bridge  the  gap  between  industry’s 
+familiarity with the technology, optimal operating conditions and ways to optimize the business case, the 
+sector  can  provide  more  opportunities  for  vehicle  trials.  One  option  is  for  manufacturers  to  offer  fleet 
+operators opportunities to test vehicles and extend the trial should further testing be required.  This would 
+allow companies to fully understand the actual performance of the vehicles and how it can align with their 
+day-to-day operations. 
+
+§  Use vehicles with battery capacity over 350 kWh in future trials: This would ensure a fully charged 
+range of over 200 km.  A larger battery would also reduce current limitations around insufficient range and 
+an underdeveloped charging infrastructure network.  
+
+§  Create a charging infrastructure strategy: More specifically identify suitable charging or battery swap 
+stations for different scenarios and use causes to improve infrastructure access and truck operation along 
+routes.  
+
+§  Create fit-for-purpose charging infrastructure: Build small bay-type battery swap stations or high-power 
+
+fast charging stations to meet the energy needs of large trucks in urban areas.  
+
+§  Support a sector-wide charging infrastructure strategy: Foster collaboration between the government 
+and industry to redesign and build a dedicated charging and battery swap service network for electric trucks. 
+The model should adopt a hybrid of large, centralized stations and smaller distributed ones, and combine 
+charging and battery swapping stations in one area to address insufficient energy infrastructure. 
+Identify  TCO-optimal  conditions  for  the  operations:  Assess  the  routes  to  allow  the  consortium  to 
+prioritize piloting electric heavy trucks on routes with high operational demand and sufficient mileage. This 
+
+§ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+would preferably use charging instead of battery swapping, due to better economics. Nighttime charging 
+should be prioritized to reduce energy costs. 
+
+Conditions for Project Development Success 
+
+Based on SFC’s approach to the development of electric truck deployment projects and the project team’s 
+experience in the SDH region, the team has identified several key success factors for each stage in the project. 
+A key aspect of the project’s success highlights the importance of collaboration amongst different stakeholders 
+to optimize operating conditions.  
+
+Scoping and Partnerships 
+
+§  Securing  strong  government  support:  at  the  national,  regional,  and  local  levels  to  ensure  favorable 
+
+policies, incentives, and infrastructure development for electric trucks; and, 
+
+§  Building a diverse and committed stakeholder network: that includes shippers, carriers, OEMs, industry 
+
+associations, and research institutions, all aligned on the project's value proposition. 
+
+Planning and Execution 
+
+§  Optimizing routes: based on detailed analysis of traffic patterns, charging infrastructure availability, and 
+
+operational efficiency to maximize the effectiveness of electric truck deployments; 
+
+§  Developing  a  comprehensive  charging  infrastructure  plan:  that  maps  existing  facilities  and  outlines 
+
+strategic expansion to meet the growing needs of electric truck operations; 
+
+§  Demonstrating the economic viability of electric trucks: through rigorous TCO analysis, showcasing 
+
+§ 
+
+the cost-effectiveness of battery electric trucks compared to diesel alternatives; and, 
+Implementing a robust data collection and analysis system: to gather insights on truck performance, 
+charging  behavior,  and  other  operational  factors.  Thus  enabling  data-driven  decision-making  and 
+optimization. 
+
+Evaluation 
+
+§  Maintaining  flexibility  and  adaptability:  to  effectively  address  unforeseen  challenges  and  adjust 
+
+strategies throughout the project lifecycle; 
+
+§  Dedicate time within the project for reviews, reflections and lessons learned: to share knowledge, 
+improve  future  electric  truck  deployment  projects,  and  create  an  iterative  approach  to  implementation 
+strategies; 
+
+§  Fostering a culture of continuous improvement: to encourage ongoing learning, optimize processes, 
+
+and enhance project outcomes over time. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Expansion 
+
+The deployment of electric trucks in the SDH region is expected to be the first step in the planned electrification 
+of road freight in Shenzhen. The experience gained throughout the project highlights not only the challenges 
+that still lay ahead in scaling up the adoption of electric trucks, but also the opportunities. In light of this planned 
+expansion,  the  project  team  has  highlighted  two  strategic  actions  to  shape  the  next  phase  of  work  which 
+include: 
+
+§  Extension of deployment projects towards corridor electrification. 
+§  Measures for industry-wide collaboration. 
+
+Extension of Deployment Projects Towards Corridor Electrification 
+
+Understanding  the  distribution  of  logistics  operations  in  Shenzhen  is  crucial  for  analyzing  the  potential  for 
+electric heavy-duty truck adoption. Shenzhen boasts a comprehensive logistics network, including 6 logistics 
+parks, 22 highway freight hubs, 31 express sorting centers and 11 supermarket distribution centers, covering 
+a  total  area  of  34  km2.  These  facilities  are  strategically  located,  with  logistics  parks  concentrated  around 
+comprehensive transportation hubs such as ports, airports, and railways (Figure 16).  
+
+Figure 16. Shenzhen city’s overall logistics infrastructure layout map (Sources: Shenzhen Modern 
+Logistics Hub Layout Plan (2021-2035) 
+
+When analyzing truck activity heatmaps in the Shenzhen area it reveals a clear pattern (Figure 17). Truck 
+operations are largely centered around logistic hubs, with the highest activity concentrated within those 
+areas. Key freight corridors, including the Guangzhou-Shenzhen Highway, Nanping Expressway, Longda 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Expressway, Yanpai Expressway, and the Pearl River Delta Ring Road, also experience significant truck 
+traffic. This highlights the importance of prioritizing these areas for future electrification efforts. Logistics 
+stations and freight corridors surrounding key logistics nodes should be the focus of both vehicle deployment 
+and energy infrastructure planning. This includes the development of zero-emission freight corridors, which 
+should be strategically designed around these high-activity nodes and transportation channels. 
+
+Figure 17. Heatmap of freight vehicle operations in Shenzhen (Source: New Energy Logistics 
+Vehicle Monitoring Platform) 
+
+Goals of a Shenzhen - Freight Corridor Pilot 
+
+Considering  where  freight  vehicle  operations  are  concentrated  in  Shenzhen,  the  next  step  is  to  identify 
+objectives to the expansion of a pilot project within this area. The development of a follow-up zero-emission 
+freight  corridor  pilot  with  Shenzhen  as  its  focal  city  would  be  guided  by  the  following  objectives.  These 
+objectives are: 
+
+§  Building a zero-emission freight corridor along a strategic network:  
+
+–  Focus:  Identify  and  deploy  typical  application  scenarios  that  align  with  Shenzhen's  equipment 
+
+performance and transportation needs.  
+
+–  Scope:  Towards  the  development  of  Shenzhen’s  "Four  Vertical  and  Two  Horizontal"  zero-emission 
+freight corridor network, covering major cities in the Guangdong-Hong Kong-Macao Greater Bay Area. 
+
+§  Deploying multiple zero-carbon fleets at scale:  
+
+–  Timeline: Within a year of corridor initiation, establish more than 5 heavy-duty road freight "zero-carbon 
+
+fleets" across at least two application scenarios.  
+
+–  Scale: Deploy, at least, 200 new pilot vehicles for these fleets. 
+Installing sufficient infrastructure:  
+
+§ 
+
+–  Goal: Install sufficient infrastructure based on the future needs of the corridor. 
+–  Type: Construct a batch of charging and battery-swapping stations and other supporting infrastructure.  
+
+With these objectives in mind, identifying geographic areas for corridor development will be important. The 
+following corridors highlighted below have been identified for further exploration in the Shenzhen area.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+Shenzhen-Hong Kong Cross-Border 
+Fresh Produce Zero-Emission Freight 
+Corridor 
+
+The next deployment project that has 
+been identified will connect the Pinghu 
+Haijixing Vegetable Wholesale Market 
+and Qingshuihe warehouse in Shenzhen 
+with the Chang Sha Wan Wholesale 
+Vegetable Market and Sheung Shui in 
+Hong Kong. The one-way distance is 
+approximately 70 km. This corridor will 
+primarily use pure electric medium and 
+heavy-duty trucks (Figure 18). 
+
+East Port Zero-Emission Freight 
+Corridor 
+
+The corridor connects the Eastern Port 
+Area of cargo sources in Shenzhen, 
+Dongguan, Guangzhou with cities on the 
+western side of the Pearl River Delta 
+(Figure 19). The maximum one-way 
+transport distance is 200 km. The 
+proposed vehicle types mainly include 
+4x2 or 6x4 electric tractor-trailers, with a 
+focus on battery-swapping technology. 
+
+Figure 18. Route map for the Shenzhen-Hong Kong Cross 
+Border Produce Corridor 
+
+Figure 19. Route map for the East Port Corridor 
+
+ 
+ 
+ 
+ 
+Future Expansion of Zero-Emission 
+Freight Corridors 
+
+Once the two sides of the corridor are 
+completed, the following extensions 
+would be carried out to ensure a 
+comprehensive and well-connected 
+electrified network (Figure 20): 
+
+§  Shenzhen (Dongguan) to 
+
+Guangzhou Intercity Zero-Emission 
+Freight Corridor: Collaborating to 
+establish an intercity zero-emission 
+freight transport corridor with cities 
+such as Guangzhou and Dongguan; 
+§  Shenzhen Western Port Area Zero-
+
+Emission Freight Corridor: 
+Constructing a zero-emission freight 
+corridor in the Western Port Area 
+building on the experience in the 
+Eastern Port; and,  
+
+§  Shenzhen-Hongkong Cross-Border 
+Zero-Emission Freight Corridor: 
+Expand the scope of the trial of the 
+cross-border transportation zero-
+emission freight corridor between 
+Shenzhen and Hong Kong, as well as 
+the ports of entry. 
+
+Figure 20. Connecting zero-emission freight corridors 
+
+Measures for Industry-Wide Electrification 
+
+To further accelerate the adoption of electric heavy-duty trucks and to ensure the success of the zero-emission 
+freight  corridor  initiative,  a  multi-faceted  approach  encompassing  enhanced  support  measures,  regional 
+collaboration, priority access policies, and innovative incentives is crucial. 
+
+Enhancing Support Measures 
+
+Three support measures in the vehicle ecosystem are needed: 
+
+§  First,  accelerating  the  deployment  of  charging  and  battery  swapping  infrastructure  is  essential.  This 
+involves  strategically  building  these  facilities  in  the  core  areas  of  the  freight  corridor  and  surrounding 
+regions, ensuring convenient and reliable energy replenishment for electric trucks.  
+
+§  Next, establishing a comprehensive after-sales system with maintenance service points and emergency 
+response mechanisms along the corridor will further support the operation of these vehicles, and ensure 
+high vehicle uptime.  
+
+§  Finally,  strong  coordination  with  relevant  stakeholders,  such  as  the  Shenzhen  Logistics  Center  Leading 
+Group, and government departments of Development and Reform, Industry and Information Technology, 
+Transportation, Science and Technology, Energy, Market Regulation, and Finance, is needed to optimize 
+trial conditions, address challenges, and incentivize the use of electric trucks. 
+
+Strengthening Regional Collaboration 
+Expanding  the  initiative  requires  strong  regional  collaboration.  This  includes  securing  additional  outbound 
+vehicle  quotas  specifically  for  zero-emission  trucks  operating  from  Shenzhen  to  Hong  Kong  and  Macau. 
+Streamlining procedures for certification, driver licensing, and emergency charging in the Hong Kong section 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+of the corridor will further facilitate cross-border operations. The trials could also explore the use of adapters 
+for different charging standards (e.g., China or EU standards).  
+In addition, civil organizations in Shenzhen and Hong Kong could be coordinated towards fostering greater 
+interoperability and industry consensus on the development of electric heavy-duty trucks in the Greater Bay 
+Area. 
+
+Priority Road Access Policy 
+Granting priority road access to electric trucks is crucial for promoting their adoption. This involves relaxing 
+road  access  restrictions  and  allowing  electric  trucks  to  operate  freely  within  the  pilot  areas,  regardless  of 
+existing  traffic  limitations.  Implementing  green  channel  policies  at  ports,  terminals,  and  logistics  parks  will 
+prioritize  access  and  expedite  loading  and  unloading  for  electric  trucks.  This,  coupled  with  measures  like 
+electronic toll collection (ETC), would improve the operational efficiency of electric trucks and incentivize their 
+use. 
+
+Innovative Financial Support Measures 
+
+Innovative  financing  models,  such  as  the  "battery  as  a  service"  model  for  trucks  with  battery  swapping 
+capabilities, can further encourage adoption. This approach, combined with specialized financial solutions and 
+tailored  insurance  products  can  reduce  upfront  costs  and  make  electric  trucks  more  accessible  to  fleet 
+operators.  Other  incentives  like  vehicle  purchase  subsidies,  toll  reductions,  and  carbon  emission  reduction 
+rewards will further incentivize the transition to electric trucks. The government, manufacturers and financial 
+institutions could explore how these measures can be implemented.  
+
+Vehicle Promotion Measures 
+Supporting the early retirement and replacement of older, polluting trucks with new energy vehicles is essential. 
+This  can  be  achieved  by  aligning  with  national  policies  for  scrapping  and  updating  aging  freight  trucks. 
+Encouraging  freight  companies  to  prioritize  the  use  of  electric  trucks  during  bidding  processes  will  further 
+promote their adoption. Ongoing operational monitoring and analysis, including the measurement of energy 
+efficiency and carbon emission reductions according to ISO 14083 standards would provide valuable data to 
+support continuous improvement and demonstrate the benefits of electric trucks. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annex I: SFC Project Deployment Process 
+
+Stages 
+
+Guiding Questions 
+
+Methods 
+
+Scoping: This initial stage focuses on 
+understanding the project's context. It 
+involves conducting research to identify 
+key policies, infrastructure 
+considerations, and technological 
+requirements, as well as mapping and 
+analyzing the needs and expectations 
+of various stakeholders. 
+
+Partnership: This stage emphasizes 
+building a strong foundation for 
+collaboration. It involves forming a 
+consortium of diverse partners and 
+integrating their resources (funding, 
+expertise, etc.) to achieve shared 
+project goals. 
+
+Planning: This stage focuses on 
+developing a detailed plan for the pilot 
+project. It involves designing the pilot, 
+determining data collection methods, 
+and establishing key performance 
+indicators to track progress and 
+evaluate outcomes. 
+
+Deployment: This stage involves 
+putting the plan into action. It includes 
+executing the pilot project in a 
+controlled environment and collecting 
+data through various methods (e.g., in-
+depth interviews, site visits, data 
+collection, modeling). 
+
+Evaluation: This stage focuses on 
+assessing the pilot project's impact and 
+identifying areas for improvement. It 
+involves analyzing the collected data to 
+evaluate the project's success in 
+achieving its objectives (economic 
+viability, environmental benefits) and 
+comparing its performance to baseline 
+data or alternative solutions. 
+
+What are the key policy and regulatory 
+considerations for electric truck 
+deployment in this region? 
+
+What are the existing infrastructure 
+requirements and limitations (e.g., grid 
+capacity, charging standards)? 
+
+What are the technological needs and 
+potential challenges for different electric 
+truck applications? 
+
+What are the needs and responsibilities 
+of key stakeholders? 
+
+How can we build a diverse and 
+effective consortium of partners with 
+complementary expertise and 
+resources? 
+
+How can we ensure alignment and 
+shared commitment to the project goals 
+among all stakeholders? 
+
+What mechanisms can we establish for 
+effective communication and 
+collaboration throughout the project? 
+
+What are the speciﬁc objectives and 
+desired outcomes of the pilot project? 
+What data needs to be collected to 
+track key performance indicators and 
+evaluate the project's impact? 
+
+How can we design the pilot to ensure it 
+effectively addresses the research 
+questions and objectives? 
+
+What methods will be used for data 
+collection and analysis? 
+
+How can we ensure the smooth 
+execution of the pilot project according 
+to the plan? 
+
+What measures are needed to maintain 
+data quality and integrity throughout the 
+data collection process? 
+
+How can we effectively monitor and 
+manage any challenges or unexpected 
+issues that arise during deployment? 
+
+What are the appropriate metrics and 
+methods for evaluating the project's 
+success in achieving its objectives? 
+
+How can we compare the performance 
+of electric trucks to baseline data or 
+alternative solutions? 
+
+What are the key areas for 
+improvement and optimization based on 
+the evaluation ﬁndings? 
+
+Desktop research 
+
+Stakeholder consultation and 
+mapping  
+
+Stakeholder consultation 
+
+Consortium building 
+
+In-depth interviews, site visits 
+
+Data collection, modelling 
+
+Project management 
+
+Performance Monitoring 
+
+Carrier interviews 
+
+Total cost of ownership 
+
+Emission calculation according 
+to ISO 14083 
+
+Stakeholder consultation 
+
+Lessons: This stage emphasizes 
+capturing and sharing knowledge 
+gained from the project. It involves 
+
+What are the most important lessons 
+learned from the project, and how can 
+these be effectively documented? 
+
+Stakeholder consultation 
+
+ 
+ 
+documenting the project's processes, 
+results, and lessons learned, and 
+identifying best practices for sharing 
+these insights with stakeholders. 
+
+What are the best practices for sharing 
+knowledge and insights with 
+stakeholders and the wider community? 
+
+How can we ensure that the lessons 
+learned are used to inform future 
+projects and improve implementation 
+strategies? 
+
+Expansion: This final stage focuses on 
+scaling up the project and applying 
+lessons learned to other contexts. It 
+involves developing a plan for 
+expanding the project, replicating its 
+success in other regions or sectors, and 
+identifying further steps and supportive 
+measures to ensure long-term 
+sustainability. 
+
+How can we effectively scale up the 
+pilot project and replicate its success in 
+other contexts? 
+
+What are the key factors to consider 
+when developing a plan for expansion? 
+
+What additional support measures or 
+resources are needed to ensure the 
+long-term sustainability of the initiative? 
+
+Stakeholder consultation 
+
+Research 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Annex II: List of Participants in the Project 
+
+Company Name 
+
+Company Category 
+
+Company Name 
+
+Company Category 
+
+IKEA China 
+
+Mars China 
+
+Hsufuchi Foods  
+
+JUSDA Supply Chain 
+Management 
+International Co., Ltd. 
+Weichai Power 
+
+HK Sailing Logistics 
+Company 
+Shenzhen Chaoshidai 
+Logistics Company 
+Dongguan Harbor 
+Innovation Supply Chain 
+Co. 
+Shanghai International 
+Port (Group) CO., LTD. 
+Guangzhou Xiangyue 
+Logistics CO., LTD.  
+
+Jiangmen Junan 
+Logistics Company 
+
+Bei Ye New Brother 
+Supply Chain 
+Management CO., LTD. 
+Shenzhen Mingxin 
+Logistics Company 
+Yunfu Junpeng New 
+Energy Technology 
+Company 
+Digital Sustainable 
+Transport（DST）
+Company 
+Shenzhen GCTL Battery 
+Company 
+
+Shanghai Qiyuan Green 
+Power Technology CO., 
+LTD.  
+Shanghai Enneagon 
+Energy Company 
+
+Shipper 
+
+Shipper 
+
+Shipper 
+
+Shipper 
+
+LSP 
+
+LSP 
+
+LSP 
+
+LSP 
+
+LSP 
+
+LSP 
+
+LSP 
+
+LSP 
+
+LSP 
+
+LSP 
+
+Dongfeng Liuzhou 
+Automobile Co. 
+Shaanxi Heavy Duty 
+Automobile Co., Ltd 
+Geely Farizon 
+
+Shanghai JJ New 
+Energy Company 
+
+Shenzhen Optimus 
+Trucks Trading Co. 
+Jiangmen Jingsheng 
+Automobile Trading Co. 
+Shenzhen Guangjutong 
+Automobile Trading Co. 
+Shenzhen Shandong 
+Era Truck Trading Co. 
+
+Shenzhen Guangdatong 
+Automobile Trading Co. 
+Shenzhen Harbor 
+Technology Automobile 
+Trading Co. 
+Xinge New Energy 
+Technology (Shenzhen) 
+Co. 
+Greater Bay Technology 
+(Guangzhou Greater 
+Bay Technology Co., Ltd 
+Teld 
+
+Guangzhou Electric 
+Energy Bank Company 
+
+OEM 
+
+OEM 
+
+OEM 
+
+OEM 
+
+OEM 
+
+OEM 
+
+OEM 
+
+OEM 
+
+OEM 
+
+OEM 
+
+OEM 
+
+OEM 
+
+Charging Infrastructure 
+Provider 
+Charging Infrastructure 
+Provider 
+
+Electrification Solution 
+Providers 
+
+Shenzhen CEGN CO., 
+LTD. 
+
+Charging Infrastructure 
+Provider 
+
+Battery Banks, Battery 
+Swapping Operator 
+
+CNNP Rich Energy 
+Co.,LTD. 
+
+Battery Banks, Battery 
+Swapping Operator 
+
+Shenzhen Huitian Smart 
+Energy Company 
+
+Battery Banks, Battery 
+Swapping Operator 
+
+Beijing Xiaoju 
+Technology Co., LTD. 
+
+Charging Infrastructure 
+& Battery Swapping 
+Operator 
+Charging Infrastructure 
+& Battery Swapping 
+Operator 
+Charging Infrastructure 
+& Battery Swapping 
+Operator 
+Battery Swapping 
+Operator 
+
+China National Heavy 
+Duty Truck Group 
+(CNHTC) 
+FAW Jiefang 
+
+SAIC Hongyan 
+Company 
+
+OEM 
+
+OEM 
+
+OEM 
+
+Shanghai GreenHub 
+Energy Technology Co., 
+Ltd. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annex III: Detailed Total Cost of Ownership 
+Breakdown 
+
+Scenarios 
+
+Scenario 1：Chao Shidai 
+
+Vehicle 
+brand 
+
+SAIC 
+Hongyan 
+
+Scenario 2：Weichai Zhike 
+
+CNHTC 
+
+Scenario 3: Mingxin Logistics 
+
+CNHTC 
+
+Scenario 4: Qihang Logistics 
+
+BYD 
+
+Scenario 5: Dongguan Harbor  
+
+Scenario 6: Xiangyue Logistics 
+
+Scenario 7: DST 
+
+Scenario 8: Nansha 
+
+Scenario 9: Yunfu Junpeng 
+
+Scenario 10: Jiangmen 
+
+Liuzhou 
+Motor 
+
+SAIC 
+Hongyan 
+
+CNHTC 
+
+Geely 
+
+CNHTC 
+
+SAIC 
+Hongyan 
+
+CNHTC 
+
+Purchase 
+(10,000 
+RMB) 
+
+Operating 
+(10,000 
+RMB) 
+
+Maintenance 
+(10,000 
+RMB)  
+
+EV 5-Year 
+TCO 
+(10,000 
+RMB) 
+
+ 62.00  
+
+ 67.75  
+
+ 5.50  
+
+ 135.25  
+
+ 67.00  
+
+ 55.00  
+
+ 67.00  
+
+ 60.00  
+
+ 27.00  
+
+ 29.20  
+
+ 58.50  
+
+ 32.15  
+
+ 5.50  
+
+ 5.50  
+
+ 5.50  
+
+ 5.50  
+
+ 99.50  
+
+ 89.70  
+
+ 131.00  
+
+ 97.65  
+
+ 55.00  
+
+ 34.10  
+
+ 5.50  
+
+ 94.60  
+
+ 67.00  
+
+ 48.00  
+
+ 60.00  
+
+ 60.00  
+
+ 33.45  
+
+ 18.85  
+
+ 21.35  
+
+ 61.40  
+
+ 5.50  
+
+ 5.50  
+
+ 5.50  
+
+ 5.50  
+
+ 105.95  
+
+ 72.35  
+
+ 86.85  
+
+ 126.90  
+
+ 67.00  
+
+ 68.00  
+
+ 5.50  
+
+ 140.50  
+
+ 
+ 
+ 
+

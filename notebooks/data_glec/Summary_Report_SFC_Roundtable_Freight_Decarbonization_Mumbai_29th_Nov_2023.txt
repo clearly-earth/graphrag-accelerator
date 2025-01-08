@@ -1,0 +1,309 @@
+Summary Report 
+Roundtable on Freight Decarbonization in India 
+29th November 2023, Mumbai 
+
+SESSION SUMMARY 
+
+1.  The roundtable was opened by Christoph Wolff, CEO, Smart Freight Centre (SFC), who presented 
+SFC work to the audience, expanding upon its global credentials on Emissions Accounting and 
+ZET (Zero Emission Trucks) adoption under Freight Electrification Coalition initiative. Christoph 
+emphasized the close collaboration that SFC has established with the freight industry comprising 
+of some of largest shippers, LSPs and Carriers across the globe on its activities. He also presented 
+on  the  SFC  India  program,  particularly  on  the  Niti  Aayog’s  e-FAST  platform,  and  the  defined 
+process  to translate  the  aggregated demand of 7750 trucks  into fundable  ZET pilots on select 
+corridors.  
+
+2.  Ms Sumita Dawra, Special Secretary, DPIIT, Govt. of India, made a presentation on the green 
+infrastructure encompassing green warehousing, green ports, and highlighted the GIS-enabled 
+platform for the PM Gati Shakti initiative, in addition to the role of the National Logistics Policy 
+in promoting sustainability. The discussion included strategies for eco-friendly warehousing and 
+green port development, aligning with the commitment to sustainable practices. 
+
+3.  The session was further enriched by a virtual address by Shri Sudhendu J. Sinha, Advisor, NITI 
+Aayog, who talked about the need for immediate action on ZET adoption as a logical pathway to 
+a net zero future for India, with the same being undertaken with a strategic approach under e-
+FAST (Electric Freight Accelerator for Sustainable Transport – India). He also commended the work 
+done by SFC along with other knowledge partners on e-FAST implementation, emphasizing upon 
+the need for Industry collaboration and ecosystem support on translating the e-FAST vision into 
+measurable impact with ZET pilot rollout. 
+
+4.  A following session by Ms Chandana K. and Mr Pravin C. from WRI presented the progress on e-
+FAST, including a view on the aggregated demand with further elaboration on the three strategy 
+pillars for further implementation of E-FAST. The presentation also highlighted the integral role 
+of multiple stakeholders in achieving desired outcomes with a timebound exercise and provided 
+a view on upcoming ZET pilots with a case study on Freight Corridor Electrification, focused on 
+Gujarat and Rajasthan. The case study provided insights on freight volume along primary corridor 
+and emphasized upon proximity of specific industries as pertinent to regional considerations. 
+
+5.  Another session facilitated by the Mr Ashish Saraswat and Mr Nitant Kumar from Climate Group, 
+outlined the challenges within the E-Trucks ecosystem, encompassing limited financing options 
+with high interest rates, Logistic Service Providers' (LSPs) need for risk mitigation assurance in e-
+
+ 
+ 
+ 
+ 
+ 
+truck adoption, and the absence of Total Cost of Ownership (TCO) parity between e-MHDT and 
+diesel trucks. The session further shed light on the MHDT landscape in India, delineating use cases 
+and  segment  application  matrices.  It  identified  prioritized  use  cases  for  diverse  freight 
+commodities based on various variables, with a detailed focus on three major segments: Parcel, 
+perishable  goods,  and  minerals.  Additionally,  the  session  presented  a  prospective  adoption 
+timeline for e-Trucking in India up to 2030.  
+
+6.  A study presented by Mr Tattaiyya Bhattacharjee and Mr Rijhul Ladha from UC Davis highlighted 
+upon  the  technology  considerations for  Zero  Emission  Transport  (ZET)  adoption,  providing  a 
+nuanced understanding of various components of vehicle technology costs, including Total Cost 
+of  Ownership  (TCO)  estimation.  The  session  also  delved  into  different  types  of  charging 
+infrastructure  services, highlighting key considerations. These insights are crucial for informed 
+decision-making in embracing ZET, and potential implications for future initiatives. 
+
+7.  Mr.  Aaran  Patel  spoke  on  behalf  of  The  Nand  and  Jeet  Khemka  foundation  expanded  on 
+foundation present focus on supporting climate  initiatives  and how  the foundation supported 
+CESL on the world’s largest e-bus tender for 5,450 e-buses in September 2022, under the NEBP, 
+which  has  a  target  of  deploying  50,000  e-buses  by  2030.  Aaran  further  expressed  interest  to 
+explore areas that the foundation would support on the e-truck pilots, based upon the learnings 
+and success from the e-BUS support program. 
+
+8.  An insightful online session conducted by Mr. Rajat Kumar Saini, IAS, CEO & MD, NICDC, provided 
+a comprehensive overview of the Unified Logistics Interface Platform (ULIP). He elaborated on 
+ULIP's role and functionality within the logistics domain. The session also explored the Logistics 
+Data  Bank  utilizing  the  FOIS  (Freight  Operations  Information  System)  system.  Additionally, 
+discussions with stakeholders highlighted the challenges in obtaining real-time emission data and 
+concerns  related  to  data  privacy.  The  discussion  shed  light  on  innovative  solutions  and 
+integrations  within  the  logistics  sector,  with  these  considerations  as  vital  for  strategic  freight 
+planning. 
+
+9.  A  dynamic  session  led  by  Mr.  Deepak  Suri,  Senior  Sector  Expert  from  the  Bureau  of  Energy 
+Efficiency  (Ministry  of  Power)  provided  valuable  insights  into  incentivizing  and  monetizing 
+emission reduction efforts. Mr. Suri's presentation covered a comprehensive view of the freight 
+landscape  in  India,  encompassing  freight  growth  projections,  the  evolution  of  zero-emission 
+trucks, and the economic and environmental impact of road freight dominance. Furthermore, Mr. 
+Suri outlined various Indian government initiatives for the decarbonization of the freight sector, 
+including policies such as FAME1 and FAME2, the development of Zero Emission Transport (ZET) 
+corridors,  deployment  of  electric  vehicle  charging  infrastructure,  introduction  of  hydrogen-
+powered public buses, and the establishment of dedicated freight corridors. The session delved 
+into  the  regulatory  framework  of  the  Carbon  Credit  Trading  Scheme  (CCTS),  highlighting  key 
+
+ 
+ 
+ 
+ 
+elements,  and  presenting  a  compliance  mechanism  with  a  three-stage  model  for  future 
+implementation: Baseline scenario, Exceeding the target, and Shortfall in the target. Additionally, 
+Mr. Suri detailed a seven-stage project cycle offset mechanism. These strategic insights are crucial 
+for freight sustainability initiatives. BEE further emphasized on following questions that would be 
+key to defining the way forward for emissions accounting for Indian freight sector. 
+10. How to prepare a baseline scenario with limited data availability in the freight sector? 
+11. Who are the target groups in CCTS? 
+12. How to obtain exact CO2 emissions? 
+
+10. Mr.  Ankit  Singhvi  from  NZT  led  an  interactive  session  on  what  does  Financing  mean  for  the 
+stakeholders  in  the  ecosystem  deciphering  the  financing  perspective  from  lens  of  Shippers, 
+Logistics  Service  Providers  (transport  &  asset  owners),  OEM  (vehicle,  charging)  and  Financial 
+Institutions  (Banks,  NBFC,  PE,  DFI,  philanthropy  etc.).  Learnings  from  the  E-bus  market  was 
+presented as a nudge for a similar exercise in the E-truck sector and how specific commitments 
+can lead to larger transitions. The need for operationalizing ZET pilots was also highlighted as the 
+industry  would  believe  in  transition  more  effectively  when  it  sees  the  ZETs  operate  in  their 
+ecosystems and geography on ground. Catalyzing adoption at scale through First loss guarantee 
+program was also deliberated upon. 
+
+11. A presentation by Ms Avni Mehta from GIZ addressed the crucial topic of Digitization for Freight 
+Efficiency Improvements. Ms. Mehta presented her ongoing work focused on achieving climate-
+friendly  and  efficient  logistics  with  four  key  objectives:  Strategic  &  Institutional  framework, 
+Measures for Implementation, Capacity Building, and Methods for measuring GHG emissions. The 
+discussion emphasized the significance of addressing inefficiencies in the freight sector, covering 
+various aspects such as low truck productivity and fuel efficiency, components of logistics costs 
+for different vehicle types, and loading time and cost, specifically for perishable commodities. Ms. 
+Mehta presented a case study of the Textile market in Gandhi Nagar, highlighting loading and 
+unloading inefficiencies. Furthermore, the session explored high turnaround times for heavy-duty 
+and light-duty freight vehicles at four wholesale agri markets (Mandis) in Delhi, discussing load 
+factors  for  different  modes  in  both  textile  and  fruits  &  vegetable  commodities.  Ms.  Mehta 
+showcased  a  comprehensive  supply  chain  of  the  textile  freight  market,  detailing  various 
+characteristics such as cost, average trip length, and load factor. Solutions for improvement in 
+fuel economy, freight optimization, and monitoring emissions were also presented, including fuel 
+economy standards for HDVs, Light & Commercial Vehicles, and the development of a Computer-
+Based  Simulation  tool  provisionally  named  Bharat  Energy  Efficiency  Tool  (BEET)  for  assessing 
+vehicle  fuel  efficiency.  These  strategic  insights  are  pertinent  for  the  roadmap  of  freight 
+decarbonization strategies in India. 
+
+12.  Mr Joseph Teja from CALSTART shared with stakeholders a policy framework for unlocking capital 
+investments for zero emission trucks in India, which aims to deploy more than 8000 electric trucks 
+
+ 
+ 
+ 
+ 
+by  2030,  creating  a  $2  billion  investment  opportunity.  The  framework  recognizes  that  the  required 
+transformative scale cannot rely solely on public funds and suggests leveraging commercial capital to 
+fill the gap. The framework also recommends creating a seamless legal framework for blending different 
+sources  of  capital,  resolving  concerns  about  expensive  and  time-consuming  structures,  developing  a 
+strategic view on blending as an investment approach, developing a pipeline of bankable projects, and 
+creating capacity around impact measurement, especially for commercial investors. 
+
+13. The discussion was also joined by Shri Abhijit B Ghorpade, Director, State Climate Action Cell, 
+Department of Environment and Climate Action, Government of Maharashtra, who presented 
+a wider view on why sustainability is a pertinent question for any growth-oriented economy, 
+with Maharashtra being an apt case study for the same.  He provided the audience with a view 
+on  wide-ranging  initiatives  by  Maharashtra,  particularly  the  one  with  a  Green  Infrastructure 
+Development orientation. He also presented the leadership position taken by Maharashtra on e-
+Mobility ecosystem development, with the ambition and scale of e-BUS deployment and charging 
+infra development in the state being a fitting testimony to the same. He concluded by the need 
+to decarbonize the freight sector, more so with the freight volume and sector (both demand and 
+supply side) concentration in the state and invited the industry stakeholders to come forward on 
+this important topic with a clearly expressed intent to discuss on required state support.  
+
+14. A session on freight digitization for efficiency improvements by Mr Aviral Yadav of ICCT provided 
+critical insights into the current state of the freight sector in India, specifically focusing on CO2 
+emissions. The presentation was particularly intriguing as it delved into and compared the Total 
+Cost  of  Ownership  (TCO)  perspective  of  seven  different  fuel-based  technologies.  This 
+comprehensive  analysis  is  crucial  for  evaluating  the  economic  implications  of  various  fuel 
+technologies  in the  freight sector. Additionally, the  session shed light on India's Zero Emission 
+Transport  (ZET)  roadmap,  presenting  a  strategic  vision  for  the  country's  transition  toward 
+sustainable and zero-emission freight.  
+
+15. An engaging online session by Prof. Aditya Gupta from IIM Bangalore provided valuable insights 
+into emission accounting through the utilization of an online tool called  TEMT (Transportation 
+Emission Measurement  Tool).  The  tool is designed to measure emissions across  all modes of 
+transportation, providing a holistic approach to emission accounting. It incorporates India-specific 
+emission factors to the extent possible, ensuring relevance and accuracy in the  context of our 
+region.  It  offers  two  types  of  access  -  carrier  and  shipper  access  -  facilitating  collaborative 
+engagement and transparency between stakeholders. Additionally, the tool provides output in 
+the  form of a CSV report, enabling further analysis and insights for informed decision-making. 
+These features make TENT a robust tool for emission accounting in the transportation sector. 
+
+16. Mr. Piyush Saxena from TERI presented on Clean Freight Programme: Learnings & Adoption in 
+India, which aims to reduce  the GHG emissions and air pollution from the road freight sector, 
+
+ 
+ 
+ 
+ 
+which  is projected to grow  significantly by 2030. TERI compared the  global best practices  and 
+frameworks for clean freight programs and developed a methodology and a tool for estimating 
+the baseline emissions from the road freight sector in India. TERI also conducted a baseline study 
+for  the  non-urban  road  freight  sector  in  India  and  identified  the  state-wise  and  vehicle-wise 
+variations in fuel efficiency and emission intensity. TERI proposed a way forward for implementing 
+the clean freight program in India, involving a multi-stakeholder platform, a recognition scheme, 
+and a policy framework. TERI also suggested a responsibility matrix for the key partners of the 
+clean freight program in India. 
+
+17. A presentation was made by Mr. Mehul Khandelwal, Technical Manager at SFC Europe office, on 
+the GLEC (Global Logistics Council framework), covering the background on its development in 
+consultation with the Global Freight Community, its widespread adoption by the global logistics 
+industry,  its  salient  features  and  also  global  recognition  of  GLEC  as  a  part  of  the  ISO14083 
+standard. Mehul further expanded upon the ongoing work on GLEC alignment with the Indian 
+freight emission factors and the collaboration with TERI, IIMB and GIZ on the same. 
+
+18. Mr.  Rohit  Pathania  form  OMI  Foundation  emphasized  on  the  need  for  Transport  sector 
+decarbonization and highlighted Road Freight emissions in India and the significant contributors 
+to Transport related GHG emissions. A global comparative overview of the work being done in 
+various  countries  through  multiple  measures  was  presented  indicating  the  direction  of  the 
+initiatives  in each region. Insights on decarbonization through Market based Mechanisms and 
+how  Article  6  can  help  achieve  NDC's  were  made  available  along  with  case  examples  from 
+California's Zero Emission Vehicle program and China's New Energy Vehicle (NEV) program. OMI 
+foundation drew the focus on Market Based Initiatives in India and where they stand indicating 
+the scope for carbon markets in India. 
+
+19. Special remark by Shri OP Agrawal towards the end of the program highlighted the need for such 
+discussions at regular intervals to leverage the vast knowledge base with the knowledge partners 
+for addressing the capacity gaps for advancing the freight decarbonization in India, with the same 
+being a critical need of the hour, not just towards NDC commitments by India but also towards a 
+more sustainable future for Indian Freight Sector. 
+
+20.  Closing  remarks  to  the  event  were  made  by  Mr  Narayankumar  Sreekumar,  Shakti  Sustainable 
+Energy Foundation and Mr Sean Cooke, UNEP thanking the participants for their insightful studies 
+and research and the active  participation by the  industry which  paves the  way to  move aggressively 
+towards electrifying road freight ecosystem and the need for standardizing emissions accounting. Mr 
+Sean  Cooke  also  gave  an  overview  of  UNEPs  Global  Electric  Mobility  Program  inviting  ideas  and 
+collaboration for future endeavors from the participants of the roundtable through SFC India. 
+
+ 
+ 
+ 
+ 
+ 
+KEY TAKEAWAYS 
+
+  Government of India vision of Freight Efficiency improvement under the Gati Shakti Master Plan 
+is  an  opportunity  for  pro-active  action  on  freight  decarbonization,  built  upon  new  age 
+technologies, to deliver against the set goal of reduced logistics cost in proportion to the GDP. 
+  Energy efficiency improvements are critical to improve upon freight economics in consideration 
+
+of the energy (fuel) cost as the largest component in the overall freight activity cost. 
+
+  Clean Fuel and Vehicle technologies hold huge impact potential, particularly in the medium and 
+heavy-duty segments in cognizance of their present GHG contribution to overall freight emissions. 
+  BEV  (Battery  Electric  Vehicles)  hold  maximum  emission  reduction  potential  across  its  entire 
+product life  cycle  when powered by renewable  energy sources, as  compared  to other vehicle 
+powertrain technologies, including Fuel Cell Electric Vehicles with Green H2 as energy source. 
+  BEVs  offer  the  best  TCO  scenario  across  various  truck  segments,  to  the  tune  of  20-25%  as 
+
+ 
+
+ 
+
+compared to Fuel Cell Vehicles for heavy duty segments, with 2030 as baseline year.  
+Industry  supported  initiatives  on  freight  decarbonization,  including  e-FAST,  is  a  showcase 
+opportunity  to  establish  India’s  leadership  position  in  development  of  a  global  ecosystem  for 
+Green Freight, more so for the scale and volume of Indian logistics sector and the potential impact. 
+Investments in green logistics infrastructure will have an enhanced business case for high volume 
+freight corridors as a future proofing strategy with sustainability alignment. 
+
+  ULIP as a government of India platform addresses the key challenge of data availability for freight 
+efficiency improvement and to also build case for collaborative freight decarbonization programs.  
+  Emissions accounting is a key step towards analyzing the BAU scenario for emissions footprint 
+from an enterprise operation and there is a visible interest from Industry to identify efficient and 
+effective methods for the same. Government guidance on the same with standardization of the 
+available frameworks will be an important step in this direction.  
+
+  A national carbon market can help level the playing field between ZETs and ICE Trucks by offering 
+a financial avenue to monetize the emission reductions and integrate into the business case for 
+enhanced viability of ZET deployment initiatives for India. 
+
+  The service industry is also bracing up well to provide solutions towards awareness on emissions 
+accounting from freight operations, with a good number of the same basing their methodologies 
+on SFC’s GLEC framework. Many multinational corporations in India are already using GLEC for 
+measuring freight emissions under their sustainable supply chain initiatives.  
+
+  While support in Finance for ZET pilots under e-FAST is an expectation from some Shippers and 
+LSP’s, there are certain LSPs and shippers who are ready to manage the finance aspect at their 
+own end, with product availability being the single largest concern for transition of Medium and 
+Heavy-Duty trucks towards electric. 
+
+  For the organizations seeking clarity on philanthropic and development finance for ZET pilots, the 
+potential scenario as presented in the discussion, is positive, with only expectation from the funds 
+is the deployment scale, as the same will determine the scale of impact to justify the investments. 
+Blended finance is poised to be the way ahead and learnings from the e-BUS deployment in India 
+would offer an adequate baseline framework to build upon for financing the ZET pilots. 
+
+  Demand aggregation would prove to be an effective approach to define ZET deployment pilots of 
+good  scale,  under  e-FAST,  overcoming  the  financing  challenges  of  fragmented  demand  linked 
+
+pilots  with  individual  shippers.  The  aggregated  numbers  will  help  engage  effectively  with  the 
+philanthropic and private sector funds on their interest for supporting the ZET pilots. 
+
+  A  potential  scenario,  similar  to  e-Buses,  of  ZETs  being  profitable  with  the  present  policy 
+considerations at a per km basis at a certain scale of deployment in certain sectoral use cases may 
+exist, and the same needs to be detailed further to test the adoption potential. 
+
+  With product pipeline visibility as another critical barrier for ZET adoption, convening the product 
+OEMs and Shippers/LSPs together for a focused dialogue on the technology roadmap the product 
+segments relevant to the planned ZET pilots is an important immediate next step towards ZET 
+adoption in the mid-mile and first mile categories. 
+
+  Collaboration  between  key  stakeholders  is  key  to  success  for  ZET  initiatives  in  India,  with 
+transparency on individual plans and actions and availability of collaboration platforms as two 
+important enablers for the same. 
+
+Note: Some of the takeaways are based upon the research presented by various knowledge partners 
+and sets a ground for further discussion and investigation on the topic. 
+
+🌏For further connect and collaboration kindly reach out to  
+
+  Pramod Rajendran (pramod.rajendran@smartfreightcentre.org)  
+  Vijay Jaiswal (vijay.jaiswal@smartfreightcentre.org) 
+
+ 
+ 
+

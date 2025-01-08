@@ -1,0 +1,5105 @@
+End-to-End GHG
+Reporting of Logistics  
+Operations
+Guidance 
+
+January 2023
+
+Smart Freight
+Centre
+
+Led by Smart Freight Centre
+
+2
+
+© Smart Freight Centre and WBCSD, 2023 
+Suggested citation: Smart Freight Centre & WBCSD 
+(2023), End-to-End GHG Reporting Guidance
+
+Freight Centre does not guarantee the accuracy of the 
+data included in this publication and does not accept 
+responsibility for consequence of their use.
+
+This publication may be reproduced in whole or in part 
+in any form for educational or nonprofit purposes 
+without special permission from the copyright holder, 
+provided acknowledgment of the source is made. Smart 
+Freight Centre would appreciate receiving a copy of any 
+publication that uses this report as a source. No use of 
+this publication may be made for resale or for any other 
+commercial purpose whatsoever, without prior 
+permission in writing from Smart Freight Centre.
+
+Disclaimer
+The views expressed in this publication are those of 
+Smart Freight Centre and staff, consultants, and 
+management, and do not necessarily reflect the views 
+of the Board of Trustees of Smart Freight Centre. Smart 
+
+Acknowledgements
+This Guidance was written jointly by Smart Freight 
+Centre and WBCSD, supported by the World Economic 
+Forum. McKinsey Sustainability is the knowledge 
+partner for this effort providing analytical insights and 
+advisory guidance.
+
+The authors wish to thank the over 30 partners from 
+across the logistics industry, representing shippers, 
+logistics service providers, carriers, and technology 
+solution providers who collaborated on the 
+development of the Guidance as well as all external 
+reviewers for their valuable insights, expertise, and 
+contributions.
+
+Participants and contributors 
+
+Knowledge partner 
+
+Scaling partner
+
+End-to-End GHG Reporting of Logistics Operations - Guidance 3
+
+About Smart Freight Centre
+Smart Freight Centre is an international non-profit 
+organization focused on reducing greenhouse gas 
+emissions from freight transportation. Smart Freight 
+Centre’s vision is an efficient and zero-emission global 
+logistics sector. Smart Freight Centre’s mission is to 
+collaborate with the organization’s global partners to 
+quantify impacts, identify solutions, and propagate 
+logistics decarbonization strategies. Smart Freight 
+Centre’s goal is to guide the global logistics industry in 
+tracking and reducing the industry’s greenhouse gas 
+emissions by one billion metric tons by 2030 and to 
+reach zero emissions by 2050 or earlier, consistent with 
+a 1.5°C future.
+
+About GLEC 
+The Global Logistics Emissions Council (GLEC) was 
+established in 2014. GLEC has grown into a voluntary 
+partnership of more than 150 companies, industry 
+associations, programs, experts and other organiza-
+tions dedicated to driving widespread, transparent, and 
+consistent calculation and reporting of logistics GHG 
+emissions. GLEC works to identify common problems, 
+remove barriers and above all, share a conviction that 
+emission reduction in freight is urgent. GLEC members 
+developed the GLEC Framework to offer multinationals 
+and their suppliers a harmonized, efficient and trans-
+parent way to calculate and report logistics emissions. 
+GLEC is a Smart Freight Centre-led initiative.
+
+About WBCSD 
+The World Business Council for Sustainable  
+Development (WBCSD) is the premier global, CEO-led 
+community of over 200 of the world’s leading sustainable 
+businesses working collectively to accelerate the 
+system transformations needed for a net zero, nature 
+positive, and more equitable future. Our member 
+companies come from all business sectors and all 
+major economies, representing a combined revenue  
+of more than $8.5 trillion and 19 million employees.  
+Our global network of almost 70 national business 
+councils gives our members unparalleled reach across 
+the globe. Together, we are the leading voice of business 
+
+for sustainability, united by our vision of a world in 
+which 9+ billion people are living well, within planetary 
+boundaries, by mid-century.
+
+About PACT 
+The Partnership for Carbon Transparency (PACT) is 
+seeking to accelerate decarbonization through the 
+creation of transparency on product-level emissions in 
+the value chain. To achieve this, it provides a forum for 
+stakeholders to jointly tackle this challenge, uniting 
+businesses from across industries, technology players, 
+industry-focused initiatives, standard-setting bodies, 
+reporting organizations, and regulators in their shared 
+mission. Jointly, the PACT community defines and 
+publishes the necessary methodological and techno- 
+logical basis for primary emissions data exchange, 
+integrating existing standards and approaches and 
+creating a trusted and holistic foundation. PACT is 
+hosted by the WBCSD.
+
+Contact
+
+Smart Freight Centre
+Keizersgracht 560  
+1017 EM, Amsterdam, Netherlands
+P.O. Box 11772  
+1001 GT, Amsterdam, Netherlands
+Tel office: +31 6 4695 4405
+www.smartfreightcentre.org
+info@smartfreightcentre.org
+
+WBCSD
+Avenue du Bouchet 2B  
+1209 Geneva, Switzerland
+Tel: +41 (22) 839 3100
+www.wbcsd.org
+www.carbon-transparency.com
+Follow us on Twitter and LinkedIn
+
+End-to-End GHG Reporting of Logistics Operations - Guidance  
+ 
+Contents
+
+Introduction  
+  1.1  Setting the stage  
+  1.2  Objectives  
+  1.3  Approach  
+  1.4  Structure of the Guidance  
+  1.5  Scope of the Guidance  
+
+Data requirements and definitions  
+  2.1  Definitions and concepts  
+  2.2  Data considerations  
+  2.3  Data variables  
+  2.4  Data exchange  
+  2.5  Adopting a new data structure  
+
+Performance indicators and data quality  
+  3.1  Logistics GHG emissions performance indicators  
+  3.2  Evaluating input data quality for GHG calculation  
+
+Calculation guidance: Using primary data  
+  4.1  Introduction: Calculation with primary data  
+  4.2  Calculation without primary data (per mode)  
+
+Assurance and verification  
+  5.1  Objectives and scope  
+  5.2  Assurance ambition levels  
+  5.3  Requirements for SMEs  
+  5.4  Evidence  
+  5.5  Process and reporting  
+
+How to: Supplier-to-customer end-to-end GHG reporting 
+  6.1  Overarching tips  
+  6.2  Example  
+  6.3  Reporting/declaration of emissions  
+
+Outlook  
+
+1
+
+2
+
+3
+4
+5
+
+6
+7
+
+4
+
+8
+9
+9
+9
+10
+10
+
+11
+12
+13
+14
+16
+17
+
+18
+19
+19
+
+23
+24
+29
+
+34
+35
+36
+40
+40
+41
+
+43
+44
+44
+47
+
+48
+
+End-to-End GHG Reporting of Logistics Operations - Guidance  
+Contents
+
+Tables 
+  Table 1: Crucial definitions for concepts of logistics GHG emissions accounting 
+  Table 2: Use cases and respective requirements 
+  Table 3: Variables to be considered for the data collection and exchange  
+
+of GHG data on a TCE level 
+  Table 4: Data quality indicator at a TOC level 
+  Table 5: Data quality indicator at a TCE level 
+  Table 6: Recommended road freight TOC characteristics 
+  Table 7: Recommended sea freight TOC characteristics 
+  Table 8. Recommended inland waterways TOC characteristics 
+  Table 9: Recommended air freight TOC characteristics 
+  Table 10: Recommended rail freight TOC characteristics 
+  Table 11: Recommended logistics site HOC characteristics 
+  Table 12: Assurance levels overview 
+  Table 13: Assurance levels comparison 
+  Table 14. Example calculation of an end-to-end supply chain 
+
+Figures 
+  Figure 1: Steps to calculate emissions 
+  Figure 2: Structure of the Guidance 
+  Figure 3: Example of a transport chain, TCE, and TOC 
+  Figure 4: Flowchart representing the calculating and reporting steps 
+  Figure 5: Example transport chain 
+  Figure 6: Road freight flowchart for calculation 
+  Figure 7: Sea freight flowchart for calculation 
+  Figure 8: Ambition levels and dimensions of the assurance requirements 
+  Figure 9: Example of an end-to-end supply chain 
+  Figure 10: Example transport chain with reporting requirements 
+
+5
+
+12 
+13
+
+15
+20
+20
+30
+31
+32
+32
+33
+33
+37
+39
+45
+
+7
+10
+12
+24
+25
+29
+31
+36
+44
+47
+
+End-to-End GHG Reporting of Logistics Operations - Guidance  
+ 
+ 
+6
+
+Executive Summary
+
+Action on logistics emissions is needed but the 
+transparency challenge needs to be resolved first
+To limit global warming and reach the Paris Agreement 
+climate targets, supply chains need to be decarbonized. 
+Logistics operations are a central part of all supply 
+chains and play a crucial role in achieving the 
+necessary emissions reductions across industries. 
+Companies are therefore under increasing pressure to 
+calculate, monitor, and report their emissions from 
+logistics operations. 
+
+However, companies face an emissions transparency 
+challenge: a lack of granular, verifiable, and consistent 
+emissions data from logistics operations. While 
+standards like the Global Logistics Emissions Council 
+(GLEC) Framework and forthcoming ISO 14083 provide 
+guidance on how to calculate emissions from logistics 
+operations, many businesses face data quality and 
+availability difficulties, particularly for complex logistics 
+operations. This Guidance therefore seeks to enable 
+organizations to understand greenhouse gas (GHG) 
+logistics emissions incurred from supplier to end 
+customer, end-to-end, by increasing the consistency 
+and quality of data, clarifying how and when to use 
+primary data and creating performance indicators that 
+businesses can use in their decision-making.
+
+This Guidance establishes core principles for 
+logistics emissions disclosures
+To limit global warming and reach the Paris Agreement 
+This Guidance is based on several core principles:
+
+1
+
+2
+
+3
+
+Providing a step-by-step practical approach to 
+calculate logistics emissions end-to-end – from 
+an initial supplier to a final customer – compliant 
+with existing methodologies. 
+
+Reflecting reality and organizational use cases to 
+ensure solutions can be embedded today in daily 
+practices for reporting and reducing logistics 
+emissions. 
+
+Creating logic for ambition levels that encourage 
+companies to improve data granularity, quality, 
+and reliability over time.
+
+Companies can take concrete steps to prepare to 
+calculate logistics emissions
+Companies wishing to calculate logistic operations 
+emissions should begin by defining the use case for 
+their emissions disclosures, such as reporting, 
+business decision-making, or granular optimization. 
+The use case will inform which data the reporting 
+company should collect, at what level the data should 
+be collected (company, transport chain, or transport-
+chain element), and which data attributes will need to 
+be shared with the stakeholders that will use the 
+emissions data. While this Guidance provides an 
+overview of the minimum data attributes to be shared, 
+companies should align with their data users to ensure 
+that every involved party understands the shared 
+emissions data. 
+
+As a second step, companies should define which 
+metrics they are going to calculate, disclose, and 
+monitor. This Guidance suggests four required metrics 
+for any emissions logistics disclosure on a transport-
+chain element basis: 
+
+Metrics measuring emissions
+• Absolute well-to-wheel (WTW) emissions
+• Emission intensity per ton-kilometer (tkm) or tonnes.1
+
+Metrics measuring data quality
+• Data quality indicator with the conforming use case.
+
+This approach enables both emissions and data quality 
+transparency, thus facilitating data users’ 
+understanding of any possible data limitations and 
+unlocking data quality improvements over time.
+
+Companies should prioritize primary data in their 
+calculations where feasible
+To calculate end-to-end emissions from logistics 
+operations, this Guidance details different approaches 
+depending on the available data. If primary data is 
+available, companies should follow the steps below: 
+
+1 In case of containerized maritime transport, this can be expressed in twenty-foot equivalents (TEUs) and for mail and parcel,  
+
+this can be expressed per item.
+
+End-to-End GHG Reporting of Logistics Operations - Guidance  
+7
+
+Figure 1: Steps to calculate emissions
+
+Repeat end-to-end
+
+1
+
+Set boundaries 
+and goals
+
+2
+
+Define TOC 
+emission 
+intensity value
+
+3
+
+Calculate 
+emissions 
+at TCE
+
+4
+
+Verify and 
+validate your 
+calculation
+
+5
+
+Report 
+and use
+
+A
+B
+
+Map and 
+collect data
+
+Calculate TCE 
+emissions
+
+A
+B
+C
+D
+
+Map and 
+collect data
+
+Determine Fuel
+Emission Factor
+
+Calculate total 
+emissions of TOC
+
+Calculate emission 
+intensity of TOC
+
+Requires input from 
+Transport Operator
+
+However, in many cases, primary data will not be 
+available. Companies may therefore refer to modeled  
+or default data to calculate logistics emissions. If 
+secondary data is used, the applicable steps depend  
+on the transportation mode and the extent to which 
+individual primary data points may be available. The 
+Guidance therefore introduces a decision tree for each 
+transportation mode to help companies undertake 
+calculations using the best available data. The newly 
+introduced data quality indicator provides the user with 
+an understanding of the quality of the input data used  
+to calculate the emissions.
+
+Assurance and verification are crucial to establish 
+trust in emissions disclosures
+Finally, companies seeking to share logistics emissions 
+data should ensure rigorous assurance and verification 
+to increase trust in and reliability of the data. This 
+Guidance defines three ambition levels around 
+assurance and verification, depending on the data 
+user’s needs and the reporting company’s readiness:
+
+• Bronze: a minimum level of assurance providing a 
+
+baseline of trust in shared emissions data
+
+• Silver: an intermediate level of assurance increasing 
+the granularity and scope of the assured emissions 
+data
+
+• Gold: a North Star ambition level for logistics 
+
+emissions assurance, providing strong trust in the 
+exchanged emissions data.
+
+Over time, companies are encouraged to increase the 
+assurance ambition level to reach assurance practices 
+
+similar to that of financial data, requiring regular 
+assurance to ensure a reasonable level of confidence. 
+Nevertheless, companies may choose the assurance 
+ambition level that best suits their objectives, as long 
+as companies transparently communicate what level of 
+verification is associated with the shared emissions data. 
+
+Collaboration and adaptability will be central to 
+scaling up logistics emissions disclosures and 
+ensuring ecosystem convergence
+This Guidance was developed in a collaborative effort 
+between GLEC, hosted by Smart Freight Centre, and the 
+Partnership for Carbon Transparency (PACT), hosted by 
+the World Business Council for Sustainable 
+Development (WBCSD), as part of a wider effort to 
+increase transparency on (primary) emissions data 
+across supply chains. It is the result of a collaborative 
+development process, gathering input from 30 
+stakeholders in the logistics industry, representing 
+shippers, logistics service providers (LSPs), carriers, 
+and technology solution providers. While this Guidance 
+constitutes a best effort toward supporting companies’ 
+calculation journeys, the evolving data-capture 
+technology and decarbonization landscape will require 
+all logistics stakeholders to adapt the best available 
+approaches as they change over time. Similarly, as the 
+emissions disclosure ecosystem grows, collaboration 
+and exchange will become ever more important. All 
+logistics stakeholders are encouraged to foster 
+methodological alignment across the logistics industry, 
+ensuring that the industry “speaks the same language” 
+and collectively unlocks the required decarbonization 
+transformation. 
+
+End-to-End GHG Reporting of Logistics Operations - Guidance 1. Introduction
+
+1. Introduction
+
+1.1 Setting the stage
+There is a mutual understanding: to reach 2050 climate 
+goals it is essential that supply chains are decarbonized. 
+A core prerequisite is the availability of high-quality 
+emission-related data at the point of decision-making. 
+With more granular and consistent data on activity and 
+energy use, organizations can better measure actual 
+emissions and use this to design, monitor, and adjust 
+decarbonization strategies.
+
+The Global Logistics Emissions Council (GLEC)  
+Framework and the forthcoming ISO 14083 standard 
+are supporting organizations on the journey toward 
+supply chain emissions transparency, setting international 
+recognized methodological standards on how to calculate 
+greenhouse gas (GHG) emissions from logistics opera-
+tions. However, companies still experience challenges: 
+a lack of emission-related data, uncertainty about the 
+approach to take when this is the case, and complexity 
+arising from the use of different technologies.
+
+To address these challenges and help create greater 
+transparency on emissions, Smart Freight Centre, and 
+World Business Council for Sustainable Development 
+(WBCSD) started a collaborative project with the 
+ultimate goal of defining more detailed guidance on 
+how to calculate GHG emissions from freight transport. 
+This Guidance advances and builds on existing method-
+ologies with the aim of increasing consistency and 
+clarity of different calculation approaches across a 
+complete supply chain from end-to-end. This Guidance 
+delivers a clear methodology for calculating emissions 
+from a multimodal supply chain and provides a  
+framework to assess input data quality and assurance 
+of the results.
+
+This project is part of a wider effort to increase trans-
+parency on (primary) emissions data across supply 
+chains, known as the Partnership for Carbon Transparency 
+(PACT), which is hosted by WBCSD.
+
+1.2 Objectives
+This Guidance aims to enable organizations to understand 
+the GHG logistics emissions incurred from supplier to 
+end customer. 
+
+Specifically, the objectives of this Guidance are to:
+
+9
+
+• Increase the consistency and quality of data to enable 
+
+better comparability of logistics GHG emissions
+
+• Clarify how and when to use primary data across 
+
+end-to-end logistics supply chains
+
+• Create performance indicators to be used in  
+
+procurement processes.
+
+This Guidance builds on a series of existing standards 
+and guidance to help organizations quantify and reduce 
+emissions from logistics operations. This Guidance is 
+explicitly designed to complement the GLEC Framework 
+and the Pathfinder Framework (developed by PACT) on 
+questions such as the operational application of 
+emissions quantification in logistics, the quality of data, 
+and assurance requirements. In version 3 of the GLEC 
+Framework, the newly introduced concepts of this 
+Guidance will be reflected. 
+
+Other standards referenced and recognized in the 
+design of this Guidance are:
+
+• ISO14083:2023 (forthcoming) for details on the 
+
+quantification and reporting of logistics emissions
+
+• EN17837:2023 (forthcoming) for details on the mail 
+
+and parcel sector
+
+• AFNOR Spec X43-072 for operationalization of the 
+
+calculations
+
+• Clean Cargo methods for containerized maritime 
+
+transport
+
+• GLEC Low Emission Fuels and Vehicles Work for 
+
+additional guidance on emission factors
+
+• GLEC Data Access for Logistics Emissions Accounting 
+
+and Reporting for the data model requirements.
+
+1.3 Approach
+This Guidance has been developed in collaboration  
+with over 30 partners from across the logistics industry, 
+representing shippers, logistics service providers 
+(LSPs), carriers, and technology solution providers. 
+Each partner was invited to share a use case for an 
+end-to-end logistics supply chain and identify core 
+challenges faced in reporting GHG. On this basis,  
+ten workshops were conducted to discuss the main 
+challenges. Together, we identified the following  
+five challenges: 
+
+1 Introduction 
+10
+
+• Reporting emissions at the level required by customers 
+
+(e.g., product, parcel, pallet, and unit of sale)
+
+• Reporting from network operations
+
+• Data visibility for road, sea, air, and rail transportation 
+
+services operated by third-party subcontractors, 
+specifically operational data on last-mile delivery and 
+empty mileage
+
+• Combining and comparing Scope 3 data with varying 
+levels of granularity and differing reporting method-
+ologies used
+
+• Uncertainty regarding the usage of emission factors 
+
+for the fuels and energy carrier used.
+
+Participants then jointly identified potential solutions to 
+these challenges, forming the basis for this Guidance.
+
+1.4 Structure of the Guidance
+Figure 2: Structure of the Guidance
+
+Chapter 1 
+provides the 
+objectives and 
+approach of this 
+Guidance. 
+
+Chapters 2-5 
+provide the guidance towards calculation, allocation, reporting and assuring of 
+GHG emissions
+
+Chapter 2 
+sets out the data 
+requirements 
+and definitions, 
+providing the 
+required guidance 
+to what variables 
+to be collected 
+and exchanged
+
+Chapter 3 
+describes the 
+indicators to 
+assess the 
+logistics GHG 
+performance 
+and introduces 
+a new data 
+quality indicator
+
+Chapter 4 
+provides the 
+practical steps 
+to calculate 
+GHG logistics 
+emissions with 
+or without 
+primary data
+
+Chapter 5 
+introduces 
+the necessary 
+guidance 
+towards 
+assurance and 
+verification of 
+the calculations
+
+Chapter 6 
+considers the 
+reporting of 
+GHG emissions 
+and gives 
+overarching 
+tips- and tricks 
+include an 
+example
+
+Chapter 7 
+Summarizes 
+and provides a 
+forward outlook 
+on the intended
+change and 
+impact
+
+1.5 Scope of the Guidance
+It is important to note that the landscape of carbon 
+accounting and reporting is evolving fast. The introduction 
+of direct data-capture technology and digitization 
+across many parts of the global transportation industry 
+– while providing access to better data – increases the 
+complexity of emissions calculation, comparison, and 
+reporting. However, the challenge is not uniform, as the 
+capture of and access to primary data is still problematic 
+in some transportation sectors. 
+
+This Guidance is written with these considerations in 
+mind and aims to support the calculation journey to 
+ensure the highest level of accuracy possible from the 
+data sources available.
+
+Given the increasing industry-wide focus on the need to 
+decarbonize transportation and the significant investment 
+in digitization of this sector, further improvements in the 
+availability, quality, and timeliness of transportation- 
+related data can be expected in the years ahead. It may, 
+therefore, be necessary to issue further guidance 
+updates to reflect this in the future, which readers are 
+requested to take into account. 
+
+1 Introduction2. Data requirements 
+
+and definitions
+
+12
+
+2. Data requirements  
+
+and definitions
+
+The first step in any effort to calculate emissions is to identify and collect the relevant data for the required use 
+case. This section therefore introduces the key definitions of logistics GHG emissions accounting and provides some 
+reflections on data granularity and approaches to capture the required data. 
+
+2.1 Definitions and concepts
+There is a mutual understanding: to reach 2050 climate Throughout this Guidance, specific terms and concepts are 
+used. These are defined in Table 1.
+
+Table 1: Crucial definitions for concepts of logistics GHG emissions accounting
+
+Term
+
+Definition
+
+Transport operator/
+reporting company name
+
+Shipment 
+
+Consignment 
+
+Transport operation category (TOC)
+
+Transport-chain element (TCE)
+
+Feedstock 
+
+Ton (t)
+
+Entity that carries out transport operations involving carriage of freight, passengers, or both.
+
+Identifiable collection of one or more freight items (available to be) transported together 
+from the original shipper to the ultimate consignee.
+
+Separately identifiable amount of freight transported from one consignor to one consignee 
+via one or more modes of transport.
+
+Group of transport operations that share similar characteristics, based on mode, journey, 
+freight, trade lane, or contract type. Aggregation to a TOC can be based on a specific round 
+trip, vehicle class, or schedule. E.g., maritime container transport or shared long-haul road 
+freight of pallets. 
+
+Section of a transport chain within which the freight is carried by a single vehicle or transits 
+through a single hub. E.g., the journey from port A to port B or the processing in a distribution 
+center are TCEs.
+
+Source of origin of the energy carrier(s) (such as grid electricity, renewable, soy, waste, or 
+fossil; country or region specific). 
+
+Unit of measurement for the mass of a consignment. Within the scope of this document, ton 
+refers to a metric ton.
+
+For example, for road, the TOC may include freight type, condition, journey type, and contract type, while for aviation 
+it may include journey length and plane configuration. In addition, it groups different vehicles operating under the 
+same network or lane together. 
+
+Figure 3: Example of a transport chain, TCE, and TOC
+
+End-to-End
+
+Transport chain
+
+Transport 
+Operation 
+Category (TOC)
+
+Pre-Carriage 
+to Port
+
+Port to Port 
+Main Leg 
+
+Inland Trans-
+shipment 
+
+Rail Terminal 
+(or port) to 
+Regional DC
+
+Regional(cid:31)
+DC to 
+Warehouse
+
+Warehouse to 
+Store / End 
+Customer
+
+TCE 1
+
+TCE 2
+
+TCE 3
+
+TCE 4
+
+TCE 5
+
+TCE 6
+
+TCE 7
+
+TCE 8
+
+TCE 9
+
+TCE 10
+
+TCE 11
+
+TOC of a TCE can be a group 
+of similar vehicles on:  • route
+
+      • network
+
+2. Data requirements and definitions 
+ 
+13
+
+2.2 Data considerations
+Company emissions reduction road maps must strike a 
+balance between two elements:
+
+• Calculating emissions with what is technically and 
+operationally feasible based on the available data 
+
+• Being able to start implementing and monitoring 
+reduction opportunities while communicating the 
+limitations of the available data quality level.
+
+For instance, a company that continues to quantify its 
+emissions using financial data over the years will only 
+be able to quantify an emission reduction if it lowers its 
+expenses, while a methodology based on company- 
+specific operational metrics would enable the tracking 
+of reductions based on material, network, and/or 
+supplier changes. 
+
+Since the type of data used for the calculations shall 
+always be reported alongside the resulting emissions, 
+companies are encouraged to gather operational data 
+systematically from their operations. The more granu-
+lar the data is, the more precise and reliable their 
+emissions calculations will be. Primary data is there-
+fore always preferable, and companies should work on 
+improving data availability to this end. 
+
+At the same time, perfection should not stand in the 
+way of progress. Other forms of data, such as modeled 
+and default data, will have to be used along with less 
+
+granular operational data where primary data is not 
+available to conduct emissions calculations and imple-
+ment decarbonization actions. Companies should seek 
+a balance between using these input data sources to 
+cater to their needs and taking consistent steps to 
+continuously improve the data quality in their systems.
+
+Similarly, calculations of emission intensity should be 
+performed at a frequency that is deemed useful to track 
+improvements over time, seasonality, or change in 
+overall demand profiles. Examples are showcasing the 
+peak season in December for the mail and parcel 
+sector, a change in routing, or the introduction of 
+battery-electric trucks.
+
+Tracking and using individual trip-level data for reporting 
+emissions can provide specific insights for certain use 
+cases related to a trip if benchmarked correctly but 
+also risks accentuating potential outliers. Thus, when 
+using trip-level data, an aggregation over time is 
+necessary to avoid conclusions drawn on the basis of 
+one or a few individual trips.
+
+Where primary data is not available, consideration of 
+the scope and intended purpose of emissions calcula-
+tions can help guide data requirements and establish 
+what data as a minimum is needed to perform the task 
+at hand. Table 2 provides details of the respective data 
+recommendations for each use case.2
+
+Table 2: Use cases and respective requirements
+
+Use case
+
+Reporting
+
+Details
+
+Examples
+
+• Meeting regulatory or voluntary 
+
+transparency requirements
+• Focusing on selected period 
+
+and whole organization or parts 
+of the supply chain
+
+• Corporate reporting (sustainability reports)
+• Disclosures to rating platforms
+
+Data recommendation
+
+• Preferred: granular  
+
+(primary) data
+
+• Alternative: modeled or 
+
+default data sets
+• Using: aggregated  
+
+emission intensity factors
+
+Business  
+decision-making 
+
+• Analyzing past performance to 
+
+make future changes 
+
+• Reporting from carriers/LSPs 
+
+to shippers 
+
+• Mode switch 
+• Collaboration with carriers 
+• Horizontal collaboration 
+• Selection of alternative fuels/vehicles 
+• Identification of opportunities to reduce GHG 
+
+• Preferred: granular  
+
+(primary) data 
+
+• Alternative: detailed  
+
+modeled data 
+• Using: granular,  
+
+emissions hot spots
+
+disaggregated emission 
+intensity data
+
+Granular optimization
+
+• Analyzing past performance to 
+track and measure progress 
+• Reporting from carriers/LSPs 
+
+• Carrier-level optimization (driver training, 
+
+• Preferred: granular  
+
+routing per leg, and consolidation) 
+
+(primary) data 
+
+• Quantification of the impact of idle times in 
+
+• Alternative: detailed  
+
+to shippers 
+
+GHG emissions 
+
+• Quantification of the impact of already  
+
+implemented modal switch (to assess initial 
+targets vs actual) 
+
+• Supply chain optimization to reduce  
+
+GHG emissions
+
+modeled data 
+• Using: granular,  
+
+disaggregated emissions 
+intensity data
+
+2 These use cases mirror those identified in the GLEC Data Access and Exchange project, which focuses  
+
+on the most common uses of data when shared across a value chain. Additional use cases are  
+highlighted in the GLEC Framework but not covered here.
+
+2. Data requirements and definitions14
+
+2.3 Data variables
+When collecting, using, and exchanging data, it is 
+crucial that all parties use the same definitions for the 
+data parameter in scope. The Guidance follows the 
+definitions of the Smart Freight Centre Data Exchange 
+Model (Data Access For Logistics Emissions Accounting 
+and Reporting, or GLEC Data Access and Exchange 
+project),3 which builds on the GLEC Framework.
+
+Depending on which part of the logistics supply chain 
+an organization operates in as well as its business 
+model, different data variables will be required to be 
+shared. It is therefore crucial to evaluate data needs 
+with internal stakeholders before engaging in any 
+GHG-related data collection and exchange activity.  
+The Data Exchange Model categorizes which variables 
+are mandatory to ensure compliance with the GLEC 
+Framework and GLEC Declaration. However, companies 
+should start from the minimum and aim to continuously 
+work toward adopting more variables to achieve greater 
+accuracy when calculating emissions from their supply 
+chains.4
+
+The Data Exchange Model also provides further  
+information on data responsibilities per calculation or 
+reporting case. Defining which of these are relevant can 
+guide a company on what input data is sufficient and 
+what data may be less crucial. The subsequent calculation 
+approach will depend on the data available. 
+
+Specific information for end-to-end calculations 
+To understand end-to-end emissions in detail, total TCE 
+emissions must be identified (see Chapter 4 for calculation 
+approach). This requires TOC emission intensity to be 
+identified first as a basis for further calculations. 
+
+Input data for calculation of TOC emission intensity  
+To define the input data, the principles of ISO 14083 
+shall be followed. This sets out the requirements for 
+each mode, with this Guidance specifying that a TOC 
+emission intensity will always be calculated at the level 
+of a fleet of vehicles operating in a specific network.
+
+Input data for calculation of TCE emissions 
+Companies shall refer to Table 3 for a list of variables to 
+consider at the TOC and TCE level. Collecting information 
+at a granular scale (per TCE), simplifies the upward 
+aggregation process and provides a sufficient foundation 
+to perform data-intensive tasks that inform supply 
+chain decisions. This table is meant to act as a guide 
+and qualitative representation of the more technical 
+work conducted within the GLEC Data Access and 
+Exchange project. When companies wish to implement 
+the data protocol, they shall refer to the latest data 
+model, proposed in the second publication of the  
+GLEC Data Access and Exchange project, for more 
+technical details. 
+
+3 For more details on the GLEC Data Access and Exchange project, please see here. The quick download can be found here.
+4 Actors may choose not to share data they may consider to be commercially sensitive or confidential.
+
+2. Data requirements and definitions15
+
+Note 1: The minimum requirements are defined for items marked with (*). 
+Note 2: For companies where the TOC level of aggregation and exchange is more meaningful, they can fill out and collect the data at that level. 
+
+Table 3: Variables to be considered for the data collection and exchange of GHG data on a TCE level
+
+Term
+
+Definition
+
+TOC-level information
+
+Transport operator/reporting 
+company name/ID (*)
+
+Identification code/name of the company submitting/reporting the data.
+
+Transport information 
+about a group of  
+vehicles within a  
+transport-chain  
+element for a specific 
+consignment
+
+Accreditation status (*)
+
+Statement of accreditation of the calculation methodology.
+
+Verification status (*) 
+
+Statement of external verification of the input data. 
+
+Transport operation category 
+(TOC) 
+
+Group of transport operations that share similar characteristics, based on 
+mode, journey, freight, trade lane, or contract type. Aggregation to a TOC can 
+be based on a specific round trip, vehicle class, or schedule. 
+
+Mode of transport (*)
+
+Means of transport or type of transport (e.g., rail, sea, or road). 
+
+Mode-specific asset type 
+
+Specific category of asset, such as 40t truck, 3.5t van, container vessel,  
+or bulk vessel. 
+
+Emission class (road)
+
+Identification of the vehicle emission class (road).
+
+Load factor 
+
+Empty distance
+
+Ratio of the actual load (mass) to the maximum legally authorized load of a 
+particular vehicle.
+
+Ratio of the section of the route of a vehicle during which no freight is  
+transported to the total distance of a vehicle on a TOC level.
+
+Temperature control
+
+Status of freight being non-ambient.
+
+Energy consumption
+
+Amount of energy consumed. Accompanied by a respective unit field. In case of 
+multiple sources of energy, respective fields have to be defined.
+
+Energy Carrier
+
+Feedstock
+
+Category of energy carrier, such as diesel, HVO, petrol, CNG, LNG, LPG, HFO, 
+MGO, aviation fuel, hydrogen, methanol, and electricity. In case of multiple energy 
+carriers, respective consumption (e.g., liters or emissions) need to be disclosed. 
+
+Source of origin of the energy carrier(s) (e.g., electricity, renewable, soy, waste, 
+or fossil; country or region specific).
+
+Emission intensity (*)
+
+Coefficient specifying transport activity’s GHG emissions at the TOC level.
+
+WTW fuel emission factor 
+(certified)
+
+Coefficient of GHG emissions per unit of energy, provided for the specific  
+feedstock/energy and certified independently.
+
+Data quality indicator
+
+Categorical variable defining the level of data quality reflected in the  
+calculated CO2e.
+
+TCE-level information
+
+Shipment ID (*)
+
+Identifier of the shipment.
+
+Transport information 
+about a single  
+transport-chain  
+element for a specific 
+consignment.
+
+Consignment ID (*)
+
+Identifier of the consignment of a shipment.
+
+Transport chain element ID (*)
+
+Identifier of the transport-chain element of a consignment.
+
+Freight mass5(*)
+
+Packaging unit
+
+Mass of the transported freight. The suggested unit is kg.
+
+Category of the packaging designed to contain one or more articles or  
+packages or bulk material for the purposes of transport, handling and/or  
+distribution. In this case, maritime and rail containers (e.g., twenty-foot  
+equivalent or TEU, forty-foot equivalent or FEU) are considered as packaging 
+unit, as well as acting as a functional unit for transportation used for reporting 
+and analytical purposes. The number of units needs to be disclosed alongside 
+unit category.
+
+Origin location (*)
+
+Location of pick-up of the consignment.
+
+Table continued on the next page.
+
+5 Freight mass: for the shipping industry, this should include container weight. 
+
+2. Data requirements and definitions16
+
+Table continued from the previous page.
+
+Table 3: Variables to be considered for the data collection and exchange of GHG data on a TCE level
+
+Term
+
+Definition
+
+TCE-level information
+
+Destination location (*)
+
+Location of delivery of the consignment.
+
+Transport information 
+about a single  
+transport-chain 
+element for a specific 
+consignment.
+
+Actual distance
+
+Activity distance
+
+Distance between the origin and the destination of a consignment of freight or  
+a vehicle, measured by a telematics system.
+
+Distance between loading and unloading of the freight transported – distance provided 
+should be the planned distance. Shortest feasible distance in ISO 14083 should be 
+used for road, rail, inland waterways, and sea transport. Great-circle distance should 
+be used for air.
+
+Departure date
+
+Date of departure of the consignment.
+
+Arrival date
+
+Date of arrival of the consignment.
+
+Transport activity (*)
+
+Amount of freight multiplied by the assignment or allocation distance, expressed in 
+ton-kilometers (tkm). For maritime movements, TEU-kilometers (TEUkm) are also 
+permitted, and for the mail and parcel sector, item-kilometers (itemkm) can be used.
+
+Voyage number
+
+Identification number of the specific voyage
+
+Flight number
+
+Identification number of the IATA flight number.
+
+CO2e TTW (*)
+
+CO2e WTW (*)
+
+GHG emissions released to atmosphere as a result of vehicle operation  
+(tank-to-wheel).
+
+GHG emissions released to atmosphere during the process of producing, storing, 
+processing, and distributing an energy carrier for vehicle operation + GHG released to 
+atmosphere as a result of vehicle operation (well to wheel).
+
+2.4 Data exchange
+Data requirements are further guided by the intended 
+reporting level. The more granular the aggregation 
+level, the more granular the data requirement. The 
+exchange of emissions from a carrier to a shipper (or 
+LSP) can take place at the level of: 
+
+• Company: GHG emissions produced by the carrier for 
+
+the client 
+
+• Transport chain: GHG emissions of a consignment 
+
+(from origin to destination)
+
+• TCE: GHG emissions of a transport leg (at consign-
+
+ment level)
+
+A carrier or shipper, for its own business reporting and 
+analytical purpose, aggregate emissions to various 
+levels, including:
+
+• Allocation of emissions and calculation of emission 
+intensity per location (origin, destination, trade lane)
+
+• Allocation of emissions and calculation of emission 
+
+intensity per TOC (group of assets)
+
+• Split of emissions per energy source used in a TOC
+
+• Allocation of emissions per carrier, LSP, or shipper to 
+
+monitor and report performance
+
+• Allocation and understanding of emissions per driver
+
+In case of network operations, please note that for a 
+shipper, a single TCE (point A-B) in the transport chain 
+can actually consist of multiple TCEs (A-X, X-Y, Y-B) 
+within the carrier network. 
+
+2. Data requirements and definitions17
+
+2.5 Adopting a new data structure
+The structure variables summarized in Table 3 shall be 
+followed for the collection and storage of data as 
+closely as possible, for example, regarding naming 
+conventions and respective units. The structure is 
+designed to create consistency, facilitate data exchange 
+between different stakeholders, and consider future 
+reporting needs of the logistics industry. This will also 
+decrease the time needed to handle and blend data and 
+improve transparency in the use of semantics in 
+emissions reporting.
+
+In case this list of variables is too extensive considering 
+each company’s business scope and reporting needs, 
+minimum variables (as shown in Table 3) should be 
+tracked. We recommend to then start with monitoring 
+and exchanging the mandatory variables and, as the IT 
+systems mature, add more variables that stem from 
+business needs. Companies can consider the following 
+guiding questions when designing their data ware-
+houses and collection systems. These questions are 
+meant to provide an example of main questions to  
+be answered and to enable the reverse engineering  
+of needed variables for each company’s use case.  
+The questions originate from discussions that took 
+place in the current and the GLEC Data Access and 
+Exchange project.
+
+Questions to consider
+
+• What is the scope and purpose of data collection and 
+
+reporting?
+
+• Who is the audience of the reported emissions?
+
+• With which preferred frequency shall data be  
+
+aggregated? Annually, quarterly, monthly? Other?
+
+• Who is the data owner and where is the data stored? 
+
+• Who is the party calculating the GHG emissions?
+
+• What local/national regulations exist concerning data 
+
+collection?
+
+• Is there any information on the multimodal chains 
+
+(e.g., knowledge on the ship or train cargo is  
+transported in)?
+
+• Is there any empirical data on empty distance and 
+
+load factors?
+
+• In case of lack of data, what are the minimum  
+
+characteristics known for a TOC to navigate through 
+default values selection?
+
+• How are shipments versus consignments captured in 
+
+the system?
+
+• What are the unique IDs with which carriers can be 
+
+identified with?
+
+• What are the unique IDs with which consignments of 
+
+a shipment can be identified with?
+
+2. Data requirements and definitions3. Performance 
+
+indicators and  
+data quality
+
+19
+
+3. Performance indicators  
+
+and data quality
+
+3.1 Logistics GHG emissions  
+performance indicators
+When evaluating the GHG emissions performance of 
+logistics chains and activity, the following indicators 
+shall be used:
+
+• Emissions, expressed in WTW CO2e (kg)
+
+• Emission intensity, expressed as the emissions per 
+
+activity (kgCO2e/tkm)6
+• Transport activity (tkm)
+
+In specific circumstances, alternative allocations can be 
+considered. This needs to be justified and documented. 
+In the mail and parcel operations, the transport  
+activity can also be expressed per item-kilometer.  
+For containerized transport, the transport activity can 
+be expressed in TEU-kilometers. This needs to be 
+applied throughout the transport chain. 
+
+To allow for a complete supply chain and comparison 
+across operations, conversion factors are provided:
+
+• For conversion factors from TEUs to tons, a weight of 
+
+10 tons is considered average TEU, 14.5 tons is 
+considered heavy cargo, and 6 tons is considered 
+lightweight cargo. Please note that a TEU is a standard 
+20-foot container, meaning that a 40-foot container is 
+2 TEU and at 20 tons is considered standard weight.  
+A 45-foot container is 2.25 TEU. Further details are 
+specified in the GLEC Framework and the Clean 
+Cargo Methodology. 
+
+• For conversion factors from items to tons, no standard 
+conversion factors exist. Modeling and averaging of 
+the weight associated with standard packaging 
+categories is therefore recommended. This is meant 
+to be performed at a company level. 
+
+With these metrics, the overall GHG performance  
+of logistics operations can be assessed. However, a 
+perfect calculation does not exist, and the performance 
+of operations can be influenced by many factors that 
+need to be considered when evaluating and comparing 
+transport chains or even similar elements of different 
+transport chains (i.e., comparing a middle-mile TCE). 
+For example, route network, weather, and geography 
+can all have a significant effect on the final emissions.
+
+Further details of the calculation are provided in 
+Chapter 4. 
+
+3.2 Evaluating input data quality 
+for GHG calculation
+Data quality is a composite indicator, approximating the 
+extent to which information represents reality. The 
+audience of any emissions report should be aware of 
+the data type and quality involved in the calculation of 
+GHG impacts. This is crucial as the communicated 
+numbers are then placed in a concept of “confidence” 
+as to how well they reflect reality. 
+
+Information on data quality is as crucial as the emissions 
+information, as it fosters trust in the shared information 
+and enables transparency on any assumptions made in 
+the calculation process.
+
+If, for example, data collection is extremely challenging 
+for a specific TOC, then the calculation will probably be 
+based on default data. When communicating the 
+emissions of this TOC to the audience, the specifics of 
+the calculation will be qualitatively characterized by the 
+data quality indicator. Thus, the audience can correctly 
+interpret the communicated output. 
+
+On top of this, different data inputs are required for 
+different use cases. For instance, for annual reporting, 
+a different level of granularity and detail is required for 
+supply chain optimization. In perfect circumstances, the 
+data quality needs to conform to the use case at hand to 
+facilitate informed decisions. If an organization cannot 
+meet the data-quality requirements of a specific use 
+case, it is advised to take that into account when 
+communicating the certainty or uncertainty of  
+the output. 
+
+To create transparency on data quality, a tiered quality 
+ranking indicator should be applied to the TOC and TCE 
+variables (Table 4 and Table 5). This is a separate, more 
+detailed indicator than the ISO 14083 “primary/modeled/
+default” qualification and follows the logic of the 
+Pathfinder Framework for data quality, with adjustments 
+to reflect the specificities of the logistics industry. 
+
+The resulting key performance indicator (KPI) will 
+create more clarity on the various data sources and  
+the level of confidence an audience can have in the 
+communicated amount of total CO2e within an  
+end-to-end supply chain.
+
+6 Distribution centers, warehouses, and transport nodes shall use tonnage, items or TEUs as the denominator for throughput. 
+
+3. Performance indicators and data quality20
+
+Table 4: Data quality indicator at a TOC level 
+
+Data quality level
+
+4 - Unsatisfactory
+
+3 - Sufficient
+
+2 - Good
+
+1 - Excellent
+
+Requirements of  
+emission intensity
+
+• Proxy used (e.g., financial 
+
+• Default emission 
+
+• Modeled emission 
+
+• Carrier-specific  
+
+data or global default 
+values)
+
+intensity factors for 
+mode/freight type 
+(e.g., GLEC or regional 
+default data)
+
+Input data to obtain 
+or calculate emission 
+intensity 
+
+• Modeling from invoice 
+
+• Default GLEC factors 
+
+data 
+
+for mode/freight 
+
+• Modeling without 
+
+geographic adaptations in 
+default factors
+
+• Default regional  
+factors for mode/
+freight
+
+emission intensity factor 
+for TOC, which is updated 
+monthly or quarterly or 
+as frequent as deemed 
+necessary
+
+• Primary data calculation 
+for defined TOC using:
+- Energy type and fuel 
+
+emission factor
+
+- Total energy  
+
+consumption within 
+chosen timeframe
+
+- Total transport activity 
+within chosen time-
+frame
+
+intensity factor, using 
+known TOC category 
+with specific asset 
+class, considering (i) 
+empty distance and (ii) 
+load factors
+
+or
+• Carrier-specific annual 
+
+average emission  
+intensity factor for TOC
+
+or
+• Green freight program
+
+• Modeled energy-based 
+factors for defined TOC 
+(in conformance with 
+GLEC Framework)
+
+or
+• Primary data  
+
+calculation for defined 
+TOC using: 
+- Energy type and fuel 
+
+emission factor
+
+- Total energy  
+
+consumption within 
+chosen timeframe
+- Total transport activ-
+ity within chosen  
+timeframe 
+
+Conforming use cases 
+
+• Corporate reporting 
+
+• Selection of alternative 
+
+• Carrier-level  
+
+• Customer reporting 
+
+• Corporate target  
+
+setting and  
+communication 
+
+• Mode selection
+
+fuels/vehicles 
+
+• Horizontal  
+
+collaboration 
+
+• LSP performance 
+
+evaluation
+
+optimization (driver 
+training, routing per 
+leg, or consolidation), 
+conducted by transport 
+operator 
+
+• Supply chain  
+optimization 
+
+• Carrier performance 
+
+evaluation
+
+Table 5: Data quality indicator at a TCE level
+
+Data quality level
+
+4 - Unsatisfactory
+
+3 - Sufficient
+
+2 - Good
+
+1 - Excellent
+
+Origin–destination
+
+• Country level
+
+• City level
+
+• Postal code or planned 
+
+• Postal code/ coordinates/
+
+Weight
+
+Emission intensity  
+factor of TOC 
+
+• Estimated
+
+• Proxy
+
+• Estimated
+
+• Default value
+
+distance
+
+• Actual
+
+planned distance
+
+• Actual
+
+• Modeled or carrier- 
+
+specific annual  
+emission intensity 
+factor
+
+• Carrier-specific emission 
+intensity factor updated 
+monthly or quarterly or 
+as frequent as deemed 
+necessary
+
+3. Performance indicators and data quality21
+
+To interpret and decide where a data set stands on this 
+quality assessment, the above measures shall be seen 
+as a checklist where all conditions must be satisfied 
+(“and” relationship) to meet the required tier. For 
+example, a data set cannot rank “good” if all other 
+conditions are met but the fuel type is unknown and 
+thus a default is assumed. 
+
+The ranking “unsatisfactory” has been included to 
+reflect current realities and approaches undertaken  
+by the industry, but the ranking is neither ISO 14083 
+compliant nor recommended. 
+
+Increasing the data quality level will require organizations 
+to invest significant time and multistakeholder effort to 
+gradually move toward a “good” or “excellent” data 
+quality ranking. It is understood that progress toward 
+better data quality will likely be made over time and 
+require financial commitment, human resource allocation, 
+and IT system upgrades. However, perfect data is not 
+necessary for all decisions. Instead, the required data 
+quality needs to be matched with the corresponding  
+use case and reporting requirements (see below for 
+further details).
+
+If an organization cannot meet the data quality require-
+ments of a specific use case, it is advised to take that 
+into account when communicating the certainty or 
+uncertainty of the outputs. It is crucial to communicate 
+the data quality KPI along with the emissions results to 
+enable clarity for the audience regarding the data input 
+of each use case. It is highly advised to perform the 
+respective actions with the recommended data quality 
+ranking for the input data.
+
+3.2.1  Defining TOC and sample size to  
+calculate emission intensity
+
+There are three main characteristics to define a TOC: 
+mode of transport accompanied by an asset type or 
+class, the operational characteristics (temperature 
+control, contract type, etc.) and the journey type  
+(geography, routing, and distance). For rail transport, 
+the propulsion type is also required. In other modes  
+of transport, the energy source could be used to 
+characterize a TOC but it is not a necessary require-
+ment. By defining a TOC with a mixed energy source 
+and as the fleet gradually decarbonizes, this will be 
+reflected by a decreasing emission intensity over time 
+as long as the carbon intensity of the energy source 
+decreases. On the other hand, a TOC defined with a 
+single energy source can help in understanding and 
+comparing other factors, such as driver efficiency  
+and utilization rates.
+
+When assessing the quality ranking of an emission 
+intensity, ideally 100% of the data stemming from the 
+TOC under study shall be used. The data quality will 
+then represent the full population and all its features. 
+When asset data is missing within the same TOC,  
+it is suggested to at least try to quantify what share  
+of total assets have missing information. The aim is  
+to understand exactly how much knowledge exists at 
+the TOC level and to be confident when communicating 
+the TOC description and its emission intensity to other 
+stakeholders. 
+
+To decide on a sample to calculate the emission  
+intensity when data from the full population of the  
+TOC is not known, the recommendation is to employ  
+the following five steps:
+
+      Consider the energy source(s) of the TOC. If there 
+1
+are multiple energy sources, the TOC can either be 
+split into different, single-energy-source TOCs or be 
+treated as one TOC with multiple energy sources. 
+
+2
+
+3
+
+Count the assets and their total contribution to the 
+total emissions of the TOC. When the assets have 
+been split into multiple TOCs, ensure that the 
+population of each TOC is bigger than 30 or over 
+80% of the data is covered through the sample. 
+Having less than 30 assets in a TOC will mean  
+that this population is very small to sample from  
+and derive statistically significant assertions.  
+In that case, monitoring primary data from all  
+assets is recommended. If that is not possible,  
+using at least 80% to derive the emission intensity  
+is deemed necessary. 
+
+In cases where more than 30 assets exist,  
+the transport operator can choose to take  
+a statistically relevant sample size from the  
+total number of assets (total TOC fleet size).  
+The sample should reflect the total TOC fleet  
+size and be representative of the assets within  
+the TOC. Ensure the sample is reflecting all  
+required operation features (e.g., transport  
+activity, loading rates, and energy consumption).  
+Only then will the operator be able to confidently 
+generalize the results of the sample to the  
+population.  
+
+4
+
+Compute the emission intensity of the sample, 
+based on primary data and assume the same  
+value for the full population of the TOC.
+
+3. Performance indicators and data quality 
+ 
+ 
+ 
+ 
+22
+
+5
+
+Compute the total emissions, and data quality  
+of the TOC using the guidance of Section 3.2.2.  
+and Section 4.1.  
+
+was derived is clear and the audience using these 
+values will be confident in making decisions for their 
+supply chain.  
+
+Example: if both Euro 5 and 6 vehicles are in a 
+composed TOC and the population’s transport 
+activity is 60%-40%, then that ratio shall also  
+be reflected in the sample. The same applies  
+to other characteristics defining the TOC (e.g.,  
+the energy source or size). 
+
+The key takeaway is that the method chosen to reach  
+an emission intensity value and respective data quality 
+indicator shall be methodologically sound and respect 
+the features of a TOC. In addition, by being transparent 
+and communicating those choices to the relevant 
+stakeholders, the context of how the emission intensity 
+
+3.2.2  Data quality assessment of an  
+end-to-end transport chain 
+
+The data quality of an end-to-end transport chain shall 
+be calculated using a weighted average of the individual 
+data quality indices of each TCE based on the respective 
+emissions of each TCE within the total transport chain. 
+With this approach, the transport-chain element’s data 
+quality with the highest emissions will be of most 
+significance to the aggregated data quality value of  
+the full transport chain. See the formula below, which 
+will result in a data quality index of 1-4:
+
+Data quality of transport chain (end-to-end)
+
+= data quality of TCEn*
+
+n                             emissions of TCEn
+1       emissions of the transport chain
+
+∑
+
+3. Performance indicators and data quality 
+ 
+4. Calculation 
+
+guidance: Using 
+primary data
+
+24
+
+4. Calculation guidance:  
+Using primary data
+
+4.1 Introduction: Calculation with 
+primary data
+Many shipments have multiple transport legs in their 
+transport chain, and each TCE may include a different 
+mode or carrier performing the transport. As a result, 
+the calculation of logistics freight emissions for Scope 3 
+reporting can be very complex. 
+
+The reader is encouraged to read the GLEC Framework 
+and ISO 14083 to understand further details. 
+
+This section sets out the five calculation steps required 
+to determine GHG emissions across the supply chain 
+using primary data that corresponds to a “good” or 
+
+“excellent” quality level (Figure 4). To maximize  
+calculation consistency, required data variables and 
+calculation method to be used are specified. 
+
+Since it is not always easy to collect useful primary data 
+from transport service providers, Chapter 5 covers how 
+to deal with such a lack of information per mode. To 
+increase understanding of the Guidance, this includes  
+a recommendation on who should undertake the 
+calculation for each step. In addition, it is suggested 
+and recommended to utilize a Smart Freight Centre 
+accredited partner to ensure calculations are compliant 
+with the GLEC Framework. 
+
+Figure 4: Flowchart representing the calculating and reporting steps 
+
+Repeat end-to-end
+
+1
+
+Set boundaries 
+and goals
+
+2
+
+Define TOC 
+emission 
+intensity value
+
+3
+
+Calculate 
+emissions 
+at TCE
+
+4
+
+Verify and 
+validate your 
+calculation
+
+5
+
+Report 
+and use
+
+A
+B
+
+Map and 
+collect data
+
+Calculate TCE 
+emissions
+
+A
+B
+C
+D
+
+Map and 
+collect data
+
+Determine Fuel
+Emission Factor
+
+Calculate total 
+emissions of TOC
+
+Calculate emission 
+intensity of TOC
+
+Requires input from 
+Transport Operator
+
+4.1.1  Set boundaries and goals (Step 1)
+
+• Condition (ambient, refrigerated, etc.)
+
+The first step is to identify the scope of logistics activities 
+that will be included in the calculation process. For this 
+purpose, it is essential to determine the main objective, 
+namely what the results will be used for and with whom 
+the emission intensity values will be shared and what 
+their reporting activity level is (i.e., internal, B2B, or 
+external reporting). Based on this information and given 
+a single end-to-end supply chain, qualitative selection 
+criteria for TOCs can be established and TOCs can be 
+composed. 
+
+Details on the main features of the transport equipment 
+and journey can be used to help define the TOC. Some 
+of the characteristics to be considered are:
+
+• Freight type (dry bulk, containerized, parcel, volume 
+
+limited, etc.)
+
+• Journey type (long haul, multimodal, short sea 
+
+shipping, last mile, etc.)
+
+• Contract type (full-truck load, less-than-truck load)
+
+Further information regarding definition of the TOC per 
+transport mode can be found in the mode-specific 
+sections (Section 4.2).
+
+The transport chain shall be the complete transport 
+activity to move the freight from origin to destination, 
+broken into sequential TCE and including logistics site 
+operations. Figure 5 shows an example of how to break 
+down a transport chain in the individual elements based 
+on the TOC they belong in.
+
+4. Calculation guidance: Using primary data25
+
+Figure 5: Example transport chain 
+
+End-to-End
+
+Transport chain
+
+Keyresults:
+• Activity (tkm)
+• Emissions (kgCO2e)
+• Emission Intensity 
+   (kgCO2e/tkm)
+• Data Quality ranking
+
+Pre- Carriage 
+to Port
+
+Port to Port 
+Main Leg 
+
+Inland Trans-
+shipment 
+
+Rail Terminal 
+(or port) to 
+Regional DC
+
+Regional(cid:31)
+DC to 
+Warehouse
+
+Warehouse to 
+Store / End 
+Customer
+
+TCE 1
+
+TCE 2
+
+TCE 3
+
+TCE 4
+
+TCE 5
+
+TCE 6
+
+TCE 7
+
+TCE 8
+
+TCE 9
+
+TCE 10
+
+TCE 11
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+4.1.2  Calculate the emission intensity  
+for the TOC and hub operation category (HOC) 
+(Step2)
+
+Summary
+
+The transport operator calculates the CO2e emission 
+intensity for the transport activity of a TOC or HOC.  
+A TOC or HOC consists of groups of similar round  
+trips or logistics sites that are considered over a 
+predetermined period of a quarter, month or other 
+frequency, to provide a representation of how freight 
+transportation services are purchased and delivered.  
+A TOC or HOC emission intensity value should reflect 
+all emissions incurred. This means a TOC includes 
+empty trips within the chosen period of observation. 
+
+If there is no or limited access to primary data, the 
+calculation method by modality should be followed. 
+
+In detail
+
+2A: Collect the data that is needed to calculate the 
+emission intensity
+
+TOCs are decided on and based on the available data. 
+The quality of the data can be classified into four 
+categories: unsatisfactory, sufficient, good, or excellent. 
+Refer to Section 3.2.2 for the minimum calculation 
+requirements. 
+
+7 See Chapter 3 for list of approved sources of emission factors.
+
+Transport operators must update the values for  
+the defined TOCs/HOCs regularly. This data should, 
+depending on the use case, be collected monthly or 
+quarterly or as frequent as deemed required.
+
+2B: Determine the Fuel Emission Factor (FEF)
+
+Since the modalities and the corresponding fuel types 
+used in the TOC/HOC are known, the FEF (kgCO2e per 
+L/kg/kWh) of consumed fuel – which indicates how 
+many kg of CO2e is emitted per unit of fuel – should be 
+obtained from energy producers. Extra attention is 
+needed when matching the fuel consumed with a fuel 
+emission factor; the same units need to be respected. 
+For example, if the fuel is measured in liters, then the 
+FEF has to be expressed in liters too as in kgCO2e per 
+L. Alternatively, matched values should be obtained 
+from approved sources.7 It is important to consider  
+the FEF for the whole life cycle of the consumed fuel, 
+that is, for WTW emissions. This includes extraction, 
+production, transmission, and usage. FEFs shall be 
+expressed in CO2e. 
+
+Emission factors can be obtained from the following 
+sources (in order of priority): 
+
+1   FEF provided by the energy/fuel provider, with 
+associated third-party assurance certificate
+
+2   National or regional emission factors from reputable 
+sources (e.g., UK BEIS, US EIA data, French ADEME, 
+or IEA) 
+
+3    FEFs provided by the GLEC Framework  
+
+(Module 1).
+
+4. Calculation guidance: Using primary data26
+
+2C: Calculate the total CO2e emissions for the TOC or HOC
+
+The CO2e emissions for the TOC and HOC are calculated by multiplying the fuel/energy consumed with the FEF 
+(WTW). It is assumed in this section that the fuel consumption is measured in liters, but other measures are 
+common practice (e.g., kwh or kg). The empty distance and loading factor attributes for transport are automatically 
+included in the calculations as their basis is primary data.
+
+C1   Emissions [kgCO2e] = fuel consumed [L] × fuel emission factor
+
+[
+
+kgCO2e
+L
+
+]
+
+If various fuel types are used in the TOC, the following method should be applied to determine the total emissions:
+
+C2   Transport emissions [kgCO2e]
+
+= (fuel 1 consumed [L] * emission factor fuel 1 [kgCO2e/L]) + (fuel 2 consumed [L]
+* emission factor fuel 2 [kgCO2e/L]) + ... + (fuel N consumed [L]
+* emission factor fuel N [kgCO2e/L])
+
+2D: Allocate the emissions to the transport activity and calculate the emission intensity of TOC 
+
+The emission intensity is used to indicate how polluting the transported shipments in the considered TOC are. In 
+order to calculate the emission intensity, the total transport activity shall be calculated first. The transport activity 
+is the sum of the mass and activity distance of each shipment within the TOC considered (alternative with the same 
+result: total mass shipped multiplied by average transport activity distance or average mass multiplied by total 
+activity distance traveled).8 For hub activity only the transported mass is taken into account. The weight is considered 
+the cargo including packaging as received from the consignor. Additional packaging materials used by the transport 
+operator to support transportation should not be considered. The transport activity shall be calculated as follows 
+(where n is the number of TCE considered within the TOC or HOC): 
+
+D1   Transport activity[tkm] =
+
+n
+
+1∑
+
+transported mass [t]n x transport distance [km]n
+
+D2   Hub activity[t] =
+
+n
+
+1∑
+
+transported massn
+
+In the mail and parcel sector, the transport weight can also be expressed by number of items; in that case, the 
+formula would multiply the average number of items by the total transport distance to obtain the transport activity. 
+In the maritime sector, the transport weight can be calculated by the number of TEUs, meaning that the number of 
+TEUs can be multiplied by the transport distance to obtain the transport activity. 
+
+Next, the emission intensity can be calculated by dividing the total emissions by the transport activity.
+
+D3   Emission intensity of TOC [kgCO2 e/tkm] = 
+
+n         total Transport Emissions [kgCO2e]
+1                  total transport activity [tkm]
+
+∑
+
+8 If the planned distance is not available and only the actual total distance is known, ensure the distance is corrected 
+
+with a distance adjustment factor to avoid underreporting and ensure compliance with ISO 14083.  
+See the modal sections and ISO 14083 for details on distance.
+
+4. Calculation guidance: Using primary data27
+
+D4   Emission intensity of HOC [kgCO2e/t] =
+
+n                   total hub emissions [kgCO2e]
+1                                  total hub activity [t]
+
+∑
+
+The emission intensity resulting from equation 3 is an aggregate value for all shipments included in the TOC. This 
+value can now be shared with shippers whose shipments are represented by the TOC along with the data quality index. 
+
+Repeat step 1 and step C1-D4 to calculate the emission intensities for all TOCs in the transport network. 
+
+4.1.3  Calculate emissions for the TCE, the transport chain, and allocate emissions  
+at a product unit level (Step 3)
+
+Summary
+
+Shippers9 should collect emission intensity values for the TOCs and logistics sites representing the TCEs of their 
+shipments from their transport operators. Using the collected emission intensity values, shippers can calculate the 
+emissions for each of the TCEs of their own shipments and aggregate to the required transport chain and subse-
+quently allocate the emissions at a desired reporting level (e.g., packaging unit or product unit).
+
+In detail
+
+Step 3A: Calculate the emissions for the TCE
+
+A2   Emissions per TCE [kgCO2e] for transport operations
+
+For transport operations, the TOC emission intensity shall be collected from the transport operator for the TCE of 
+kgCO2e
+the shipment and multiplied with the weight of the consignment and the TCE distance.
+tkm
+
+× mass of consignment[t]  ×TCE distance [km]
+
+= TOC emission intensity
+
+]
+
+[
+
+A1   Emissions per TCE [kgCO2e] for hub operations
+kgCO2e
+t
+
+= TOC emission intensity
+
+[
+
+]
+
+× mass of consignment[t] 
+
+For hub operations, the HOC emission intensity shall be collected from the transport operator for the TCE of the 
+shipment and multiplied with the weight of the consignment. 
+
+A2   Emissions per TCE [kgCO2e] for transport operations
+
+= TOC emission intensity
+
+[
+
+kgCO2e
+tkm
+
+Repeat this for each TCE within a transport chain.
+
+A1   Emissions per TCE [kgCO2e] for hub operations
+kgCO2e
+t
+
+= TOC emission intensity
+
+[
+
+]
+
+]
+
+× mass of consignment[t]  ×TCE distance [km]
+
+× mass of consignment[t] 
+
+Step 3B: Aggregate the emissions to the transport chain: end-to-end
+
+For a full end-to-end transport chain, the data needed to calculate logistics emissions on a single TCE shall be 
+collected, which consists of the TOC, the TOC emission intensity, the transport activity (planned distance and mass), 
+and the data quality as mentioned in Table 5. 
+
+For each of the TCEs, calculation steps 3a shall be performed. After calculating the emissions for all TCEs, all TCE 
+emissions shall be added up to obtain the value of total emissions for the transport chain (Figure 5).
+
+9 Shippers are referred to here; however, this also includes LSPs and other freight buyers who act as shippers.
+
+4. Calculation guidance: Using primary data 
+ 
+28
+
+The total emissions of a transport chain – end-to-end supply chain – are calculated by aggregating the individual 
+emissions of each TCE. The emission intensity of the transport chain is obtained by dividing the total transport-chain 
+emissions to the total transport activity.10 The data quality is calculated using a weighted average, weighing for the 
+respective emissions of each TCE. 
+
+B1   Emissions of transport chain (end-to-end) [kgCO2e] = emissions of TCEn
+
+∑
+
+n
+
+1
+
+n
+
+B2   Transport activity of transport chain (end-to-end) [tkm] =
+
+∑
+
+transport activity of TCEn
+
+1
+
+B3   Emission intensity of transport chain (end-to-end) [kgCO2e/tkm]
+
+n
+1
+
+∑ 
+
+  emissions of TCEn 
+  transport activity of TCEn
+
+n
+1
+
+=
+
+∑ 
+
+B4   Data quality of transport chain (end-to-end)
+
+= data quality of TCEn*
+
+n 
+
+1∑
+
+emissions of TCEn 
+emissions of the transport chain
+
+Step 3C (optional): Allocate the total emissions at desired product unit level
+
+In addition, for companies that operate in parcel or product-oriented industries, the packaging unit and amount of 
+product transported will be needed to answer the question of emissions per product or parcel.
+
+Emissions of a transport chain shall be divided by the number of product units to derive the emissions on a product level:
+
+C1   Emissions per product unit [kgCO2e] =
+
+emissions per transport chain [kgCO2e]
+number of product units
+
+prEN 17837:2023 provides further guidance on how to allocate emissions to a specific parcel based on that parcel’s 
+weight and volume, allowing for more accurate and granular allocation.
+
+4.1.4  Verify and validate (Step 4)
+
+The next step is to verify and validate the inputs and outputs of the logistics emissions calculation and reporting so 
+that a company, its customers, and external stakeholders can have confidence in the accuracy of the reporting. 
+Please see Chapter 5 (Assurance) for details. 
+
+ 4.1.5  Use the results for desired reporting purposes (Step 5)
+
+Once the emissions have been calculated, the reader is encouraged to refer to Chapter 4 of the GLEC Framework. 
+The company responsible for reporting has the option to communicate their emissions in a GLEC-conformant way. 
+If the company chooses to stay GLEC conformant, then the GLEC Declaration (GLEC Framework, Chapter 4) shall 
+be used as guidance when declaring the emissions with the addition of the data quality indicator. The aesthetic 
+interpretation (design choices, sequence of presenting emissions data) of the GLEC Declaration in a report or a 
+
+10 Hub emissions are included in the total emissions of a transport chain. The hub 
+activities are not included in the total transport activity of a transport chain.
+
+4. Calculation guidance: Using primary data29
+
+dashboard is up to the judgement of the stakeholder creating the report. However, there is the prerequisite of 
+transparently showing the minimum variables and metrics as stated by the GLEC Declaration. 
+
+Specifically, in the GLEC Declaration section, various cases of communicating the results can be found (e.g., B2B 
+and to external stakeholders). The party who communicates the results is also responsible for clarifying the origin 
+of this information and the extent of accuracy the amounts of CO2e have with the real system they represent. Thus, 
+we advise that the following data quality index (Section 3.1.2) is added to the GLEC Declaration as a mandatory 
+element. In addition, it is welcomed to build on these and include more details as deemed appropriate by each 
+company when communicating its results to interested parties. In case of deviations from the mandatory variables, 
+a company cannot claim GLEC conformity.
+
+4.2 Calculation without primary data (per mode) 
+In Section 4.1, we explained the calculation steps of logistics emissions using actual primary data. However, in practice it 
+can be difficult to obtain primary data; therefore, alternative calculation methods based on modeled or default data can 
+be used. The calculation steps when using modeled or default values are somewhat different than when using primary 
+data and, in addition, modality-specific approaches are required. We will therefore highlight the calculation methods and 
+particularities that arise at mode level if the data variables required in Step 2A are not fully available.
+
+In case the primary data variables are known, the emissions can be calculated directly. However, if primary data 
+variables are missing, modeled or default WTW emission intensity values should be used: 
+
+• Companies should work with carriers to get the actual fuel efficiency or CO2e emission intensity per TOC that 
+
+represent the load factor and empty distance for that network.
+
+• If this is not feasible, then companies can model these data variables using accredited calculation tools.
+
+• Use default factors only if there is no access to more accurate data. Default factors in the GLEC Framework cover 
+
+standard values for empty distance and load factors.
+
+4.2.1  Road 
+
+Road transportation is used in nearly every transport chain. Due the highly fragmented nature of the road transport 
+sector, it might be difficult to obtain primary transport data from carriers and/or LSPs. In such cases, the logistics 
+emissions can be calculated using modeled or default values. This is reflected in the following diagram: 
+
+Figure 6: Road freight flowchart for calculation
+
+Decision points
+
+Process elements
+
+Start
+
+TOC emission 
+intensity known?
+
+Yes
+
+Verify if empty 
+mileage and 
+loading factors 
+are included & 
+adjust if needed
+
+Use it to 
+calculate 
+emissions
+
+Use planned 
+distance and 
+increase by 
+5% distance 
+adjustment factor
+
+No
+
+Fuel 
+consumption 
+of the vehicle 
+known?
+
+No
+
+Yes
+
+Yes
+
+Yes
+
+Go to section 4.1 
+Primary Data 
+calculation
+
+Shipment weight 
+known?
+
+Planned TCE 
+distance known?
+
+Report emission 
+intensity & 
+TCE emissions 
+in tkm
+
+Select 
+applicable 
+emission 
+intensity from 
+defaults 
+
+No
+
+No
+
+Select an 
+appropriate 
+proxy
+
+Use actual 
+distance
+
+Prerequisite is to have a specific time period defined 
+*conversion from TEU to tonnes is possible 
+** ensure the applicable distance adjustment factor are applied if actual  
+     transport distances are used
+
+4. Calculation guidance: Using primary data 
+ 
+30
+
+Specific country programs, such as SmartWay EPA, provide annual emission intensity performance of road freight 
+operators. 
+
+In the GLEC Framework, Module 2, the road emission intensity values [gCO2e/tkm] for WTW are provided for Europe 
+and South America based on the following standardized characteristics: 
+
+• Vehicle type and size
+
+• Empty distance factor
+
+• Consumption factors
+
+• Load factor 
+
+• Fuel type
+
+If limited or no information is known about the actual transportation, the intent is to use the tables to select the 
+default road emission intensity factors for WTW that come closest to the vehicle used to transport the shipment. In 
+this case, the emissions calculation’s data quality is classed as “sufficient.”
+
+For road freight, the planned distance increased by 5% to correct for incidental deviations shall be used, or the 
+actual distance can be used if the planned distance is not known. In case of known deviations, 30% shall be added 
+to the planned distance. In case of calculating empty distance, then the formula to be used is:
+
+Empty distance (%) =
+
+Empty distance (km)
+
+ Empty distance (km)+Loaded distance(km)
+
+Empty distance (km) =
+
+GLEC default % for empty distance * loaded distance (km)
+
+1-GLEC default % for empty distance
+
+TOCs should be composed based on similar characteristics of certain transport activities. In Table 6, we list some 
+characteristics that can be used when selecting shipments for a TOC for road transport.
+
+Table 6: Recommended road freight TOC characteristics
+
+Freight type
+
+Condition
+
+Journey type
+
+Contract type
+
+• Ambient
+• Temperature controlled
+
+• Point to point (long haul)
+• Collection and delivery
+
+• Shared transport
+• Dedicated contract (charter)
+
+• Dry bulk
+• Liquid bulk
+• Containerized
+• Palletized
+• Mass limited, general 
+freight (heavy cargo)
+
+• Volume limited, general 
+freight (light cargo, mail, 
+and parcel)
+
+Mail and parcel sector 
+In the mail and parcel sector, where knowledge of the weight of individual consignments may be limited, the weight 
+can be estimated to enable consistency of the calculation through an end-to-end transport chain. This can be done 
+on the basis of standard product categories used. 
+
+Alternatively, the emissions can also be allocated per item and consider volume in conjunction with weight in the 
+allocation mechanism. In this case, the total emissions incurred on a journey are allocated based on their volume, 
+potentially weight, and the number of items transported. The performance indicator would also need to reflect the 
+GHG emissions or item-kilometers and needs to be applied throughout the transport chain. 
+
+The distance for road freight shall be the planned distance between the loading and unloading point – this also 
+applies to the mail and parcel sector.
+
+EN17837: Parcel Delivery Environmental Footprint (forthcoming) will provide further details on the allocation 
+mechanisms for the mail and parcel sector.
+
+4. Calculation guidance: Using primary data31
+
+4.2.2  Sea 
+
+The following adjustments take place for sea and maritime transport:
+
+• For container vessels, the Clean Cargo methodology provides a set of industry average emission intensity factors 
+
+for maritime container transport per trade lane that are updated annually. Through Smart Freight Centre  
+membership, carrier-specific trade lane factors are accessible.11 When calculating activity for a shipment/
+consignment, if specific mass or weight value is lacking, the equation can be adapted to reflect the common  
+unit in shipping, TEU. Conversion factors from TEU and FEU to tons are available. 
+
+• For other vessel types, default factors for the variable of emission intensity are provided in Module 2 of the GLEC 
+
+Framework.
+
+Figure 7: Sea freight flowchart for calculation
+
+Decision points
+
+Process elements
+
+Start
+
+Emission 
+Intensity 
+available by 
+carrier?
+
+Yes
+
+Use it to 
+calculate the 
+emissions
+
+Use it to 
+calculate 
+emissions*
+
+Use actual 
+distance
+
+Shipment 
+weight 
+known?
+
+Yes
+
+No
+
+No
+
+Yes
+
+Is the vessel
+ a container 
+ship?
+
+No
+
+Use Clean 
+Cargo
+(average / 
+Carrier) 
+emission 
+intensity per 
+port pair**
+
+Check GLEC 
+Module 2 or 
+IMO for default 
+intensity 
+values for 
+ships / fuels
+
+Yes
+
+Distance data 
+known?
+
+No
+
+Report 
+emission 
+intensity & 
+total emissions 
+in tkm / 
+TEUkm
+
+Use standard 
+approach to 
+average net 
+weights*
+
+Use planned 
+distance & 
+add 15% 
+Distance 
+Adjustment 
+Factor
+
+Prerequisite is to have a specific time period defined 
+*conversion from TEU to tonnes is possible 
+** ensure the applicable distance adjustment factor are applied if actual transport distances are used
+
+Table 7: Recommended sea freight TOC characteristics
+
+Vessel type
+
+Freight condition
+
+Service type
+
+• Bulk
+• Chemical tanker
+• Container ship
+• Roll-on-Roll-off
+• Liquified gas tanker
+• Oil tanker
+• Other liquid tanker
+• Breakbulk
+
+• Ambient
+• Temperature controlled
+• Mixed-ambient and temperature-con-
+
+trolled freight
+
+• Scheduled (trade lane)
+• Chartered
+
+11 At the time of writing, there is ongoing development establishing carrier-specific 
+container transport emission intensity factors per port-pair combination. Please 
+see www.smartfreightcentre.org or the latest information.
+
+4. Calculation guidance: Using primary data 
+32
+
+4.2.3  Inland waterways
+
+The scope of the emissions when calculating for this 
+mode should include empty backhauls and vessel 
+repositioning. The GLEC Framework methodology is 
+aligned with the principles of the International Maritime 
+Organization (IMO) guidelines and the US EPA SmartWay 
+Barge Carrier Tool. To ensure comparability, where the 
+methodologies consider tank-to-wheel scope, an 
+adaptation to reflect well-to-wheel should be made. 
+
+When collecting data for the calculation of the respective 
+emissions from inland waterway transport, a lot of 
+similarities are identified with the sea freight. In terms 
+of the weight being transported, the actual weight is 
+preferred; where it is unknown, the conversion from 
+amount of TEU or FEU to weight is advised. For the 
+
+distance, the total should be calculated using actual 
+waterway network distance based on the start and end 
+point of the journey. Where nautical miles are used, 
+conversion to km is advised. 
+
+To calculate the emissions, apart from activity data, the 
+emission intensity is needed. The recommendation is to 
+use carrier-specific emission intensity information. If 
+this is not available, the GLEC Framework recommends 
+specific emission intensity values based on average 
+values of empty distance and load factor. These factors 
+are based on the use of marine fuel oil. If a different 
+fuel or energy is used, then the GLEC default emission 
+intensity factors are not applicable. 
+
+Table 8. Recommended inland waterways TOC characteristics
+
+Vessel type
+
+Freight condition
+
+Service information 
+
+• Bulk 
+• Container 
+• Pallets 
+• Mass-limited cargo 
+• Volume-limited cargo
+
+4.2.4  Air
+
+• Ambient
+• Temperature controlled
+• Mixed-ambient and temperature- 
+
+controlled
+
+• Origin-destination information 
+• Waterway classification 
+• Routing/intermediate stops 
+• For convoys, number of barges
+
+When calculating the emissions from air freight, the 
+GLEC Framework takes into consideration the emissions 
+from the full flight cycle for freight and passenger 
+aircraft, for example, taxiing, take-off, cruising, landing, 
+as well as any other movement related to freight loading 
+and unloading. Any other emissions occurring at 
+airports should be covered by factors related to the 
+logistics sites. The GLEC Framework provides guidance 
+on this, which should be chosen if not more specific data 
+is provided from the airport operators. In addition, as it 
+is stated for the rest of the modalities, the result of 
+emissions from an air freight flight has to be expressed 
+in WTW CO2e emissions to be GLEC conformant.
+
+When selecting data for the final calculation, there are 
+some crucial parameters to be considered and carefully 
+collected. First of all, the distance (with intermediate 
+stops if taken) is very important in the activity calculation 
+of the transport. What is recommended is to use the 
+great-circle distance between the airports. In addition, 
+the exact mass of the freight is also needed as this will 
+
+lead to a more accurate result. Emissions shall be split 
+between passengers and freight, using the provisions 
+outlined in the ISO 14083 standard, which reflects 
+provisions of IATA Recommended Practice 1726. Related 
+to weight, the load factor is also applicable in air freight 
+for both dedicated freighters and passenger aircrafts. The 
+load factors should be provided by air freight operators. 
+
+Obtaining accurate flight numbers to identify the exact 
+journey can significantly help improve the accuracy of 
+emissions calculations as this confirms the distance, 
+intermediate stops, and aircraft type. Air freight opera-
+tors who own the fleet (proprietary fleets) have the 
+benefit of having access to high-quality fuel consump-
+tion data and fuel type. It is recommended that these 
+data are shared with the parties who have a legitimate 
+interest in supporting the calculation of emissions. Fuel 
+data can be multiplied by a WTW fuel emission factor. 
+Dual fuel use is at the moment negligible (1-2% network 
+average), so it is considered acceptable if it is ignored 
+from the calculations.
+
+Table 9: Recommended air freight TOC characteristics
+
+Aircraft type
+
+• Freighter/passenger
+• Model 
+• Engine type
+
+Service information
+
+• Origin-destination information
+• Routing/intermediate stops
+
+4. Calculation guidance: Using primary data33
+
+4.2.5  Rail
+
+Globally, rail transport is gaining popularity and has 
+been gradually growing the past five years. Rail transport 
+can significantly reduce emissions, in particular when 
+powered by renewable energy. Mostly the energy is 
+either electric or conventional fuels such as diesel. 
+Thus, different equipment types require specific 
+emission intensity factors. The GLEC Framework uses 
+the UIC (International Union of Railways) methodology 
+for areas outside the United States, where the method-
+ology by EPA SmartWay Rail Carrier Tool is preferred. 
+These methodologies and tools are deemed appropriate 
+for the modeling of emissions from rail freight.
+
+When calculating rail GHG emissions, specific principles 
+should be considered. First and foremost, the most 
+important step is to define the engine type (or locomotive) 
+and thus, the primary source of energy for the freight 
+train. For electric trains, one can investigate the source 
+
+of electricity to specify if it was renewable or not. Then, 
+the appropriate emission value for that source can  
+be applied. The next step is to find the consignment 
+weight. If no data are available, then the weight can be 
+approximated using other available proxies, such as 
+volume or number of pallets. 
+
+To complete the calculation of activity, the distance also 
+needs to be known. In rail transportation, the distance 
+should reflect actual rail network distances from the 
+beginning and end point taking into account empty 
+distance and loading factor. Overall, modeling rail 
+transportation is a difficult task due to the lack of data 
+and granular default values. Accredited tool providers 
+for rail can support this process. 
+
+Note: Emissions from rail terminals are classified as 
+emissions from logistics sites.
+
+Table 10: Recommended rail freight TOC characteristics
+
+Engine/locomotive
+
+Cargo type
+
+Cargo density 
+
+Journey type
+
+Activities
+
+• Train size
+• Engine class
+• UIC class
+• % of feedstock
+
+• Bulk (dry/liquid)
+• Containers
+• Pallets
+• Mass/volume limited cargo
+
+• Light
+• Medium
+• Heavy
+
+• Domestic
+• International
+
+• Direct or hub network
+• Topography
+• Temperature state
+
+4.2.6  Logistics sites (hubs)
+
+Logistics sites, nodes, hubs, and terminals are all 
+important steps within a transport chain. The emissions 
+are relatively small, but important to incorporate within 
+the total GHG calculation to ensure a representative 
+picture of the total GHG emissions from the operations.  
+
+The emission intensity of a logistics site is expressed in 
+GHG emissions per ton processed or, if considered more 
+appropriate, TEU or item. 
+
+Emission intensity factors are limitedly available and are 
+yet to be determined in greater detail for many types.  
+If emission intensity factors are not available from the 
+carrier or terminal operator, default values can be 
+obtained from the REff Tool,12 the GLEC Framework  
+or other suitable locations. Additional guidance is also 
+available by Fraunhofer IML Guide for Greenhouse Gas 
+Emissions for Logistics Sites.
+
+Table 11: Recommended logistics site HOC characteristics
+
+Processes
+
+Freight type
+
+Condition (temperature)
+
+• Freight transshipment only 
+• Combined passenger and freight transfer 
+• Freight transshipment and storage
+
+• Average/mixed 
+• Containerized/swap bodies 
+• Palletized 
+• Piece goods/breakbulk
+• Dry bulk 
+• Liquid bulk 
+• Vehicle transport 
+• Other 
+
+• Ambient 
+• Temperature controlled
+
+12 REff Tool, developed by IML Fraunhofer: https://reff.iml.fraunhofer.de/ 
+
+4. Calculation guidance: Using primary data 
+5. Assurance and 
+verification 
+
+35
+
+5. Assurance  
+
+and verification 
+
+To resolve the emissions accounting challenges  
+that businesses face today, high-quality (granular,  
+comparable consistent) and reliable data must be  
+able to be shared across value chains. Assurance  
+and verification ensure reliability of data, creating  
+the necessary trust among all stakeholders to drive 
+decarbonization at scale.
+
+Assurance and verification undertaken by independent 
+verifiers can help establish whether emissions have 
+been accounted for in compliance with the GLEC 
+Framework and other relevant standards and  
+accompanying methods.
+
+This section provides guidance on the assurance and 
+verification of emissions taking place in the context of 
+this Guidance.
+
+5.1 Objectives and scope
+
+5.1.1  Objectives
+
+The overarching objective of this section is to define  
+the requirements around assurance and verification  
+of emissions in alignment with the accounting  
+methodology laid out in this Guidance. 
+
+By clearly defining requirements, this Guidance  
+seeks to:
+
+• Establish a common basis and language around  
+  assurance for all stakeholders in the ecosystem 
+• Increase the uptake of emissions assurance practices  
+  across the logistics industry with a multilevel  
+  approach 
+• Provide clarity on best-practice assurance and  
+  verification requirements to support the preparation  
+  process for stakeholders wishing to be aligned with  
+  best practices 
+• Streamline the assurance process by providing  
+  guidance on what evidence companies need to  
+  prepare for an assurance engagement
+
+5.1.2  Scope and limitations
+
+This Guidance defines three separate assurance 
+ambition levels of requirements that companies shall 
+refer to when seeking to comply with the requirements 
+
+of this Guidance. The three levels aim to represent 
+different degrees of ambition and granularity associated 
+with the assurance process to increase emissions data 
+reliability and trust in the overall ecosystem. Because 
+assurance statements are shared across the value 
+chain, companies wishing to distinguish themselves 
+through greater data credibility will be incentivized to 
+go beyond the minimum ambition level of assurance. 
+
+From a practical standpoint, verified emissions data 
+obtained from another logistics supply chain stake-
+holder and used for calculations of a company’s own 
+emissions reduces the transactional cost of a company’s 
+own audit. This is because exchanged emissions do not 
+need to be (re)verified as long as no changes are made 
+to the underlying calculation models and data used by 
+the company that shared the data in the first place.
+
+Finally, this Guidance recognizes that verification of 
+emissions disclosures involves many challenges, 
+including:
+
+• The limited control of companies over emission  
+  sources 
+• Assurers’ limited ability to obtain sufficient evidence  
+  on all necessary items 
+• The evolving scientific consensus on questions  
+  directly affecting emissions disclosures, such as  
+  emission intensity factors 
+• The required subject-matter expertise, which not  
+  all companies and assurers may currently have  
+  at scale
+
+This Guidance seeks to help mitigate these challenges 
+by providing clarity and a reference point. Nonetheless, 
+companies and assurers should continue to collaborate 
+to assure their emissions to the best of their knowledge 
+and to continue to improve emissions disclosure 
+assurance practices throughout the logistics sector. 
+
+It should also be noted that this chapter by itself is not 
+intended to be used as an assurance standard. This 
+Guidance defines the requirements and proposed 
+outcomes of the assurance process (i.e., the “what”  
+of assurance) but does not prescribe the assurance 
+process itself (i.e., the “how” of the assurance process). 
+Assurance providers should therefore refer to additional 
+assurance standards when verifying logistics emissions 
+and the methodology presented in this Guidance. 
+
+5.  Assurance and verification  
+ 
+36
+
+Finally, this chapter exclusively provides guidance around assurance and verification. Companies seeking  
+accreditation should refer to Smart Freight Centre’s Accreditation program. While assurance and accreditation are 
+related, accreditation seeks to determine whether a company’s calculation methodology aligns with the GLEC 
+Framework, while an assurance process seeks to determine whether a specific emissions disclosure is accurately 
+calculated and stated. 
+
+5.2 Assurance ambition levels 
+
+5.2.1  Structure
+
+This Guidance is structured as a framework consisting of three ambition levels, each one encompassing  
+requirements across eight assurance dimensions, as shown in Figure 8, and building on the Pathfinder Framework.
+
+Figure 8: Ambition levels and dimensions of the assurance requirements
+
+Decision points
+
+Ambition levels
+
+Process elements
+
+Start
+
+Yes
+
+Bronze
+
+Emission 
+Intensity 
+available by 
+carrier?
+Lower ambition level
+
+Use it to 
+calculate the 
+emissions
+
+Silver
+
+Use it to 
+calculate 
+emissions*
+
+Mid-ambition level
+
+Gold
+
+Use actual 
+distance
+
+Higher ambition level
+
+No
+
+Yes
+
+Yes
+
+Use Clean 
+Cargo
+(average / 
+Carrier) 
+emission 
+intensity per 
+port pair**
+
+Assurance dimensions
+
+Yes
+
+Is the vessel
+ a container 
+ship?
+
+Coverage
+
+Section 5.2.3
+No
+
+Provider
+
+Section 5.2.7
+
+Shipment 
+weight 
+known?
+
+Distance data 
+known?
+
+Conformance
+
+Section 5.2.4
+
+No
+
+Check GLEC 
+Module 2 or 
+IMO for default 
+intensity 
+values for 
+ships / fuels
+
+Process cycle
+
+Section 5.2.8
+
+Boundary
+
+Section 5.2.5
+
+SMEs requirements
+
+Use standard 
+approach to 
+average net 
+weights*
+
+Section 5.3
+
+No
+
+Section 5.2.6
+
+Use planned 
+distance & 
+Evidence
+add 15% 
+Distance 
+Section 5.4
+Adjustment 
+Factor
+
+Report 
+emission 
+intensity & 
+total emissions 
+in tkm / 
+TEUkm
+
+Verification level
+
+5.  Assurance and verification  
+ 
+ 
+37
+
+5.2.2  Overview
+
+The following table presents an overview of this Guidance’s assurance requirements for the three levels by dimension: 
+
+Table 12: Assurance levels overview
+
+Decision points
+
+Dimensions
+
+Process elements
+
+3     Bronze
+
+2     Silver
+
+1     Gold
+
+Yes
+
+StartCoverage
+
+Emission 
+Intensity 
+available by 
+Extent of the data 
+carrier?
+to be assured
+
+Yes
+
+No
+Conformance
+
+Basis for the 
+assurance
+Is the vessel
+ a container 
+ship?
+
+Boundary
+
+Depth of data 
+No
+to be assured
+
+Level
+
+Degree of 
+confidence
+
+Provider
+
+Entity providing 
+the assurance
+
+Process cycle
+
+Temporal validity of 
+the assurance
+
+Application to SMEs
+
+SME requirements
+
+Evidence
+
+Guidance for
+
+Use it to 
+calculate the 
+emissions
+
+Own operations
+
+Use it to 
+calculate 
+emissions*
+
+Own operations + 
+contracted operations
+
+Use actual 
+Own + contracted + 
+distance
+sub-contracted 
+operations
+
+Yes
+
+Yes
+
+Any recognized standard
+
+GLEC Framework
+
+Use Clean 
+Cargo
+(average / 
+Carrier) 
+emission 
+intensity per 
+port pair**
+
+Shipment 
+weight 
+known?
+
+GLEC Framework
+
+Distance data 
+known?
+
+Well-to-wheel
+
+Well-to-wheel
+
+No
+
+No
+
+Well-to-wheel
+
+Report 
+emission 
+intensity & 
+total emissions 
+in tkm / 
+TEUkm
+
+Check GLEC 
+Module 2 or 
+IMO for default 
+intensity 
+values for 
+ships / fuels
+
+Limited assurance
+
+Use standard 
+approach to 
+average net 
+weights*
+
+Limited assurance
+
+Use planned 
+distance & 
+add 15% 
+Reasonable assurance
+Distance 
+Adjustment 
+Factor
+
+Independent Third Party
+
+Independent Third Party
+
+Independent Third Party
+
+Biannual
+
+Annual
+
+Annual
+
+Phased-in approach for SMEs
+
+All requirements above identically apply to SMEs but with a two-year time lag 
+to allow for capacity building until 2025
+
+Evidence Pack Guidance
+
+Companies should use guidance around evidence consolidation (see Appendix) 
+to facilitate and streamline the assurance process
+
+To interpret and decide the level of assurance to be 
+undertaken, the above requirements shall be seen as  
+a checklist where all conditions must be satisfied  
+(“and” relationship) to meet any given level. For example, 
+
+an assurance cannot be ranked as “Gold” if all other 
+conditions are met, but the assurance level is “Limited.” 
+The following sections provide further details on each 
+dimension and requirement.
+
+5.  Assurance and verification  
+      
+38
+
+strongly encourages conformance with the GLEC 
+Framework as well as additional recognized standards, 
+such as the upcoming ISO 14083. 
+
+Gold 
+Companies shall follow the same requirements as in the 
+silver level.
+
+5.2.5  Boundary
+
+The boundary of the assurance defines the depth of the 
+data to be assured. In line with the GLEC Framework, 
+companies will need to include within their assurance 
+process all WTW logistics emissions. This requirement 
+applies to all three ambition levels.
+
+5.2.6  Level of assurance
+
+The level of assurance defines the degree of confidence 
+in the assurance statement. While this Guidance defines 
+the level of assurance for the three ambition levels, 
+companies should work closely with assurers to deter-
+mine which assurance level is appropriate and feasible in 
+any given situation. Box 1 provides further context on 
+assurance levels.13
+
+Bronze 
+Companies are required to seek limited assurance.
+
+Silver 
+Companies shall follow the same requirements as in the 
+bronze level
+
+Gold 
+Companies shall seek reasonable assurance to fulfill the 
+requirements of this Guidance. 
+
+5.2.3  Coverage
+
+The coverage of the assurance defines the extent of 
+emissions to be included in the assurance process.  
+While the emissions exchanged under this Guidance  
+are expected to result in end-to-end emissions, the 
+boundary of the assurance can be broader, narrower,  
+or equal to the emissions shared. For the purpose of 
+assurance, this Guidance categorizes the coverage into 
+three separate levels: own, contracted, and sub-contracted 
+operations. Sub-contracting refers to the multitiered 
+process of contracting another party when the stake-
+holder (i.e., Carrier A) that was initially chosen by the 
+shipper is unable to conduct a shipment within their own 
+capacity. Thus, subcontracting is the act of assigning a 
+carrier (i.e., Carrier B) outside the initial one (Carrier A).
+
+Bronze 
+Companies shall assure their own operations’ emissions. 
+
+Silver 
+Companies shall assure their own operations and 
+contracted operations. 
+
+Gold 
+Companies shall assure their own operations and 
+contracted and subcontracted operations.
+
+Please note that the verification process will both assure 
+the calculations made and the underlying data. Therefore, 
+while the primary activity data of subcontracted and 
+contracted operations may be more difficult to collect and 
+sometimes unavailable, companies are still expected to 
+estimate these emissions using default or modeled data.
+
+5.2.4  Conformance
+
+The conformance of the assurance defines the  
+reference standard or guidance to be used for the 
+assurance process. 
+
+Bronze 
+Companies shall use any recognized emissions  
+accounting standard as the basis for the logistics 
+emissions assurance. 
+
+Silver 
+Companies shall use the GLEC Framework as the basis 
+for assurance. Companies may be required to undertake 
+additional assurance steps to ensure conformance with 
+other existing standards or regulations, for example, to 
+meet regulatory requirements. This Guidance therefore 
+
+13 Retrieved from ISAE 3000 and related standards such as ISAE 3410.
+
+5.  Assurance and verification 39
+
+Box 1. Assurance levels
+
+Why?
+To ensure all stakeholders understand the degree 
+to which emissions disclosures have been verified. 
+The goal is to enable:
+
+• Companies to plan the assurance process and 
+
+depth of verification they desire
+
+• Assurers to prepare the verification according to 
+
+standardized practices
+
+• External stakeholders, such as downstream 
+
+companies, to understand the reliability of the 
+reported data
+
+emissions disclosures contain any material 
+misstatement based on the applicable criteria. 
+
+• Reasonable: The conclusion of a reasonable  
+
+level of assurance is framed in a positive sense, 
+indicating that, according to the assurer,  
+the emissions disclosures have been prepared 
+according to the applicable criteria in all material 
+aspects.
+
+Table 13 provides an additional overview of the 
+different characteristics of the two levels. 
+
+What?
+There are two assurance levels commonly used in 
+emissions disclosure assurance:
+
+• Limited: The conclusion of a limited level of 
+
+assurance is framed in a negative sense, indicating 
+that the assurer did not find any evidence that the 
+
+How?
+Companies should define which level of assurance 
+they are going to seek before an assurance 
+engagement, in line with the requirements set by 
+this Guidance. The assurance provider may suggest 
+adjustments if they believe the desired level will not 
+be feasible (provided that the minimum 
+requirements of this Guidance are met).
+
+Table 13: Assurance levels comparison
+
+Ambition levels
+
+Level
+
+Aspects
+
+Limited assurance
+
+Reasonable assurance
+
+Opinion statements
+
+Negative
+
+Positive
+
+Application
+
+Process
+
+“Nothing has come to our attention 
+that the assurance statement does 
+not conform with the Pathfinder 
+Framework and contains material 
+misstatements”
+
+“In our opinion the disclosure 
+conforms with all Pathfinder 
+requirements and is fairly stated in 
+all material aspects”
+
+Commonly used for non-financial 
+disclosure
+
+Commonly used in financial 
+disclosures
+
+Limited in scope - different or 
+fewer checks than reasonable 
+assurance
+
+More expansive in scope, e.g., 
+potentially including site visits
+
+5.  Assurance and verification 40
+
+5.2.7  Provider
+
+The provider of the assurance is the entity that verifies 
+the emissions data. When the reporting company also 
+performs the assurance, this is known as first-party 
+assurance. When a party other than the reporting 
+company performs the assurance, this is known as 
+third-party assurance.14 
+
+Companies shall choose an independent third party to 
+conduct the verification process. While first-party 
+quality controls and plausibility checks are encouraged, 
+they do not suffice to fulfill the assurance requirements 
+of this Guidance.
+
+Companies may choose any qualified assurance 
+provider, given that the provider meets the required 
+expertise to conduct an assurance engagement. Proof 
+of such expertise may include previous assurance 
+engagements around logistics emissions, industry-specific 
+knowledge, and technical capabilities in carbon 
+accounting. Section 5.5.3 provides additional details on 
+criteria to consider when selecting an assurance provider.
+
+5.2.8  Process cycle
+
+The process cycle defines the validity period of the 
+assurance statement (e.g., one year or more).
+
+Bronze 
+Companies are required to renew the assurance at 
+least biannually. 
+
+Silver 
+The assurance statement shall be valid for a maximum 
+of one year. The requirement for an annual renewal of 
+assurance on the corporate level aims to be aligned 
+with regulatory requirements such as the EU’s Corporate 
+Sustainability Disclosure Directive (CSRD) and the US 
+Securities and Exchange Commission’s (SEC) proposed 
+rules on nonfinancial disclosures.
+
+Gold 
+Companies shall follow the same requirements as in 
+the silver level.
+
+5.3 Requirements for SMEs
+While this Guidance encourages any company to assure 
+its emissions data according to one of the three levels 
+laid out in Section 5.3, small and medium-sized  
+
+enterprises (SMEs)15 may face additional challenges in 
+meeting assurance requirements due to initial resource 
+and capability constraints. 
+
+To give SMEs time to build the necessary capabilities to 
+fulfill assurance requirements, each requirement as 
+defined in Section 5.2.2 shall become applicable for 
+SMEs two years after the requirement will first come 
+into force for larger corporates, in 2025.
+
+While the assurance levels will not be considered 
+requirements until then, it is strongly encouraged that 
+SMEs begin to prepare to meet the assurance require-
+ments sooner than they are required to by this Guidance. 
+
+5.4 Evidence
+
+5.4.1  Context and purpose
+
+The provision of standardized and relevant evidence to 
+substantiate emissions claims and support the assur-
+ance process is the cornerstone of any verification and 
+assurance process. 
+
+This section is therefore meant to guide companies’ 
+efforts to gather and organize the evidence that might 
+be required in an assurance engagement. This Guidance 
+does not replace any guidance that assurers themselves 
+may provide during an engagement and is not a blueprint 
+for an assurance engagement. Rather, it is meant to 
+help companies prepare for an assurance engagement 
+ahead of time, speeding up and streamlining the 
+assurance process. 
+
+5.4.2  Structure and dimensions
+
+The Guidance on evidence is structured along three 
+dimensions central to verifying emissions disclosures: 
+1   Data: Evidence around the required data elements, 
+sources, and quality of data used in the calculations
+
+2   Methodology: Evidence around the calculation 
+
+steps, results, and assumptions
+
+3   Governance: Evidence around the underlying 
+
+processes used during the calculations, including 
+how data was stored, how quality was ensured, and 
+how risks were mitigated
+
+15 In the context of this Guidance, SMEs are defined in accordance with the latest EU recommendation 2006/361 criteria and thresholds, 
+
+where SMEs are defined as companies that employ fewer than 250 persons and have an annual turnover not exceeding  
+€50 million, and/or an annual balance sheet total not exceeding €43 million.
+
+5.  Assurance and verification  
+41
+
+Each dimension contains five concrete elements that 
+constitute the evidence pack for that dimension. As the 
+maturity of companies’ emissions accounting reporting 
+varies, the evidence pack distinguishes between 
+minimum and optional elements that may bring further 
+clarity to the assurance process. 
+
+before the result is reported or exchanged with other 
+stakeholders. Given that the verification process may 
+take time, depending on the complexity of the underlying 
+emissions disclosure, it is the company’s responsibility 
+to start the assurance process early enough to avoid 
+delays in data exchange. 
+
+5.4.3  Evidence pack
+
+The provision of standardized and relevant evidence to 
+substantiate emissions claims and support the assur-
+ance process is the cornerstone of any verification and 
+assurance process. 
+
+5.5 Process and reporting
+
+5.5.1  Choosing an ambition level
+
+Before beginning the assurance process, companies 
+should define the desired assurance ambition level. 
+While the more ambitious assurance levels are  
+encouraged, companies may choose any assurance 
+ambition level as long as they communicate transparently 
+which level was chosen. The considerations in choosing 
+an ambition level are highly context dependent, but key 
+factors may include:
+
+• The reporting company’s emissions disclosure  
+  maturity (i.e., the degree to which emissions accounting  
+  practices and processes have been established in the  
+  company) 
+• The use case of the emissions data to be assured,  
+  such as reporting or impact assessment 
+• The assurance needs of data users receiving the  
+  emissions data  
+• Resource and time constraints, for example when the  
+  data is meant to be shared with others
+
+Companies are also encouraged to discuss their desired 
+assurance ambition level with potential assurance 
+providers to better understand the feasibility of the 
+ambition level and any steps to be undertaken to reach 
+the desired level. 
+
+5.5.2  Timing
+
+Assurance engagements in the context of this Guidance 
+shall begin after the result to be assured, such as a 
+transport-chain element, has been calculated and 
+
+It may be the case that reporting companies need to 
+share emissions data before it has been assured, for 
+example, to meet contractual obligations or because 
+the timing of the disclosure is predetermined. Companies 
+may share data that has not been assured as long as 
+they transparently communicate with data users to 
+what extent the data has undergone assurance. 
+
+5.5.3  Requirements for choosing assurance 
+providers
+
+While this Guidance does not include specific require-
+ments around choosing an assurance provider, the 
+following criteria may be used to select assurance 
+providers:
+
+• Expertise and experience: 
+
+-  Proven experience conducting assurance  
+  engagements and applying assurance standards 
+-  Capabilities around life cycle assessment and  
+  carbon accounting, as shown by experience,  
+  educational qualifications, and tools used
+
+• Industry and sectoral knowledge: 
+
+-  Understanding of the logistics industry 
+-  Understanding of business operations within the  
+  sector to which the product or corporation belong
+
+• Credibility: 
+
+-  Proof of no conflicts of interest between  
+  assurance provider and reporting company 
+-  Proof of successful conduction of verification  
+  processes
+
+• Capacity:  
+
+-  Enough staff capacity to conduct the assurance  
+  engagement.
+
+5.5.4  Reporting
+
+In line with the Greenhouse Gas Protocol Product 
+Standard, companies shall include the assurance 
+statement in the emissions disclosure. An assurance 
+statement, at the minimum, shall include:
+
+5.  Assurance and verification  
+ 
+ 
+ 
+ 
+42
+
+5.5.5  Special cases of existing assurance
+
+It may be the case that a company needs to verify 
+carbon emissions disclosure for purposes other than 
+adherence to this Guidance, for example, to fulfill 
+reporting or regulatory requirements. If verification  
+has already taken place, even if not for the purposes of 
+end-to-end GHG reporting, the resulting assurance may 
+be used toward the assurance requirements of this 
+Guidance, provided that the existing assurance conforms 
+to, as a minimum, the bronze level requirements at the 
+time the assurance was undertaken. 
+
+• The assurer’s assertion
+
+• The level of assurance
+
+• The assurance provider’s name and the executing 
+
+individuals
+
+• A summary of the assurance process and work 
+
+performed
+
+• The relevant expertise of the assurer
+
+• Any potential conflicts of interest
+
+• The assurance standard applied, if any
+
+• A list of criteria that were evaluated to reach the 
+
+assertion.
+
+The reporting format will depend on the applicable 
+requirements, particularly the coverage requirements.
+
+Companies shall report the assurance statement 
+alongside the emissions disclosure, such as in a 
+sustainability report.
+
+5.  Assurance and verification 6. How to: Supplier-to-
+
+customer end-to-end 
+GHG reporting 
+
+44
+
+6. How to: Supplier-to-
+  customer end-to-end  
+
+GHG reporting
+
+• Distances are calculated using planned distance for 
+road, rail, sea, and inland waterways, and using 
+great-circle distance for aviation between loading and 
+unloading stations using appropriate mapping 
+software. If actual (traveled) distances are used, the 
+transport activity needs to be adjusted to allow for 
+incidental detours and not to underreport emissions. 
+
+• Data quality is expressed in a number between 4 and 
+
+1 for a single consignment of a single TCE. 
+
+• Assurance is designed in 8 dimensions and has 
+different ambition levels to meet organizational 
+requirements. 
+
+• An accredited partner is recommended to help 
+
+advance calculations, allocations, and reporting. 
+
+• Additional guidance can be found in the ISO 14083 and 
+
+the GLEC Framework. 
+
+6.1 Overarching tips
+When undergoing the process of calculating emissions 
+as suggested in Section 4.1, note the following:
+
+• A TOC or HOC consists of multiple vehicles and trips 
+
+or buildings respectively over a period of time  
+(at least one month). A TCE is a single transport leg.  
+A transport chain consists of multiple transport  
+chain elements.
+
+• A difference is made in the calculation, allocation (by 
+mass, items, or TEUs), and reporting of emissions. 
+
+• Transport activity and emission intensity shall be 
+
+reported in ton-kilometers. In specific circumstances, 
+alternative reporting metrics can be chosen. For mail 
+and parcel sectors, this can be reporting in item- 
+kilometers and in the container industry, reporting  
+in TEU-kilometers.
+
+• Mass refers to the actual mass and not the “chargeable 
+weight”, including the producer’s own packaging,  
+but not the packaging required by the transporter. 
+Mass should be known or if not, approximate using 
+standard product categories.
+
+6.2 Example
+
+Figure 9: Example of an end-to-end supply chain
+
+Parcel of 12 kg from Taiwan to Los Angeles
+
+Transport 
+chain
+
+TCE 1
+
+TCE 2
+
+Precarriage 
+to Port
+
+Container 
+Terminal
+
+TCE 3
+
+Sea leg
+
+TCE 4
+
+TCE 5
+
+TCE 6
+
+TCE 7
+
+Container 
+Terminal
+
+Rail leg
+
+Distribution 
+Center
+
+Final mile 
+distribution
+
+6. Supplier-to-customer end-to-end GHG reporting – example45
+
+Organization ‘A-to-Z’ has moved a 12kg parcel traveling from Toufen, Taiwan to a customer in Kansas City and 
+wants to understand which portion of the transport has the highest emission intensity and opportunity to reduce. 
+The organization is a Clean Cargo member and has details from its operations in Taiwan and from its last-mile 
+delivery partner, but no other information available. This would result in the calculation below. 
+
+Table 14. Example calculation of an end-to-end supply chain  
+
+TCE
+
+TOC
+
+1. Toufen,  
+Taiwan 
+– Port of 
+Taipei
+
+Truck, 
+less-than-
+truckload, 
+ambient
+
+Data  
+visibility
+
+Full  
+visibility
+
+Data  
+availability
+
+Emission 
+ intensity
+
+Transport activity and 
+emissions
+
+Data quality 
+
+Primary disaggregated 
+fuel consumption for 
+loaded and empty trips
+
+Emissions: 30L * 
+3.24kgCO2e/L = 97.2kgCO2e 
+for loaded distance
+
+Transport activity: 
+12kg * 100kms = 1.2tkm
+
+1. Excellent
+
+Emissions: 
+1.2tkm * 101gCO2e = 
+121gCO2e
+
+Data used: 
+• Diesel truck 
+• Fuel consumption: 
+
+30L/100km when full, 
+25l/100km when empty
+• 100 kms loaded distance 
+
+and 30 kms empty
+• Average load of 12t 
+• Fuel emission factor of 
+
+3.24kgCO2e/L.
+
+Liters empty running 30 * 
+25/100 = 7.5L
+
+Emissions empty = 7.5 * 
+3.24 = 24.3kgCO2e
+
+Total Loaded + empty 
+emissions = 121.5kgCO2e
+
+121.5kgCO2e/(100km * 
+12kg) = 101gCO2e/tkm
+
+2. Port of 
+Taipei
+
+Container 
+terminal
+
+No  
+visibility
+
+Container terminal  
+operation inferred due  
+to modal shift. 
+
+30.1kgCO2e/container.
+1 standard container (TEU) 
+= 10t
+
+3. Port of  
+Taipei 
+– Port 
+of Long 
+Beach
+
+Container 
+vessel
+
+Clean 
+Cargo 
+member
+
+4. Port of 
+Long 
+Beach
+
+Container 
+terminal
+
+Container 
+terminal
+
+5. Port of 
+Long 
+Beach – 
+Kansas 
+City
+
+Rail, no 
+other 
+details
+
+Default 
+values via 
+ERTAC 
+available
+
+Data used:
+• Default data from GLEC 
+
+Framework used
+
+• Conversion from TEU to 
+
+tonnes
+
+Program data from Clean 
+Cargo on a trade-lane or 
+port-pair basis
+Data used:
+• Carrier-specific data 
+
+from Clean Cargo used 
+(74gCO2e/TEUkm)
+• Distance is 10,960km
+
+Container terminal opera-
+tion inferred due to modal 
+shift
+
+Data used: 
+• Default data from GLEC 
+
+Framework used
+
+• Conversion from TEU 
+
+to tons
+
+Only activity data is known 
+in tkm. ERTAC data is 
+available.
+
+Data used:
+• Data from GLEC Frame-
+
+work used
+
+• Used ERTAC-specific 
+
+value from the carrier: 
+17gCO2e/tkm
+
+• Distance is 2,600km.
+
+74gCO2e/TEUkm 
+
+3. Sufficient
+
+2. Good
+
+Transport activity: 
+12kg
+
+Emissions: 
+12kg / 10t * 30.1kg = 
+36.12gCO2e
+
+Transport activity: 
+10,960TEUkm * 12kg / 
+10t = 13,152tkm
+
+Emissions:
+10,960TEUkm * 
+74gCO2e = 811kgCO2e 
+for 1 TEU
+
+(12kg / 10t) * 811.04 = 
+973.25gCO2e for 12 kg 
+parcel
+
+30.1kgCO2e/container.
+1 standard container (TEU) 
+
+Transport activity:
+12kg
+
+3. Sufficient
+
+= 10t
+
+Emissions:
+12kg / 10t * 30.1kg = 
+36.12gCO2e.
+
+17gCO2e/tkm from ERTAC
+
+3. Sufficient
+
+Transport activity:
+12kgs * 2,600km = 
+31.2tkm
+
+Emissions:
+31.2tkm * 17gCO2e/tkm 
+= 530gCO2e
+
+6. Supplier-to-customer end-to-end GHG reporting – example46
+
+Table 14. Example calculation of an end-to-end supply chain  
+
+TCE
+
+TOC
+
+Data  
+visibility
+
+Data  
+availability
+
+6. Kansas 
+City
+
+Distribution  
+center
+
+No  
+visibility
+
+Last-mile 
+Delivery
+
+Limited 
+visibility 
+
+7. Kansas 
+City – 
+Kansas 
+City  
+(address)
+
+Transshipment center  
+inferred due to modal 
+shift.
+
+Data used: 
+• Default data from GLEC 
+
+Framework used
+
+• 3.4kgCO2e/t.
+
+Modeled fuel consumption 
+for loaded trip – industry 
+average empty trip ratio 
+calculated
+
+Data used:
+• Fuel consumption when 
+loaded = 20L/100km and 
+18L/100km when empty 
+
+• 20 km loaded distance 
+
+and empty km unknown 
+(17% empty running fac-
+tor used)
+
+• Empty Distance of 
+
+4,09kms 
+
+• Average load of 3t
+• Fuel emission factor of 
+
+3,24kgCO2e/L
+
+Transport activity and 
+emissions
+
+Data quality 
+
+3. Sufficient
+
+Transport activity: 
+12kg
+
+Emissions: 
+12kg * 3.4kg/t = 
+40.8gCO2e
+
+Transport activity: 
+12kg * 20kms = 0.24tkm
+
+2. Good
+
+Emissions: 
+0.24tkm * 256gCO2e = 
+61.44gCO2e
+
+Emission 
+ intensity
+
+3.4kgCO2e/t
+
+Emissions: 4L * 3.24Kg-
+CO2e/L= 12.96 kgCO2e for 
+loaded distance
+
+Liters empty running 
+20km / (1-17%) - 100km * 
+18L/100= 0.74L
+
+Emissions empty = 0.74L * 
+3.24 = 2.39kgCO2e
+Total Loaded + empty 
+emissions = 15.35kgCO2e
+
+15.35kgCO2e / (20km * 3t) 
+= 256gCO2e/tkm
+
+Overall 
+Taipei 
+–Kansas 
+City
+
+Overall emission intensity: 
+1,798.73gCO2e / 164.16tkm 
+
+= 
+
+10,96gCO2/tkm
+
+Total transport activity:
+164.16tkm
+
+Total emissions:
+1,799gCO2e
+
+Weighted  
+Average of 
+the data  
+quality: 
+2.29 Good
+
+(121gCO2e * 
+1 Excellent + 
+36.1 * 3  
+Sufficient 
+… 61.44 * 
+2. Good) / 
+1,799gCO2e = 
+2.29
+
+6. Supplier-to-customer end-to-end GHG reporting – example47
+
+6.3 Reporting/declaring emissions
+The results of the calculations can finally be used for reporting and declaring emissions. The results can be used to 
+help understand and optimize their supply chains. The principles of the GLEC Declaration are followed for this, with 
+the additional requirement to report the data quality indicator.
+
+Any transport operator shall therefore report to the shipper the following key metrics:
+
+• Total emissions of the transport chain/TCE 
+• Transport activity of the transport chain/TCE 
+• Data quality indicator of each transport chain/TCE 
+• Emission intensity of each TOC/HOC 
+• Data quality indicator of each TOC/HOC 
+• Definitions of the used TOC/HOC. 
+
+This can be reported at the company, transport chain, and/or TCE level. Digital exchange of emissions shall follow 
+the guidance of the GLEC Data Access and Exchange project.
+
+Figure 10: Example transport chain with reporting requirements
+
+End-to-End
+
+Transport chain
+
+Pre- Carriage 
+to Port
+
+Port to Port 
+Main Leg 
+
+Inland Trans-
+shipment 
+
+Rail Terminal 
+(or port) to 
+Regional DC
+
+Regional(cid:31)
+DC to 
+Warehouse
+
+Warehouse to 
+Store / End 
+Customer
+
+TCE 1
+
+TCE 2
+
+TCE 3
+
+TCE 4
+
+TCE 5
+
+TCE 6
+
+TCE 7
+
+TCE 8
+
+TCE 9
+
+TCE 10
+
+TCE 11
+
+Keyresults:
+• Activity (tkm)
+• Emissions (kgCO2e)
+• Emission Intensity 
+   (kgCO2e/tkm)
+• Data Quality indicator
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+6. Supplier-to-customer end-to-end GHG reporting – example7.  Outlook
+
+7. Outlook
+
+49
+
+Together we can decarbonize logistics. This requires a 
+shared understanding and transparency of the emissions 
+across the supply chains. This Guidance provides a 
+step-by-step practical approach to calculate logistics 
+emissions end-to-end – from an initial supplier to a 
+final customer – compliant with existing methodologies.
+
+• Piloting and testing the Guidance in operational 
+
+situations and across multiple use cases. The newly 
+introduced data quality indicator and the assurance 
+process may be refined to ensure they continue to 
+reflect the progress and maturity of the industry while 
+also increasing ambition for change.
+
+We need to recognize that granular visibility of logistics 
+operations and sharing of logistics emissions data from 
+primary sources is not yet a reality or common practice. 
+The Guidance seeks to reflect this and ensure more 
+transparency can be embedded within daily business 
+practice nonetheless. It is also designed to encourage 
+companies to improve their data granularity, quality 
+and reliability over time as well as enable them to share 
+data seamless across the supply chain.
+
+To drive the process of adoption, Smart Freight  
+Centre and WBCSD will support organizations in this 
+journey by:
+
+• Establishing and designing the associated IT  
+
+infrastructure to enable exchange of product carbon 
+footprints from logistics operations across the supply 
+chain consistent with this Guidance and in line with 
+the work undertaken by PACT.
+
+• Collaborating with supply chain partners and solution 
+providers to deliver concrete decarbonization projects 
+and tracking their impact using this Guidance.
+
+We are encouraged by the collaboration shown in the 
+development of this Guidance and are committed to 
+meet the Paris Agreement and achieve net zero  
+|ogistics, together.
+
+7. OutlookAppendix:  
+Assurance  
+evidence pack
+
+Appendix
+
+51
+
+Appendix:  
+Assurance evidence pack
+
+This evidence pack contains the information that 
+companies should consolidate ahead of undergoing 
+emissions assurance in conformance with this Guidance.
+
+The evidence pack is structured along three dimensions 
+of evidence central to verifying emissions-related 
+disclosures: 
+1   Data: Evidence around the required data elements, 
+sources, and quality of data used in the calculations
+
+2   Methodology: Evidence around the calculation 
+
+steps, results, and assumptions
+
+3   Governance: Evidence around the underlying 
+
+processes used during the calculations, including 
+how data was stored, how quality was ensured, and 
+how risks were mitigated
+
+Each dimension is subdivided into five elements that 
+constitute the evidence pack for that dimension. As the 
+maturity of companies’ emissions disclosures varies, 
+the evidence pack distinguishes between elements that 
+are likely to be needed at a minimum and elements that 
+might be optional as evidence.
+
+Appendix
+
+52
+
+1. Data
+
+Element
+
+Description
+
+Minimum
+
+Optional
+
+Data 
+collection
+
+Primary 
+Data 
+Sources
+
+Default 
+Data 
+Sources
+
+In order to perform an emissions 
+calculation, companies are 
+expected to identify all relevant 
+GHG sources and map the activity 
+data available for each
+
+Inventory of all relevant 
+activity data: weight, 
+distance, mode of 
+transport, consignement
+
+Load factor, level of 
+vehicle details
+
+Understanding which of the GHG 
+sources have been calculated via 
+primary data collection is one of 
+the key purposes of the 
+End-to-End GHG reporting 
+guidance
+
+Comprehensive list of all 
+primary data sources 
+used, including biogenic 
+emissions certificates, 
+if any
+
+Additional information 
+on how and when the 
+data was accessed
+
+Companies downstream want to 
+ensure that default data used for 
+the calculation comes from 
+credible and globally recognized 
+sources
+
+Comprehensive list of all 
+default data sources 
+used
+
+Additional information 
+on how and when the 
+data was accessed
+
+Modelled 
+data
+
+Should primary and default data 
+sources not cover the entirety of 
+the studied emissions, modelled 
+data can be used to fill in the gaps
+
+List of modelled data 
+used and rationale of 
+application
+
+Steps taken to ensure 
+that modelled data used 
+is minimized in future
+
+Data Quality
+
+Companies will need to give 
+evidence of the data quality 
+assessment statement and the 
+steps taken to calculate its data 
+quality ratings
+
+Results of PCF GHG 
+sources materiality 
+threshold assessment 
+
+Overall data quality 
+assessment statement
+
+An individual data quality 
+statement for each GHG 
+source surpassing the 
+materiality
+
+Appendix
+
+53
+
+2. Methodology
+
+Element
+
+Description
+
+Minimum
+
+Optional
+
+Conformance
+
+Standards followed will define the 
+framework requirements and thus 
+the correctness of the steps taken 
+by companies to calculate the PCF
+
+Companies will need to 
+demonstrate alignment to scope 
+boundary conditions prescribed 
+by the Framework
+
+Comprehensive 
+checklist of standard(s) 
+requirements followed
+
+NA
+
+List of scope boundary 
+conditions
+
+Calculation 
+steps
+
+It is essential for companies to be 
+able to specify which calculation 
+method has been followed and 
+produce a list of calculation steps 
+taken to convert logistics activity 
+data into GHG emissions
+
+Selected calculation 
+approach and 
+comprehensive list 
+of calculation steps
+
+Assumptions
+
+A list of assumptions used 
+in calculation to ensure 
+completeness of calculation (e.g., 
+empty running assumptions)
+
+Comprehensive list of 
+assumptions made at 
+each stage
+
+NA
+
+NA
+
+Allocation 
+(optional)
+
+Results
+
+Need to understand whether 
+allocation has taken place to 
+divide emissions to each item 
+within a transport vehicle, and if 
+so, what approach was used
+
+Description of allocation 
+approach followed
+
+NA
+
+Results will allow verification 
+parties to understand whether the 
+calculation steps required by the 
+standard have been completed 
+accurately
+
+Comprehensive list of 
+all intermediate and 
+final results
+
+NA
+
+Appendix
+
+54
+
+3. Governance
+
+Element
+
+Description
+
+Minimum
+
+Optional
+
+Data 
+Governance
+
+Quality 
+Control
+
+Expertise
+
+Capacity
+
+In order to ensure replicability and 
+facilitate knowledge transfer, 
+companies should have in place 
+a data governance plan mapping 
+the data processes, ownership 
+and responsibilities, as well as 
+documentation on the steps taken 
+to consolidate and validate 
+different data inputs, e.g., from 
+different sites
+
+Internal mechanism in place to 
+ensure quality control takes place 
+and that responsibilities associat-
+ed to it are clear
+
+There is a need to ensure that the 
+team employed to undergo the 
+calculation process has sufficient 
+expertise in the subject in order to 
+minimize emission misstatements
+
+When asked, companies should be 
+able to list internal and contracted 
+team members (if any) responsi-
+ble for the product footprint 
+calculations
+
+Comprehensive 
+map of all processes and 
+responsibilities
+
+NA
+
+Comprehensive list of all 
+data consolidation steps 
+and rationale
+
+NA
+
+NA
+
+NA
+
+Comprehensive list 
+of controls and 
+responsibilities
+
+Total years of expertise 
+within team employed to 
+undergo emissions 
+calculation
+
+List of all responsible 
+individuals
+
+Risk 
+Management
+
+Companies need to be able to 
+identify potential shortcomings 
+or pitfalls associated to the PCF 
+calculation process in order to 
+be able to address them
+
+Comprehensive list of 
+all risks and mitigation 
+tactics
+
+Progress against 
+mitigation tactics 
+employed
+
+Smart Freight
+Centre
+
+Led by Smart Freight Centre
+
+

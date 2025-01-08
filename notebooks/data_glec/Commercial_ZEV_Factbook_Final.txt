@@ -1,0 +1,3545 @@
+Zero-Emission 
+Commercial Vehicles
+The Time Is Now
+
+A factbook for investors
+
+September 18, 2024
+
+Contents
+
+Zero-emission commercial vehicle market
+
+Policies
+
+Manufacturers
+
+Charging
+
+Technology and economics
+
+Financing fleet electrification
+
+Appendix
+
+1
+
+BNEF
+
+4
+
+16
+
+20
+
+26
+
+29
+
+41
+
+52
+
+About this report
+
+Road freight remains central in supporting economic activity around the world, but the trajectory of the sector’s carbon 
+emissions currently does not align with net-zero targets set by governments globally. 
+
+This report documents the state of the zero-emission commercial vehicle market to help decision-makers navigate the 
+nascent sector. It shows that despite economic and infrastructure challenges, the transition to cleaner road freight has 
+started and is gathering pace. While progress varies widely between countries and segments, opportunities are emerging for 
+market participants in all parts of the value chain including fleet financing. 
+
+The report was produced by BloombergNEF commissioned by the Dutch Ministry of Infrastructure and Water Management 
+and in partnership with Smart Freight Centre.
+
+Dutch Ministry of Infrastructure and Water Management, responsible for the implementation of the mobility 
+agreements of the Dutch Climate Agreement.
+
+Smart Freight Centre (SFC) is a globally active non-profit organization for climate action in the freight sector. Our 
+goal is to mobilize the global logistics ecosystem, in particular our members and partners, in tracking and 
+reducing its greenhouse gas emissions. We accelerate the reduction of logistics emissions to achieve a zero-
+emission global logistics sector by 2050 or earlier, consistent with 1.5° pathways.
+
+BloombergNEF (BNEF) is a strategic research provider covering global commodity markets and the disruptive 
+technologies driving the transition to a low-carbon economy. Our expert coverage assesses pathways for the 
+power, transport, industry, buildings and agriculture sectors to adapt to the energy transition. We help commodity 
+trading, corporate strategy, finance and policy professionals navigate change and generate opportunities.
+
+2
+
+BNEF
+
+Introduction and key messages
+
+Sales of medium and heavy trucks with zero tailpipe emissions are 
+growing fast, but the market is still in the early stages. Adoption 
+varies widely between countries and vehicle use cases, though 
+economics are steadily improving as battery prices fall. There is a 
+growing opportunity for creative financing and business models to 
+help this market scale up. 
+
+● Emissions from commercial vehicles are set to become the largest 
+contributor to road transport’s CO2 footprint, surpassing passenger 
+cars in the coming years. Without further action, the medium- and 
+heavy-duty truck sector is far from a trajectory consistent with net-zero 
+carbon emissions by 2050.
+
+● Zero-emission truck sales were close to 38,000 units globally in the 
+first half of 2024 and are set to be just over 1.5% of total sales in 
+2024. Sales in China account for more than 80% of global volume, 
+with adoption approaching 5.5% in the first half of 2024. In Europe, 
+sales are concentrated in a handful of countries, while the US market 
+shows only limited market growth. 
+
+● Battery-electric trucks accounted for more than 90% of zero-emission 
+medium and heavy truck sales in 1H 2024. Fuel-cell trucks have 
+mostly been sold in China, where subsidies and availability of 
+hydrogen fuel as a by-product from industrial operations have 
+supported the market. Battery swapping is also playing a role. 
+
+● Prices for commercial vehicle batteries in China are the lowest 
+
+globally at $100 per kilowatt-hour, but prices elsewhere have been 
+declining faster. BNEF expects battery packs for trucks to cost as 
+little as $88/kWh by 2030.
+
+● Electric trucks are quickly becoming economically competitive to 
+
+equivalent diesel vehicles, starting with shorter routes. Even before 
+2030, heavy-duty long-haul battery trucks can also reach total cost of 
+ownership parity. Fuel-cell truck costs may also drop by that time, 
+but the decline trajectory is far less certain.
+
+● Manufacturers have set ambitious targets for zero-emission truck 
+
+sales by 2030 and beyond. However, progress varies and remains 
+limited for some large truckmakers. Strict emissions standards in 
+Europe and the US should kickstart stronger growth.
+
+● While zero-emission vehicle economics improve, capital cost and 
+
+refueling challenges remain. But new business models and financing 
+structures are emerging to tackle such hurdles. These include 
+partnerships between fleet owners and operators to co-develop 
+refueling stations, raising financing supported by fleet utilization 
+agreements, and extending the revenue potential of vehicle batteries 
+by reusing them in stationary energy storage applications. Fleet 
+owners and investors that grab the early opportunities help create 
+the necessary scale for themselves and the market to sustain further 
+growth.
+
+3
+
+BNEF
+
+Zero-emission 
+commercial 
+vehicle market
+
+Sales grow fast, but 
+progress varies
+
+4
+
+BNEF
+
+Zero-emission commercial vehicle market
+
+Commercial vehicles are a growing 
+share of road transport emissions 
+Distribution of CO2 emissions from road 
+transport
+
+100%
+
+90%
+
+80%
+
+70%
+
+60%
+
+50%
+
+40%
+
+30%
+
+20%
+
+10%
+
+0%
+
+Global road transport emissions reached 6.3 gigatons of CO2 (GtCO2) 
+in 2023, surpassing their previous high set in 2019.
+
+The global fleet of 1.3 billion passenger cars emitted the bulk of that 
+CO2 last year. Electric vehicles are starting to impact these emissions 
+in the passenger car segment. EV sales this year will reach 16.6 million, 
+accounting for just under 20% of new car sales and about 4% of the 
+global car fleet according to recent BNEF analysis.  
+
+Buses, 2-/3-wheelers
+
+Commercial vehicles
+
+Passenger vehicles
+
+CO2 emissions from commercial vehicles are set to overtake passenger 
+cars as the largest emitting sector in road transport by 2040, despite the 
+fact that the commercial vehicle fleet remains just under a quarter the 
+size of that of passenger cars.
+
+More than 250 million vans and trucks were on the road at the end of 
+2023, and accounted for just over 40% of CO2 emissions from road 
+transport. Low- and zero-emission technologies are being adopted at a 
+much slower rate than in cars, buses and other vehicles. 
+
+By 2050, the commercial vehicle fleet will grow by more than a third. 
+While efficiency improvements and electrification can offset some of 
+that growth, without further progress such vehicles would emit almost 
+2.2GtCO2, only slightly less than in 2023.
+
+2023
+
+2050
+
+Source: BloombergNEF’s 2024 Electric Vehicle Outlook Economic Transition 
+Scenario (ETS). Note: Includes emissions from fuel combustion and upstream 
+emissions from electricity generation. The ETS assumes no new policy intervention.
+
+5
+
+BNEF
+
+Zero-emission commercial vehicle market
+
+Global heavy commercial vehicle sales 
+stabilize from 2023 highs
+Global sales of commercial vehicles by 
+region
+Million units
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+Rest of World
+
+Brazil
+
+Australia
+
+South Korea
+
+Japan
+
+India
+
+Europe
+
+China
+
+US
+
+2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+
+Source: BloombergNEF; see full list of sources in the Appendix. Note: Figures 
+for 2024 are BNEF estimates. ‘Europe’ is the EU 27, the UK, Norway, 
+Switzerland, Iceland and Liechtenstein.
+
+6
+
+BNEF
+
+Global medium- and heavy-duty truck sales grew nearly 20% and 
+exceeded 5 million vehicles in 2023, surpassing their previous highs in 
+2021. Fleet replacements and solid levels of economic activity 
+supported demand for goods transport and other activities in several 
+countries. 
+
+China and the US are by far the largest truck markets globally, 
+accounting for 17-22% of total 2023 and 1H 2024 sales. India and the 
+combined European market were at about 7-8% of global sales each.
+
+Growth patterns differs markedly between countries. In more mature 
+markets like some European countries, the US and even China, sales 
+are driven by replacements and modest growth. In emerging and 
+developing countries, truck sales follow overall economic growth. 
+
+In this report, we account for medium- and heavy-duty commercial 
+vehicles and exclude light-duty commercial vehicles, such as delivery 
+vans, and buses. Sales and fleet in the latter segment are about twice 
+as large as those of all kinds of trucks combined. While vans and trucks 
+share some similar technology options to reduce emissions, they also 
+differ markedly in engineering, manufacturing, energy requirements and 
+customization. 
+
+Zero-emission commercial vehicle market
+
+The global commercial vehicle fleet 
+continues to grow
+Global fleet of commercial vehicles by 
+region
+Million units
+90
+
+80
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+Rest of World
+
+Brazil
+
+Australia
+
+South Korea
+
+Japan
+
+India
+
+Europe
+
+China
+
+US
+
+0
+2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+
+Source: BloombergNEF; see full list of sources in the Appendix. Note: Figures 
+for 2024 are BNEF estimates. ‘Europe’ is the EU 27, the UK, Norway, 
+Switzerland, Iceland and Liechtenstein.
+
+7
+
+BNEF
+
+The global truck fleet, including medium- and heavy-duty trucks and 
+excluding delivery vans and buses, exceeded 83 million vehicles in 
+2023, growing just under 3% from the previous year. The US is home to 
+most medium- and heavy-duty trucks, at about 18% of the global fleet, 
+followed by China, Europe and India. 
+
+The global fleet size depends on the demand for goods movement, 
+which increased 1.7% in 2023, with activity levels now back on their 
+pre-2019 long-term trajectory. Growth centers are gradually shifting 
+towards developing and emerging economies, where heavier trucks 
+become more common as logistics infrastructure continues to improve.
+
+Such growth patterns are affecting the adoption of cleaner propulsion 
+technologies for commercial vehicles. In countries with more modest 
+sales and fleet growth, such as the US and some European markets, 
+new powertrains enter the mix by substituting existing vehicles. 
+
+In contrast, in many countries that are set to experience the strongest 
+demand, especially for heavier vehicles, new trucks are also used to 
+satisfy additional demand for goods movement and services.
+
+Zero-emission commercial vehicle market
+
+Low- and zero-emission commercial vehicle sales 
+are growing, but are relatively low outside of China
+Global sales of zero-emission medium-
+and heavy-duty trucks by region
+Units
+25,000
+
+The global market for low- and zero-emission trucks has been steadily 
+growing over the last three years. In 1H 2024 it was more than 16 times 
+larger than in the same period of 2021. 
+
+20,000
+
+15,000
+
+10,000
+
+5,000
+
+0
+
+Other
+
+US
+
+Europe
+
+China
+
+1Q 3Q 1Q 3Q 1Q 3Q 1Q 3Q 1Q 3Q 1Q
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+Source: BloombergNEF; see full list of sources in the Appendix. Note: Europe is 
+the EU 27, the UK, Norway, Switzerland, Iceland and Liechtenstein.
+
+8
+
+BNEF
+
+China is the largest market for battery and hydrogen truck, accounting 
+for more than eight out of 10 such vehicles sold globally in 1H 2024. 
+Sales of zero-emission trucks in the country have grown continuously 
+year-on-year since 2021. Domestic manufacturers including SANY, 
+XCMG and others dominate the market with advanced products 
+benefiting from the country’s mature battery supply chain.
+
+Sales in Europe picked up in 2022 and 2023 from a low base to about 
+8,000 e-trucks. Incumbent truck manufacturers – particularly Volvo, but 
+also Daimler and Ford – hold large market shares in the region. 
+
+The US market for zero-emission trucks is small, with about 1,000 units 
+sold in 1H 2024. The market lacks supply of suitable models, and a few 
+startup manufacturers have failed yet to scale-up production.
+
+In other countries, electric trucks remain a niche market, with just a few 
+dozen units sold in Japan, India, Canada and Australia. Chinese e-truck 
+makers are already looking to global markets in Southeast Asia and 
+South America to export their battery trucks. 
+
+Zero-emission commercial vehicle market
+
+Battery trucks account for most of 
+commercial ZEV sales globally
+Global sales of zero-emission medium-
+and heavy-duty trucks by fuel
+Units
+25,000
+
+Fully electric vehicles (battery-electric vehicles, or BEVs) account for 
+most low- and zero-emission trucks globally. Mature battery supply 
+chains and deep know-how gained through the passenger car industry 
+have made batteries the technology of choice for zero-emission trucks. 
+
+20,000
+
+15,000
+
+10,000
+
+5,000
+
+0
+
+1Q 3Q 1Q 3Q 1Q 3Q 1Q 3Q 1Q 3Q 1Q
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023 2024
+
+Source: BloombergNEF; see full list of sources in the Appendix.
+
+9
+
+BNEF
+
+Fuel cell
+
+Plug-in hybrid
+
+Battery electric
+
+Battery technology experience and maturity has led to performance 
+capabilities that can satisfy an increasingly wide range of use cases. 
+Short-haul and urban routes are most of the early applications. Vehicles 
+with least 500 kilometers of driving range from one charge have been 
+launched in Europe and the US, but their availability remains low. 
+
+While such trucks haven’t been in operation for long, e-bus and e-truck 
+fleet operators spoken to for this research indicated that battery 
+performance is as good as, or better than, manufacturer specifications.
+
+Fuel-cell trucks were about 5% of global low- and zero-emission truck 
+sales in 1H 2024. Volumes outside of China are minimal, as 
+manufacturers have yet to increase production, while hydrogen supply 
+remains uncertain and expensive. 
+
+Plug-in hybrid trucks were about 3% of global ZEV sales in 1H 2024. 
+Sales took place almost exclusively in China, and these models were 
+barely available in previous years.
+
+Zero-emission commercial vehicle market
+
+Fuel-cell truck sales are concentrated 
+in China
+Global sales of fuel cell commercial 
+vehicles
+Units
+2,000
+
+1,800
+
+1,600
+
+1,400
+
+1,200
+
+1,000
+
+800
+
+600
+
+400
+
+200
+
+0
+
+Other
+
+US
+
+Europe
+
+China
+
+1Q 3Q 1Q 3Q 1Q 3Q 1Q 3Q 1Q 3Q 1Q
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+Source: BloombergNEF; see full list of sources in the Appendix. Europe is the 
+EU 27, the UK, Norway, Switzerland, Iceland and Liechtenstein.
+
+10
+
+BNEF
+
+Many global manufacturers have plans to offer fuel-cell trucks, but sales 
+have been concentrated in China so far. High upfront vehicle costs and 
+refueling costs have been the major barriers to wider adoption. China’s 
+fuel-cell truck market is dominated by local players such as Yutong and 
+FAW. Manufacturing subsidies offered by some provincial governments 
+helped to scale production in the past two years, driving China’s total 
+fuel-cell truck sales to over 3,000 vehicles in 2023.
+
+Current use cases for hydrogen trucks are mostly confined to urban and 
+closed loop settings due to lack of refueling infrastructure. In China, 
+some companies use grey hydrogen, an industrial by-product, to 
+operate their fuel-cell trucks, since green hydrogen is expensive and 
+rarely available.
+
+Some Chinese provinces started exempting H2 trucks from road tolls in 
+2024 to encourage their use in regional and long-haul duty cycles. This 
+could somewhat alleviate the high operating costs of these vehicles.
+
+In the US, Nikola has delivered over a hundred hydrogen trucks so far 
+in 2024, while providing customers with mobile refuelers as a temporary 
+solution. The market in Europe was of similar size in 1H 2024, with a 
+few dozen fuel-cell trucks registered.
+
+Zero-emission commercial vehicle market
+
+Adoption rates differ widely between countries, 
+with China and the Nordics far ahead of the rest
+Sales share of low- and zero-emission 
+commercial vehicles by region
+
+Electric truck adoption is rising globally, but patterns vary widely by 
+country. E-trucks were just under 2% of total truck sales in 2Q 2024.
+
+6%
+
+5%
+
+4%
+
+3%
+
+2%
+
+1%
+
+0%
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+US
+
+China
+
+Europe
+
+Total
+
+Catalysts to early adoption in different countries include the presence of 
+manufacturers, value chain maturity, availability of charging 
+infrastructure and policy incentives. 
+
+China leads e-truck sales globally in absolute volume. The country’s 
+mature battery supply chain supports standardization of batteries and 
+charging, which have enabled sales of trucks with swappable batteries. 
+
+Norway boasts the highest adoption rate of e-trucks in 2024. The 
+presence of Volvo and Scania in Nordic countries, has helped lift e-truck 
+sales in the region. However, adoption in Europe is highly uneven 
+between countries.
+
+In the US, the zero-emission truck sales share is among the lowest 
+among advanced trucking markets. Current policies, such as financial 
+support for purchasing trucks in some states and California’s mandates, 
+have yet to kickstart the market. 
+
+Source: BloombergNEF; see full list of sources in the Appendix. Note: adoption 
+rate in 2024 is between January and June. Includes battery-electric, fuel-cell 
+and plug-in hybrid vehicles.
+
+Elsewhere, electric and hydrogen truck sales are patchy and low. A few 
+Chinese manufacturers expanding beyond their domestic market have 
+delivered most e-trucks in other countries. 
+
+11
+
+BNEF
+
+Zero-emission commercial vehicle market
+
+A pragmatic approach to zero-emission 
+trucks has supported sales in China
+Sales of battery-electric heavy-duty 
+trucks in China by refueling type
+
+Units
+
+35,000
+
+30,000
+
+25,000
+
+20,000
+
+15,000
+
+10,000
+
+5,000
+
+0
+
+2020
+
+2021
+
+2022
+
+2023
+
+Source: BloombergNEF, Evpartner.
+
+12
+
+BNEF
+
+Battery swapping has been part of China’s electric truck growth story. In 
+2023 around half of the more than 30,000 heavy-duty e-trucks sold in 
+the country were battery swappable models.
+
+Charging only
+
+Battery
+swapping
+
+The technology offers short refueling time, lower upfront cost and the 
+potential to optimize the timing and cost of charging. All these can 
+improve an e-truck’s utilization and lower its total cost of ownership. 
+
+Battery swapping can also help separate the cost of the truck from that 
+of the battery, and lower the electrification requirements for smaller 
+fleets by as much as two-thirds of the cost of an e-truck in China. 
+Battery swapping banks can potentially help stabilise the grid. 
+
+This requires standardized battery systems and recycling networks, 
+where third-party operators – so-called battery banks – can provide 
+rental services and take on battery residual value risk. While in China 
+CATL batteries for trucks are generally accepted by battery banks, other 
+customized designs in the country and abroad may not be as 
+transferrable.
+
+Government backing is important in deploying and scaling up the 
+technology, due to the high initial capital costs for the swap stations, the 
+need for standardization and the requirement for electric utility 
+involvement. 
+
+Zero-emission commercial vehicle market
+
+E-truck adoption is high in some European 
+countries, but the market remains fragmented
+Electric and fuel-cell truck share of sales, 
+1H 2024
+
+Electric and fuel-cell truck sales, 
+1H 2024
+
+Source: BloombergNEF; see full list of sources in the Appendix.
+The European zero-emission truck market grew 2.5 times from 2022 to 2023. Growth has since slowed to 30% in 1H 2024 and adoption has been 
+around 2.1-2.3% of total sales for the last four quarters until 2Q 2024. Adoption and growth rates differ widely between countries. E-trucks exceeded 
+4% of sales in several countries, with over 10% in Norway in 1H 2024, and they were comparatively high in the UK and Germany at around 2.5% and 
+3.5% respectively. But for many countries sales remain very low. In Poland, which has the largest truck fleet in the Union, e-truck sales were just a 
+few tens of units in 1H 2024. 
+
+Source: BloombergNEF; see full list of sources in the Appendix.
+
+Early adopters and companies with green obligations, such as decarbonization targets or zero-emission terms in contract bidding, mostly support the 
+market, with operations in urban distribution, municipal services and construction.
+
+13
+
+BNEF
+
+01,0002,0003,0004,0005,000NorwaySwitzerlandDenmarkSwedenNetherlandsGermanyUKTotalAustriaIcelandBelgiumSpainFinlandFrancePoland0%2%4%6%8%10%12%NorwaySwitzerlandDenmarkSwedenNetherlandsGermanyUKTotalAustriaIcelandBelgiumSpainFinlandFrancePolandZero-emission commercial vehicle market
+
+The US e-truck market struggles to grow 
+despite California’s upcoming mandates
+Electric and fuel-cell truck sales and 
+share of sales in the US
+Units
+
+Share of sales
+
+600
+
+500
+
+400
+
+300
+
+200
+
+100
+
+0
+
+1Q 2Q 3Q 4Q 1Q 2Q 3Q 4Q 1Q 2Q 3Q 4Q 1Q 2Q
+
+2021
+
+2022
+Electric
+
+2023
+
+2024
+
+Fuel-cell
+
+Source: BloombergNEF; see full list of sources in the Appendix.
+
+14
+
+BNEF
+
+0.3%
+
+0.2%
+
+0.1%
+
+0.0%
+
+The market for electric and hydrogen trucks in the US remains far 
+smaller than in Europe and China, with fewer than 1,000 vehicles sold 
+in 1H 2024 across the country. 
+
+California’s sales mandates, which have been adopted by another 10 
+states, are already in place and require between 5% and 9% of sales to 
+be zero-emission already in 2024. Sales in California accounted for over 
+6% of the trucks sold in the US in 2023.
+
+Battery trucks are mostly used as drayage vehicles in and around ports, 
+and for distribution of food, beverage and consumer products. In 
+particular, ports have been an area of focus for fleets and 
+manufacturers, following funding programs including those provisioned 
+by the Inflation Reduction Act.
+
+Fleet buyers are based in California, but also in various other states 
+such as Texas, and along the East Coast, including in New York and 
+New Jersey. 
+
+Hydrogen trucks are deployed in the US in larger numbers than in 
+Europe, thanks to sales from Nikola. Since hydrogen refueling
+infrastructure is patchy, the company is providing products to store and 
+dispense hydrogen as well.
+
+Zero-emission commercial vehicle market
+
+Electric truck sales in other countries 
+are low, but in some ambitions are high
+Zero-emission truck sales
+Units
+
+1,800
+
+1,600
+
+1,400
+
+1,200
+
+1,000
+
+800
+
+600
+
+400
+
+200
+
+0
+
+2021
+
+2022
+
+2023
+
+1H 2024
+
+Source: BloombergNEF; see full list of sources in the Appendix.
+
+15
+
+BNEF
+
+Zero-emission trucks have also been sold in Japan, India, Australia and 
+Brazil. The market for such vehicles remains small and patchy, as one-
+off deliveries to larger fleets distort quarterly volumes.
+
+Brazil
+
+South Korea
+
+Australia
+
+Japan
+
+India
+
+In Japan, the recent introduction of Fuso’s updated eCanter contributed 
+to a spike in sales in 2023. Beyond that vehicle, few suitable electric 
+and hydrogen truck models are available and sales in 1H 2024 have 
+been far fewer. 
+
+In Brazil, a market for electric trucks has existed since at least 2021. 
+The few hundred units sold annually come mostly from Chinese 
+manufacturers. Companies such as JAC and Foton captured most of 
+the electric truck market with models in the medium-duty segment. 
+
+In India, cleaner commercial vehicles have started to get some attention 
+as well. The electric van market has been growing on the back of a new 
+model introduced by Tata, while a new heavier-vehicle manufacturer, 
+Tresa Motors, recently received an order for 1,000 heavy-duty electric 
+trucks from logistics company JFK Transporters. 
+
+Such examples of early adoption demonstrate the importance of 
+suitable model availability in the nascent zero-emission commercial 
+vehicle market. 
+
+Policies
+
+Pressure ramps up
+
+16
+
+BNEF
+
+Policies
+
+Global policies aimed at cleaning up 
+road freight are rising
+Number of policies for low- and zero-
+emission commercial vehicles
+Number of policies
+70
+
+Policy support for zero-emission commercial vehicles has been uneven 
+globally but is rising. More than 60 related policies are in place 
+worldwide, spanning a combination of vehicle, infrastructure and 
+operational incentives.
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+Source: BloombergNEF, government filings, news reports. Note: ‘EMEA’ refers 
+to Europe, Middle East and Africa; ‘APAC’ is Asia Pacific; ‘AMER’ is Americas.
+
+17
+
+BNEF
+
+Manufacturing or purchase subsidies for electric trucks have been 
+available in China, Europe, and the US, such as point-of-sales vouchers 
+in California and New York. These can help small fleets cover the high 
+upfront costs of e-trucks. 
+
+EMEA
+
+APAC
+
+AMER
+
+As subsidies become costly to sustain longer term, governments in 
+China and Europe have transitioned to offer operational incentives. For 
+example, the EU is rolling out emissions-based road tolls for trucks 
+starting in 2024. 
+
+Refueling infrastructure incentives are also being implemented that 
+include standalone truck charging targets, such as the Alternative Fuels 
+Infrastructure Regulation in the EU and the National Zero-Emission 
+Freight Corridor Strategy in the US. However, subsidies in some 
+countries bundle truck purchasing and charging installation. This can 
+delay deployments due to the typically longer timelines for infrastructure 
+setup. 
+
+Policies
+
+Ambitious CO2 emissions targets for 
+trucks are in place in major markets
+CO2 emissions targets and zero-
+emission truck sales and fleet mandates
+
+Country  or 
+Region
+
+Period
+
+Target by the end year of the 
+period shown
+
+EU
+
+US
+
+2019 to 2035
+
+65% lower tailpipe CO2
+
+2027 to 2032
+
+15-53% lower tailpipe CO2
+
+California
+
+2024 to 2035
+
+● 55-75% ZEV sales share for 
+
+manufacturers
+
+● 100% ZEV purchase share 
+
+for certain fleets
+
+China
+
+Japan
+
+2019 to 2025
+
+11-18% lower fuel consumption
+
+2015 to 2025
+
+3-15% lower fuel consumption
+
+Source: BloombergNEF. Note: ranges refer to changes across commercial 
+vehicle sub-segments; several of these targets extend beyond the years shown; 
+California’s Advanced Clean Fleets regulation hasn’t yet received a waiver from 
+the US Environmental Protection Agency and applies to certain fleets in the state.
+
+18
+
+BNEF
+
+Environmental regulations for trucks and buses were more recently 
+implemented compared to equivalent CO2 or fuel economy rules for 
+passenger vehicles. The scope and stringency of such rules vary widely 
+between countries. In some large truck markets, targets require average 
+improvements between 0.3% to over 6% annually, which may reach 
+even 14% for some vehicle types.
+
+Advancements in combustion engines, materials, aerodynamics and 
+tires can help manufacturers cover some distance to the targets. Still, 
+the increasing cost of applying such technologies implies that adoption 
+of zero tailpipe emission trucks and buses will have to increase 
+markedly to meet the rules, for example in the EU and the US. 
+
+Most of the rules mentioned here regulate vehicle fuel consumption or 
+tailpipe emissions. Some governments plan to assess the possibility to 
+regulate lifecycle emissions, which will also imply the inclusion of net-
+zero emission fuels, such as hydrogen or synthetic fuels, as part of such 
+targets.
+
+Most countries do not have sales and/or purchase mandates for ZEV 
+trucks yet, though California does have a demanding quota system in 
+place.
+
+Policies
+
+CO2 emissions targets in Europe require 
+a lot of electric and fuel-cell trucks
+Required share of zero-emission 
+commercial vehicles to meet EU’s CO2 
+targets
+ZEV share of sales
+100%
+
+All trucks are 
+regulated by 2040.
+
+The EU’s CO2 emissions limits for medium- and heavy-duty trucks set 
+progressively lower targets for the output of new commercial vehicles 
+sold in the Union, versus 2019 levels. These imply that more than a 
+third of manufacturers’ sales should be zero-emission by 2030, growing 
+to 88% by 2040.
+
+About 60% of the market 
+falls under the CO2 
+regulations in 2025.
+
+90%
+
+80%
+
+70%
+
+60%
+
+50%
+
+40%
+
+30%
+
+20%
+
+10%
+
+0%
+
+Vocational vehicles 
+are added to the 
+regulation in 2035.
+
+2025
+
+2030
+
+2035
+
+2040
+
+Source: BloombergNEF. Note: Shows the sales share within the regulated 
+vehicle segments. The targets are set versus emissions levels in 2019. ‘ZEV’ 
+refers to zero-emission vehicle, including battery electrics and fuel cells.
+
+19
+
+BNEF
+
+The regulation offers various compliance flexibilities that could be 
+helpful in the short term. It also only gradually covers the whole truck 
+market, as medium lorries, trailers and semi-trailers are excluded before 
+2030, and most vocational vehicles will be excluded up to 2035.
+
+Failing to meet the targets results in financial penalties. In 2025, these 
+can be less than €5,000 ($5,540), but can grow to more than €100,000 
+per vehicle by 2035, according to BNEF estimates. Such fines are 
+applied to all of a manufacturer’s sales in a year.
+
+The Commission will review the rules by 2027 and will explore the 
+option of regulating the lifecycle, rather than tailpipe, emissions. 
+
+2025-2029
+Targets at -15% 
+versus 2019 for 
+some vehicle 
+groups
+
+2030-2034
+Targets at -45%, 
+versus 2019 
+except for 
+vocational trucks
+
+2035-2039
+Targets at -65% 
+versus 2019 for 
+all vehicle 
+subgroups
+
+2040
+Targets at -90% 
+versus 2019 for 
+all vehicles 
+subgroups
+
+Manufacturers
+
+Zero-emission trucks present 
+opportunities, but reality sets in
+
+20
+
+BNEF
+
+Manufacturers
+
+The zero-emission truck market creates 
+opportunities for new entrants
+Manufacturer market shares in Europe
+
+ZEV
+market
+
+Total
+market
+
+Volvo
+
+Daimler
+
+Other
+
+Traton
+
+DAF
+
+Traton
+
+Volvo
+
+Daimler
+
+DAF
+
+Other
+
+0%
+
+40%
+Manufacturer market shares in China
+
+60%
+
+20%
+
+80%
+
+100%
+
+ZEV
+market
+
+FAW
+
+Sino
+Truk
+
+BAIC Sany
+
+XCMG
+
+Yutong
+
+Other
+
+Dongfeng
+
+Shaanxi
+
+Yutong
+
+Total
+market
+
+SinoTruk
+
+FAW
+
+Dongfeng
+
+Shaanxi
+
+BAIC
+
+Other
+
+0%
+
+20%
+
+40%
+
+60%
+
+80%
+
+100%
+
+Source: BloombergNEF; see full list of sources in the Appendix. Note: Shows 
+market shares in 1H 2024. ‘ZEV’ is zero-emission vehicle, including battery electrics 
+and fuel cells. Includes medium- and heavy-duty trucks as defined in the Appendix.
+
+21
+
+BNEF
+
+The market for zero-emission trucks is attracting new entrants. These 
+are not necessarily startup manufacturers, which have largely struggled 
+to establish a presence, but incumbent truckmakers. 
+
+These manufacturers are finding opportunities to serve segments, such 
+as heavy-duty trucks for urban distribution, in which they may have had 
+low penetration. At the same time, newcomers from adjacent industries 
+are entering the commercial vehicle market. 
+
+In China, companies outside of traditional truckmaking command high 
+shares of the e-truck market. Machinery manufacturers XCMG and 
+Sany, as well as bus maker Yutong accounted for more than 40% of 
+electric and fuel-cell truck sales in 1H 2024. 
+
+Volvo has a much higher share of the European heavy-duty electric 
+truck market than its overall market share, while it is less active at the 
+lighter end of the market. Traton and Paccar’s DAF have yet to scale up 
+e-truck production in Europe and are far behind their overall market 
+share. 
+
+Of the potential startup disrupters, Nikola and Tesla have introduced 
+well-received products, while companies such as XoS, REE and others 
+are also selling their vehicles in North America. Still, most have yet to 
+materially increase production output.
+
+Manufacturers
+
+Manufacturers are building supply 
+chains for electric and hydrogen trucks
+Truckmaker supply chain relationships
+
+Major manufacturers are establishing internal capabilities and external 
+partnerships to develop and build zero-emission commercial vehicles 
+for various use cases. Many truckmakers based in Europe and North 
+America are developing a multitude of technologies in parallel, including 
+electric powertrains and batteries, as well as hydrogen in fuel cells and 
+combustion engines.
+
+Most of these companies procure battery cells from outside suppliers, 
+while they produce their own packs. Some, such as Volvo, Daimler and 
+Paccar, plan to bring cell manufacturing in-house later in the 2020s, 
+while Traton has invested in a supplier, cell maker Northvolt.
+
+Chinese truckmakers have taken advantage of the advanced battery 
+supply chain in the country to develop expertise and suitable products. 
+From early on, they adopted lithium-iron phosphate (LFP) cells to 
+produce affordable vehicles with long lifetimes.
+
+Fuel-cell technology is at an earlier stage and, given cost and 
+infrastructure uncertainties, is mostly developed through partnerships 
+and joint ventures.
+
+Source: BloombergNEF, company announcements. Note: ‘LFP’ refers to lithium iron phosphate battery. ‘NCM’ refers to lithium nickel manganese cobalt oxide 
+cathode battery. ‘NCA’ refers to lithium nickel cobalt aluminum oxide cathode battery. ‘BEV’ refers to battery-electric vehicles. ‘FCV’ refers to fuel cell vehicles. Color
+shade indicates commitment level, with deeper shade signifying more commitment. List is not comprehensive. 
+
+22
+
+BNEF
+
+CompanyBEVFCVBattery supplier(s)Battery chemistryFuel cell supplier(s)BeiqiFoton✓✓CATL, GotionLFP, NCM/NCAToyota, REFIREDaimler Truck✓✓CATLLFPcellcentricZhejiang Geely✓✓CATL, Eve Energy, Farasis, GotionLFP, NCM/NCAWuhan TroowinPower System TechnologyPACCAR✓✓CATLLFPToyotaSAIC Motor✓✓LFP, NCM/NCASHPTTraton SE✓✓CATL, NorthvoltLFP, NCMCumminsAB Volvo✓✓Samsung SDINCAcellcentricManufacturers
+
+Truckmakers are setting ambitious 
+targets for zero-emission vehicle sales
+
+Daimler Truck: TCO parity between battery-electric and 
+diesel trucks; “Vast majority of R&D” on ZEV
+Volvo: Start producing battery modules at Belgian plant
+Traton: €2.6 billion on ZEV R&D, capex (2021-2026); 
+start producing over 100,000 batteries per year at 
+MAN’s Nuremberg site
+
+Volvo: “Absolute 
+majority” of sales 
+being ZEV
+
+Daimler Truck: TCO 
+parity between fuel cell 
+and diesel trucks
+
+Daimler Truck: 100%
+sales carbon neutral in 
+Europe, North America, 
+and Japan
+
+2025
+
+2027
+
+2030
+
+2039
+
+2040
+
+Beiqi Foton: Over 100,000 
+annual electric commercial 
+vehicle sales, including 
+15,000 fuel-cell trucks, 
+with share of electric 
+models over 15%, leading 
+to over 250,000 
+accumulated electric 
+commercial vehicle sales
+
+Beiqi Foton: 200,000 annual fuel-cell 
+truck sales
+Daimler Truck: 60% sales carbon neutral
+Traton: TCO parity between electric and 
+diesel trucks; 50% sales electric
+Volvo: 50% sales electric in Europe; start 
+large-scale cell production at Swedish 
+plant; >35% ZEV sales globally
+
+Source: BloombergNEF, company press releases. Note: ‘TCO’ refers to total cost of ownership, ‘ZEV’ is zero-emission vehicle, and ‘R&D’ is research and develoment.
+
+23
+
+BNEF
+
+Manufacturers
+
+ZEV sales remain low for many large 
+truckmakers and far from their targets
+Zero-emission vehicle sales shares for 
+Volvo, Daimler, Traton and Paccar
+
+2.0%
+
+1.8%
+
+1.6%
+
+1.4%
+
+1.2%
+
+1.0%
+
+0.8%
+
+0.6%
+
+0.4%
+
+0.2%
+
+0.0%
+
+Volvo
+
+Daimler
+
+Traton
+
+1Q
+2021
+
+3Q
+2021
+
+1Q
+2022
+
+3Q
+2022
+
+1Q
+2023
+
+3Q
+2023
+
+1Q
+2024
+
+Source: Bloomberg Terminal, BloombergNEF, company reports. Note: Shows 
+cumulative share of sales within a year.
+
+24
+
+BNEF
+
+In the first half of 2024, Volvo sold over 2,100 all-electric vehicles, more 
+than Daimler and Traton combined. E-trucks and e-buses also account 
+for nearly 2% of Volvo’s truck and bus sales, while equivalent shares for 
+Daimler and Traton are near 0.5%.
+
+For Daimler, Volvo and Traton, Europe and the US together accounted 
+for around 70% of their 2023 revenue; that share was about 85% for 
+Paccar. The European Union’s efficiency targets could require zero-
+emission trucks to be around 2-2.5% of Volvo’s sales by next year, 
+while for Traton, Daimler and Paccar’s DAF that figure is 4-6%. 
+California’s mandates - which another 10 states have also adopted -
+require between 5% and 9% of medium- and heavy-duty truck sales to 
+be electric or fuel-cell vehicles by the end of this year.
+
+Scaling up manufacturing capacity, especially in batteries and electric 
+drivetrains, is the vital next step as companies establish the supply 
+chain necessary for higher sales in the years ahead. Such expansion of 
+the technology portfolio requires high investment and can also be 
+challenging. Traton’s Scania, for instance, has faced delays getting 
+battery cells from its supplier Northvolt AB as of 1H 2024.
+
+Manufacturers
+
+Some 750 commercial ZEV models are 
+available in China, Europe and North America
+Zero-emission commercial vehicle 
+models available
+Number of models
+
+Around 750 battery and fuel-cell vans and trucks are available globally 
+for purchase, with more than half offered in China only.
+
+900
+
+800
+
+700
+
+600
+
+500
+
+400
+
+300
+
+200
+
+100
+
+0
+
+Plug-in
+hybrid/range-
+extender
+
+Fuel cell
+
+Battery electric
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+Source: BloombergNEF, company announcements, CALSTART, 360che.com. 
+Note: ‘BEV’ is battery-electric vehicle, ‘FCV’ is fuel-cell vehicle, ‘PHEV’ is plug-in 
+hybrid vehicle, and ‘REX’ is range-extender vehicle. PHEV/REX are zero-emission 
+vehicles for part of their operation, when relying on battery power alone.
+
+25
+
+BNEF
+
+Light-duty commercial vehicles, such as battery electric delivery vans, 
+dominate the global offering, with close to half of all models available. 
+Just over a third of models are heavy-duty trucks, which for now mostly 
+target urban and suburban operations.
+
+Manufacturers have focused on battery trucks, as fuel cells have longer 
+lead times and are available from a few truckmakers only.
+
+Battery electric models outnumber those using hydrogen by about 22-
+to-1, reflecting technology maturity of battery-based powertrains versus 
+those using fuel cells, and also the concentration of H2 truck offerings in 
+the heavy-duty class. 
+
+Fuel-cell trucks drive farther with one refill, but long-distance battery 
+heavy trucks also are also becoming available.
+
+Average range across fuel-cell models is around 500km, which can 
+extend to almost 1,500km for some models. For BEVs, the average 
+range is around 250km. A handful of models with over 500km of range 
+are available to order, and some have already been delivered, but their 
+number remains small. 
+
+Charging
+
+Ultra-fast chargers 
+lead strong growth
+
+26
+
+BNEF
+
+Charging
+
+Annual installations of public chargers 
+are growing quickly 
+Global public EV charging connectors by 
+region
+Connectors, millions
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023 1H 2024 2024e
+
+Source: BloombergNEF, Ecomovement, China Electric Vehicle Charging 
+Promotion Alliance. Note: Data updated through 2Q 2024.
+
+27
+
+BNEF
+
+Almost 600,000 public chargers were installed in 1H 2024, bringing total 
+installed chargers globally up to 4.5 million. 
+
+China accounted for 70% of global chargers at the end of June 2024, 
+with installations increasing 12% year-on-year in 1H 2024. The rate of 
+deployment has been about 66,000 chargers per month so far in 2024. 
+This typically peaks at the end of the year, as it exceeded 110,000 units 
+in the last three months of 2023.
+
+Rest of World
+
+North America
+
+Europe added 146,000 new connectors in 1H 2024, with growth mainly 
+in Germany, the Netherlands, Belgium, and France. This was twice as 
+many connectors as installed in all other European countries combined. 
+
+Europe
+
+China
+
+In Europe, public ultra-fast chargers (100 kilowatts or faster) have 
+grown more than seven times since 2021, and deployment has been 
+accelerating, with 89,000 such chargers in place by June 2024.
+
+The installation pace increased in the US in the first six months of 2024, 
+at a time when electric vehicle sales in the region are slowing. Some 
+$7.5 billion in public funding is available for charging infrastructure 
+projects. Just over $1 billion has been awarded as of June 2024. In 
+January 2024, four projects aiming to install medium- and heavy-duty  
+EV charging stations received $241 million in government funding. 
+
+Charging
+
+Charging companies have raised close 
+to $14 billion since the start of 2022
+Disclosed cumulative investment activity 
+in EV charging companies
+$ billion
+
+Over $3 billion was invested into EV charging companies in the first half 
+of 2024, bringing the total since 1Q 2022 to almost $14 billion globally. 
+
+16
+
+14
+
+12
+
+10
+
+8
+
+6
+
+4
+
+2
+
+0
+
+Q1
+
+Q2
+
+Q3
+
+Q4
+
+Q1
+
+Q2
+
+Q3
+
+Q4
+
+Q1
+
+Q2
+
+2022
+
+2023
+
+2024
+
+Source: Bloomberg Terminal MA <GO> & IPO <GO>, BloombergNEF Climate 
+Investment Tracker, CB Insights, various press releases. 
+
+28
+
+BNEF
+
+These investments span acquisitions and venture capital and private 
+equity (VC/PE) funding, and reflect a broad interest across the value 
+chain, including different business models and geographies. The 
+disclosed deals in the first half of 2024 were spread geographically 
+across 19 countries, with the US and UK leading with a dozen deals 
+each. 
+
+Truck charging is part of such investment activities. China’s Qiyuan
+Green Power, a subsidiary of state-owned State Power Investment 
+Corporation (SPIC), closed its 1.5-billion-yuan ($210 million) Series B to 
+roll out truck battery swapping and charging stations. The company 
+currently has 600 battery swapping and charging stations in the country.
+
+In the US, Terawatt raised $1 billion in 2022 to build truck charging 
+stations along freight corridors in the US. WattEV, also a California-
+based station developer, raised both debt and equity from Apollo and 
+Vitol in late 2023. Beyond building charging stations, WattEV also offers 
+electric trucks through leasing to fleets.
+
+Technology and 
+economics
+
+Battery technology is the 
+foundation for cleaner trucking
+
+29
+
+BNEF
+
+Technology and economics
+
+Electric truck capabilities are improving 
+quickly 
+
+eCanter 2017
+
+eCanter 2024
+
+Battery technology has been improving rapidly over the last 15 years 
+due to improved engineering know-how and expansion of manufacturing 
+scale. Energy density for batteries used in automotive applications has 
+improved by just under 6% annually since 2010. 
+
+Such strides in the technology are starting to have an impact in the 
+nascent electric-truck market as well. Following limited production 
+products in the late 2010s, which were mostly used in trials with 
+relatively low genuine customer demand, recent vehicle launches are 
+far better from a technical standpoint. 
+
+Manufacturers and fleets also indicate good performance from newer 
+electric truck models. For example, Daimler stated that its first long-haul 
+electric truck, the eActros 600, “exceeds our expectations in terms of 
+range and energy consumption”, while Tesla’s Semi seems to fare as 
+well or better than its expected efficiency of 1.7-1.8 kilowatt-hours (kWh) 
+per mile. 
+
+The e-truck industry is still at an early stage. Several projects in the US, 
+Europe and China are gathering real-world data on e-truck 
+performance.  As the industry scales, such statistics will provide a 
+clearer picture of ongoing technology improvements in the sector.
+
+GVWR 7.5 metric tons
+
+7.5 metric tons
+
+Battery 
+capacity
+
+83kWh
+
+124kWh
+
+Range
+
+100km
+
+200km
+
+Implied minimum 
+fuel consumption
+
+0.83kWh/km
+
+0.62kWh/km
+
+Source: BloombergNEF, Mitsubishi Fuso, Daimler Truck. Note: range is an ‘up to’ 
+value provided by the manufacturer; ‘GVWR’ is gross vehicle weight rating, ‘kWh’ is 
+kilowatt-hour, and ‘km’ is kilometer.
+
+30
+
+BNEF
+
+Technology and economics
+
+Battery energy density improvements 
+will underpin further efficiency gains
+Historical and estimated changes to 
+battery-pack energy density
+Watt-hour/kilogram
+350
+
+300
+
+250
+
+200
+
+150
+
+100
+
+50
+
+NMC
+
+NMCA
+
+NCA
+
+LMFP
+
+LFP
+
+LMO
+
+Na-ion
+
+0
+2010
+
+2015
+
+2020
+
+2025
+
+2030
+
+2035
+
+Source: BloombergNEF. Note: NMC = nickel manganese cobalt oxide; NMCA = 
+nickel manganese cobalt aluminum oxide; NCA = nickel cobalt aluminum oxide; 
+LFP = lithium iron phosphate; LMFP = lithium manganese iron phosphate; LMO 
+= lithium manganese oxide; Na-ion = sodium ion.
+
+31
+
+BNEF
+
+The average battery pack energy density in battery-electric vehicles has 
+more than doubled since 2010, to 194 watt-hours per kilogram (Wh/kg). 
+Batteries with higher energy density have lower material and 
+manufacturing costs, are lower weight, and result in higher vehicle 
+efficiency.
+
+NMC is a high-performing chemistry, with some packs achieving 
+250Wh/kg in 2022, and CATL’s Qilin battery entering the market in 2023 
+at 255Wh/kg.
+
+LFP technology continues to improve rapidly. CATL launched the 
+Shenxing Plus in April 2024, capable of superfast charging, while BYD’s 
+next-gen Blade EV battery is set to have an energy density of 
+190Wh/kg.
+
+By 2025, large cell producers aim to introduce cells with energy 
+densities of 350-500Wh/kg, such as CATL’s “condensed battery” *. That 
+could correspond to pack-level energy density of 280-300Wh/kg. For 
+these, manufacturers will need to use silicon or lithium metal anodes, 
+solid electrolytes and high-voltage cathodes. 
+
+*While this target is for aviation applications and details of any automotive version 
+are unclear, it helps contextualize what is possible with new cell designs.
+
+Technology and economics
+
+LFP becomes the main choice for electric truck 
+batteries, within a narrow mix of chemistries
+Battery chemistry of electric and fuel cell 
+medium- and heavy-duty trucks
+
+100%
+
+90%
+
+80%
+
+70%
+
+60%
+
+50%
+
+40%
+
+30%
+
+20%
+
+10%
+
+0%
+
+Other
+
+NMC
+
+LFP
+
+2020
+
+2021
+
+2022
+
+2023
+
+1H 2024
+
+Source: BloombergNEF, EV-Volumes. Note: ‘LFP’ is lithium iron phosphate; ‘NMC’ is 
+nickel manganese cobalt oxide. Includes batteries used in vans, trucks and buses. 
+
+32
+
+BNEF
+
+The lithium-ion batteries powering most commercial vehicles and buses 
+use lithium iron phosphate (LFP) cathodes. Since 2022, LFP share has 
+grown rapidly and now accounts for more than 80% of capacity 
+deployed in the sector globally. 
+
+In China, companies such as Beiqi Foton Motor, SAIC Motor and 
+Zhejiang Geely Holding Group use LFP, while Geely also uses lithium-
+ion batteries that use nickel-based cathodes (NMC and NCA) for some 
+longer-range vehicles. 
+
+Outside China, firms are working with a range of chemistries, although 
+this is increasingly trending towards using LFP. Daimler uses LFP 
+supplied by CATL, as well as nickel manganese cobalt (NMC) from LG 
+Chem and SK Group. Alongside Paccar and Cummins, Daimler plans to 
+produce LFP cells in the US with the help of Chinese battery 
+manufacturer EVE Energy. Volvo is using nickel cobalt aluminium oxide 
+(NCA) cells supplied by Samsung SDI, and Traton’s Scania procures 
+NMC cells from Northvolt. 
+
+LFP is cheaper than nickel-based alternatives, as it uses less-expensive 
+materials and has a higher cycle, meaning it can be charged and 
+discharged more times. However, its energy density can be 30% lower 
+than NMC.
+
+Technology and economics
+
+Battery manufacturing capacity keeps 
+increasing globally
+Commissioned and announced annual 
+Li-ion battery cell manufacturing capacity
+Terawatt-hours
+6
+
+By the end of 2023, there was 2.5TWh of annual lithium-ion battery cell 
+manufacturing capacity globally. This will more than double in 2024, if 
+company announcements are delivered on time. More than 80% of that 
+capacity is based in China, but new cell-making capacity is also being 
+planned closer to demand centers in the US and Europe.
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+Rest of World
+
+US
+
+Europe
+
+Japan
+
+South Korea
+
+China
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+Source: BloombergNEF. Note: Data up to 2023 includes fully commissioned 
+capacity. Data from 2024 onwards includes announced, under-construction and 
+fully commissioned capacity, not de-risked. Data as of May 9, 2024.
+
+33
+
+BNEF
+
+The volume of batteries produced can differ from nameplate capacity 
+and will depend on plant utilization rates. For example, while China had 
+2.2TWh of commissioned cell manufacturing capacity in 2023, utilization 
+rates only averaged around 43%. For newer battery manufacturing 
+facilities in regions with less-mature battery supply chains, the utilization 
+rates could be even lower. Higher production costs, competition with 
+low Chinese battery prices, and less manufacturing expertise is 
+challenging manufacturers in non-Chinese markets.
+
+The upstream battery value chain, including cathodes, anodes, 
+separators and electrolytes, is also highly concentrated in China. While 
+more companies like BASF, Umicore, LG Chem, Panasonic and even 
+Chinese firms like Gotion and Huayou Cobalt are making 
+announcements for component plants in the US and Europe, China is 
+poised to remain the leader in component production capacity. The 
+country also accounts for a high share of battery-metal refining capacity.
+
+Technology and economics
+
+Battery prices continue to fall and are 
+converging across sectors
+Historical volume-weighted average 
+lithium-ion battery pack prices by sector
+$ (real 2023) per kilowatt-hour
+500
+
+The volume-weighted industry-average battery pack price was 
+$139/kWh in 2023. That was 14% less than the previous year, due to 
+lower material prices and more capacity coming online. 
+
+450
+
+400
+
+350
+
+300
+
+250
+
+200
+
+150
+
+100
+
+50
+
+0
+
+E-bus and
+commercial
+(China)
+
+E-bus and
+commercial
+(ex. China)
+
+Passenger
+BEV
+
+Industry
+average
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+Source: BloombergNEF. Note: Passenger battery-electric vehicle figures are a 
+global average.
+
+34
+
+BNEF
+
+Pack prices in China are the lowest globally. The supply and demand 
+mismatch continues in the country so far in 2024, with capacity five 
+times as large as demand and low utilization rates for many 
+manufacturers. 
+
+Lithium-ion phosphate packs and cells were the cheapest, at $130/kWh. 
+In 2023, LFP average cell prices fell below $100/kWh for the first time. 
+Prices have fallen further in 2024, with cells from some suppliers in 
+China hitting $50/kWh. Average prices for nickel manganese cobalt 
+oxide (NMC) batteries were $130/kWh globally in 2023. 
+
+Prices have been converging across sectors as the industry grows. 
+Differences depend on maturity of the technology and order volumes, 
+but also varied cell and pack design and manufacturing requirements.
+
+Falling prices for battery metals, the turn to cheaper LFP chemistries, 
+and growing order volumes pushed truck battery prices steeply down in 
+2023, even outside of China. Larger cells used in trucks and buses also 
+help further spread the $/kWh costs.
+
+Technology and economics
+
+Truckmakers still pay more for their 
+batteries outside of China
+Lithium-ion battery pack prices for 
+commercial vehicles and buses 
+Real 2023 $ per kWh
+500
+
+450
+
+400
+
+350
+
+300
+
+250
+
+200
+
+150
+
+100
+
+50
+
+0
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+Source: BloombergNEF.
+
+35
+
+BNEF
+
+Volume-weighted average electric truck and bus battery prices followed 
+the industry trajectory of decline in 2023 as prices for battery metals 
+dropped. 
+
+Packs costs outside of China saw the steepest price drop in 2023, down 
+39% to $186 per kilowatt-hour. Still, that is 86% higher than commercial 
+vehicle battery prices within China, which were only $100/kWh, the 
+lowest across all vehicle segments. 
+
+China
+
+ex-China
+
+The price difference is primarily due to the prevalence of cheaper LFP 
+batteries in China. Commercial vehicles also have the price advantage 
+of using larger LFP cells, up to 280 ampere-hours (Ah), compared to the 
+typical 60Ah cells used in passenger EVs. Large cells require fewer 
+connections, reducing the time and costs of assembling packs.
+
+While more-expensive high-nickel chemistries have had a higher share 
+in markets outside China in past years, global vehicle and battery 
+manufacturers are increasingly turning to LFP. That explains some of 
+the price declines and the closing of the gap with battery costs in China. 
+
+Still, smaller e-truck battery order volumes outside of China continued to 
+constrain prices in 2023, as it is more costly to produce customized 
+cells in small batches.
+
+Technology and economics
+
+Battery prices are set to drop further 
+with truckmakers’ premium reducing
+Lithium-ion battery pack price outlook
+
+$ per kilowatt-hour (real 2023)
+450
+
+400
+
+350
+
+300
+
+250
+
+200
+
+150
+
+100
+
+50
+
+HCV
+
+LCV
+
+Industry-wide
+experience
+curve
+Industry-wide,
+observed
+
+Ex-China CV,
+observed
+
+China CV,
+observed
+
+0
+2018 2020 2022 2024 2026 2028 2030 2032 2034
+
+Source: BloombergNEF. Note: ‘CV’ is commercial vehicle; ‘LCV’ is light-duty 
+commercial vehicle; ‘HCV’ is heavy-duty commercial vehicle.
+
+36
+
+BNEF
+
+BNEF expects battery costs to decline further over the coming years 
+due to technology and manufacturing advancements, movement to 
+lower-cost chemistries and heavy competition. 
+
+Historical battery prices have dropped at a learning rate of 17%. This 
+quantifies the percentage price decline every time the cumulative 
+volume of delivered batteries doubles. Assuming this continues to hold, 
+industry-average battery pack prices would hit about $80/kWh by 2030. 
+
+Commercial vehicle manufacturers are likely to continue paying more 
+for batteries. The premium for truckmakers over industry-average costs 
+should decline but will also depend on segment and duty cycle. 
+
+For lighter vans and trucks, that gap should not persist for long, as 
+volumes are already increasing, and operating characteristics do not 
+pose undue strain on the batteries. 
+
+In heavier segments, a cost difference could persist for longer due to 
+the additional engineering effort required to adapt batteries for specific 
+use cases. For heavy electric trucks, BNEF expects batteries to be 
+about 10% more expensive than the industry average by 2030, with the 
+gap closing further in the 2030s.
+
+Technology and economics
+
+Battery trucks within cities become economically 
+competitive soon in the US, China and Europe
+Total cost of ownership of Class 4-5 trucks 
+with range of 200 miles (320km) in the US
+
+$ (real 2023) per mile
+
+1.2
+
+1.0
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0.0
+
+High electricity cost
+
+Low electricity cost
+
+High diesel fuel cost
+
+Low diesel fuel cost
+
+Diesel
+
+BEV
+
+Diesel
+
+BEV
+
+2025
+
+2030
+
+Source: BloombergNEF. Note: For diesel, fuel costs are $3/gallon and 
+$6/gallon; for electricity, fuel costs are $0.2/kilowatt-hour and $0.75/kWh. ’BEV’ 
+revers to battery-electric vehicle.
+
+37
+
+BNEF
+
+Medium-duty trucks in urban duty cycles are used in distribution, 
+sanitation, municipal services, construction and other applications. 
+Battery electric trucks in this segment can operationally substitute diesel 
+vehicles and could be as cheap to own and operate in the next few 
+years, without subsidies. 
+
+The cost of the electric truck is currently higher than the equivalent 
+combustion vehicle, and the relative costs of diesel fuel and electricity 
+determine economic competitiveness. 
+
+For high refueling costs with electricity, the battery truck remains more 
+expensive. However, in the mid-range of fuel costs – $4.5/gallon for 
+diesel and $0.5/kWh for electricity – the total cost of ownership can be 
+similar between the two technologies within the next couple of years. In 
+areas with very low electricity costs, they are already competitive. 
+
+By 2030, even with the highest electricity costs, the battery truck TCO 
+can be roughly the same as that with the lowest diesel fuel costs.
+
+Such relative economics and the potential for battery trucks to soon 
+displace diesel equivalents within cities also holds for China and 
+countries in Europe, as well as for heavier trucks. 
+
+Technology and economics
+
+Zero-emission, long-haul trucks can also become 
+competitive around 2030 by controlling fuel costs
+Total cost of ownership of Class 8 trucks 
+with range of 500 miles (800km) in the US
+2023 $ per mile
+2.0
+
+Zero-emission heavy trucks for long-haul operations have been 
+introduced in the market, albeit at low volumes. This segments accounts 
+for about half of energy demand in trucking. 
+
+1.8
+
+1.6
+
+1.4
+
+1.2
+
+1.0
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0.0
+
+High hydrogen cost
+
+Low hydrogen cost
+
+High electricity cost
+
+Low electricity cost
+
+High diesel fuel cost
+
+Low diesel fuel cost
+
+Diesel BEV
+
+FCV Diesel BEV
+
+FCV
+
+2025
+
+2030
+
+Source: BloombergNEF. Note: For diesel, fuel costs are $3/gallon and 
+$6/gallon; for electricity, fuel costs are $0.2/kilowatt-hour and $0.75/kWh; for 
+hydrogen, fuel costs are $5/kilogram and $15/kg. ‘BEV’ refers to battery-electric 
+vehicle, and ‘FCV’ is fuel-cell vehicle.
+
+38
+
+BNEF
+
+In the near term, battery trucks could approach the total costs of diesel 
+when low electricity costs are combined with high diesel fuel prices. 
+Economics for fuel-cell trucks are more challenging, given high capital 
+costs. By 2030, zero-emission trucks in the segment start to become 
+economically competitive: 
+
+● Battery trucks can be as cheap as diesel within a wider range of 
+
+electricity costs. However, at the higher end of diesel and electricity 
+prices, battery trucks remain more expensive to own and operate.
+
+● Fuel-cell trucks have a narrower window of competitiveness versus 
+diesel and all-battery vehicles, requiring low hydrogen costs to 
+coincide with high diesel and mid-range electricity prices.
+
+A critical aspect of competitiveness for heavy-duty zero-emission trucks 
+is the cost of fuel. By securing relatively low and stable electricity or 
+hydrogen costs, fleets could operate such trucks at costs similar to 
+equivalent diesel vehicles. Such economics are at play not only in the 
+US but also in European countries. 
+
+Technology and economics
+
+Battery trucks are more expensive now, but 
+price parity could be near in some segments
+Prices of medium-duty trucks for urban 
+operations
+BEV
+
+5
+2
+0
+2
+
+0
+3
+0
+2
+
+Diesel
+
+BEV
+
+Diesel
+
+BEV
+Diesel
+
+0
+
+20,000
+
+60,000
+
+80,000
+
+40,000
+2023$
+Prices of heavy-duty truck for long-haul 
+operations
+FCV
+BEV
+Diesel
+FCV
+BEV
+Diesel
+
+Diesel
+
+5
+2
+0
+2
+
+0
+3
+0
+2
+
+FCV
+
+BEV
+
+FCV cost range
+
+0
+
+200,000
+
+400,000
+
+600,000
+
+800,000
+
+2023$
+
+Source: BloombergNEF. Note: Shows US prices. Medium-duty are Class 4-5 trucks 
+with 250 miles of range, and heavy-duty are Class 8 trucks with 500 miles of range. 
+‘BEV’ refers to battery-electric vehicle, and ‘FCV’ is fuel-cell vehicle.
+
+39
+
+BNEF
+
+The prices of zero-emission commercial vehicles are higher than 
+comparable diesel trucks and could deter some fleet buyers. Still, as 
+costs decline, battery and fuel-cell vehicles in different segments should 
+gradually reach upfront price parity with equivalent diesels.
+
+● Medium-duty battery trucks can be about a quarter more expensive 
+than equivalent diesels. However, that gap rapidly closes and before 
+2030 they could be as cheap or cheaper to produce due mainly to 
+falling battery costs. 
+
+● Heavy-duty battery trucks for long-haul operations are about 1.5-2 
+times as expensive as equivalent diesels, but could approach their 
+prices around 2030. While their total cost of ownership may become 
+favorable earlier under some conditions, taking advantage of that 
+depends on the ability of fleets to pay the higher upfront price and 
+spread the cost over the usage period.
+
+● Heavy-duty fuel-cell trucks for long-haul operations may cost 2.5-3 
+times as much as diesel equivalents. These costs are also set to 
+decline and could approach those of diesel around 2030. However, 
+the cost trajectory of fuel-cell stacks is highly uncertain, as the 
+industry is at a very early stage.
+
+Technology and economics
+
+How to interpret battery truck 
+manufacturing cost estimates
+
+● Current prices for heavy-duty battery electric trucks can be 2-3 times those of equivalent diesel vehicles, while our estimated near-term future price 
+
+premium is 1.5-2 times. Our pricing methodology is a cost-based approach and shows the unsubsidized price at which a manufacturer could 
+theoretically build and sell a battery electric truck. The pre-tax retail price is the sum of direct and indirect production costs, plus a profit margin. 
+We do not account for subsidies or any other policy measures that could affect the final price of an electric vehicle.
+
+● The actual selling prices of future electric trucks would be similar to our estimates under certain conditions, where the vehicle specifications as well 
+as manufacturer costs, battery prices, production volume, and cost allocation are the same as in our assumptions. An additional assumption is that 
+truckmakers choose to price vehicles based on cost. We acknowledge that these conditions will not always be true for all electric truck models or 
+for individual manufacturers. However, we expect they will be sustained on average across the industry and even more so as the market grows.
+
+● We use average production cost structures, and we expect electric truck manufacturing to converge to meet these as volumes increase; in our 
+
+assumptions, economies of scale are reached with production volumes between 20,000 and 40,000 trucks annually. However, companies outside 
+of China are at relatively earlier stages in developing their electric truck manufacturing processes and expertise, which also affects their battery 
+costs. Manufacturers further ahead in production scale up may have a price advantage and be able to recoup high upfront investments faster than 
+their competitors.
+
+● The price estimates also rely on the technical characteristics of electric trucks, such as electric range and motor power. Some of our assumptions, 
+such as driving range, reflect our expectations based on typical duty cycles, although this is challenging to predict. We have assumed that electric 
+trucks have 150 miles of real-world driving range for urban duty cycles, 250 miles for regional duty cycles and 500 miles for long-haul duty cycles. 
+
+● Truck batteries sizes for heavy trucks can range from about 300 kWh to over 900 kWh depending on duty cycle, but are dropping fast as battery 
+energy density increases. In 2025, our battery price assumption for these vehicles is about $170 per kWh, which drops to about $90 per kWh by 
+2030.
+
+40
+
+BNEF
+
+Financing fleet 
+electrification
+
+Innovative business and 
+financing models can 
+help the market scale up
+
+41
+
+BNEF
+
+Financing fleet electrification
+
+The industry addresses perceived risks for 
+large-scale zero-emission truck adoption
+
+Capital costs
+The total cost of ownership is the main 
+tool used to determine truck economics. 
+However, even if the TCO becomes 
+favorable, high vehicle prices can deter 
+small operators. These form the bulk of 
+fleets in many countries.
+
+Size breakdown of commercial 
+vehicle fleets in the US
+
+Perceptions of battery 
+residual value
+Battery repurposing, reuse and recycling 
+happen at low volumes today across the 
+automotive industry. Relatively few electric 
+trucks have been on the road long enough to 
+fully understand the long-term performance of 
+their batteries and their corresponding residual 
+values. 
+Second-life battery opportunity outlook
+
+Source: BloombergNEF, US Department 
+of Transport.
+
+Source: BloombergNEF.
+
+42
+
+BNEF
+
+Electricity and hydrogen costs
+Refueling costs can range from just over 10% to 
+more than 70% of the total cost of ownership of 
+zero-emission trucks, reflecting the wide 
+variability of use cases. For electricity, the price 
+at high-power charging stations can be far 
+higher than typical industrial rates.
+
+Public charging, industrial and 
+commercial electricity rates in the US
+
+Public charging
+by state
+
+Public charging
+by operator
+
+Commercial
+
+Industrial
+
+Mininum
+
+Maximum
+
+0.0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1.0
+
+$ per kWh
+Source: BloombergNEF, US Energy Information 
+Administration. Note: Data for 1Q 2024; commercial 
+and industrial rates show the spread across states.
+
+<20 trucks95%>20 trucks5%Financing fleet electrification
+
+Zero-emission fleet deployment and 
+financing strategies today
+
+Fleets have been largely deploying electric or hydrogen trucks in known and repeatable routes, in areas with zero-emission vehicle mandates, or 
+when they receive contractual payments for using such vehicles. Use cases include electric buses operated on behalf of a local authority, electric 
+trucks in urban deliveries, and those going in and out of California’s ports and in the announced zero-emission zones in the Netherlands. In the past 
+few years, two main deployment models for zero-emission commercial vehicle fleets have been used.
+
+Fleets acquire electric trucks and set up refueling infrastructure in their depots.
+
+These fleets can rely on traditional sources of funding to acquire the vehicles and install the infrastructure, such as their own equity, vehicle leasing or 
+loans, as well as government grants and environmental credits. They use the services of charging providers, including local utilities, to setup refueling
+equipment in locations they control. Typical use cases are electric trucks moving cargo on relatively short routes, aiming to charge every couple 
+hundred miles of driving. China’s battery swapping stations and some fleet deployments in California’s ports and in the Netherlands’ announced zero-
+emission zones fall under this model.
+
+Fleets outsource parts of electric truck operations to service providers.
+
+As above, fleets may own or lease the vehicles and install charging equipment in their depots. However, they contract with companies to not only 
+build but also manage the refueling infrastructure and guarantee fuel costs. These are mostly newly established operators and can be funded by a 
+combination of equity from investors such as infrastructure and real estate funds, and debt such as credit lines from traditional financial institutions. 
+Grants and environmental credits are also used by both parties. This method has been one of the blueprints for deploying municipal electric buses, 
+whose purchase may also be underwritten by contracts with transit authorities. Recently, the model is expanding to the deployment of heavy-duty 
+electric trucks.
+
+43
+
+BNEF
+
+Financing fleet electrification
+
+Zero-emission fleet deployment and 
+financing strategies: The next stage (1/2)
+
+Complexities in the zero-emission truck and bus market abound, and relate to costs, energy availability and technology maturity. However, rapid 
+technology development and declining costs, as well as long experience with, primarily, the electricity markets create a dynamic environment in the 
+trucking world. New business and financing models have already appeared, including fleet operators partnering with fuel providers more closely than 
+is typical in the industry or refueling station developers raising financing secured on utilization agreements with fleets. Here, we present emerging 
+models of addressing the real and perceived risks in mass deployment of zero-emission trucks and buses. 
+
+Capital costs: Electric and hydrogen truck prices are high, but already follow declining cost trajectories, which also differ between segments. With 
+high-volume manufacturing, some medium-duty electric trucks can reach upfront price parity with equivalent diesels within the next few years, putting 
+them within reach of capital-constrained smaller fleets. Longer-range trucks could approach such points around 2030, even though their TCO could 
+be favorable earlier. Larger fleets are more likely to benefit from the economics in the short term, but stacking up various subsidies and, potentially, 
+environmental credits could also alleviate some of the cost pressure for smaller operators. For smaller fleets, financing concepts such as aggregating 
+procurement and creating a leasing platform or a separate entity holding those vehicles, are being explored by the World Bank in Poland and Mexico. 
+
+Fuel costs, grid connections and land availability: Deploying fleets of electric trucks in some applications could require high amounts of electricity, 
+and station developers are adopting new approaches to secure energy availability and control fuel costs. Projects that include on-site microgrids, 
+potentially coupled with stationary energy storage, are already being built to balance the cost and time delays of establishing high-power grid 
+connections. Such endeavours have attracted funds from institutional asset managers, vehicle manufacturers and energy providers.
+
+In many such cases, acquiring the right land is also critical to ensure locations that combine proximity to freight routes with enough space and 
+adequate local grid capacity. These requirements are already drawing real estate investors, who become partners in refueling station and fleet 
+deployment projects in the US and Europe.
+
+Existing practices in the electricity markets, such as power purchase agreements and price hedging, also become part of the toolbox for securing and 
+supplying the required energy.
+
+44
+
+BNEF
+
+Financing fleet electrification
+
+Zero-emission fleet deployment and 
+financing strategies: The next stage (2/2)
+
+Battery residual value: The technical challenges of repurposing and reusing batteries relate to low performance once they reach their end of life. 
+The packs that become available now were produced and deployed a few years ago when battery development was focused more on optimizing 
+vehicle efficiency, and reuse was not a central part of producers’ considerations. 
+
+Manufacturers are now starting to design batteries and vehicles with a view to the whole lifetime, to both increase their second-life potential and to 
+comply with environmental regulations. At the same time, more data on real-world battery utilization and performance become available as lithium iron 
+phosphate (LFP), with its long cycle life, becomes a main chemistry choice. While early data come mostly from passenger battery vehicles, they tend 
+to show lifetime performance as good as, or even better than, expected at the time of initial deployment. 
+
+Operators already bank on such developments to repurpose batteries and use them in stationary energy storage applications. The extension of a 
+battery’s useful life can create additional revenue streams to the degree that some developers extend those batteries’ warranties beyond the 
+manufacturer’s original ones. These early developments may also imply that fleet and station operators and lenders are able to extract value along 
+various stages of a battery’s useful life and gradually address the corresponding uncertainties and risks.
+
+The value of offtake agreements: Several of the emerging business and financing models for zero-emission trucks and buses require enough 
+volume of vehicles, batteries and energy to make their economics work. For truck manufacturers, high production volume is also paramount to reduce 
+zero-emission trucks’ capital costs.
+
+Fleet owners, refueling station developers and service operators are already partnering in an attempt to achieve economies of scale by, for example, 
+ensuring charging station utilization. These ‘offtake’ agreements, albeit few for now, can provide some certainty on the costs and returns for fleets and 
+refueling stations. Similarly, efforts to aggregate demand for zero-emission road freight for shippers and carriers are also taking shape; for example, 
+as part the e-FAST initiative in India and Smart Freight Centre’s Sustainable Freight Buyers Alliance. In turn, such visibility on operational economics 
+can underpin the financing of large and long-term capital projects, including electric truck procurement and station development costs. 
+
+45
+
+BNEF
+
+Financing fleet electrification
+
+Case study: Zenobe EV Delivery Truck 
+Charging Facility
+
+Zenobe EV Delivery Truck Charging Facility, Australia
+
+Project partners
+
+Zenobe and Woolworths
+
+Fleet
+
+60 medium-duty battery-electric trucks
+
+Use case
+
+Last-mile delivery
+
+Refueling infrastructure
+
+22 dual direct-current (DC) chargers, 
+120kW per charger
+
+Energy storage
+
+150kWh battery storage
+
+Station land
+
+Leased
+
+Financing
+
+Equity
+
+Debt
+
+Grants/Other
+
+Receivables 
+financing
+
+AUD8.5 million ($5.7 
+million) from Arena
+
+67% (combined equity and debt)
+
+33%
+
+Source: BloombergNEF, companies. Note: ‘Arena’ is Australian Renewable 
+Energy Agency. Conversion to US dollars as of September 9, 2024.
+
+46
+
+BNEF
+
+The Zenobe EV Delivery Truck Charging Facility includes in a single 
+investment project with everything needed to operate a fleet of medium-
+duty battery-electric delivery trucks. Beyond building and operating the 
+station, funding was used for a batch of 60 trucks, owned by Zenobe, 
+that are leased to the supermarket chain Woolworths. 
+
+The project required the support of a government grant for about a third 
+of the cost, while it also raised debt based on more traditional tools, 
+such as receivables financing. While Zenobe is currently exploring the 
+possibility of raising concessional finance, it sees a pathway to 
+deploying a future stack of funds supported solely by the economics of 
+using and operating such vehicles.
+
+Some forms of utilization agreements for the charging station are in 
+place and being planned. Woolworths is set to only use around half of 
+the site’s chargers, and Zenobe plans to attract additional fleets as 
+clients. These may use the station within specific time slots throughout 
+the day. 
+
+As with other early deployments of electric trucks, the project’s primary 
+risks centre on the residual value for both the truck and its battery. 
+Zenobe has been using vehicle batteries in stationary energy storage 
+projects and has indicated that it will do so in this one as well. 
+
+Financing fleet electrification
+
+Case study: Zenobe EV Delivery Truck 
+Charging Facility
+
+Woolworths 
+supermarkets
+
+Trucks
+
+Additional retail 
+clients 
+
+47
+
+BNEF
+
+Grant 
+funding
+
+Debt
+
+Equity
+
+Zenobe
+
+Trucks
+
+Electricity
+
+Charging 
+equipment
+
+Legend:
+
+Key stakeholders
+
+Key suppliers
+
+Sources of funds
+
+One-off supply
+
+Ongoing contract
+
+Financing fleet electrification
+
+Case study: Forum Mobility FM Harbor
+
+Forum Mobility FM Harbor
+
+Project partners
+
+Forum Mobility, CBRE Investment 
+Management, Homecoming Capital
+
+Fleet
+
+Class 8 battery-electric trucks
+
+Use case
+
+Drayage
+
+Refueling infrastructure
+
+19 dual and 6 single chargers, 360kW per 
+charger
+
+Energy storage
+
+Not installed
+
+Station land
+
+Leased
+
+Financing
+
+Equity
+
+Debt
+
+Grants/other
+
+100%
+
+Not used at this phase
+
+Not used at this phase
+
+Source: BloombergNEF, companies. Note: LCFS is California’s Low Carbon 
+Fuel Standard.
+
+48
+
+BNEF
+
+Forum Mobility’s FM Harbor project serves California’s target to replace 
+trucks moving containers in and out of the state’s ports with zero-
+emission vehicles. Forum developed the charging site as well as 
+financed the purchase of heavy-duty battery-electric trucks. It charges 
+fleets a combination of a fixed and a variable fee, with operators buying 
+time slots throughout the day. 
+
+Financing the construction of the charging station and truck purchases 
+was based on equity without a debt component. Regulatory credits from 
+one of California’s main environmental programs will also provide 
+recurring revenue to the station. To invest in such projects, Forum 
+Mobility has formed a $400 million joint venture, which includes 
+infrastructure investors CBRE Investment Management and 
+Homecoming Capital.
+
+One of the project’s main risks is again the electric truck’s residual 
+value, while increasing station utilization is also a concern. As with other 
+electric fleet deployment projects, required rates of return can well 
+exceed 10%. 
+
+To address such concerns, offtake agreements – whereby a fleet 
+commits to some specific use of the charging site – were part of the 
+project development. These could provide some certainty on station 
+usage, and also help raise traditional types of debt to replace part of the 
+project’s equity.
+
+Financing fleet electrification
+
+Case study: Forum Mobility FM Harbor
+
+‘Anchor’ retail 
+clients
+
+Regulatory 
+credits
+
+Equity
+
+Trucks
+
+Additional retail 
+clients 
+
+Note: The dotted line signifies that Forum Mobility may finance 
+the purchase of electric trucks and lease them to fleets.
+
+49
+
+BNEF
+
+Forum Mobility
+
+Trucks
+
+Electricity
+
+Charging 
+equipment
+
+Legend:
+
+Key stakeholders
+
+Key suppliers
+
+Sources of funds
+
+One-off supply
+
+Ongoing contract
+
+Financing fleet electrification
+
+Case study: Zero-emission vehicles on 
+Zeti’s platform
+
+Zeti aggregated fleet of commercially operated passenger cars
+
+Project partners
+
+5 lenders, 7 fleets
+
+Fleet
+
+50-1,000 BEVs per fleet
+
+Use case
+
+25-35,000 miles/year for cars
+
+Refueling infrastructure
+
+Not part of project or financing
+
+Energy storage Not part of project or financing
+
+Station land
+
+Not part of project or financing
+
+Financing
+
+Equity
+
+Debt
+
+Loan – senior or mezzanine debt
+
+5-15%
+
+85-95%
+
+Internal rate of return
+
+7-10%
+
+Source: BloombergNEF, companies. Note: ‘BEV’ is battery electric vehicle.
+
+50
+
+BNEF
+
+Battery-electric passenger cars operated on a commercial basis are 
+part of Zeti’s platform, while the pipeline of additional fleets includes 
+those operating zero-emission buses and trucks. Financing differences 
+emerge between vehicle types, as high-utilization cars may already 
+have favorable economics, while those of commercial electric vehicles 
+vary across applications. 
+
+Lenders use common tools to fund purchases, while for passenger cars 
+more-flexible lines of credit also start to be used. But uncertainties over 
+residual value and higher purchase costs pose challenges, especially 
+for trucks and buses. That may lead to investment horizons of 14-15 
+years or more to cover the full useful life of the vehicle. Because of the 
+higher costs and longer timeframe, the fleet operator’s cash flow 
+visibility matters. For example, contracts between bus operators and 
+local authorities or logistics providers and retailers, may result in lower 
+financing costs for such fleets. 
+
+Expected returns are typical for similar projects, but they may be 
+somehow higher and within a wider range for commercial vehicles. 
+
+Charging approaches, and hence funding needs, between vehicle 
+segments. The refueling infrastructure is part of electric bus and truck 
+projects. These may include stationary energy storage and, potentially, 
+power purchase agreements for larger fleets. 
+
+Financing fleet electrification
+
+Case study: Zero-emission vehicles on 
+Zeti’s platform
+
+Debt and 
+equity
+
+Financial 
+institutions and 
+other lenders
+
+Zeti funding 
+platform
+
+Vehicles
+
+Fleet 
+owner
+
+Fleet operator
+
+Note: The dotted line signifies that the funding raised by the lenders 
+is used to finance the purchase of vehicles. The ‘Fleet owner’ and 
+‘Fleet operator’ may be the same entity, when a company buys the 
+vehicles for its own use, or separate entities, when lenders keep 
+vehicle ownership and lease the vehicles to fleets.
+
+Public 
+charging
+
+Home 
+charging
+
+51
+
+BNEF
+
+Legend:
+
+Key stakeholders
+
+Key suppliers
+
+Sources of funds
+
+One-off supply
+
+Ongoing contract
+
+Appendix
+
+52
+
+BNEF
+
+Appendix
+
+Defining commercial vehicles
+
+Main focus 
+of the  report
+
+Vehicle segment
+
+Typical use cases
+
+Heavy-duty 
+commercial vehicle 
+(HCV)
+
+Medium-duty 
+commercial vehicle 
+(HCV)
+
+Light-duty 
+commercial vehicle 
+(HCV)
+
+Refuse, drayage, 
+construction, freight
+
+Distribution, utility and 
+municipal services, freight
+
+Last-mile delivery, 
+distribution
+
+Municipal buses 
+and coaches
+
+Urban and inter-city 
+people transport
+
+Commercial vehicles come in many types and perform 
+several functions. Their operations vary widely, even for 
+similar vehicles in the same weight segment. 
+
+Light-duty commercial vehicles are typically vans or small 
+trucks that operate within and around cities. They are the 
+largest segment in terms of fleet and sales within the sector. 
+Zero-emission models mostly consist of battery-electric 
+vehicles, and adoption has been growing globally, albeit at 
+different speeds across countries.
+
+Medium- and heavy-duty trucks are used in several, disparate 
+duty cycles. These include infrastructure maintenance, 
+municipal services, urban distribution, and short- and long-
+haul goods movement, among others.
+
+While these vehicles’ sales and fleet are considerably lower 
+than for light-duty commercial vehicles, they consume 
+relatively more energy. 
+
+Source: BloombergNEF. Note: Segmentation is for the purpose of clarifying 
+content in this report. For gross vehicle weight rating thresholds in different 
+countries, see Slide 53.
+
+53
+
+BNEF
+
+Appendix
+
+Defining electric vehicles (EVs) and 
+zero-emission vehicles (ZEVs)
+
+Zero-emission 
+vehicles (ZEVs)
+
+(These vehicle types 
+contain combustion 
+engines)
+
+Fuel-cell vehicle 
+(FCV)
+
+Battery-electric 
+vehicle (BEV)
+
+Plug-in hybrid 
+electric vehicle 
+(PHEV)
+
+Hybrid vehicle 
+(non-pluggable)
+
+Electric vehicles 
+(EVs)
+
+Source: BloombergNEF. Note: Categorisations are only for the purpose of clarifying content in 
+this report.
+
+54
+
+BNEF
+
+For the purposes of this report, we define zero-emission 
+vehicles (ZEVs) as those vehicles that never emit carbon 
+dioxide from their tailpipes. 
+
+This means that in our categorization, ZEVs only include pure 
+battery-electric vehicles (BEVs) and fuel-cell vehicles (FCVs), 
+neither of which have internal combustion engines.
+
+It is understood that these vehicles should be fueled from 
+clean electricity or hydrogen if they are to be truly zero-
+emission in operation.
+
+Electric vehicles (EVs) as a category are commonly 
+understood to include plug-in hybrids (PHEVs).
+
+In this report, as in all other BNEF publications, we include 
+PHEVs in our definition of EVs, alongside pure BEVs. 
+
+However, PHEVs are excluded in some portions of this report 
+that focus on ZEVs, as defined above.
+
+Pages that focus on the broader category ‘EVs and FCVs’ 
+encompass all of the above.
+
+Hybrid vehicles that cannot be charged from an external 
+power source are not included in our definitions of ZEV or EV.
+
+Appendix
+
+Commercial vehicle classification
+
+)
+
+R
+W
+V
+G
+
+(
+
+g
+n
+
+i
+t
+
+a
+r
+
+t
+
+i
+
+h
+g
+e
+w
+e
+c
+h
+e
+v
+
+i
+
+l
+
+s
+s
+o
+r
+g
+
+i
+
+g
+n
+s
+a
+e
+r
+c
+n
+
+I
+
+Class 1
+6,000 lbs
+
+Class 2
+10,000 lbs
+
+Class 3
+14,000 lbs
+
+Class 4
+
+Class 5
+19,500 lbs
+
+Class 6 
+26,00 lbs
+
+Class 7
+33,000 lbs
+
+Class 8
+
+US
+LCV
+
+~4,500 kg
+
+US
+MCV
+
+~11,800 kg
+
+US
+HCV
+
+China
+LCV
+
+6,000 kg
+
+China
+MCV
+
+14,000 kg
+
+China
+HCV
+
+Europe
+LCV
+3,500 kg
+
+Category 
+N1
+
+Europe
+MCV
+
+Category 
+N2
+
+12,000 kg
+
+Europe
+HCV
+
+Category 
+N3
+
+● The weight thresholds between segments follow the 
+classification of registered commercial vehicles as 
+used in different countries.
+
+● In the US, we choose Class 2 vehicles as the 
+
+threshold for light-duty commercial vehicles (LCV) to 
+be as close as possible to both the European and 
+Chinese limits.
+
+Note: ‘LCV’, ‘MCV’, and ‘HCV’ refer to low-, medium-, and 
+heavy-duty commercial vehicles.
+
+55
+
+BNEF
+
+ 
+ 
+ 
+ 
+ 
+Appendix
+
+Data sources for sales and fleet
+
+● BloombergNEF
+
+● Bloomberg Terminal
+
+● China Automotive Technology and Research Center
+
+● FTR Associates
+
+● Wards Automotive
+
+● European Automobile Manufacturers’ Association (ACEA)
+
+● European Alternative Fuels Observatory
+
+● South Korean Ministry of Trade, Industry and Energy (MOTIE)
+
+● EV-Volumes
+
+● Japan Automobile Dealers Association (JADA)
+
+● Ministry of Road Transport and Highways of India
+
+● Australia Bureau of Infrastructure and Transport Research Economics (BITRE)
+
+● Ministry of Transport (Brazil)
+
+● Brazilian Association of Automotive Vehicle Manufacturers (ANFAVEA)
+
+● Various other national registration agencies
+
+56
+
+BNEF
+
+Authors and acknowledgments
+
+This report was produced by BloombergNEF.
+
+The authors greatly benefitted from the partnership with the Dutch 
+Ministry of Infrastructure and Water Management and the Smart Freight 
+Centre.
+
+The following subject matter experts generously contributed their 
+expertise and feedback on all areas of the report: Stephan van Zyl, 
+Dennis Zaitsev, Herman Sips, Cristiano Facanha and Christoph Wolff. 
+
+Dr Nikolas 
+Soulopoulos
+Head of Commercial 
+Transport, BNEF
+
+Maynie Yang
+Associate, 
+Commercial 
+Transport, BNEF
+
+57
+
+BNEF
+
+Ryan Fisher
+Head of EV Charging 
+Infrastructure, BNEF
+
+Colin 
+McKerracher
+Head of Clean 
+Transport, BNEF
+
+The authors also give special thanks to Zeti, Zenobe
+and Forum Mobility, who contributed data and 
+insights for parts of this publication.
+
+Copyright and disclaimer
+
+Copyright
+© Bloomberg Finance L.P. 2024. This publication is the copyright of Bloomberg Finance L.P. in connection with BloombergNEF. No portion of this document may be 
+photocopied, reproduced, scanned into an electronic system or transmitted, forwarded or distributed in any way without prior consent of BloombergNEF.
+Disclaimer
+The BloombergNEF ("BNEF"), service/information is derived from selected public sources. Bloomberg Finance L.P. and its affiliates, in providing the 
+service/information, believe that the information it uses comes from reliable sources, but do not guarantee the accuracy or completeness of this information, which is 
+subject to change without notice, and nothing in this document shall be construed as such a guarantee. The statements in this service/document reflect the current 
+judgment of the authors of the relevant articles or features, and do not necessarily reflect the opinion of Bloomberg Finance L.P., Bloomberg L.P. or any of their 
+affiliates (“Bloomberg”). Bloomberg disclaims any liability arising from use of this document, its contents and/or this service. Nothing herein shall constitute or be 
+construed as an offering of financial instruments or as investment advice or recommendations by Bloomberg of an investment or other strategy (e.g., whether or not 
+to “buy”, “sell”, or “hold” an investment). The information available through this service is not based on consideration of a subscriber’s individual circumstances and 
+should not be considered as information sufficient upon which to base an investment decision. You should determine on your own whether you agree with the 
+content. This service should not be construed as tax or accounting advice or as a service designed to facilitate any subscriber’s compliance with its tax, accounting or 
+other legal obligations. Employees involved in this service may hold positions in the companies mentioned in the services/information.
+The data included in these materials are for illustrative purposes only. The BLOOMBERG TERMINAL service and Bloomberg data products (the “Services”) are 
+owned and distributed by Bloomberg Finance L.P. (“BFLP”) except (i) in Argentina, Australia and certain jurisdictions in the Pacific islands, Bermuda, China, India, 
+Japan, Korea and New Zealand, where Bloomberg L.P. and its subsidiaries (“BLP”) distribute these products, and (ii) in Singapore and the jurisdictions serviced by 
+Bloomberg’s Singapore office, where a subsidiary of BFLP distributes these products. BLP provides BFLP and its subsidiaries with global marketing and operational 
+support and service. Certain features, functions, products and services are available only to sophisticated investors and only where permitted. BFLP, BLP and their 
+affiliates do not guarantee the accuracy of prices or other information in the Services. Nothing in the Services shall constitute or be construed as an offering of 
+financial instruments by BFLP, BLP or their affiliates, or as investment advice or recommendations by BFLP, BLP or their affiliates of an investment strategy or 
+whether or not to “buy”, “sell” or “hold” an investment. Information available via the Services should not be considered as information sufficient upon which to base an 
+investment decision. The following are trademarks and service marks of BFLP, a Delaware limited partnership, or its subsidiaries: BLOOMBERG, BLOOMBERG 
+ANYWHERE, BLOOMBERG MARKETS, BLOOMBERG NEWS, BLOOMBERG PROFESSIONAL, BLOOMBERG TERMINAL and BLOOMBERG.COM. Absence of 
+any trademark or service mark from this list does not waive Bloomberg’s intellectual property rights in that name, mark or logo. All rights reserved. © 2024 Bloomberg.
+
+58
+
+BNEF
+
+BloombergNEF (BNEF) is a strategic 
+research provider covering global commodity 
+markets and the disruptive technologies 
+driving the transition to a low-carbon 
+economy. 
+
+Our expert coverage assesses pathways for 
+the power, transport, industry, buildings and 
+agriculture sectors to adapt to the energy 
+transition. 
+
+We help commodity trading, corporate 
+strategy, finance and policy professionals 
+navigate change and generate opportunities.
+
+Client enquiries:
+
+Bloomberg Terminal: press <Help> key twice
+Email: support.bnef@bloomberg.net
+
+Learn more: 
+
+about.bnef.com | @BloombergNEF
+
+

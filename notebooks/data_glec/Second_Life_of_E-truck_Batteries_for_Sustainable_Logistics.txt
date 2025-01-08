@@ -1,0 +1,2017 @@
+Second Life of E-Truck 
+Batteries for Sustainable 
+Logistics 
+
+August 2024 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Second  Life  of  E-Truck  Batteries  for 
+Sustainable Logistics 
+
+August 2024 
+
+© Smart Freight Centre, 2024 
+Suggested citation: Smart Freight Centre & Cenex Nederland. Second Life of E-Truck Batteries for Sustainable 
+Logistics. 2024 
+This publication may be reproduced in whole or in part in any form for educational or non-profit purposes without special permission 
+from the copyright holder, provided acknowledgment of the source is made. Smart Freight Centre would appreciate receiving a copy of 
+any publication that uses ' Second Life of E-Truck Batteries for Sustainable Logistics.’ as a source.  No use of this publication may 
+be made for resale or for any other commercial purpose whatsoever, without prior permission in writing from Smart Freight Centre. 
+
+Disclaimer 
+The views expressed in this publication are those of Smart Freight Centre and staff, consultants and management, and do not 
+necessarily reflect the views of the Board of Trustees of Smart Freight Centre. Smart Freight Centre does not guarantee the a ccuracy of 
+the data included in this publication and does not accept responsibility for consequence of their use. 
+
+Acknowledgements 
+This report was written by Priyansh Doshi (Smart Freight Centre), Rishabh Ghotge (Cenex Nederland) and Tharsis Teoh (Smart Freight 
+Centre).  
+
+About Smart Freight Centre 
+Smart Freight Centre is an international non-profit organization focused on reducing greenhouse gas emissions from freight 
+transportation. Smart Freight Centre’s vision is an efficient and zero emission global logistics sector. Smart Freight Centre’s mission is 
+to collaborate with the organization’s global partners to quantify impacts, identify solutions, and propagate logistics decarbonization 
+strategies. Smart Freight Centre’s goal is to guide the global logistics industry in tracking and reducing the industry’s greenhouse gas 
+emissions by one billion tonnes by 2030 and to reach zero emissions by 2050 or earlier, consistent with a 1.5°C future. 
+
+About Cenex Nederland 
+Cenex Nederland (Cenex NL) is an independent, not-for-profit Consultancy and Research Technology Organisation based in 
+Amsterdam, the Netherlands. They work with and for governments, industry, and academia on finding solutions in Zero Emissions 
+Mobility, Energy Infrastructure and Circular Mobility. 
+
+Contact 
+Smart Freight Centre 
+Keizersgracht 560, 1017 EM, Amsterdam, Netherlands 
+P.O. Box 11772, 1001 GT, Amsterdam, Netherlands 
+Tel office: +31 6 4695 4405 
+www.smartfreightcentre.org 
+info@smartfreightcentre.org  
+
+2 
+
+            
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Second Life of E-Truck Batteries for Sustainable Logistics 
+
+Table of Contents 
+
+Executive Summary ............................................................................................. 6 
+
+Glossary ................................................................................................................ 8 
+
+1 
+
+Introduction .................................................................................................. 10 
+
+Battery Technology in E-trucks ................................................................................... 10 
+
+End of First Life of E-truck Batteries ........................................................................... 11 
+
+2  Second Life Batteries: A Comprehensive Overview ............................... 13 
+
+Market Overview .......................................................................................................... 14 
+
+Benefits of a Second Life Battery Ecosystem ............................................................. 14 
+
+Preparation and Assessment of End-of-Life EV Batteries for Second-Life Applications
+ ..................................................................................................................................... 15 
+
+Typical Applications of Second Life Batteries ............................................................. 16 
+
+Second Life Battery Pilot Projects ............................................................................... 17 
+
+Business Models Enabling .......................................................................................... 17 
+
+EoFL Battery Use ........................................................................................................ 17 
+
+3 
+
+Impact on Road Freight Electrification ..................................................... 19 
+
+Electricity Distribution Support at Charging Depots  ................................................... 19 
+
+Replace Peaking Plants with SLBESS........................................................................ 19 
+
+Benefits for Road Freight Electrification ...................................................................... 20 
+
+4  Challenges and Regulatory Landscape  ................................................... 21 
+
+Technical Challenges and Regulatory Gaps............................................................... 21 
+
+Economic Challenges .................................................................................................. 22 
+
+Regulatory Landscape ................................................................................................. 22 
+
+5  Conclusions  ................................................................................................. 24 
+
+Recommendations for Logistics Sector....................................................................... 24 
+
+Bibliography........................................................................................................ 26 
+
+3 
+
+                      
+ 
+ 
+ 
+ 
+ 
+                                                                                                              
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Second Life of E-Truck Batteries for Sustainable Logistics 
+
+Table of Figures 
+
+Figure 1: Comparison of different types of LiB chemistries used in e-trucks. .............................. 11 
+Figure 2: Lifecycle of an e-truck battery. . .................................................................................... 12 
+Figure 3: End of Life options for e-truck batteries. ....................................................................... 13 
+Figure 4: Global LiB demand in GWh. ......................................................................................... 14 
+Figure 5: Steps for battery reuse or repurposing. ........................................................................ 15 
+Figure 6: Capital cost reduction (%) of distribution support system for charging, using SLBs. ... 19 
+Figure 7: Comparison of net savings for various deployment levels of SLBs. ............................. 20 
+
+4 
+
+                      
+ 
+ 
+ 
+ 
+ 
+                                                                                                              
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Second Life of E-Truck Batteries for Sustainable Logistics 
+
+Table of Abbreviations 
+
+BESS: Battery Energy Storage Systems 
+
+BMS: Battery Management System 
+
+E-Truck: Electric Truck 
+
+EV: Electric Vehicle 
+
+ELSA: Energy Local Storage Advanced System 
+
+EoFL:  End of First Life  
+
+EPR: Extended Producer Responsibility 
+
+GHG: Greenhouse Gas 
+
+GWh: Gigawatt hour 
+
+HDV: Heavy-Duty Vehicles 
+
+IRENA: International Renewable Energy Agency 
+
+Kg: Kilogram 
+
+kW: Kilowatt 
+
+LFP: Lithium Iron Phosphate 
+
+Li-S: Lithium Sulphur  
+
+LiB: Lithium-ion Battery 
+
+MWh: MegaWatt hour 
+
+NCA: Nickel Cobalt Aluminium 
+
+NMC: Nickel Manganese Cobalt 
+
+OEM: Original Equipment Manufacturer 
+
+RUL: Remaining Useful Life 
+
+SLB: Second-Life Battery 
+
+SLBESS: Second Life Battery Energy Storage System 
+
+SoC: State of Charge 
+
+SoH: State of Health 
+
+TCO: Total Cost of Ownership 
+
+TWh: Terawatt hour 
+
+5 
+
+                      
+ 
+ 
+ 
+ 
+ 
+                                                                                                              
+ 
+ 
+ 
+ 
+ 
+Second Life of E-Truck Batteries for Sustainable Logistics 
+
+Executive Summary 
+
+The road freight sector in the European Union (EU) is witnessing a surge in the adoption of electric 
+trucks (e-trucks), with sales of heavy-duty vehicles tripling. Batteries are crucial component for 
+decarbonizing the transport sector, yet they constitute up to 40% of the total cost of ownership 
+(TCO)  of  e-trucks  and  40%  of  the  greenhouse  gas  (GHG)  emissions  in  e-truck  production. 
+Additionally, their manufacturing is associated with social sustainability issues. Moreover, these 
+batteries  typically  reach  the  end  of  first  life  (EoFL)  in  e-truck  applications  when  their  capacity 
+drops to 80%. For shippers and fleet owners aiming for a sustainable and economical transition 
+in the freight transport sector, it is essential to maximize the potential of these batteries. After their 
+first life in e-truck applications, these batteries still retain significant residual value, making their 
+secondary use an increasingly important consideration. 
+
+This  study  aims  to  provide  a  comprehensive  overview  of  the  reuse  and  repurposing  of  EoFL 
+batteries of e-trucks. Section 1 delves into the landscape of battery technology in heavy duty e-
+trucks, emphasizing on the lifecycle of e-truck batteries. Section 2 begins by defining the concepts 
+of  battery  reuse  and  repurposing.  It  outlines  the  anticipated  market  demand  for  second  life 
+batteries (SLB) and highlights the benefits of their secondary use. The section also explains how 
+to  assess  and  prepare  these  batteries  for  their  second  life,  provides  real-world  examples  of 
+second life applications, and showcases innovative business models that leverage the value of 
+these batteries. Section 0 evaluates the impact of SLBs from e-truck on road freight electrification 
+from both a practical and strategic perspective. Section 3 provides an overview of the technical 
+and economic challenges of using batteries in second life  application. Additionally, the section 
+presents a brief overview of the regulatory landscape for reuse and repurposing of EoFL batteries 
+in EU. Finally, the study presents recommendations for policy makers and the logistic sector to 
+facilitate the development of SLB ecosystem and capitalize on its benefits.  
+
+The study provides the following high-level findings: 
+
+Different  battery  chemistries  used  in  heavy-duty  e-trucks  have  varying  impacts  on 
+usability  in  their  second  life.  LFP  (Lithium  Iron  Phosphate)  and  NMC  (Nickel  Manganese 
+Cobalt) battery chemistries dominate the heavy-duty e-truck market in the EU. LFP batteries are 
+more advantageous for second life applications due to their longer battery life. Additionally, LFP 
+batteries have greater safety against thermal risks, making them safer for deployment in second 
+life applications comparatively. 
+
+Stationary storage and the mobility sector contribute to the majority of demand for lithium-
+ion batteries, presenting an opportunity for shippers and fleet owners. Global demand for 
+batteries  stands  at  4.3  terawatt  hours  (TWh)  for  mobility  applications  and  421  gigawatt  hours 
+(GWh) for stationary applications. This presents a significant opportunity for shippers and fleet 
+owners to reuse or repurpose electric vehicle (EV) batteries for second life applications in these 
+markets. It is projected that by 2030, the supply of SLB for stationary applications could exceed 
+200 GWh annually, representing a market valued at $30 billion globally. 
+
+SLBs  offer  reduced  TCO  and  provide  a  stable,  sustainable  and  economical  charging 
+infrastructure  for  shippers  and  fleet  owners.  SLBs  could  reduce  costs  for  end-users  by 
+approximately 42% compared to new batteries. Therefore, EoFL e-truck batteries with significant 
+residual capacity can be reused in less demanding mobile applications, drastically reducing TCO. 
+Additionally,  repurposing  EoFL  e-truck  batteries  for  stationary  applications  at  charging  depots 
+could reduce the capital cost of the charging system by approximately 25%. This would allow a 
+large fleet of e-trucks to charge simultaneously at depots, minimizing the cost and time required 
+for  network  reinforcements.  Furthermore,  SLBs  will  boost  the  deployed  storage  capacities  on 
+energy  networks  beyond  what  is  achievable  with  new  batteries,  enhancing  renewable  energy 
+deployment and reducing energy costs and emissions related to charging activities. 
+
+6 
+
+                      
+ 
+ 
+ 
+ 
+ 
+                                                                                                              
+ 
+ 
+ 
+Second Life of E-Truck Batteries for Sustainable Logistics 
+
+The  feasibility  of  reusing  or  repurposing  EoFL  e-truck  batteries  depends  on  various 
+technical  and  economic  factors.  Several  technical  challenges  need  to  be  considered  when 
+choosing  second  life  options  for  EoFL  e-truck  batteries.  These  include  battery  heterogeneity, 
+remaining  useful  life  (RUL)  prediction,  unique  safety  and  battery  management  system  (BMS) 
+requirements for different second life applications, and the complexities of the disassembly and 
+repurposing process. On the economic side, the benefits of reusing or repurposing EoFL e-truck 
+batteries depend on the cost of repurposing, the cost of new batteries, and its lifespan in second 
+life  applications.  The  cost  gap  between  repurposed  batteries  and  the  declining  cost  of  new 
+batteries should be significantly large to justify the investment. 
+
+There  is  a  lack  of  maturity  in  standards  for  battery  durability,  safety,  information 
+accessibility,  and collection and refurbishment targets. Several regulatory  gaps  related to 
+the battery second life ecosystem exist in the EU, hindering the feasibility of second life options 
+for EoFL e-truck batteries. Information about the technical characteristics, state of  health, and 
+operation history of batteries is currently not easily accessible until the implementation of the EU 
+battery  passport  in  2027.  To  support  the  economic  feasibility  of  battery  reuse,  it  is  crucial  to 
+standardize  state-of-health  (SoH)  metrics  to  inform  decisions  on  second  life  applications. 
+Moreover, mandatory battery durability requirements are significant to incentivize the production 
+of long-lasting batteries and support second life usage. Defining safety standards for reuse and 
+repurposing  is  crucial  to  reducing  the  associated  risks.  Lastly,  defining  collection  and 
+refurbishment targets will prevent  unwarranted  disposal  and ensure batteries are used to their 
+maximum potential. 
+
+The study further provides recommendations to enable shippers and fleet owners to maximize 
+the potential of these EoFL e-truck batteries: 
+
+Mandatory Battery Passport in Procurement Criteria: When procuring e-trucks, it is essential 
+to ensure that the e-truck batteries come with a digital battery passport, making this a mandatory 
+procurement requirement. Although the EU battery regulations mandate digital battery passports 
+only from 2027, making this a mandatory requirement now will help shippers and fleet owners 
+ease the repurposing process later, making it safe and cost-effective to deploy these batteries for 
+the right second life application. 
+
+Collaboration  with  Battery  Reuse  or  Repurposing  Companies  and  Knowledge  Partners: 
+Shippers and fleet owners should actively collaborate with reputable battery reuse or repurposing 
+companies to gain a thorough understanding of their specific needs and operational requirements. 
+This collaboration is essential for several reasons: 
+
+▪  Customized  Solutions:  By  working  closely  with  battery  repurposers,  shippers  and  fleet 
+owners can ensure that the repurposing solutions are tailored to their operational demands 
+and performance expectations, maximizing economic and environmental benefits. 
+
+▪  Optimized Battery Life: Collaboration allows for better tracking and management of battery 
+health,  ensuring  that  repurposed  batteries  are  used  efficiently  and  effectively,  thereby 
+extending their lifecycle. 
+
+▪  Regulatory  Compliance:  Collaborating  with  experienced  repurposers  ensures  that  all 
+regulatory  requirements  are  met,  minimizing  legal  risks  and  ensuring  compliance  with 
+environmental and safety standards. 
+
+Partnerships  with  knowledge  partners  can  provide  valuable  insights  into  technology,  market 
+dynamics,  and  best  practices,  ensuring  informed  decision-making.  These  collaborations  are 
+instrumental  in  successfully  running  pilot  projects  for  deploying  EoFL  e-truck  batteries  in 
+secondary applications. 
+
+7 
+
+                      
+ 
+ 
+ 
+ 
+ 
+                                                                                                              
+ 
+ 
+ 
+Second Life of E-Truck Batteries for Sustainable Logistics 
+
+Glossary  
+
+Battery: Battery refers to any device delivering electrical energy generated by direct conversion 
+of  chemical  energy,  having  internal  or  external  storage,  and  consisting  of  one  or  more  non-
+rechargeable or rechargeable battery cells, modules or of packs. 
+
+Battery Energy Storage Systems: A battery energy storage system, is a type of energy storage 
+system that uses a group of rechargeable batteries to store electrical energy from renewable and 
+non-renewable sources for later use. 
+
+Battery  Pack:  Battery  pack  refers  to  any  set  of  battery  cells  or  modules  that  are  connected 
+together or encapsulated within an outer casing, to form a complete unit. 
+
+Charge/Discharge  Rate: Charge/discharge rate  refers to the speed at which  energy is either 
+stored into or drawn from a battery. 
+
+Circularity/Circular  Economy/Circular  Value  Chain:  Circular  economy  is  a  system  where 
+materials never become waste and nature is regenerated. In a circular economy, products and 
+materials  are  kept  in  circulation  through  processes  like  maintenance,  reuse,  repurpose, 
+remanufacture, recycling, and composting. 
+
+Depth of Cycles/Depth of Discharge: Depth of discharge or depth of battery cycles refers to the 
+percentage of a battery's capacity that has been discharged relative to its maximum capacity. In 
+other words, it measures how much of the total energy stored in the battery has been used during 
+a single discharge cycle. 
+
+End of First Life: The End of First Life of an electric vehicle battery refers to the point at which 
+the battery can no longer meet the performance requirements for its initial application, such as 
+powering a vehicle. This typically occurs when the battery's capacity has degraded significantly, 
+meaning it can store and deliver much less energy than when it was new. 
+
+Recycling:  Recycling  refers  to  the  systematic  process  of  collecting,  sorting,  dismantling,  and 
+recovering valuable materials from used batteries. 
+
+Remaining  Useful  Life:  The  remaining  useful  life  of  an  electric  vehicle  battery  refers  to  the 
+estimated  duration  before  the  battery's  capacity  declines  to  a  point  (below  70-80%  of  original 
+capacity) where it no longer meets the vehicle's operational needs. 
+
+Repurposer: Repurposer refers to an entity or organization that takes used batteries from electric 
+vehicles, refurbishes and reconfigures them for a second life application. 
+
+Residual Capacity: Residual capacity of a battery refers to the amount of charge it can still hold 
+and deliver compared to its original capacity when it was new. It is a measure of how much usable 
+energy the battery can store and provide after being used for a period of time. 
+
+State of Charge: The state of charge of a battery is defined as the ratio between the available 
+capacity and the reference capacity, which is the maximum capacity that can be withdrawn from 
+the fully charged battery. 
+
+State of Health: The state of health of an electric vehicle battery refers to its current condition 
+and performance compared to its original state when it was new. 
+
+Stated Policies Scenario: The Stated Policies Scenario (STEPS) reflects existing policies and 
+measures,  as  well  as  firm  policy  ambitions  and  objectives  that  have  been  legislated  by 
+governments. 
+
+Thermal Runaway: Thermal runaway is a condition where an increase in temperature within the 
+battery can lead to further heat generation, potentially resulting in an uncontrollable chain reaction 
+that can cause overheating, fire, or explosion. 
+
+8 
+
+                      
+ 
+ 
+ 
+ 
+ 
+                                                                                                              
+ 
+ 
+Second Life of E-Truck Batteries for Sustainable Logistics 
+
+Thermal Runaway Propagation Resistance: Thermal runaway propagation resistance refers to 
+the ability of a battery to prevent the rapid spread of thermal runaway once it has been initiated 
+in one part of the battery cell or pack.  
+
+Total Cost of Ownership: The TCO provides a way to calculate, and then fairly compare, the 
+costs of owning and operating a vehicle over a period of time. It combines information on purchase 
+costs, ongoing costs such as fueling/charging and maintenance, as well as financing. 
+
+Volumetric  Energy  Density:  Volumetric  energy  density  of  a  battery  refers  to  the  amount  of 
+energy it can store per unit volume. In simpler terms, it measures how much energy a battery can 
+hold relative to its size or volume. 
+
+9 
+
+                      
+ 
+ 
+ 
+ 
+ 
+                                                                                                              
+ 
+ 
+ 
+ 
+Second Life of E-Truck Batteries for Sustainable Logistics 
+
+1 
+
+Introduction 
+
+As shippers and fleet owners transition to electric trucks (e-trucks), effectively managing batteries 
+at the end of their first life (EoFL) becomes essential, with different battery technologies affecting 
+both EoFL options and performance in e-trucks. 
+
+The  increasing  adoption  of  e-trucks  driven  by  stringent  policies  is  expected  to  transform  the 
+logistics and transportation industries. The heavy-duty e-truck market share has seen a threefold 
+rise from around 0.3% in 2022 to nearly 0.9% share of all new heavy-duty trucks sold in 2023 
+(ICCT  2024).  As  shippers  and  fleet  owners  transition  to  e-trucks,  a  new  aspect  emerges:  the 
+management of e-truck batteries once their capacity for vehicular use diminishes. Typically, these 
+batteries  retain  significant  energy  storage  capabilities,  making  their  secondary  use  a  topic  of 
+growing interest. This study explores the potential for repurposing e-truck batteries, examining 
+the second life battery (SLB) ecosystem, opportunities, challenges, relevant policies and impacts 
+on shippers and fleet owners. It begins with an overview of the current  and the future state of 
+battery  technology  and  discusses  the  EoFL  of  e-truck  batteries,  setting  the  stage  for 
+understanding their second life potential. 
+
+Battery Technology in E-trucks 
+
+Battery  e-trucks  are  designed  with  a  large  rechargeable  battery  pack  as  the  primary  energy 
+source along with an electric motor, inverter, battery charger, controller and charging cable  (SEAI 
+2024). The battery packs consist of multiple individual cells configured to store the  energy which 
+powers the truck's electric motors (Milence 2023). 
+
+Over  the  years,  rapid  advancements  in  Lithium-ion  Battery  (LiB)  technology  have  established 
+them as the preferred choice for e-truck applications due to their higher energy density, improved 
+safety,  extended  service  life,  rapid  charging  capabilities,  and  minimal  self-discharge  (Pesaran 
+2023; Basma et al. 2021).  
+
+However, LiB performance and energy efficiency can vary based on battery cell chemistry, cell 
+format,  and  cell-to-battery-pack  packaging.  The  different  chemistries  come  with  trade-offs  in 
+weight,  capacity,  performance,  fast  charging  capability,  packaging,  and  recyclability,  while  the 
+different cell formats—prismatic, pouch, and cylindrical—impact the volumetric energy density, 
+packing efficiency, and safety, particularly in terms of thermal runaway propagation resistance. 
+
+In  freight  vehicles,  battery  energy  density  is  crucial  as  it  directly  impacts  maximum  payload, 
+transport volume and vehicle range (Basma et al. 2021). Freight vehicles are typically used more 
+intensively  than light duty vehicles and  are operated  under harsher  conditions.  To  meet these 
+requirements, freight vehicles need battery packs capable of withstanding high-power discharges 
+and a longer cycle life. To take advantage of ultra-fast charging during long-haul trips, batteries 
+need to be capable of withstanding high thermal stresses (Abhyankar et al. 2022). Factors such 
+as battery pack cost, charge/discharge rates, and safety are critical considerations in selecting 
+the appropriate battery chemistry for commercial vehicles (Volta Foundation 2024). 
+
+Current LiB Chemistries used in Heavy-Duty E-Trucks 
+
+Currently, both Lithium Iron Phosphate (LFP) and high-nickel chemistries like Nickel Manganese 
+Cobalt  (NMC)  and  Nickel  Cobalt  Aluminum  (NCA)  are  being  installed  in  heavy-duty  e-trucks 
+(Basma et al. 2021).  Amongst these, LFPs & NMCs dominate the heavy-duty e-truck markets in 
+Europe (ICCT 2024). OEMs prefer varying LiB chemistries for heavy duty e-truck applications to 
+capitalize on their specific advantages which are highlighted below:  
+
+▪  Lithium  Iron  Phosphate:  LFP  battery  chemistries  have  higher  durability  enabling  higher 
+charge/discharge rates compared to NMC batteries. In addition, LFP batteries have significant 
+cost  advantage  due  to  their  lack  of  cobalt.  While  LFP  batteries  have  lower  energy  density 
+
+10 
+
+                      
+ 
+ 
+ 
+ 
+ 
+                                                                                                              
+ 
+ 
+Second Life of E-Truck Batteries for Sustainable Logistics 
+
+compared to NMCs, they  are less prone to fire related accidents. Moreover, LFPs have the 
+highest  battery  life  cycle  comparatively  making  them  more  suitable  for  use  in  second  life 
+(Basma et al. 2021). LFP chemistry is widely used in e-trucks manufactured by Daimler and 
+DAF (Daimler Trucks 2022; DAF 2024).  
+
+▪  Lithium  Nickel  Manganese  Cobalt:  NMC  batteries  have  the  highest  energy  density 
+comparatively  making  it  the  preferred  choice  of  battery  chemistry  for  heavy  duty  e-truck 
+manufacturers like Volvo, Scania, MAN and Renault. However, this chemistry offers a lower 
+cycle life compared to LFP as seen in the Figure 1 (Basma et al. 2021).  
+
+▪  Lithium Nickel Cobalt Aluminum: NCA batteries deliver higher energy density compared to 
+LFP batteries at the same time provides excellent fast charging capability making it suitable 
+for e-truck manufacturer Volvo (SAE 2024). However, they have the highest safety concerns 
+comparatively.  
+
+Figure 1: Comparison of different types of LiB chemistries used in e-trucks (Miao et al. 
+2019). 
+
+Potential Battery Chemistry in Heavy-Duty E-Trucks 
+
+Lithium-sulfur  (Li-S)  batteries  and  solid-state  batteries  (SSB)  are  few  of  the  potential  battery 
+chemistries that may be used in heavy-duty e-trucks in the future (SAE 2024).  
+
+▪  Lithium Sulphur Batteries: These batteries have higher energy densities (up to 500 Wh/kg), 
+approximately  double  that  of  LFPs  and  NMCs,  presenting  potential  for  heavy-duty  e-truck 
+applications.  Challenges  such  as  shorter  cycle  life  and  reduced  performance  in  cold 
+temperatures currently limit their commercial viability (SAE 2024; Volta Foundation 2024). 
+▪  Solid  State  Batteries:  These  batteries  have  increased  operating  temperature  range, 
+increased  battery  safety  and  energy  densities  and  cycle  life  compared  to  LiB  chemistries. 
+However, this battery chemistry may have various technological challenges such as the scale-
+up  of  material  production,  compatibilities  between  components,  as  well  as  production 
+challenges.  Furthermore,  the  initial  SSB  costs  may  be  higher  compared  to  the  current  LiB 
+battery technologies (Fraunhofer ISI 2022). 
+
+End of First Life of E-truck Batteries 
+
+Subjected to extreme operating temperatures and changing charge/discharge rates,  LiBs in e-
+truck applications degrade drastically during the first five years of operation and are designed for 
+over  a  decade  of  useful  life  in  most  cases  (European  Commission  2023b;  Zhu  et  al.  2021). 
+Typically, these batteries reach their EoFL in e-truck application as soon as its remaining usable 
+capacity  drops  to  80%  of  its  original  capacity  (Zhu  et  al.  2021).  Yet,  prior  to  recycling,  these 
+batteries  can  live  a  second  life  (as  shown  in  Figure  2),  even  when  they  no  longer  meet  EV 
+performance  standards  but  are  still  able  to  perform  sufficiently  to  serve  less-demanding 
+applications, such as stationary energy-storage services. These batteries can support renewable 
+energy integration, provide backup power, and enhance grid stability (Hassan et al. 2023). For 
+
+11 
+
+                      
+ 
+ 
+ 
+ 
+ 
+                                                                                                              
+ 
+ 
+ 
+ 
+Second Life of E-Truck Batteries for Sustainable Logistics 
+
+shippers and fleet owners, this presents an opportunity to extract additional value from their e-
+truck investments. By extending the economic lifetime of the batteries, second life use of batteries  
+lowers their overall lifecycle costs. If the battery materials are recycled and return to the economy 
+at the end of second life, this also contributes to a circular battery economy, as shown in Figure 
+2. 
+
+Figure 2: Lifecycle of an e-truck battery (Kotak et al. 2021).  
+
+Given the high investment costs needed for battery electric vehicles, options for reducing lifetime 
+costs like SLB applications are crucial. The next section outlines the concept of battery reuse and 
+repurposing, highlighting the anticipated market demand for SLBs and their benefits. It details the 
+assessment and preparation processes for second life use, provides real-world examples, and 
+showcases innovative business models leveraging the value of these batteries. 
+
+12 
+
+                      
+ 
+ 
+ 
+ 
+ 
+                                                                                                              
+ 
+ 
+ 
+ 
+ 
+ 
+Second Life of E-Truck Batteries for Sustainable Logistics 
+
+2  Second Life Batteries: A Comprehensive 
+
+Overview  
+
+Several  pilots  have  demonstrated  the  substantial  opportunity  for  shippers  and  fleet  owners  to 
+deploy EoFL e-truck batteries in diverse second-life applications, due to its significant economic, 
+environmental, and social sustainability benefits. 
+
+The market for battery electric trucks is expected to expand to 31% of sales share in 2035 under 
+the  stated  policy  scenario,  driven  by  recent  emissions  standards  in  the  EU  (IEA  2024).  The 
+anticipated increase in  adoption will significantly boost  the demand for  electric truck batteries. 
+Global demand for LiB’s is projected to rise from about 700 GWh in 2022 to approximately 4.7 
+TWh by 2030, with mobility applications accounting for around 4,300 GWh (McKinsey & Company 
+2023).  To  meet  this  growing  demand  sustainably,  the  industry  must  transition  from  a  linear 
+approach to adopting circular value chain strategies, such as extending battery lifespan (battery 
+second life) and recycling (providing secondary materials), as illustrated in Figure 3.  
+
+Figure 3: End of Life options for e-truck batteries (Börner et al. 2022). 
+
+EU Battery Regulation 2023/1542 of the European Parliament and of the Council of 12 July 2023 
+concerning batteries and waste batteries, sets targets for recycling used EV batteries. However, 
+utilizing these batteries for second life applications before recycling has emerged as a viable and 
+advantageous option, as these batteries still retain about 70-80% of their original capacity (Zhu 
+et al. 2021). Employing EoFL e-truck batteries in second life applications can extend their use 
+phase, delaying recycling and preventing unnecessary disposal. 
+
+The  concept  of  SLB  involves  remanufacturing,  repurposing,  and  reusing  batteries  after  their 
+primary use in EVs: 
+
+▪  Reuse: Reuse refers to any operation by which products or components that are not waste 
+are used again for the same purpose for which they were conceived (European Commission 
+2024).  
+
+13 
+
+                      
+ 
+ 
+ 
+ 
+ 
+                                                                                                              
+ 
+ 
+ 
+ 
+ 
+Second Life of E-Truck Batteries for Sustainable Logistics 
+
+▪  Remanufacturing: Remanufacturing refers to any technical operation on a used battery that 
+includes the disassembly and evaluation of all its battery cells and modules and the use of a 
+certain number of battery cells and modules that are new, used or recovered from waste, or 
+other battery components, to restore the battery capacity to at least 90 % of the original rated 
+capacity, and where the state of health (SoH) of all individual battery cells does not differ more 
+than  3  %  between  cells,  and  results  in  the  battery  being  used  for  the  same  purpose  or 
+application as the one for which the battery was originally designed (European Commission 
+2023a). 
+
+▪  Repurposing: Repurposing involves any operation that results in a battery, that is not a waste 
+battery, or parts thereof being used for a purpose or application other than that for which the 
+battery was originally designed (European Commission 2023a). 
+
+Market Overview 
+
+Global battery demand is projected to reach 4.7 TWh by 2030, with the mobility sector constituting 
+the  highest  demand,  as  illustrated  in  the  accompanying  .  This  surge  in  demand  presents  a 
+significant opportunity for reusing or repurposing EoFL e-truck batteries for mobility applications. 
+
+Figure 4: Global LiB demand in GWh (McKinsey & Company 2023). 
+
+Furthermore,  the  figure  indicates  that  stationary  storage  is  the  second-largest  sector  for  LiB 
+demand. According to the International Renewable Energy Agency (IRENA), the total installed 
+capacity  of  stationary  batteries  is  expected  to  reach  421  GWh  by  2030  (Gyalai-Korpos  et  al. 
+2020). With the rapid increase in EV adoption and the anticipated accelerated growth over the 
+next  decade,  it  is  projected  that  by  2030,  the  supply  of  SLB  for  stationary  applications  could 
+exceed  200  GWh  annually,  representing  a  market  valued  at  $30  billion  globally  (McKinsey  & 
+Company  2019).  The  potential  for  repurposed  e-truck  batteries  for  second-life  applications  is 
+substantial, especially since the primary markets for EVs such as China, the United States, and 
+the EU align with regions where stationary storage demand is projected to be highest. 
+
+Benefits of a Second Life Battery Ecosystem  
+
+Once batteries reach the EoFL in e-truck applications, they can still contain up to 80% of their 
+original capacity. Utilizing these batteries in second life applications offers significant benefits. 
+
+Reduced Total Cost of Ownership: The high initial purchase cost of e-trucks, primarily due to 
+the expensive  LiBs (around 40% of the total cost), creates a substantial price gap  between  e-
+trucks  and  internal  combustion  trucks  (König  et  al.  2021).  Reusing  EoFL  e-truck  batteries  in 
+second life applications can reduce battery costs and, consequently, e-truck prices (Chirumalla 
+et al. 2023). Studies suggest that SLBs could reduce costs for end-users by approximately 42% 
+
+14 
+
+                      
+ 
+ 
+ 
+ 
+ 
+                                                                                                              
+ 
+ 
+ 
+ 
+ 
+Second Life of E-Truck Batteries for Sustainable Logistics 
+
+compared  to  new  batteries  (elementenergy  2019).  Additionally,  repurposing  batteries  can 
+generate additional revenue and lower the overall cost of operating EVs when used to support 
+charging activities, thus reducing the TCO of e-trucks (WRI 2023). 
+
+Reduced  Greenhouse  Gas  Emissions  (GHG):  Batteries  are  a  significant  component  of  e-
+trucks, accounting for 40%-60% of the GHG emissions from e-truck manufacturing (McKinsey & 
+Company 2023). Extending the life of EoFL e-truck batteries through second life concepts can 
+mitigate their environmental impact by avoiding the need for new battery manufacturing and the 
+associated raw material extraction (Philippot et al. 2022). This extension in battery lifespan could 
+range from 7 to 10 years, reducing the need for new batteries. Researchers estimate that up to 
+2031, SLB systems could prevent approximately  0.7-1.2 kilotons of  battery-related waste,  and 
+circumvent  28-90  kilotons  of  CO2  emissions  by  recovering  renewable  energy  (European 
+Commission 2023b). 
+
+Enhanced Social Sustainability: The extraction and supply of raw materials for e-truck batteries, 
+such  as  lithium,  cobalt,  and  nickel,  are  unevenly  distributed  globally  and  are  associated  with 
+mitigable social sustainability risks  (Steckelberg et al. 2023).  These include child labor,  forced 
+labor, unsafe working conditions, violations of indigenous rights and labor laws and several other 
+governance  issues  (European  Commission  2023a).  Reusing  or  repurposing  EoFL  e-truck 
+batteries  can  significantly  reduce  the  need  for  raw  material  extraction  for  new  battery 
+manufacturing, thereby minimizing the associated social sustainability impacts and supply chain 
+risks. Additionally, the industry and supply chain created around battery repurposing are expected 
+to  generate  additional  jobs  and  revenues,  amounting  to  approximately  $79  million  by  2030 
+(elementenergy 2019). 
+
+Preparation and Assessment of End-of-Life EV Batteries for Second-Life 
+Applications 
+
+Figure 5: Steps for battery reuse or repurposing (European Commission 2023a; Michelini 
+et al. 2023). 
+
+Before EoFL e-truck batteries can be reused or repurposed for second-life applications, they must 
+undergo a thorough assessment and preparation process. In the EU, battery holders must comply 
+with  Article  73  of  the  Battery  Regulation  2023/1542  concerning  batteries  and  waste  batteries, 
+highlighting the preparatory steps  prior to reuse or repurposing. The  process includes several 
+critical  steps  as  shown  in  Figure  5:.  Additionally,  international  standards  IEC  63330-1:2024 
+(published as of 24th June 2024) provides basic requirements and a procedure to evaluate the 
+
+15 
+
+                      
+ 
+ 
+ 
+ 
+ 
+                                                                                                              
+ 
+ 
+ 
+ 
+Second Life of E-Truck Batteries for Sustainable Logistics 
+
+performance and safety of used batteries and battery systems and provide general requirements 
+for application of repurposed batteries (IEC 2024). 
+
+Consideration  of  different  battery  configurations  when  deciding  on  the  appropriate  second  life 
+application  is  an  important  part  of  the  battery  assessment  process  post  its  EoFL  in  e-truck 
+application. The different SLB configurations are highlighted below (Montes et al. 2022): 
+
+▪  Stacking Used EV Battery Packs: This involves connecting multiple EoFL battery packs with 
+minimal modifications, for applications requiring more energy than a single battery pack can 
+provide. 
+
+▪  Refurbished  Battery  Made  from  Used  Modules:  This  involves  disassembling  the  battery 
+pack to the module level, inspecting the exterior of the modules, conducting characterization 
+tests, certifying that the modules meet second-life standards, and integrating them into a new 
+battery pack for the intended application. 
+
+▪  Refurbished Modules Made from Used Cells: This involves disassembling battery packs to 
+the cell level, and these cells are then repacked into new modules and battery systems. This 
+approach  is  particularly  valuable  when  pack  or  module  dimensions  are  not  suitable  for  the 
+intended application. 
+
+Typical Applications of Second Life Batteries 
+
+The selection of the preferred second-life application for EoFL e-truck batteries is influenced by 
+various factors. Detailed information about the battery's history (such as battery health, residual 
+capacity,  internal  resistance,  number  of  cycles,  depth  of  cycles,  etc.)  and  battery  chemistry  is 
+crucial. Additionally, the size of storage systems (number of battery packs needed)  as well as 
+safety and reliability requirements are important considerations. The typical uses of EoFL e-truck 
+batteries are outlined below (Michelini et al., 2023): 
+
+Stationary Category: The primary category for second-life applications of EoFL EV batteries is 
+in stationary settings, where the battery remains in a fixed location during its operational cycle. 
+Unlike  mobile  or  semi-stationary  applications,  stationary  applications  are  not  subject  to  strict 
+weight  and  volume  constraints  and  face  a  lower  risk  of  mechanical  abuse.  This  can  result  in 
+relatively less stringent safety requirements. Key stationary applications for EoFL e-truck batteries 
+include: 
+
+▪  Peak Shaving: Managing demand quickly for short periods to prevent spikes in consumption. 
+▪  Load Shifting/Demand Shifting: Shifting electricity consumption from peak to off-peak hours 
+
+to level out demand and reduce peak loads. 
+
+▪  Buffer Storage: Using EV batteries as buffer storage at charging stations which allows self-
+
+consumption of renewable energy. 
+
+▪  Ancillary  Services:  Providing  supportive  services  such  as  frequency  regulation  to  help 
+
+maintain grid balance by adjusting consumption or production. 
+
+▪  Wholesale Market Arbitrage: Utility-scale energy storage for trading electricity on the spot 
+
+market by selling energy during high demand and buying during off-peak hours. 
+
+Semi-Stationary Category: Second-life applications where batteries are not intended to operate 
+while moving but are expected to be relocated frequently fall under the semi-stationary category. 
+For example: 
+
+▪  Mobile  Power  Supply:  Power  generators  or  stations  used  to  provide  electricity  in  remote 
+
+locations and automotive mobile charging stations. 
+
+Mobile Category: Mobile applications involve batteries that are expected to move during use. 
+Due to relatively lower range and battery capacity requirements SLBs can be suitable for: 
+
+▪  Micro Mobility: Applications such as e-bikes, e-scooters, and e-3 wheelers. 
+▪ 
+
+Industrial Vehicles: Applications such as forklifts, automated guided vehicles, and transport 
+trolleys. 
+
+▪  Commercial Vehicles: Short-range EVs. 
+
+16 
+
+                      
+ 
+ 
+ 
+ 
+ 
+                                                                                                              
+ 
+ 
+ 
+Second Life of E-Truck Batteries for Sustainable Logistics 
+
+Second Life Battery Pilot Projects 
+
+Several pilots, in collaboration with repurposers, have been initiated and announced, focusing on 
+repurposing EoFL e-truck batteries for stationary storage applications. The examples listed below 
+illustrate this: 
+
+▪  Einride has repurposed batteries from its fleet of heavy-duty vehicles into second-life battery 
+energy  storage  systems  (SLBESS)  installed  at  the  Einride  Smartcharger  Station  in 
+Rosersberg, near Stockholm, Sweden. These batteries,  EoFL from trucks used to transport 
+goods in Europe, perform functions such as peak shaving, load shifting, and energy arbitrage 
+(Einride 2024). 
+
+▪  Volvo Trucks has collaborated with Connected Energy to repurpose batteries for developing 
+SLBESS,  installing  high-powered  charge  points  in  Enfield  and  Carlisle,  United  Kingdom. 
+Project experiences report that the SLBBESS developed, named 'E-STOR', is often a more 
+affordable  alternative  to  costly  grid  infrastructure  upgrades.  The  E-STOR  systems  provide 
+sufficient power to support high-capacity charging points: 350kW and five 22kW electric car 
+chargers in Enfield, and a 150kW truck charge point and two 22kW electric car chargers in 
+Carlisle (Connected Energy 2024; Volvo 2024). 
+
+▪  MAN is currently exploring the use of SLBs in stationary storage systems in collaboration with 
+the University of Kassel. They are investigating the potential of using EoFL battery packs as 
+buffer storage  or in another vehicle, utilizing approximately 120 truck battery packs with an 
+energy content of 18.6 kWh per pack. These packs originated from MAN's first field trial with 
+battery-electric distribution trucks in Austria, which began in 2018 and lasted three years (MAN 
+2024; Sustainable Bus 2022). 
+
+▪  Daimler Truck North America has partnered with Nuvation Energy to pilot a SLBESS using 
+EoFL batteries from Daimler’s fleet. These systems are designed to assist in charging, peak 
+shaving, backup storage, and microgrid scenarios (Daimler Truck North America 2024). 
+
+Due to the limited adoption of e-trucks (only 0.9% of all new heavy trucks sold), most projects 
+involving the repurposing of batteries at their EoFL currently focus on passenger vehicles. 
+
+▪  An  early  proof-of-concept  example  was  the  EU-funded  ELSA  (Energy  Local  Storage 
+Advanced  System)  project,  where  vehicle  original  equipment  manufacturers  (OEMs) 
+Renault and Nissan collaborated to use SLBs from the Nissan Leaf and Renault Kangoo ZE 
+for stationary applications. These batteries provided various storage services at six pilot sites, 
+including  peak  shaving,  smoothing  solar  photovoltaic  power  generation,  primary  frequency 
+services, and reactive power compensation (ELSA 2018). 
+
+▪  Another  notable  project  was  the  Johan  Cruijff  Arena  in  Amsterdam,  where  stationary 
+batteries were integrated into the stadium's energy system to  manage high power demand 
+peaks  during  football  matches.  About  40%  of  the  batteries  in  the  3MWp-2.8  MWh  battery 
+system were second-hand Nissan Leaf batteries. Combined with  a solar photovoltaic array 
+and  diesel  generators,  these  batteries  provided  peak  shaving,  backup  power,  frequency 
+services, and surplus solar energy storage (Warmerdam 2020). 
+
+Business Models Enabling EoFL Battery Use 
+
+Batteries constitute approximately 40% of the total value of e-trucks. Additionally, as previously 
+mentioned,  these  batteries  maintain  significant  residual  value  after  their  initial  use  in  e-truck 
+applications.  Recognizing  these  facts,  new  business  models  have  emerged  to  finance  these 
+vehicles over their lifetime and address the challenges of high initial purchase costs. We cover a 
+few business models here. 
+
+Battery Leasing: An example of battery leasing is the Caledonia bus depot in Glasgow, Scotland, 
+where a single company (Hitachi) provides comprehensive support for the initial deployment of 
+the buses. This support includes telematics, smart charging software, and on-site decarbonization 
+solutions,  such  as  solar  energy  generation  and  stationary  battery  storage.  This  arrangement 
+offers fleet operators a single point of contact with a technology provider, enabling them to extend 
+
+17 
+
+                      
+ 
+ 
+ 
+ 
+ 
+                                                                                                              
+ 
+ 
+ 
+Second Life of E-Truck Batteries for Sustainable Logistics 
+
+the first life of the battery, assess its SoH at EoFL, and repurpose it for second life use within the 
+depot (First Bus & Hitachi, 2021). 
+
+OEM Buyback: The vehicle OEMs, which have the most detailed knowledge about the battery 
+materials and manufacture are expected to play a key role in their use  in second life. A model 
+pioneered by Nissan and Sumimoto through their Japanese joint venture, 4R, offers  to buy the 
+batteries of vehicle users back from them, creating a closed loop circular model. These batteries 
+at the end-of-first life are graded and sorted. Depending on their grade, they are reused in vehicles 
+like forklifts, grid storage and home storage. Since these repurposed batteries last for another 10 
+to 15 years, the batteries have competitive market value (Nissan Motor Corporation 2021). 
+
+3rd Party Purchase: An alternative to the OEM purchasing the battery back from the vehicle user 
+is a business model where a 3rd party collectively performs this task for all OEMs. An example is 
+the company Spiers New Technologies, based in Oklahoma, USA who in the year 2021 worked 
+with EV batteries from General Motors, Ford, Nissan, Volkswagen, Audi, Toyota, Volvo, Porsche. 
+Similar to the OEM buyback business model, the 3rd party purchasing the batteries grades them 
+for use in a second life. 
+
+As the market for similar services are evolving, EoFL batteries are expected to have resale value 
+beyond their utility to fleet owners or operators for energy management at depots. Vehicle OEMs 
+are anticipated to play a role in creating these markets. Additionally, the use of third-party software 
+for battery analytics, diagnostics, and SoH estimation is emerging as a key enabler of increased 
+transparency in the battery ecosystem facilitating reuse and repurposing. 
+
+The  following  section  presents  economic  cases  of  SLBs  in  stationary  storage  applications 
+highlighting its impact on road freight electrification making the above business models viable.  
+
+18 
+
+                      
+ 
+ 
+ 
+ 
+ 
+                                                                                                              
+ 
+ 
+  
+ 
+Second Life of E-Truck Batteries for Sustainable Logistics 
+
+3 
+
+Impact on Road Freight Electrification 
+
+SLBs  facilitate  road  freight  electrification  by  demonstrating  a  clear  economic  case  to  support 
+charging infrastructure, thereby making the business models outlined in chapter 2 viable. 
+
+Insufficient charging infrastructure in terms of required energy and power output to support the 
+operation of large fleet, is one of the significant challenges the road freight sector is facing while 
+transitioning  to  e-HDVs.  The  emerging  second  life  market  for  EoFL  e-truck  batteries  offers 
+significant benefits to road freight electrification by addressing  these issues to a certain extent. 
+This section presents case studies demonstrating clear economic cases for deploying EoFL e-
+truck batteries in second life application, leading to a positive impact on road freight electrification.  
+
+Electricity Distribution Support at Charging Depots  
+
+Distribution support involves using  battery energy storage systems (BESS) to provide support 
+during significant increases in peak demand, which can  occur due to  concentrated loads at e-
+truck depots or charging hubs. The BESS can enable energy storage (including from renewable 
+sources) allowing for dynamic increase in capacity through the “charge at trough, discharge at 
+peak” method.  
+
+When SLBESS instead of new batteries are deployed to provide distribution support for charging 
+infrastructure, a capital cost reduction for the distribution support system is observed.  A capital 
+cost reduction of around 25% for an operating duration of about 2hrs and 35% for an operating 
+duration of about 6hrs is observed.  The reduction in the capital cost increases with increase in 
+the duration for which the BESS is operated as depicted in the Figure 6: Capital cost reduction 
+(%) of distribution support system for charging, using SLBs (elementenergy 2019)..  
+
+50%
+
+40%
+
+30%
+
+20%
+
+10%
+
+0%
+
+)
+
+%
+
+(
+
+n
+o
+
+i
+t
+c
+u
+d
+e
+R
+
+t
+s
+o
+C
+
+l
+
+a
+
+t
+i
+
+p
+a
+C
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+Duration of BESS usage for distribution  support (h)
+
+Figure 6: Capital cost reduction (%) of distribution support system for charging, using 
+SLBs (elementenergy 2019). 
+
+Replace Peaking Plants with SLBESS 
+
+Peaking  plants  are  often  inefficient  thermal  power  plants  that  operate  primarily  during  peak 
+demand periods. Since they supply power only occasionally, their electricity commands a much 
+higher price per kilowatt-hour than base load power. BESS can be used to replace these power 
+plants and address the required demand.  
+
+19 
+
+                      
+ 
+ 
+ 
+ 
+ 
+                                                                                                              
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Second Life of E-Truck Batteries for Sustainable Logistics 
+
+Three levels of deployment were tested, 
+each a combination of power and energy 
+stored.  
+
+It  was  observed  that  when  BESS  was 
+used to replace traditional peaking plants 
+a total savings was observed (fuel saving 
+and  savings  due  to  avoided  investment 
+in  peak  capacity).  However,  the  net 
+savings  started  to  reduce  beyond  a 
+certain  level  of  deployment  due  to  the 
+Interestingly,  when 
+cost  of  BESS. 
+SLBESS  were  used,  their  lower  cost 
+allowed greater levels of deployment that 
+is still economically viable as seen in the 
+Figure 7: Comparison of net savings for 
+levels  of  SLBs 
+various  deployment 
+(elementenergy 2019)..  
+
+Figure 7: Comparison of net savings for various 
+deployment levels of SLBs (elementenergy 2019). 
+
+Benefits for Road Freight Electrification 
+
+SLBs  demonstrate  a  clear  economic  case  which  can  be  observed  from  the  above  two 
+applications. These economic cases conclude several benefits for actors involved in road freight 
+electrification which are highlighted below: 
+
+Vehicle fleets typically recharge overnight  at depots. Transitioning to 100% fleet electrification 
+could result in most e-trucks recharging simultaneously, creating a substantial localized electricity 
+demand  that  might  exceed  existing  network  capabilities.  Deploying  SLBESS  for  distribution 
+support  at  charging  hubs  or  depots  can  reduce  or  avoid  the  need  for  deploying  network 
+reinforcements (which is time consuming) to handle such large, concentrated loads. Additionally, 
+deploying  SLBBESS  to  replace  peaking  power  plants  supports  higher  levels  of  economic  grid 
+battery deployment during peak demand periods. 
+
+These  applications  lower  the  substantial  network  costs  for  fleet  operators  and  grid  operators 
+respectively,  at  the  same  time  ensuring  adequate  energy  and  power  output  is  delivered,  thus 
+facilitating  road  freight  electrification.  The  reduction  in  network  costs  translates  to  lower  costs 
+associated with charging activities, further reducing the TCO of e-trucks. 
+
+In  addition  to  the  economic  benefits  from  the  above-mentioned  applications,  SLBESS  can 
+generate additional revenue by providing ancillary or balancing services to transmission system 
+operators and by engaging in energy price arbitrage, thereby reducing net energy costs. 
+
+Furthermore, SLBESS allows the integration of local networks with renewable energy sources 
+and  the  replacement  of  traditional  peaking  plants  with  renewable  sources.  This  leads  to  a 
+reduction in GHG emissions from charging activities and makes energy available at a lower cost, 
+further reducing the TCO of e-trucks. 
+
+In  conclusion,  the  residual  value  of  EoFL  e-truck  batteries  can  be  effectively  utilized  through 
+second-life  applications  to  support  road  freight  electrification.  This  approach  is  particularly 
+beneficial for larger batteries, such as those used in trucks or buses, because their residual value 
+has a more significant impact on the TCO comparatively (Lebeau et al. 2019).  
+
+However,  before  deploying  EoFL  e-truck  batteries  in  second-life  applications,  it  is  crucial  to 
+thoroughly understand the technical and economic challenges and, regulatory landscape, which 
+are detailed in the next section. 
+
+20 
+
+                      
+ 
+ 
+ 
+ 
+ 
+                                                                                                              
+ 
+ 
+ 
+ 
+ 
+Second Life of E-Truck Batteries for Sustainable Logistics 
+
+4  Challenges and Regulatory Landscape  
+
+The design of current battery packs and systems, declining gap between cost of new battery and 
+SLBs  and  underdeveloped  regulations  present  significant  challenges  that  must  be  considered 
+when choosing battery reuse or repurposing as EoFL options e-truck batteries. 
+
+The  battery  second  life  strategies  offer  a  hopeful  path  towards  improving  both  the  economic 
+feasibility and environmental impact of electric trucks. Nevertheless, there are several technical 
+and economic challenges and regulatory gaps to their successful use in second life applications 
+which are highlighted in this section. The section also presents a few regulatory recommendations 
+to facilitate the reuse and repurposing practices. 
+
+Technical Challenges and Regulatory Gaps 
+
+There are various technical challenges and regulatory gaps that impact the economic viability of 
+deploying EoFL battery packs in second life applications. These challenges span across various 
+steps in the process of battery reuse or repurposing. 
+
+The  initial  step  involves  collecting  EoFL  e-truck  batteries.  The  EU  currently  lacks  specific 
+collection  and  refurbishment  targets  and  a  traceability  mechanism  for  EoFL  e-truck  batteries, 
+which would ensure these batteries are used to their full potential before recycling and prevent 
+unwarranted  disposal.  Additionally,  the  trend  towards  structurally  integrated  battery  designs 
+complicates the removal process for reuse or repurposing, raises safety concerns, and increases 
+the costs of removal and collection (Johannisson 2023).  
+
+Upon  collection,  the  batteries  undergo  inspection  to  assess  various  technical  parameters. 
+However, the lack of readily available information on battery design, chemistry, SoH, and usage 
+history necessitates costly tests and  limits process optimization (Lih et al. 2012). Furthermore, 
+the absence of uniform SoH estimation methods and EoFL decision-making criteria complicates 
+safe decision-making regarding whether a battery should be recycled or repurposed and for what 
+application. 
+
+Battery  packs  differ  significantly  in  size,  chemistry,  and  format  to  meet  specific  applications, 
+resulting  from  a  lack  of  standardization.  This  heterogeneity  increases  the  complexity  of  the 
+disassembly process, making it labor-intensive and potentially raising the overall cost of battery 
+reuse or repurposing (Gu et al. 2023; Mckinsey & Company 2019). Additionally, many modules 
+and cells are not designed for easy disassembly, further complicating repurposing efforts (ICCT 
+2023).  
+
+Following disassembly, the modules and cells need to be sorted and regrouped based on their 
+performance capabilities for specific second-life applications. Challenges in this step include the 
+lack  of  indicators,  algorithms,  certification,  and  standards  for  sorting  and  regrouping  cells  and 
+modules  (pack  classification,  cell  grading,  pack  recombination,  and  comprehensive  inspection 
+and verification procedures) based on performance metrics (Meegoda et al. 2024). This further 
+complicates the process and increases refurbishment costs. 
+
+Finally, placing these refurbished batteries in appropriate second-life applications poses its own 
+challenges.  The  battery  management  systems  used  in  automotive  applications  are  often 
+unsuitable for second-life applications, necessitating adapted control strategies to stabilize power 
+output and prevent overheating. This includes designing specialized energy, thermal, and safety 
+management systems tailored for second-use applications (Argonne National Laboratory 2020). 
+Additionally, equalization strategies must be developed to address the increased inconsistencies 
+in the electrochemical behavior of individual cells or modules expected during second-life usage. 
+Advanced fault-diagnosis algorithms are also essential to enhance safety by detecting potential 
+issues such as internal short circuits (ICCT 2023).  
+
+21 
+
+                      
+ 
+ 
+ 
+ 
+ 
+                                                                                                              
+ 
+ 
+Second Life of E-Truck Batteries for Sustainable Logistics 
+
+Economic Challenges  
+
+The economic feasibility of battery reuse/repurposing depends on various factors, such as the 
+selling price of new and end-of-life batteries and their lifespan in secondary applications. 
+
+The  above  technical  challenges  and  regulatory  gaps  increase  the  complexity  and  cost  of 
+repurposing EoFL battery  packs thereby posing an economic feasibility challenge. Meanwhile, 
+advancements in  electrification have led to significant cost reductions in new LiBs. Bloomberg 
+New Energy Finance (2022) reported an 80% decrease in the global average price of new LiBs 
+from  2013  to  2021.  This  substantial  cost  reduction  drives  the  adoption  of  electric  trucks  and 
+renewable energy storage solutions. However, it also challenges the SLB market to find ways to 
+lower  the  cost  of  repurposing  to  justify  the  performance  limitations  of  SLBs  compared  to  new 
+batteries. Economies of scale and optimized battery reuse processes might help EoFL batteries 
+stay price competitive (ICCT 2023).   
+
+Many operators prefer using these batteries to maximize runtime in specific applications, which 
+often results in the battery being either discharged to a very low SoC or charged to a high SoC. 
+This  practice  negatively  impacts  the  battery's  lifespan  in  second-life  applications,  reducing  its 
+economic feasibility compared to new batteries (Mathews et al. 2020). To address this, various 
+companies such as Volytica, Twaice, and Voltaiq, offer battery analytics software that monitors 
+battery  technical  parameters  over  its  operational  lifetime.  This  software  enables  operators  to 
+optimize battery performance, thereby paving way for higher battery life. The analysis of collected 
+data  allows  for  rapid  diagnostics,  corrective  maintenance,  predictive  maintenance,  and 
+transparent insight into the battery's operational history and state of health at any given moment. 
+
+Regulatory Landscape 
+
+There  are  a  few  regulatory  measures  set  in  the  EU  that  facilitate  cost  effective  EoFL  e-truck 
+battery  reuse  and  repurposing  in  the  near  future.  Additionally,  this  study  provides  several 
+recommendations  for  governments  to  consider  that  might  address  the  above  challenges  and 
+accelerate the reuse and repurposing practices for EoFL e-truck batteries. 
+
+Significance of EU Battery Passport 
+
+Battery  passports  have  emerged  as  a  means  to  increase  standardized  information  and 
+transparency of information sharing across the battery value chain. In effect, each battery should 
+have labels and QR codes detailing:  
+
+▪ 
+
+▪ 
+
+▪ 
+
+required information on their capacity, material use and origins, performance, durability, 
+negative events, such as accidents;  
+required periodically recorded information on the operating environmental conditions, 
+including temperature, and on the SoC; and  
+required guidelines for collection at EoFL and carbon footprint.  
+
+These parameters help a repurposer assess the remaining useful life, and other relevant battery 
+parameters necessary to estimate the residual value of EoFL e-truck batteries. This, therefore, 
+helps facilitate the reuse and repurposing of these batteries in the right secondary application. In 
+the  EU,  the  Battery  Regulation  2023/1542  mandates  battery  passports  for  EVs  from  2027 
+onwards. For batteries which are subject to processes to prepare them for reuse, repurpose or 
+remanufacturing,  a  new  passport  will  need  to  be  linked  to  the  original  battery  (European 
+Commission 2023a). 
+
+Extended Producer Responsibility for Batteries 
+
+Batteries are also subject to the principle of extended producer responsibility (EPR) in several 
+geographies, including the EU, India, South Korea, Brazil and several states in the US (Rufino 
+Júnior  et  al.  2024;  CPCB  2022)  that  would  eliminate  unwarranted  disposal  of  these  EoFL 
+batteries. Based on this principle, the producers of batteries and the producers of products that 
+include a battery are responsible for the waste management of batteries that enter the market as 
+
+22 
+
+                      
+ 
+ 
+ 
+ 
+ 
+                                                                                                              
+ 
+ 
+Second Life of E-Truck Batteries for Sustainable Logistics 
+
+a  result  of  their  activities,  extending  to  the  financing  of  collection  and  recycling.  Economic 
+operators placing on the market a battery that results from preparation for re-use, repurposing or 
+remanufacturing operations are also subjected to the EPR principles. 
+
+Regulatory Recommendations 
+
+Incentivizing Domestic Capacity for Battery Reuse and Repurposing: Governments should 
+enhance domestic capacity for reuse and repurposing by developing incentive programs, creating 
+supportive tax and trade provisions, and fostering public-private partnerships to accelerate the 
+second life markets like The Battery Materials Processing Grants in the USA. This grant makes 
+more than $3 billion  available to state and local governments, for-profit and  non-profit entities, 
+and national laboratories to support domestic capacity for the reuse and recycling of  batteries 
+through project demonstration and other uses (U.S Department of Energy 2024). 
+
+Create a Framework to Ensure that EoFL Batteries are Handled Responsibly and Used to 
+Maximum  Potential:  Several  countries  including  the  EU  have  mandated  EPR,  that  make 
+manufacturers responsible for the collection of EoFL batteries to prevent unwarranted disposal. 
+However, to implement these regulations successfully, collection and refurbishment targets and 
+traceability  mechanism  are  crucial.  For  instance,  in  China,  the  government  established  a 
+traceability  management  platform  in  2018  to  track  electric  vehicle  batteries  throughout  their 
+lifetime,  whereas  India’s  regulation  on  Battery  Waste  Management  2022  states  collection  and 
+refurbishment  targets  for  EoFL  EV  batteries  (Battery  Waste  Management  Rules,  2022;  ICCT 
+2021). 
+
+Establishing Performance and Durability Standards for New Batteries: Governments should 
+mandate battery durability requirements incentivizing the production of long-lasting batteries to 
+enhance their lifespan and safety throughout their usage, making them more suitable for second 
+life applications. Example of such a standard is the Advanced Clean Cars II rule in California that 
+states by model year 2031, individual vehicle battery packs are warranted to maintain 75% of their 
+energy for eight years or 100,000 miles (CARB 2022).  This will build confidence  amongst the 
+users to further invest in reused or repurposed EoFL batteries. 
+
+Standardization  of  Battery  Health  Metrics:  Governments  should  further  standardize  SoH 
+metrics to maintain a uniformity in test result for SoH of EoFL e-truck batteries thereby helps in 
+informing the best decisions for second-life applications.  
+
+23 
+
+                      
+ 
+ 
+ 
+ 
+ 
+                                                                                                              
+ 
+ 
+ 
+ 
+Second Life of E-Truck Batteries for Sustainable Logistics 
+
+5  Conclusions  
+
+The adoption of heavy-duty e-trucks in the EU has increased threefold, from nearly 0.3% in 2022 
+to 0.9% of all new heavy-duty trucks sold in 2023, with projections reaching 31% by 2035. These 
+trucks  primarily  utilize  LFP  and  NMC  battery  chemistries  due  to  their  advantages  in  energy 
+density, lifecycle, charge/discharge rate, and thermal resistance compared to other chemistries. 
+A significant portion of these batteries are expected to retain 70-80% of their original capacity at 
+the EoFL in e-truck applications. 
+
+To maximize the use  of these EoFL e-truck  batteries, the SLB concept—encompassing  reuse 
+and repurposing—has emerged as a viable option. LFP batteries, in particular, are well-suited for 
+second life due to their longer battery life compared to NMC batteries. Shippers and fleet owners 
+are expected to achieve considerable economic, environmental, and social sustainability benefits 
+by deploying EoFL e-truck batteries in second life applications.   
+
+The substantial expected demand for LiBs in mobility and stationary energy storage presents a 
+significant  opportunity  for  reusing  or  repurposing  EoFL  e-truck  batteries.  Deploying  EoFL 
+batteries in stationary storage applications to provide charging support has a positive impact on 
+road  freight  electrification.  Actors  benefit  from  deploying  SLBs,  in  terms  of  reduced  cost  of 
+charging e-trucks thereby reducing the TCO of e-trucks as well as reduced costs associated with 
+charging  infrastructure  upgrades.  This  would  allow  a  large  fleet  of  e-trucks  to  charge 
+simultaneously  at  depots,  minimizing 
+time  delays  associated  with  network 
+reinforcements. It also enables the use of renewable energy, thereby lowering GHG emissions 
+from charging activities. 
+
+large 
+
+the 
+
+However, technical and economic challenges remain while choosing reuse or repurposing as an 
+EoFL option for e-truck batteries. These challenges include battery technology heterogeneity, lack 
+of means to accurately estimate remaining useful battery life, complex disassembly processes, 
+and the need for robust BMS. These issues need to be addressed to make SLBs economically 
+viable and establish the SLB markets. Additionally, the declining cost of new battery packs for e-
+trucks  makes  it  essential  for  reuse  and  repurposing  costs  to  be  price-competitive.  The  EU's 
+requirement for a digital battery passport from 2027, with other regions expected to follow with 
+similar regulations, is anticipated to make repurposing more cost-effective by addressing current 
+technical  challenges  related  to  data  sharing.  Moreover,  specific  regulatory  measures  such  as 
+standards for battery durability and performance, estimating battery health metrics, collection and 
+refurbishment targets, and financial support from the government would greatly enhance the SLB 
+markets, making EoFL batteries economically viable for second-life applications. 
+
+As the relevant stakeholders address these challenges, logistic actors can also play a crucial role 
+in  enabling  reuse  and  repurposing  of  EoFL  e-truck  batteries.  This  study  provides  a  few 
+recommendations that shippers and fleet owners can incorporate to obtain the benefits through 
+SLB concepts: 
+
+Recommendations for Logistics Sector 
+
+Mandatory Battery Passport in Procurement Criteria: When procuring e-trucks, it is essential 
+to ensure that the e-truck batteries come with a digital battery passport, making this a mandatory 
+procurement requirement. Although the EU battery regulations mandate digital battery passports 
+only from 2027, making this a mandatory requirement now will help shippers and fleet owners 
+ease the repurposing process later, making it safe and cost-effective to deploy these batteries for 
+the right second life application. 
+
+Collaboration  with  Battery  Reuse  or  Repurposing  Companies  and  Knowledge  Partners: 
+Shippers and fleet owners should actively collaborate with reputable battery reuse or repurposing 
+companies to gain a thorough understanding of their specific needs and operational requirements. 
+This collaboration is essential for several reasons: 
+
+24 
+
+                      
+ 
+ 
+ 
+ 
+ 
+                                                                                                              
+ 
+ 
+Second Life of E-Truck Batteries for Sustainable Logistics 
+
+▪  Customized  Solutions:  By  working  closely  with  battery  repurposers,  shippers  and  fleet 
+owners can ensure that the repurposing solutions are tailored to their operational demands 
+and performance expectations, maximizing economic and environmental benefits. 
+
+▪  Optimized Battery Life: Collaboration allows for better tracking and management of battery 
+health,  ensuring  that  repurposed  batteries  are  used  efficiently  and  effectively,  thereby 
+extending their lifecycle. 
+
+▪  Regulatory  Compliance:  Collaborating  with  experienced  repurposers  ensures  that  all 
+regulatory  requirements  are  met,  minimizing  legal  risks  and  ensuring  compliance  with 
+environmental and safety standards. 
+
+Partnerships  with  knowledge  partners  can  provide  valuable  insights  into  technology,  market 
+dynamics,  and  best  practices,  ensuring  informed  decision-making.  These  collaborations  are 
+instrumental  in  successfully  running  pilot  projects  for  deploying  EoFL  e-truck  batteries  in 
+secondary applications. 
+
+25 
+
+                      
+ 
+ 
+ 
+ 
+ 
+                                                                                                              
+ 
+ 
+Second Life of E-Truck Batteries for Sustainable Logistics 
+
+Bibliography 
+
+Abhyankar,  N.  et  al.  (2022)  Freight  trucks  in  India  are  primed  for  electrification.  https://eta-
+publications.lbl.gov/sites/default/files/electric_trucks_in_india_-_final_nov7.pdf  
+
+Argonne 
+Battery 
+https://afdc.energy.gov/files/u/publication/battery_second_life_faq.pdf  
+
+Laboratory 
+
+National 
+
+(2020) 
+
+Second 
+
+Life. 
+
+Basma,  H.,  Beys,  Y.,  &  Rodriguez,  F.  (2021).  Battery  electric  tractor-trailers  in  the  European 
+Union: A vehicle technology analysis. 
+
+Battery  Waste  Management  Rules  (2022)  Battery  Waste  Management  Rules,  CPCB. 
+https://cpcb.nic.in/rules-5/  
+
+Bloomberg New Energy Finance. (2022). Lithium-ion Battery Pack Prices Rise for First Time to 
+an Average of $151/kWh [blog post]. https://about.bnef.com/blog/lithium-ion-battery-packprices-
+rise-for-first-time-to-an-average-of-151-kwh/  
+
+CARB (2024). California Air Resources Board, California moves to accelerate to 100% new zero-
+Board. 
+emission 
+https://ww2.arb.ca.gov/news/california-moves-accelerate-100-new-zero-emission-vehicle-sales-
+2035  
+
+Resources 
+
+California 
+
+vehicle 
+
+sales 
+
+2035 
+
+Air 
+
+by 
+
+| 
+
+Chirumalla, K., Kulkov, I., Vu, F., & Rahic, M. (2023). Second life use of Li-ion batteries in the 
+heavy-duty  vehicle  industry:  Feasibilities  of  remanufacturing,  repurposing,  and  reusing 
+approaches. 
+42. 
+https://doi.org/10.1016/j.spc.2023.10.007 
+
+Consumption, 
+
+Sustainable 
+
+Production 
+
+and 
+
+Connected  Energy  (2024)  Energy  Storage  Systems  help  Volvo  truck  dealerships  to  electrify, 
+Connected  Energy.  https://connected-energy.co.uk/news/energy-storage-systems-help-volvo-
+truck-dealerships-to-electrify/  
+
+Daimler Truck (2022). Mercedes-Benz Trucks to unveil the eActros LongHaul electric truck for 
+September  
+long-distance 
+https://www.daimlertruck.com/en/newsroom/pressrelease/mercedes-benz-trucks-to-unveil-the-
+eactros-longhaul-electric-truck-for-long-distance-transport-in-september-51968530  
+
+transport 
+
+in 
+
+Daimler Truck (2023). Kick-off in Hanover: Stationary energy storage system consisting of used 
+eCitaro batteries goes into operation, Daimler Truck.  
+
+Daimler  Truck  North  America  (2024).  Daimler  Truck  North  America  provides  second  life  to 
+Daimler. 
+commercial 
+https://northamerica.daimlertruck.com/PressDetail/daimler-truck-north-america-provides-
+second-2024-05-20/  
+
+batteries, 
+
+vehicle 
+
+the 
+
+(2024)  Extending 
+
+Einride 
+lives 
+https://einride.tech/insights/phased-out-ev-batteries-get-a-new-life-in-energy-storage  
+Elementenergy  (2019).  Batteries  on  wheels:  the  role  of  battery  electric  cars  in  the  EU  power 
+https://te-
+system 
+cdn.ams3.cdn.digitaloceanspaces.com/files/2019_06_Element_Energy_Batteries_on_wheels_P
+ublic_report.pdf  
+
+batteries,  Einride. 
+
+phased-out  EV 
+
+beyond. 
+
+and 
+
+of 
+
+26 
+
+                      
+ 
+ 
+ 
+ 
+ 
+                                                                                                              
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Second Life of E-Truck Batteries for Sustainable Logistics 
+
+ELSA  (2018)  Energy  Local  Storage  Advanced  system  D6.3  Results  of  service  evaluation. 
+www.elsa-h2020.eu  
+
+European  Commission  (2024)  Directive  2008/98/EC  of  the  European  Parliament  and  of  the 
+Council  of  19 November  2008  on  Waste  and  Repealing  Certain  Directives  (Text  with  EEA 
+Relevance)Text with EEA Relevance. http://data.europa.eu/eli/dir/2008/98/2024-02-18/eng 
+
+European  Commission  (2023a)  Regulation  -  2023/1542  -  en  -  EUR-lex,  EUR.  https://eur-
+lex.europa.eu/eli/reg/2023/1542/oj  
+
+——— (2023b) Renewable energy storage from second-life batteries is viable but may benefit 
+from  subsidies.  https://environment.ec.europa.eu/news/renewable-energy-storage-second-life-
+batteries-viable-may-benefit-subsidies-2023-09-13_en  
+
+First Bus & Hitachi (2021) First Bus and Hitachi Europe to drive zero emission agenda forward 
+via strategic partnership  https://www.hitachi.com/New/cnews/month/2021/11/211105c.pdf  
+
+Fraunhofer 
+https://www.isi.fraunhofer.de/content/dam/isi/dokumente/cct/2022/SSB_Roadmap.pdf  
+
+Solid-state 
+
+roadmap 
+
+battery 
+
+(2022) 
+
+ISI 
+
+2035+. 
+
+Gu, X., Bai, H., Cui, X., Zhu, J., Zhuang, W., Li, Z., Hu, X., & Song, Z. (2023). Challenges and 
+Opportunities  for  Second-life  Batteries:  A  Review  of  Key  Technologies  and  Economy 
+(arXiv:2308.06786). arXiv. https://doi.org/10.48550/arXiv.2308.06786 
+
+Gyalai-Korpos,  M.,  Zentkó,  L.,  Hegyfalvi,  C.,  Detzky,  G.,  Tildy,  P.,  Hegedűsné  Baranyai,  N., 
+Pintér,  G.,  &  Zsiborács,  H.  (2020).  The  Role  of  Electricity  Balancing  and  Storage:  Developing 
+Input Parameters for the European Calculator for Concept Modeling. Sustainability, 12(3), Article 
+3. https://doi.org/10.3390/su12030811 
+
+Hassan, A., Khan, S. A., Li, R., Su, W., Zhou,  X., Wang, M., & Wang, B. (2023). Second-Life 
+Batteries:  A  Review  on  Power  Grid  Applications,  Degradation  Mechanisms,  and  Power 
+Electronics 
+12. 
+https://doi.org/10.3390/batteries9120571 
+
+Architectures. 
+
+Batteries, 
+
+Interface 
+
+Article 
+
+9(12), 
+
+ICCT  (2021)  China’s  New  Energy  Vehicle  Industrial  Development  Plan  for  2021  to  2035 
+https://theicct.org/wp-content/uploads/2021/12/China-new-vehicle-industrial-dev-plan-
+jun2021.pdf  
+
+ICCT (2023)  Scaling up reuse and recycling of electric vehicle batteries. https://theicct.org/wp-
+content/uploads/2023/02/recycling-electric-vehicle-batteries-feb-23.pdf  
+
+ICCT  (2024)  EUROPEAN  HEAVY-DUTY  VEHICLE  MARKET  DEVELOPMENT  QUARTERLY 
+https://theicct.org/wp-content/uploads/2024/01/ID-77-
+(JANUARY–DECEMBER 
+%E2%80%93-EU-R2Z-Q3-Market-Spotlight-A4-50114-v5.pdf  
+
+2023). 
+
+IEA,  I.  (2024)  Outlook  for  electric  mobility  –  global  EV  outlook  2024  –  analysis,  IEA. 
+https://www.iea.org/reports/global-ev-outlook-2024/outlook-for-electric-mobility  
+
+IEC.  (2024).  IEC  63330-1:  2024  |  Repurposing  of  secondary  batteries  -  Part  1:  General 
+requirements https://webstore.iec.ch/en/publication/66561 
+
+Johannisson,  A.  (2023).  Outlook  of  EV  battery  pack  design 
+portal.org/smash/get/diva2:1786790/FULLTEXT01.pdf  
+
+trends.  https://kth.diva-
+
+27 
+
+                      
+ 
+ 
+ 
+ 
+ 
+                                                                                                              
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Second Life of E-Truck Batteries for Sustainable Logistics 
+
+König, A., Nicoletti, L., Schröder, D., Wolff, S., Waclaw, A., & Lienkamp, M. (2021). An Overview 
+of  Parameter  and  Cost  for  Battery  Electric  Vehicles.  World  Electric  Vehicle  Journal,  12,  21. 
+https://doi.org/10.3390/wevj12010021 
+
+Kotak, Y., Marchante Fernández, C., Canals Casals, L., Kotak, B. S., Koch, D., Geisbauer, C., 
+Trilla, L., Gómez-Núñez, A., & Schweiger, H.-G. (2021). End of Electric Vehicle Batteries: Reuse 
+vs. Recycle. Energies, 14(8), Article 8. https://doi.org/10.3390/en14082217 
+
+Lebeau, P., Macharis, C., & Van Mierlo, J. (2019). How to Improve the Total Cost of Ownership 
+of Electric Vehicles: An Analysis of the Light Commercial Vehicle Segment. World Electric Vehicle 
+Journal, 10(4), Article 4. https://doi.org/10.3390/wevj10040090  
+
+Lih,  W.-C.,  Yen,  J.-H.,  Shieh,  F.-H.,  &  Liao,  Y.-M.  (2012).  Second  Use  of  Retired  Lithium-ion 
+Battery  Packs  from  Electric  Vehicles:  Technological  Challenges,  Cost  Analysis  and  Optimal 
+Business Model. https://ieeexplore.ieee.org/document/6228326 
+
+Madlener, R., & Kirmas, A. (2017). Economic Viability of Second-Life Electric Vehicle Batteries 
+for 
+Journal. 
+https://doi.org/10.2139/ssrn.2954629 
+
+Households. 
+
+Electronic 
+
+Storage 
+
+Energy 
+
+Private 
+
+SSRN 
+
+in 
+
+MAN  (2024)  Batteries  from  man:  Full  of  energy  and  powering  towards  electromobility,  MAN 
+Engines. https://www.man.eu/engines/en/in-focus/engines/batteries-from-man-127744.html  
+
+Mathews, I., Xu, B., He, W., Barreto, V., Buonassisi, T., & Peters, I. M. (2020). Technoeconomic 
+model of second-life batteries for utility-scale solar considering calendar and cycle aging. Applied 
+Energy, 269, 115127. https://doi.org/10.1016/j.apenergy.2020.115127 
+
+McKinsey & Company (2019) Second-life EV batteries: The newest value pool in Energy Storage. 
+https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/second-life-ev-
+batteries-the-newest-value-pool-in-energy-storage  
+
+McKinsey  &  Company 
+https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/battery-2030-
+resilient-sustainable-and-circular  
+
+(2023)  Battery  2030:  Resilient,  sustainable,  and  Circular. 
+
+Meegoda, J., Charbel, G., & Watts, D. (2024). Second Life of Used Lithium-Ion Batteries from 
+Electric 
+5. 
+USA. 
+https://doi.org/10.3390/environments11050097 
+
+Environments, 
+
+Vehicles 
+
+Article 
+
+11(5), 
+
+the 
+
+in 
+
+Miao, Y., Hynan, P., von Jouanne, A., & Yokochi, A. (2019). Current Li-Ion Battery Technologies 
+in  Electric  Vehicles  and  Opportunities 
+for  Advancements.  Energies,  12,  1074–1094. 
+https://doi.org/10.3390/en12061074 
+
+Michelini, E., Höschele, P., Ratz, F., Stadlbauer, M., Rom, W., Ellersdorfer, C., & Moser, J. (2023). 
+Potential  and  Most  Promising  Second-Life  Applications  for  Automotive  Lithium-Ion  Batteries 
+Considering  Technical,  Economic  and  Legal  Aspects.  Energies,  16(6),  Article  6. 
+https://doi.org/10.3390/en16062830 
+
+Montes, T., Etxandi-Santolaya, M., Eichman, J., Ferreira, V. J., Trilla, L., & Corchero, C. (2022). 
+Procedure for Assessing the Suitability  of Battery Second Life Applications after EV First Life. 
+Batteries, 8(9), 122. https://doi.org/10.3390/batteries8090122 
+
+Pesaran, A. A. (2023). Lithium-Ion Battery Technologies for Electric Vehicles. IEEE Electrification 
+Magazine, 11(2), C2–C2. https://doi.org/10.1109/MELE.2023.3264919 
+
+28 
+
+                      
+ 
+ 
+ 
+ 
+ 
+                                                                                                              
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Second Life of E-Truck Batteries for Sustainable Logistics 
+
+Philippot, M., Costa, D., Hosen, M. S., Senécat, A., Brouwers, E., Nanini-Maury, E., Van Mierlo, 
+J.,  &  Messagie,  M.  (2022).  Environmental  impact  of  the  second  life  of  an  automotive  battery: 
+Reuse  and  repurpose  based  on  ageing  tests.  Journal  of  Cleaner  Production,  366,  132872. 
+https://doi.org/10.1016/j.jclepro.2022.132872 
+
+Rufino  Júnior,  C.  A.,  Riva  Sanseverino,  E.,  Gallo,  P.,  Koch,  D.,  Diel,  S.,  Walter,  G.,  Trilla,  L., 
+Ferreira,  V.  J.,  Pérez,  G.  B.,  Kotak,  Y.,  Eichman,  J.,  Schweiger,  H.-G.,  &  Zanin,  H.  (2024). 
+Towards  to  Battery  Digital  Passport:  Reviewing  Regulations  and  Standards  for  Second-Life 
+Batteries. Batteries, 10(4), Article 4. https://doi.org/10.3390/batteries10040115 
+
+SAE  (2024)  Volvo  Trucks’  Battery  Chemistry  of  Choice:  NCA  Lithium-Ion,  SAE  International. 
+https://www.sae.org/news/2024/05/volvo-trucks-battery-chemistry  
+
+SEAI (2024) How electric vehicles work, Sustainable Energy Authority Of Ireland. Available at: 
+https://www.seai.ie/technologies/electric-vehicles/what-is-an-electric-vehicle/how-electric-
+vehicles-work/  
+
+Steckelberg, A., Dormido, H., Mellen, R., Rich, S., & Brown, C. (n.d.). The underbelly of electric 
+vehicles. 
+from 
+Retrieved 
+https://www.washingtonpost.com/world/interactive/2023/electric-car-batteries-geography/ 
+
+Washington 
+
+2024, 
+
+Post. 
+
+June 
+
+28, 
+
+Sustainable Bus (2022) Man kicks off a 2nd life project for use of vehicles’ batteries in stationary 
+storage  systems,  Sustainable  Bus.  https://www.sustainable-bus.com/components/man-project-
+second-life-batteries/  
+
+U.S Department of Energy (2024)  Battery Manufacturing and recycling grants | Department of 
+Energy. https://www.energy.gov/mesc/battery-manufacturing-and-recycling-grants  
+
+UL 1974 (no date) UL 1974: Creating a safe second life for electric vehicle batteries, UL Solutions. 
+https://www.ul.com/resources/ul-1974-creating-safe-second-life-electric-vehicle-batteries   
+Volta Foundation (2024) Battery report 2023, Volta Foundation. https://volta.foundation/battery-
+report  
+
+Volvo (2024) Volvo Energy’s Second Life and Battery Circularity Story: An interview with Elisabeth 
+Larsson,  Welcome 
+https://www.volvoenergy.com/en/news-
+Energy. 
+media/news/2024/apr/volvo-energys-second-life-and-battery-circularity-story-an-interview-with-
+elisabeth-larsson.html  
+
+Volvo 
+
+to 
+
+Warmerdam,  J. 
+https://pure.hva.nl/ws/portalfiles/portal/17123313/SEEV4_City_Johan_Cruijff_ArenA_Operation
+al_Pilot_Final_Report.pdf  
+
+report  –  Johan  Cruijff  ArenA  Operational  Pilot. 
+
+(2020).  Final 
+
+WRI  (2023)  How  to  ensure  a  sustainable  future  for  Electric  School  Bus  Batteries,  World 
+https://www.wri.org/technical-perspectives/electric-school-bus-battery-
+Resources 
+sustainability  
+
+Institute. 
+
+Zhu, J., Mathews, I., Ren, D., Li, W., Cogswell, D., Xing, B., Sedlatschek, T., Kantareddy, S. N. 
+R., Yi, M., Gao, T., Xia, Y., Zhou, Q., Wierzbicki, T., & Bazant, M. Z. (2021). End-of-life or second-
+life  options  for  retired  electric  vehicle  batteries.  Cell  Reports  Physical  Science,  2(8),  100537. 
+https://doi.org/10.1016/j.xcrp.2021.100537 
+
+29 
+
+                      
+ 
+ 
+ 
+ 
+ 
+                                                                                                              
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Join our journey towards 
+efficient and zero-emission 
+global freight and logistics 
+
+Contact 
+
+Smart Freight Centre 
+
+P.O. Box 11772, 1001 GT 
+
+Tel. office: +31 6 4695 4405 
+
+Keizersgracht 560, 1017 EM 
+
+Amsterdam, Netherlands 
+
+www.smartfreightcentre.org 
+
+Amsterdam, Netherlands 
+
+info@smartfreightcentre.org  
+
+   
+ 
+ 
+ 
+ 
+ 
+ 
+

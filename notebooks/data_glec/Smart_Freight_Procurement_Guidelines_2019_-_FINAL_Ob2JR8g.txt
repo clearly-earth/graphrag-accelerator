@@ -1,0 +1,4554 @@
+Smart Freight
+Procurement Guidelines
+September 2019
+
+Disclaimer
+Smart  Freight  Centre  and  the  World  Business  Council  for  Sustainable  Development  authored  this  
+publication.  The  views  expressed  in  this  publication  are  those  of  Smart  Freight  Centre  (SFC),  World  
+Business  Council  for  Sustainable  Development  (WBCSD)  and  staff,  consultants  and  management,  
+and  do  not  necessarily  reflect  the  views  of  the  SFC  Board  of  Trustees  or  WBCSD  member  companies.  
+SFC and WBCSD do not guarantee the accuracy of the data included in this publication and do not accept 
+responsibility for the consequence of their use.
+
+Acknowledgements 
+Smart  Freight  Centre  has  developed  the  Smart  Freight  Procurement  Guidelines  as  part  of  WBCSD’s  
+Transforming  Heavy  Transport  project,  co-financed  by  We  Mean  Business.  The  document  is  based  on  
+existing  guidelines  and  practices  and  input  from  individual  companies  and  organizations,  as  well  as  the  
+Global  Logistics  Emissions  Council  (GLEC)  led  by  SFC.  Its  inspiration  stems  from  the  New  Zealand  
+Sustainable  Business  Council,  which  developed  sustainable  procurement  guidelines  with  its  member  
+businesses in 2016. We would like to thank all companies and BSR who contributed to this publication.
+
+About Smart Freight Centre 
+Smart  Freight  Centre  is  a  global  mission-driven  organization  dedicated  to  a  more  efficient  and  low- 
+emission  global  freight  sector.  We  bring  the  global  logistics  community  together  to  drive  transparency  
+and mobilize multinational companies and their logistics partners to take action. This is done through global 
+industry  guidelines  and  solutions  for  emissions  calculations,  reporting  and  reductions,  the  first  
+of  which  is  the  Global  Logistics  Emissions  Council  (GLEC)  Framework,  and  by  recognizing  Smart  Freight 
+Leaders. To scale our impact, we are present in Europe, the Americas and Asia; and we collaborate with 
+existing initiatives, partner organizations and experts worldwide.
+
+About WBCSD
+WBCSD is a global, CEO-led organization of over 200 leading businesses working together to accelerate the 
+transition to a sustainable world. We help make our member companies more successful and sustainable by 
+focusing on the maximum positive impact for shareholders, the environment and societies.
+
+Our member companies come from all business sectors and all major economies, representing a combined 
+revenue of more than USD $8.5 trillion and 19 million employees. Our global network of almost 70 national 
+business councils gives our members unparalleled reach across the globe. WBCSD is uniquely positioned to 
+work with member companies along and across value chains to deliver impactful business solutions to the 
+most challenging sustainability issues.
+
+Together, we are the leading voice of business for sustainability: united by our vision of a world where more 
+than 9 billion people are all living well and within the boundaries of our planet, by 2050.
+
+www.wbcsd.org 
+
+Follow us on:
+
+Twitter 
+@smartfreightctr
+@wbcsd 
+
+LinkedIn
+www.linkedin.com/company/smart-freight-centre
+www.linkedin.com/company/wbcsd
+
+Suggested citation:
+Smart Freight Centre and WBCSD.  
+
+Authors:
+Chiara Lepori, Sophie Punte and 
+
+Smart Freight Procurement Guidelines (2019). 
+
+Eszter Toth-Weedon of Smart Freight Centre  
+
+ISBN 978-90-82-68790-3.
+
+Mariana Heinrich of WBCSD
+
+Contact
+Smart Freight Centre
+
+World Business Council 
+
+Keizersgracht 560, 1017 EM Amsterdam, Netherlands
+
+for Sustainable Development
+
+P.O. Box 11772, 1001 GT Amsterdam, Netherlands
+
+Maison de la Paix, Chemin Eugène-Rigot 2B 
+
+Tel office: +31 6 4695 4405
+www.smartfreightcentre.org
+
+info@smartfreightcentre.org
+
+CP 2075 1211 Geneva 1, Switzerland
+Tel office: +41 (0)22 839 31 71
+
+www.wbcsd.org
+
+2
+
+3
+
+ 
+Summary
+
+in  logistics  
+The  Smart  Freight  Procurement  (SFP)  Guidelines  provide  professionals  engaged 
+procurement,  supply  chain  and  logistics  management,  and  logistics  emissions  management  with  an 
+action-based guideline on how to reduce greenhouse gas (GHG) emissions and air pollutants from their 
+freight  transport  and  logistics  procurement  practices.  The  SFP  Guidelines  lead  organizations  in  their 
+practical journey to low-carbon freight logistics and procurement.
+
+The SFP Guidelines outline several actions that companies can take in four procurement phases: planning, 
+tendering,  contracting  and  contract-based  supplier  management.  A  preliminary  phase  intended  to  set  
+an  organization’s  internal  environment  and  ensure  its  readiness  to  undertake  the  actions  to  achieve  the  
+low-carbon  procurement  of  smart  freight  and  logistics  services  precedes  the  four  operational  phases.  
+In particular, top management support is critical to making the significant changes required to shift from  
+a cost-focused procurement approach to a procurement process that also prioritizes reductions in GHG and 
+air pollutant emissions.
+
+An overview table displays all actions, allowing organizations to efficiently identify the detailed actions for 
+implementation  relevant  to  them.  Specific  toolboxes  enable  organizations  to  immediately  understand  the 
+actions  identified.  When  possible,  examples  from  company  experiences  and  best  practices  illustrate  the 
+actions, highlighting how the action can contribute to GHG emissions reductions. The example’s description 
+also outlines the impacts/lessons learned. 
+
+By implementing the SFP Guidelines, organizations can map their alignment with low emissions logistics and 
+freight  procurement  and 
+implementation  of  the  
+suggested actions. This alignment can extend to your organization’s entire logistics procurement policies 
+and procedures. Alternatively, you may choose to only implement certain actions for a specific objective.
+
+identify  and  address  existing  gaps  through  the 
+
+List of abbreviations and acronyms
+
+GHG 
+
+GLEC 
+
+KPI 
+
+greenhouse gas
+
+Global Logistics Emissions Council 
+
+key performance indicator
+
+LCTPi   
+
+Low Carbon Technology Partnerships initiative
+
+LSP 
+
+RFP 
+
+RFQ 
+
+SFC 
+
+SFL 
+
+logistics service provider
+
+request for proposal
+
+request for quotation
+
+Smart Freight Centre
+
+Smart Freight Leadership
+
+SFP Guidelines 
+
+Smart Freight Procurement Guidelines
+
+UN  
+
+US  
+
+US EPA 
+
+WBCSD  
+
+United Nations
+
+United States of America
+
+United States Environmental Protection Agency
+
+World Business Council for Sustainable Development
+
+4
+
+5
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table of Contents
+
+1  INTRODUCTION 
+
+1.1  What are the SFP Guidelines 
+
+1.2 
+
+Target audience 
+
+1.3 
+
+Scope of the document 
+
+1.4 
+
+Structure of the document 
+
+1.5  Reference material and development process 
+
+1.6 
+
+The guiding principles 
+
+2  NAVIGATING THE SMART FREIGHT PROCUREMENT GUIDELINES 
+
+2.1 
+
+Freight procurement phases 
+
+2.2  Action overview table 
+
+2.3  How to use the SFP Guidelines 
+
+3  ACTION CARDS 
+
+3.1  Preliminary phase-related actions 
+
+3.2  Planning phase-related actions 
+
+8
+
+8
+
+8
+
+8
+
+9
+
+9
+
+10
+
+12
+
+12
+
+14
+
+15
+
+16
+
+16
+
+18
+
+3.3 
+
+Tendering phase-related actions 
+
+3.4  Contracting phase-related actions 
+
+3.5  Contract-based supplier management-related actions 
+
+4  COMPANY EXAMPLES 
+
+4.1  Company examples – Overview 
+
+4.2  Company-specific examples 
+
+4.3  Examples applicable to many companies 
+
+ANNEXES 
+
+A. Smart Freight Leadership 
+
+B. Sector initiatives 
+
+C. Sources 
+
+21
+
+22
+
+24
+
+26
+
+26
+
+27
+
+40
+
+42
+
+42
+
+43
+
+53
+
+6
+
+7
+
+1 Introduction
+
+Smart Freight Centre (SFC) and WBCSD drafted the Smart Freight Procurement Guidelines (SFP Guidelines) 
+as  part  of  WBCSD’s  Transforming  Heavy  Transport  project.1  It  is  an  innovative  project  aimed  at  reducing 
+emissions  from  freight  and  logistics  operations,  including  air,  sea,  land  and  transshipment  centers.  In 
+collaboration with Smart Freight Centre and the We Mean Business coalition, it is working to find solutions to 
+increase  demand  for  low-emissions  heavy  transport  and  achieve  our  vision  of  net-zero  logistics  emissions 
+globally by 2050. 
+
+Transforming Heavy Transport is a key project of the Low Carbon Technology Partnerships initiative (LCTPi). 
+Since its launch at the 21st Conference of the Parties (COP21) to the United Nations Framework Convention 
+on Climate Change (UNFCCC) in Paris, LCTPi has brought together more than 235 companies to bring climate 
+solutions to scale.2
+
+This document is also a supporting element of Smart Freight Leadership3 as part of the broader activities  
+of SFC. The SFP Guidelines are one of SFC's global standardized guidelines for industry to calculate, report 
+and reduce emissions, developed together with the Global Logistics Emissions Council (GLEC). 
+
+The SFP Guidelines also complement the ‘Sustainable Freight Procurement Framework’ developed by BSR 
+and members of the Clean Cargo and Sustainable Airfreight initiatives, to help companies evaluate, benchmark 
+and improve their freight procurement practices. Together, SFC, WBCSD and BSR will continue to expand this 
+practical toolbox to help business take climate action.
+
+1.1  What are the SFP Guidelines 
+The SFP Guidelines aim to provide guidance on how organizations, big or small, can leverage their freight 
+transport and logistics procurement demands to make a positive impact on reducing GHG emissions and air 
+pollutants across their freight transport and logistics supply chains.
+
+Through  an  action-driven  approach,  the  SFP  Guidelines  provide  organizations  with  a  pathway  to  achieve  
+low-carbon procurement of freight transport and logistics services. 
+
+1.2  Target audience
+We have developed the SFP Guidelines for any type of company or organization, irrespective of size, that is 
+interested in embedding GHG emission and air pollutant reductions in its freight procurement procedures.
+
+The target audience of the guidelines comprises professionals engaged in the management or execution of 
+logistics and/or environmental management, including functions and responsibilities such as:
+•  Logistics procurement;
+•  Supply chain and logistics management; and
+•  Logistics emissions management.
+
+1.3  Scope of the document
+The SFP Guidelines cover all transport modes and logistics sites across the global logistics supply chain. We 
+have  taken  a  general  approach  while  recognizing  that  in  its  practical  application  there  will  be  specific 
+challenges  for  different  modalities.  Future  expansions  of  the  SFP  Guidelines  may  elaborate  on  different 
+modalities and application contexts.
+
+The  primary  focus  of  this  document  is  the  reduction  of  GHG  and  air  pollutant  emissions.  The  Guidelines  
+aim  to  support  organizations  in  their  transition  to  become  a  low-carbon  business.  They  can  achieve  this  
+by  addressing  freight  and  logistics  procurement  activities  through  the  specific  actions  suggested  in  the  
+SFP Guidelines.
+
+1.4  Structure of the document
+We have organized the SFP Guidelines into four chapters:
+•  Chapter 1 introduces the document, its scope and structure and the target audience. It also  
+
+defines keywords;
+
+•  Chapter 2 explains how to navigate the document, facilitating its use in daily company activities  
+
+and operations;
+
+•  Chapter 3 is the toolbox. It details the actions logistics procurement departments can take to embed  
+  GHG emissions and air pollutant reduction objectives in a company’s freight procurement process.  
+  Action cards summarize their expected impact and link with SFP Guidelines guiding principles and  
+
+provide guidance for implementation. Furthermore, the action cards include references to examples   
+from companies related to the implementation of those specific actions;
+
+•  Chapter 4 contains descriptions of examples referred to in the various actions in Chapter 3. One example  
+
+can be relevant to more than one of the suggested actions.
+
+The annexes at the end of the document provide details on:
+•  How the SFP Guidelines link with SFC’s broader strategy (Annex A: Smart Freight Leadership);
+•  Sector initiatives that organizations can join to work together with others to achieve sustainable freight  
+
+and logistics, including GHG emissions reductions4 (Annex B: Sector initiatives);
+
+•  The main sources used to develop the SFP Guidelines (Annex C: Sources).
+
+1.5  Reference material and development process
+We have developed the SFP Guidelines based on a review of business practices and theory on logistics 
+procurement from July 2018 to October 2018:
+•  The analysis of smart freight procurement-related business processes through interviews with more  
+
+than 10 multinational companies;
+
+•  The review of 11 smart freight procurement guidelines and initiatives worldwide;
+•  The review of relevant professional and academic literature and company practices related to green  
+
+freight procurement.
+
+We  shared  the  first  working  draft  of  the  SFP  Guidelines  with  a  working  group  composed  of  experts  and 
+business  practitioners,  among  them  the  business  community  comprising  WBCSD’s  Transforming  Heavy 
+Transport  project  and  the  Global  Logistics  Emissions  Council  (GLEC).  We  used  the  feedback  collected  to 
+prepare a second version submitted for a second review. 
+
+8
+
+9
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1: Guiding principles of the SFP Guidelines
+
+Transparency
+
+Collaboration
+
+Leadership &
+Innovation
+
+1.6  The guiding principles
+The  SFP  Guidelines  are  based  on  relevant  principles  identified  during  the  review  of  existing  sustainable 
+procurement  guidance  and  initiatives  and  from  interviews  conducted  with  multinational  companies  (see 
+section  1.5).  We  identify  three  guiding  principles  that  address  the  needs  of  organizations  and  embed  the 
+recommendations received and elaborated during the SFP Guidelines drafting process itself: transparency, 
+collaboration, and leadership and innovation.
+
+A strong smart freight procurement process should include at least these three guiding principles to reach 
+a complete approach. Whereas each principle is important by itself, focusing on only one or two will not be 
+as effective in reaching maximum impact. (see Figure 1).
+
+Transparency on emission reporting, the way shippers use the data they receive from the handling of their 
+products  by  their  logistics  service  providers,  and  sharing  best  practices  are  among  the  actions  that  can 
+improve  the  understanding  of  practices  along  the  entire  logistics  operations  value  chain  and  help  to  set 
+targets. Such transparency drives understanding of how to improve the journey to low-carbon freight.
+
+Collaboration  between  the  different  parties  procuring  or  supplying  logistics  services  is  fundamental  to 
+achieving measurable and impactful supply chain emissions reductions. It can have a real and positive impact 
+on the long-term sustainability of business relationships among supply chain partners as it has the power to 
+enable cost savings through the establishment of standardized processes.
+
+Innovation  and  leadership  help  organizations  break  away  from  business  as  usual  and  accelerate  the 
+incorporation of improved solutions within the logistics procurement process to meet new requirements and 
+the potentially unarticulated needs of climate-conscious organizations.
+
+10
+
+11
+
+2 Navigating the Smart Freight      
+   Procurement Guidelines
+
+This chapter helps companies navigate the SFP Guidelines and efficiently determine appropriate actions for 
+a specific activity in their organization. A summary table (section 2.2) lists the actions according to the four 
+phases of the procurement process.
+
+2.1  Freight procurement phases
+The companies interviewed (see section 1.5) described their logistics procurement process using different 
+terminologies;  they  also  ordered  and  grouped  actions  and  procurement  steps  in  different  ways.  We  have 
+organized these varying company inputs under common denominations. We subsequently determined four 
+main freight procurement phases: 
+1.  Planning: the preparatory phase, which includes the identification of needs, budget definition, a project  
+  management plan, the identification of responsibilities, and a general supplier assessment – in line with  
+
+the organization’s business and procurement strategy;
+
+2.  Tendering: tender definition (including procedure, award criteria, technical specifications, bidder- 
+related aspects, environmental and social aspects, financial information, formal aspects), public  
+tendering (where applicable) and the evaluation of the tenders;
+
+3.  Contracting: the specification of the contract terms, supplier selection and contract negotiations,  
+
+agreement on qualitative and quantitative key performance indicators (KPIs) and monitoring activities;  
+the planning phase should include early stages of this phase;
+
+4.  Contract-based supplier management: monitoring of supplier performance using qualitative and  
+
+quantitative KPIs. Identifying future improvement areas and best practices. 
+
+While individual companies may have different numbers or types of phases, these SFP Guidelines use the 
+four phases to provide a coherent approach. 
+
+Prior to starting with the four phases, it is important to understand the organization’s structure to establish 
+if the procurement department can take responsibility for and has the capacity and the capability to apply the 
+actions provided in these guidelines. This is the Preliminary phase.
+
+Figure 2: Preliminary phase followed by the four phases of the procurement process
+
+Planning
+
+1
+
+Preliminary
+
+0
+
+Tendering
+
+2
+
+Contracting
+
+3
+
+Contract-based 
+Supplier Management
+
+4
+
+12
+
+13
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.3  How to use the SFP Guidelines
+
+The action overview table in the previous chapter allows you to identify the actions your organization should 
+take in its journey to achieving low-emissions freight transport and logistics procurement.
+
+The classification of implementation complexity allows your organization to prioritize the actions to take – 
+progressively  moving  up  in  complexity  to  fulfill  the  set  commitments.  This  is  particularly  helpful  for 
+organizations  that  have  not  yet  started  their  low-carbon  procurement  journey.  By  starting  with  simpler 
+actions,  organizations  can  plan  their  own  implementation  path  in  line  with  their  maturity  level.  Maturity 
+refers to the level of implementation of existing activities for low-carbon freight and logistics procurement 
+for a specific organization.
+
+Depending on your organization’s current approach to sustainable procurement and its maturity level, 
+there are two main ways to use the SFP Guidelines:
+1.  To structurally improve your organization’s existing procedures and policies for low-carbon  
+
+procurement;
+
+2.  To use certain suggested actions, verifying your organization’s existing low-emissions procurement  
+
+strategy and/or identifying areas for improvement.
+
+In both cases, it is possible to implement the SFP Guidelines as follows:
+•  Map how the suggested SFP actions outlined in Table 1 (section 2.2) are aligned with your organization’s 
+
+practices and process;
+
+•  Using the action cards (chapter 3), identify the gaps between current practices and suggested actions;
+•  Analyze how to address the gaps identified and what your company needs to enable low-emissions  
+
+logistics and freight procurement;
+
+•  Draft or review your organization’s current logistics procurement policies and procedures based on the  
+gaps identified, including a comparison and evaluation of alignment of the current guiding principles   
+
+  with the SFP Guidelines (see section 1.6).
+
+2.2  Action overview table
+The overview table below summarizes the actions suggested in the SFP Guidelines, grouping them into the 
+Preliminary phase and the four freight procurement phases as identified previously. 
+
+Each action reports the expected impact and the complexity of implementation. The last column shows the guiding 
+principles (see section 1.6) attributed to each action. The complexity of the implementation is on a scale of 1 to 5.5
+
+Table 1: Action overview table
+
+Procurement
+phase
+
+Action
+
+SFP
+
+Guidelines
+
+ID Name
+
+ID   Name
+
+Impact
+
+Complexity
+
+principles
+
+0  Preliminary
+
+1  Planning
+
+0.1 Top management  
+
+engagement
+
+0.2 Award scheme  
+establishment
+
+1.1  Set up support for  
+low-carbon freight  
+procurement
+
+Gain top management support 
+in implementing the SFP 
+Guidelines, including the 
+possibility for the procurement 
+department to choose higher 
+prices if this would help reduce 
+the organization’s GHG foot-
+print, thus avoiding having 
+costs overrule activities in  
+the following phases
+
+Include low-carbon criteria  
+in rewarding staff and  
+management performance, 
+thus boosting real behavior 
+change
+
+Achieve organization-wide 
+support for the procurement 
+strategy, aiming to reduce  
+GHG emissions
+
+1.2 Build low-carbon  
+
+supply chain capacity
+
+Prepare the organization  
+to establish a low-carbon  
+supply chain
+
+1.3  Focus your network on
+low-carbon emissions 
+
+Establish reduced carbon 
+footprint supply chain
+
+1.4 Engage with  
+suppliers
+
+Establish two-way 
+communication with 
+suppliers to achieve GHG 
+emissions reductions
+
+2.1 Revise qualification  
+
+procedure to include  
+low-carbon criteria
+
+Establish capacity to select 
+suppliers matching its 
+low-carbon criteria
+
+2  Tendering
+
+2.2 Categorize the  
+
+suppliers
+
+Increase supplier 
+awareness of carbon 
+emissions reductions
+
+2.3 Share incentives  
+for low-carbon  
+behaviors
+
+Improve supplier behavior to  
+achieve carbon emissions 
+reductions
+
+3.1  Define the low- 
+
+carbon-oriented  
+contractors
+
+Ensure supplier behavior aims  
+to reduce carbon emissions
+
+3.2 Allow exceptions  
+
+to achieve  
+innovation
+
+Enable and support suppliers' 
+innovative behavior to reduce 
+carbon emissions
+
+4.1 Monitor & report
+
+Enhance supply chain  
+transparency
+
+4.2 Support suppliers  
+
+and expert  
+leadership
+
+4.3 Collaborate
+
+Encourage suppliers to  
+maintain and improve  
+emissions reductions efforts
+
+Implement concrete actions  
+to achieve performance- 
+based improvements
+
+3  Contracting
+
+4  Contract-
+  based
+  Supplier
+  Management
+
+Collaboration
+Leadership & 
+Innovation
+
+Transparency
+
+Leadership & 
+Innovation
+
+Leadership & 
+Innovation
+
+Leadership & 
+Innovation
+
+Transparency
+Collaboration
+
+Collaboration 
+Leadership &  
+Innovation
+
+Transparency 
+Leadership &  
+Innovation
+
+Collaboration  
+Leadership &  
+Innovation
+
+Collaboration  
+Leadership 
+Innovation 
+Transparency
+
+Collaboration
+Leadership & 
+Innovation
+
+Transparency
+
+Leadership & 
+Innovation
+
+Collaboration
+
+14
+
+15
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3  Action cards
+
+This is the SFP Guidelines toolbox. Here we detail the actions needed to embed GHG emissions reductions 
+within your organization’s freight transport procurement process. The actions listed below follow the four 
+freight procurement phases described in section 2.1.
+
+Such  actions  are  presented  in  tabular  form  (as  cards),  which  include  a  title  for  each  action  followed  by  
+the  estimated  implementation  complexity  on  a  scale  1  to  5  (see  sections  2.2  and  2.3)  shown  as  circles,  
+the  expected  impact,  and  the  guidance  for  its  implementation.  The  cards  include  references  to  company 
+examples related to the implementation of the specific action. Chapter 4 details the examples.
+
+3.1  Preliminary phase-related actions
+
+Action 0.1 – Top management engagement
+
+Impact: Gain top management support in implementing the SFP Guidelines, including the possibility 
+for the procurement department to not prioritize cost as the most important decision criteria. This 
+will help avoid having costs overrule activities in the following phases.
+
+Toolbox
+•  Define a clear business case to justify the actions undertaken to achieve low-carbon procurement  
+for freight and logistics services based on expected commercial and reputational benefits. It is  
+necessary to identify relevant key performance indicators to support the business case definition (see  
+  Action 0.2 – Award scheme establishment). Furthermore, when formulating the business case, consider:
+
+•  Linking a smart freight procurement plan to the organization’s overall business and  
+
+sustainability plan;
+
+•  Demonstrating positive return on investment related to logistics investments (e.g.,  
+
+reduced fuel consumption should lead to lower costs);
+
+•  Demonstrating improved brand reputation and competitive advantage, including  improved
+
+customer satisfaction;
+
+•  The increased possibility of attracting and retaining a talented workforce in logistics and
+
+supply chain functions;
+
+•  Highlighting improved supply chain risk management capabilities;
+•  The cost of carbon where logistics emissions are likely to be relevant in the future (e.g.,  
+investments in new warehouse and distribution locations, suppliers and carbon pricing);
+
+•  Demonstrating enhanced shareholder and investor satisfaction through voluntary reporting
+
+and disclosure (see the bullet point for investor initiatives below).
+
+•  Provide top management with information and materials to support their decision- 
+  making process and ensure their engagement. Useful sources are:
+
+•  Case studies describing companies that have successfully introduced sustainable  
+
+procurement practices and the benefits they have obtained;
+
+•  An overview of sustainability requirements from Investor Initiatives6 and relevant sector 
+
+initiatives7 that are applicable to the organization;
+
+•  An overview of competitors’ actions to demonstrate the need to catch up to or use sustainable 
+
+ logistics procurement to stay ahead of the competition.
+
+ •  Involve top management in the development or review of sustainable procurement principles and  
+processes. In both cases, you should involve top management in the implementation of the SFP  
+
+  Guidelines following the identification of the organization’s needs. You should also keep them informed  
+
+throughout the implementation of the steps suggested in section 2.3, meaning:
+•  Mapping of the suggested SFP Guidelines actions versus your organization’s existing practices  
+
+and processes; 
+Identifying gaps between your organization’s current practices and the suggested actions; 
+• 
+•  Analyzing how to address the gaps identified and what your company needs to enable low- 
+
+emissions logistics and freight procurement; 
+
+•  Drafting or reviewing your organization’s current logistics procurement policies and procedures  
+
+based on the gaps identified using the SFP Guidelines, including comparison and alignment of the  
+current procurement principles with those proposed in the SFP Guidelines.
+
+Examples 
+A.P. Moller-Maersk Group 
+IKEA 
+Nike 
+Philips   
+Unilever 
+
+Responsible Procurement Programme
+IWAY Standard on Purchasing Products, Materials and Services
+Sustainable Manufacturing & Sourcing Index
+SPLC Guidance for Leadership in Sustainable Purchasing 
+Responsible Sourcing Policy 
+
+Action 0.2 – Award scheme establishment
+
+Impact: Include low-carbon criteria in rewarding internal staff and supplier performance, thus boosting real 
+behavior change.
+
+Toolbox
+•  Make low-carbon criteria relevant to your company’s logistics staff and establish individual KPIs  
+and performance tracking. Your company can track and measure the  relevant key performance 
+indicators internally or hire third party evaluators.
+Introduce incentives, bonuses and clear recognition for logistics and sustainability staff and  
+
+• 
+  management involved in logistics procurement and sustainability improvements.
+•  Establish an award scheme for suppliers to recognize low-carbon behavior: Consider adopting a  
+
+theory-based approach to stimulate low-carbon freight and logistics. The theory-based approach could  
+be a mix of economics and behavioral science, taking into account unaligned goals among the company  
+and its suppliers (agency theory8). Under such an approach, it is possible to classify logistics service  
+providers (LSPs) based on their responsiveness to awards offered by their clients (shipper stimuli9).
+
+Examples 
+DHL Global Forwarding 
+HEINEKEN 
+
+Port of Rotterdam 
+Van der Stelt  
+
+GoGreen rating scheme to evaluate air & ocean freight carriers
+Boosting internal initiatives to achieve supply chain  
+sustainability 
+Discounts on port dues for sustainable vessels
+The CO2 Performance Ladder 
+
+16
+
+17
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.2  Planning phase-related actions
+
+Action 1.1 – Set up support for low-carbon freight procurement
+
+Impact: Achieve organization-wide support for the procurement strategy, aiming to reduce  
+GHG emissions.
+
+Toolbox
+•  Define your organization’s goals:
+
+•  Create an internal team to lead low-carbon freight and logistics actions, including procurement.
+•  Run an initial session with procurement/supply chain/logistics teams to understand the  
+
+organization’s current priorities and processes the and clearly articulate low-carbon freight  
+transport and logistics goals.
+
+•  Align freight and logistics procurement objectives throughout the organization:
+
+•  Decide on overarching requirements for low-carbon logistics procurement that are key to  
+
+improving logistics performance (e.g., the provision of key and verified supplier data to allow  
+the company to calculate and track logistics KPIs). Annex B: Sector initiatives offers an  
+extensive list of relevant requirements. 
+
+•  Align logistics procurement with broader procurement and organizational objectives by 
+
+translating high-level objectives into specific ones for logistics procurement.
+
+•  Set the values for KPIs and targets of the key management functions10 involved in logistics  
+
+procurement.
+
+•  Adopt low-carbon selection criteria for LSPs and carriers:
+
+•  Conduct LSP evaluation using multi-criteria decision-making, considering various  criteria to  
+
+push them to incorporate environmental best practices (e.g., evaluate the  level of cooperation  
+with the carrier, require carriers to establish an environmental management system,  
+a sustainable process design, and/or an efficient network design, and progressively reduce  
+their energy consumption).
+
+•  Organize the selection of LSPs from an environmental sustainability perspective by using 
+
+advanced models,11 possibly collaborating with universities and research centers.
+
+•  Establish contracting terms for suppliers:
+
+•  Translate low-carbon freight and logistics goals into applicable contracting terms; also consider  
+
+potential misalignment of contractual arrangements among parties (agency theory12).
+
+•  Embed KPIs and their preliminary benchmark values in contracts with suppliers according to  
+
+the award scheme established through Action 0.2 – Award scheme establishment.13  
+Give preference to simple, transparent and widely known KPIs to facilitate replication for  
+suppliers who serve several shippers.
+
+Examples
+Dow Chemical 
+IKEA 
+Johnson & Johnson 
+Van der Stelt 
+Walmart 
+
+Global Emissions Inventory (GEI)
+IWAY Standard on Purchasing Products, Materials and Services
+Using sustainability to strengthen carrier relationships
+The CO2 Performance Ladder
+Ambitious fleet efficiency targets result in considerable savings
+
+Action 1.2 – Build low-carbon supply chain capacity
+
+Impact: Prepare the organization to establish a low-carbon supply chain.
+
+Toolbox
+•  Model the integrated logistics network with the objective of maximizing suppliers’ low-carbon  
+
+scores, if possible, using operational research techniques:14 
+•  Check your organization’s capability to model such networks or supply chains according to 
+the business’ low-carbon freight and logistics goals articulated through Action 1.1 – Set up  
+support for low-carbon freight procurement. 
+If necessary, get external support to model the network or ensure internal capability.
+
+• 
+
+•  Check that your supply chain’s current capacity (infrastructure) fits the desired model.  
+
+If necessary, run a capacity building stage and an engineering phase to identify and implement 
+new and innovative logistics solutions.
+
+• 
+
+Integrate the strategic selection of logistics partners with operational flow planning decisions.15
+
+Examples
+Home Depot  
+
+Johnson & Johnson 
+
+Supply chain restructuring, bidding process rethinking, carrier rating,  
+collaboration
+Using sustainability to strengthen carrier relationships
+
+Action 1.3 – Focus your network on low-carbon emissions
+
+Impact: Establish reduced carbon footprint supply chain.
+
+Toolbox
+• 
+
+Identify the fields of LSP and carrier activity in your network that you want to influence (e.g., reduce  
+transport intensity and emissions, carrier selection criteria). Determine:
+•  Possibilities to enable logistics providers to adopt sustainable practices, such as allowing grouping  
+
+of your freight;
+
+•  Possibilities to exert direct influence on a logistics provider's activity, such as ensuring carrier  
+
+certification or training.16 
+
+•  Customize your supply chain: Consider the adoption of the proper Incoterms (International Commercial 
+
+Terms)17 in the purchase and sale of goods, based on the amount of leverage that the organization aims to  
+exert on “carbon-sensitive” decisions.
+
+Examples
+Home Depot   
+
+IKEA 
+Johnson & Johnson 
+Jumbo   
+Multinational Shippers (China) 
+
+Supply chain restructuring, bidding process rethinking, carrier rating, 
+collaboration
+IWAY Standard on Purchasing Products, Materials and Services
+Using sustainability to strengthen carrier relationships
+Collaboration between retailer, product suppliers and LSPs
+Smart Transport Manager Training
+
+18
+
+19
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Action 1.4 – Engage with suppliers
+
+Impact: Establish two-way communication with suppliers to achieve carbon emissions reductions.
+
+Toolbox
+•  Communicate emissions calculations and reporting requirements to LSPs and freight operators in a  
+
+standardized way:
+•  Provide guidance on what data to collect and how to report them;
+•  Explain to your suppliers how you will use the data collected and how can they incorporate actions  
+
+to reduce emissions and improve their decision-making.
+
+•  Differentiate supplier engagement formats:
+
+•  Customize the engagement formats based on supplier size, location and maturity (e.g., supplier  
+summits, smaller sector forums, or possibly online portals for sharing best practices, education  
+and training);
+In the customization of the engagement format, consider the different levels of sophistication of  
+LSPs and carriers, which impacts their internal and external behavior because supply chain  
+operators have different levels of sophistication around the world; tailor the engagement  
+approach/strategy accordingly.
+
+• 
+
+•  Demonstrate corporate leadership by supporting your suppliers:
+
+•  Provide clear information to suppliers about your (shippers’) GHG emissions reductions  expectations  
+
+and the resulting expectations for their supply chain in turn;
+
+•  Foster collaboration and enable progress on achieving sustainability by providing your suppliers  
+
+with self-assessment tools and checklists;
+
+•  Provide clear business cases that could enable your suppliers to approach GHG emissions  
+
+reductions as a business development and investment opportunity;
+
+•  Clarify your intention when forming strategic partnerships with sustainable logistics providers, 
+thereby enabling business operation improvements by focusing on the company’s core  
+competencies;
+
+•  Provide freight and logistics service providers with guidance on their internal communication and  
+
+collaboration between procurement, supply chain and sustainability departments; 
+
+•  Consider helping any existing suppliers who are underperforming in GHG emission activities to  
+  match your organization’s ambitions (e.g., support training on improving the fuel efficiency  
+
+of their fleet).
+
+Examples
+Braskem 
+Ford Motor Company 
+
+Johnson & Johnson 
+Multinational Shippers (China) 
+Nike 
+Unilever 
+Applicable to all companies 
+Applicable to all companies 
+
+A vertical approach to supplier engagement
+Applying GEMI’s Quick Guide to Strategic Buyer/Supplier 
+Collaboration on Sustainability
+Using sustainability to strengthen carrier relationships
+Smart Transport Manager Training
+Sustainable Manufacturing & Sourcing Index
+Responsible Sourcing Policy
+GLEC Declaration
+Shippers and LSPs using SmartWay data to inform  
+transportation purchasing decisions
+
+3.3  Tendering phase-related actions
+
+Action 2.1 – Revise qualification procedure to include  
+
+     low-carbon criteria
+
+Impact: Company has the capacity to select suppliers that match its low-carbon criteria.
+
+Toolbox
+•  Define a standardized qualification procedure that prioritizes carriers and LSPs that adopt  
+low-carbon freight and logistics considerations following the low-carbon selection criteria  
+identified under Action 1.1 – Set up support for low-carbon freight procurement:
+• 
+
+Include standardized request for proposal (RFP)/request for quotation (RFQ) wording in    
+tendering documents, possibly through a checklist. The wording has to align with the proposed  
+set of KPIs (Action 1.1 – Set up support for low-carbon freight procurement) and the data to provide. 
+
+•  Apply relevant low-carbon assessment criteria adopted by the organization as per Action 1.1  
+
+– Set up support for low-carbon freight procurement:
+•  Compare LSPs and carriers on their reported emissions, overall performance and  
+
+improvement actions;
+
+•  Assess suppliers not only on their service delivery performance but also on their  corporate  
+
+GHG reduction strategy and on their capacity to identify and implement  innovative solutions to  
+reduce emissions.
+
+• 
+
+Include in the qualification procedure an analysis of strengths and weaknesses of the potential  
+logistics partners. Decision-makers in the contracting organization can the use   this information to  
+identify the most suitable suppliers with whom to establish and maintain a long-term partnership.
+
+•  Engage your sector initiatives (Annex B: Sector initiatives) and use their tools and questionnaires  
+
+to assess your suppliers. 
+
+Examples
+Home Depot  
+
+Schneider 
+Van der Stelt 
+Applicable to all companies 
+
+Supply chain restructuring, bidding process rethinking,  
+carrier rating, collaboration
+How to create an effective transportation RFP
+The CO2 Performance Ladder
+SmartWay's RFP specification
+
+Action 2.2 – Categorize suppliers
+
+Impact: Increase supplier awareness of carbon emissions reductions.
+
+Toolbox
+•  Categorize LSPs by their low-carbon behavior:
+
+•  Consider a potential conflict of interest with both your shippers and LSPs (agency theory18) in the  
+
+design of the categorization criteria and the possible subsequent incentive mechanism;
+
+•  Categorize LSPs in line with the adoption of low-carbon selection criteria for LSPs and  carriers as  
+
+per Action 1.1 – Set up support for low-carbon freight procurement;
+
+•  Use a categorization system that allows the inclusion of different levels of supplier sophistication  
+
+around the world.
+
+•  Share information on categorization with suppliers to enable transparency, the establishment of an  
+
+improvement feedback cycle, and the establishment and development of low-carbon behavior.
+
+20
+
+21
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Examples
+A.P. Moller-Maersk Group 
+Braskem 
+DHL Global Forwarding 
+Home Depot   
+
+Nike 
+Unilever 
+
+Responsible Procurement Programme
+A vertical approach to supplier engagement
+GoGreen rating scheme to evaluate air & ocean freight carriers
+Supply chain restructuring, bidding process rethinking, carrier rating,  
+collaboration
+Sustainable Manufacturing & Sourcing Index
+Responsible Sourcing Policy
+
+Action 2.3 – Share incentives for low-carbon behaviors
+
+Impact: Improve supplier behavior to achieve carbon emissions reductions.
+
+Toolbox
+•  Build market-based mechanisms, such as emissions trading, into your tender specification,  
+  which can act as an incentive for shippers to lower emissions within their supply chains.
+
+•  This must be in accordance with the award scheme for the suppliers’ low-carbon behavior    
+
+established in Action 0.2– Award scheme establishment.
+
+•  Embed the market-based mechanism for sharing incentives with suppliers into the contracting terms  
+
+for suppliers established through Action 1.1 – Set up support for low-carbon freight procurement:
+•  To influence supplier behavior, reward their low-carbon efforts with discounts and/or longer contracts.
+
+Examples 
+Port of Rotterdam 
+
+Discounts on port dues for sustainable vessels
+
+•  Promote the development of emissions reductions initiatives and joint strategic development  
+plans in collaboration with LSPs. The long-term perspective of the relationship between the  
+buyer and its LSPs also promotes the development of joint initiatives in collaboration between  
+the buyer and the provider. It is possible for buyers  to participate actively in the development  
+of the green service offerings of their LSPs.19 
+
+•  Detail service specifications:
+
+• 
+
+Include KPIs and reporting requirements in GHG emissions performance in the contract, as
+established in Action 1.1 – Set up support for low-carbon freight procurement and Action 1.4  
+– Engage suppliers.
+
+•  Adapt service specifications to enable low-carbon freight and logistics by considering the  
+
+following points: 
+I)  Changing transport lead time specifications may offer opportunities to reduce costs in  
+
+II) 
+
+combination with reduced environmental impacts;
+Including a minimum order quantity or other similar requirements can lead to a decrease  
+in the number of shipments;
+
+III)  Increasing the understanding of each other’s operations allows the detailing of better  
+
+service specifications, facilitating more efficient and effective operations;
+
+IV)  It is possible to achieve long-term improvements if transport buyers and LSPs jointly  
+
+demand the inclusion of low-emissions actions with reasonable environmental goals in  
+their contracts; 
+It is best to develop new solutions in collaboration with LSPs, making use of their expertise.
+
+V) 
+
+Examples
+Home Depot 
+
+Johnson & Johnson 
+
+Supply chain restructuring, bidding process rethinking, carrier  
+rating, collaboration
+Using sustainability to strengthen carrier relationships
+
+3.4  Contracting phase-related actions
+
+Action 3.2 – Allow exceptions to achieve innovation
+
+Action 3.1 – Define the low-carbon-oriented contract
+
+Impact: Ensure supplier behavior aims to reduce carbon emissions. 
+
+Toolbox
+•  Define and prepare the contract:
+
+•  Take into account the terms established in Action 1.1 –Set up support for low-carbon freight  
+procurement, ensuring in particular that the contract terms support such procurement;
+
+•  Clearly state low-carbon requirements in the freight and logistics contract:
+
+I)  Adapt the corporate social responsibility GHG emissions reductions clauses to the  
+
+• 
+
+supplier (size/sector/country);
+Include in the contract the possibility of verifications and audits, penalties and termination clauses.
+II) 
+Include a bonus system in the contract based on the progressive achievement of KPIs defined  
+in Action 1.1 – Set up support for low-carbon freight procurement to incentivize supplier    
+behavior to achieve carbon emissions reductions.
+
+•  Promote long-term partnerships with longer contracts (at least 12 months), if possible  
+factoring joint emissions reduction goals into the process to improve environmental  
+performance without having a negative impact on cost. Longer term contracts and joint  
+development would likely enhance the level of emissions reduction initiatives. Longer term  
+contracts may indirectly result in an opportunity for the buyer to influence LSPs to increase  
+commitments to lower emissions; interaction with employees on different levels in the  
+company, including top management, can further boost this.
+
+Impact: Enable and support suppliers' innovative behavior to reduce carbon emissions.
+
+Toolbox
+•  Allow for exceptions in the behavior of freight and logistics suppliers to push for emissions  
+
+reductions:
+•  Exceptions in relation to the service specification established in Action 3.1 – Define the  low- 
+
+carbon-oriented contract (e.g., modifications of lead time, pick-up and delivery times,  transport  
+
+  mode/s) are allowed.
+•  Buyers can often be a barrier to the development of green initiatives, limiting the providers’    
+
+investments into green technology.20 One way of addressing this problem is to be willing to  pay extra  
+for innovative, low-emissions solutions in line with the impact expected from the  implementation of  
+Action 0.1 – Top management engagement.
+
+Examples
+None, as yet.
+
+22
+
+23
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.5  Contract-based supplier management-related actions
+
+Action 4.1 – Monitor & report
+
+Impact: Enhance supply chain transparency. 
+
+Toolbox
+•  Drive supply chain transparency through KPI monitoring and reporting as agreed in Action 1.1  
+
+– Set up support for low-carbon freight procurement: 
+•  Adopt standardized reporting formats;
+•  Do not set too many KPIs;
+•  Give preference to KPIs that are transparent and most commonly used in freight and logistics.  
+
+This will help suppliers streamline their reporting efforts with multiple customers.
+
+•  Use both internal and external communications to make sure that your employees, customers  
+
+and other stakeholders are aware of your smart freight procurement actions and results:
+•  Provide suppliers with clear feedback on the use of the monitored KPIs and data;
+•  Share the different scores your suppliers are receiving according to their performance when  
+
+taking action to reduce emissions;
+
+•  Consider establishing a feedback mechanism to detail the benefits that your organization  is deriving  
+
+from suppliers’ low-carbon behavior to encourage their further investment  and commitment.
+
+Examples
+Braskem 
+Nike 
+Van der Stelt  
+Applicable to all companies 
+Applicable to all companies 
+
+A vertical approach to supplier engagement
+Sustainable Manufacturing & Sourcing Index
+The CO2 Performance Ladder
+GLEC Declaration
+Shippers and LSPs using SmartWay Data to inform  transportation  
+purchasing decisions
+
+Action 4.2 – Support suppliers and exert leadership
+
+Impact: Encourage suppliers to maintain and improve the emissions reduction efforts.
+
+Toolbox
+•  Design a process/tool to support LSPs and carriers with different levels of sophistication to  
+
+implement concrete actions for improvement in a systemic way, encouraging them to embrace all  
+organization processes instead of tackling them on a project basis.
+
+•  Support freight and logistics service providers in promoting continuous communication  and  
+
+collaboration between their procurement, supply chain and sustainability departments,  following  
+the activities started in Action 1.4 – Engage with suppliers.
+
+•  Support low-emissions road mapping by LSPs and carriers and provide guidance on their  
+
+assessment to help identify options for improvement.
+
+•  Recognize the actions and improvements that LSPs and carriers make to comply with  contractual  
+  GHG emissions reductions expectations, e.g., following the award scheme for  suppliers suggested  
+
+under Action 0.2 – Award scheme establishment.
+
+Examples
+A.P. Moller-Maersk Group 
+Braskem 
+
+Responsible Procurement Programme
+A vertical approach to supplier engagement
+
+DHL Global Forwarding 
+Home Depot  
+
+Johnson & Johnson 
+Multinational Shippers (China) 
+Nike 
+Port of Rotterdam 
+
+GoGreen rating scheme to evaluate air & ocean freight carriers
+Supply chain restructuring, bidding process rethinking,  carrier  
+rating, collaboration
+Using sustainability to strengthen carrier relationships
+Smart Transport Manager Training
+Sustainable Manufacturing & Sourcing Index
+Discounts on port dues for sustainable vessels
+
+Action 4.3 – Collaborate
+
+Impact: Implement concrete actions to achieve performance-based improvements.
+
+Toolbox
+•  Establish and maintain broader cooperation with supplier personnel at various levels: 
+
+•  The strongest drivers among suppliers are their internal sales and operations management  
+
+personnel. The implementation of an engagement plan to establish trustworthy relationships with  
+LSP and carrier employees beyond top management can further enhance collaboration on  
+incorporating environmental best practices throughout the logistics supply chain.
+
+•  We advise you to consider the different levels of sophistication of suppliers to properly approach the  
+
+cooperation strategy.
+
+•  Collaborate with freight and logistics service providers:
+
+•  Provide suppliers with clear feedback on their performance;
+•  Collaborate with suppliers on innovation, including through Green Freight Programs;21 
+•  Collaborate across the entire supply chain to reduce risks; good business relationships and supply  
+
+chain insights support managers in delivering a company's corporate social responsibility policy,  
+including GHG emissions reductions, which improves risk management.
+
+• 
+
+Implement joint strategic development plans with LSPs and carriers, following the contract defined  
+under Action 3.1 – Define the low-carbon-oriented contract:
+• 
+
+Identify and implement opportunities for future improvements and innovation with suppliers and  
+favor potential gain sharing;
+
+•  Recognize that small LSPs have more potential to perform joint development plans with  shippers,  
+
+as large LSPs generally have their own development plans for low-emissions freight;
+
+•  Consider providing unique grants or other financial support to launch low-emissions freight  solutions  
+
+by LSPs and collaboration on low-carbon freight projects. 
+
+Examples
+A.P. Moller-Maersk Group 
+Ford Motor Company 
+
+Home Depot   
+
+Jumbo   
+Unilever 
+Walmart 
+applicable to all companies 
+
+Responsible Procurement Programme
+Applying GEMI’s Quick Guide to Strategic Buyer/Supplier  
+Collaboration on Sustainability
+Supply chain restructuring, bidding process rethinking, carrier  
+rating, collaboration
+Collaboration between retailer, product suppliers and LSPs
+Responsible Sourcing Policy
+Ambitious fleet efficiency targets result in considerable savings
+FreightShare Lab’s asset sharing platform
+
+24
+
+25
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4  Company examples
+
+This chapter provides examples of companies implementing actions aligned with the guiding principles of the 
+SFP Guidelines.
+
+#  Company 
+
+Title
+
+The examples illustrate how the actions detailed in chapter 3 can lead to measurable emissions reductions 
+throughout the preliminary and the four procurement phases. Each example may be relevant to one or more 
+actions. We may enrich the list of examples in the future.
+
+4.1  Company examples – Overview
+
+Table 2 provides an overview of the examples that organizations are implementing or can implement.
+
+There are two categories:
+•  Company  specific,  i.e.,  examples  from  company  experience,  provided  by  the  companies  mentioned  or  
+
+drafted on the basis of publicly available information (no. 1-18);
+
+•  Examples  companies  are  implementing  or  can  implement  and  that  are  applicable  to  many  companies  
+
+(no. 19-22).
+
+We have highlighted the company-specific examples provided verbatim and/or signed off by the respective 
+company with an asterisk in square brackets next to the title. Whereas the Schneider example in this section 
+does not specifically focus on emissions reductions, the majority of contributing members found it useful as 
+a pertinent example of the different steps in building an effective RFQ, which is key to addressing emissions 
+reduction in the process.
+
+Table 2: Overview of company examples
+
+#  Company 
+
+Title
+
+A.P. Moller-Maersk Group 
+
+1 
+2  Braskem 
+3  DHL Global Forwarding 
+4  Dow Chemical 
+5 
+
+Ford Motor Company 
+
+Responsible Procurement Programme
+A vertical approach to supplier engagement
+GoGreen rating scheme to evaluate air & ocean freight carriers [*]
+Global Emissions Inventory (GEI) [*]
+Applying GEMI’s Quick Guide to Strategic Buyer/Supplier  
+Collaboration on Sustainability
+Boosting internal initiatives to achieve supply chain sustainability [*]
+IWAY Standard on Purchasing Products, Materials and Services
+Using sustainability to strengthen carrier relationships
+Collaboration between retailer, product suppliers and LSPs
+
+6  HEINEKEN 
+IKEA 
+7 
+Johnson & Johnson 
+8 
+9 
+Jumbo   
+10  Multinational Shippers (China)  Smart Transport Manager Training
+11  Nike 
+12  Philips   
+13  Port of Rotterdam 
+14  Schneider 
+15  Home Depot 
+
+Sustainable Manufacturing & Sourcing Index
+Case from SPLC Guidance for Leadership in Sustainable Purchasing 
+Discounts on port dues for sustainable vessels [*]
+How to create an effective transportation RFP
+Supply chain restructuring, bidding process rethinking, carrier 
+rating, collaboration
+Responsible Sourcing Policy [*]
+
+16  Unilever 
+
+26
+
+17  Van der Stelt 
+18  Walmart 
+19  Applicable to many companies  FreightShare Lab’s asset sharing platform
+20  Applicable to many companies  GLEC Declaration
+21  Applicable to many companies 
+
+The CO2 Performance Ladder [*]
+ Ambitious fleet efficiency targets result in considerable savings
+
+Shippers and LSPs using SmartWay data to inform  transportation  
+purchasing decisions
+
+22  Applicable to many companies  SmartWay's RFP specification
+
+4.2  Company-specific examples
+
+A.P. Moller-Maersk Group – Responsible Procurement Programme22
+
+As part of its main Sustainability Strategy 2014-2018, A.P. Moller-Maersk Group put in place mandatory 
+programs to ensure compliance with minimum standards for anti-corruption, responsible procurement 
+and global labor principles. It established a six-step process to evaluate suppliers: qualification, 
+tender, workshops, negotiations, implementation and supplier relationship management. The company 
+gives preference to suppliers based on quality and price and those who share the group’s commitment 
+to conducting business in an ethically, environmentally and socially responsible manner. It expects 
+suppliers to make continuous improvements and to have similar rules for their own suppliers. To 
+prioritize resources and achieve maximum impact, the program has a focused approach based on 
+high-risk categories. The category guides act as a blueprint for carrying out supplier due-diligence. 
+Included among high-risk categories are: trucking/intermodal, warehousing services, terminals, 
+shipbuilding yards/drydocks, container manufacturers and manning – seafarers. Specific category 
+guides and supplier evaluation questionnaires are available as well.
+
+The case for GHG emissions reductions: The company established the Responsible Procurement 
+Programme to promote continuous improvements in its supply chain.  
+
+Some suppliers may be in a better position to easily adopt good business practices in the areas of 
+human rights, labor, environment and anticorruption than others. Nevertheless, what is important to 
+the group is that suppliers show commitment to including the main principles of the code in their own 
+operations and across their supply chains, including environmental principles, in some instances 
+geared to GHG emissions reductions.
+
+Impacts/lessons learned: Over a longer period, the practice of evaluating suppliers with the six-step 
+process will enable Maersk to rate suppliers across defined risk categories. The group expects 
+long-term suppliers to have management systems in place to ensure compliance with the Group 
+Third Party Code and to proactively extend these principles within their own supply chain, further 
+extending the reach of environmental action.
+
+27
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+Braskem – A vertical approach to supplier engagement23
+
+Braskem has adopted a comprehensive and integrated strategy across both its own operations and its 
+value chain to address climate change. Recognizing the role that suppliers play in mitigating and 
+managing climate risks and opportunities, the company has decided to take a vertical approach to 
+engagement. Braskem begins by assessing engagement and awareness levels among its suppliers 
+and rates them at different levels. Braskem supports them through targeted workshops, which vary 
+depending on their level of engagement. These workshops improve supplier awareness and provide 
+them with training and the dissemination of best practices, as well as technical support in identifying 
+opportunities to reduce emissions and costs. Furthermore, all suppliers receive feedback on an 
+annual basis, allowing them to identify actions for further progress.
+
+The case for GHG emissions reductions: With this approach to supplier engagement, Braskem has 
+achieved a voluntary and steady improvement in supplier performance in key areas, such as setting 
+up GHG emissions inventories, defining reduction targets, and identifying opportunities and risks 
+associated with their business. As a result, Braskem reports nearly 44% of its scope 3 emissions.
+
+Impacts/lessons learned: The Braskem approach to supplier engagement has allowed the company 
+to achieve voluntary and steady improvement in supplier performance in key areas. The feedback sent 
+to suppliers on an annual basis allows them to identify actions for further progress. Additionally, 
+Braskem has been able to start analyzing the opportunities and risks communicated to the company 
+by suppliers, which will inform its future engagement strategy. In light of this success, the company 
+has subsequently launched the same engagement process targeting suppliers operating in water- 
+stressed regions, offering more targeted support for water resource management strategies.
+
+DHL Global Forwarding – GoGreen rating scheme to evaluate air &  
+
+                                ocean freight carriers [*]
+
+The GoGreen carrier rating is an integral part of DHL Global Forwarding’s overall carrier evaluation 
+process by which the environmental sustainability of carriers is determined. An above average rating 
+is an essential element to obtain “preferred carrier” status by DHL Global Forwarding. Carriers are 
+rated along the following four categories: 
+•  Sustainable management: sustainability strategy, policies, training and emissions reporting are in place;
+•  Transparency: the provision of “credible” carbon efficiency data on different levels of granularity;
+•  Carbon efficiency: significant share of DHL volumes needs to be shipped with better than average  
+
+gCO2e per transported kilometer;
+
+•  Sustainable innovation and development: decarbonization strategy, technology and fuel pilots in place.
+
+Carriers are invited to provide qualitative information via a standardized survey. Quantitative data 
+(CO2e efficiency) is provided by the individual carrier and matched with the company’s shipment 
+profiles and data. After an assessment of the data provided, carriers receive a points-based rating in 
+each of the four categories. The evaluation criteria of each category are adjusted yearly to better 
+reflect the ever-changing industry status and any possible future development needs. Via a separate 
+Evaluation Factsheet, detailed scores and benchmarking are shared with the carrier on a regular 
+basis and discussed bilaterally. Carriers are expected to continuously improve their performance and 
+strive for maximum scores.
+
+Additionally, carriers are provided with a GoGreen Carrier Certificate recognizing the carrier’s efforts 
+and performance once a year in December. If the performance requirements of a category are  
+fulfilled, the carrier is awarded with a green aircraft/vessel. 
+
+The case for GHG emissions reductions: Carrier evaluation insights are used to optimize the  
+environmental supply chain performance of DHL Global Forwarding’s customers. Carrier and routing 
+
+selection represent important levers for optimizing the carbon efficiency of supply chains. To make an 
+informed decision, shippers need transparency across different transport options. Selecting a more 
+efficient solution does not necessarily result in higher expenses; however, it can affect lead times and 
+air and marine ports of loading and discharge. Most tenders still primarily have a commercial focus 
+within a narrower scope. The company therefore recommends analyzing and discussing options to 
+reduce emissions in the supply chain beyond the tender process and, ideally, within a holistic scope. 
+
+Impacts/lessons learned: The GoGreen rating scheme provides carriers with a better understanding 
+of DHL Global Forwarding’s expectations and how they can contribute to Group Mission 2050 – Zero 
+Emissions. At the same time, the rating insights enable DHL Global Forwarding to support shippers 
+by helping them optimize the carbon footprint of their own supply chains.
+
+Dow Chemical – Global Emissions Inventory (GEI)24 [*]
+
+Dow has a corporate database called the Global Emissions Inventory (GEI). The emitting businesses 
+track and record their emissions in the GEI, the central database that is used as the basis for regional 
+and global reports of emissions. Each facility has an environment, health and safety focal point 
+responsible for collecting and reporting all waste and emissions data. The GEI tracks Scope 1 GHG 
+emissions coming from the manufacturing processes, which include power plants (cogeneration), 
+crackers, smelters, flares, etc. Dow’s Scope 2 GHG emissions come from purchased power. Dow’s 
+emissions are divided by Scope 1 GHG emissions, 74.5%; and Scope 2 GHG emissions, 25.5%. Dow 
+manages the reporting and cost of emissions with the joint objectives of minimizing the cost of 
+emissions and maximizing the profitability of the company over the long term. There are two types of 
+work performed to achieve these objectives: 
+•  The Energy and Climate Change business, led by a global business director and through  regional  
+directors and their organizations, both purchases and trades any required allowances for these  
+emissions, and considers the cost of carbon in the production and acquisition of steam and power  
+for the company. This includes developing long-term projections of the cost of carbon at each of its  
+production locations globally;
+In addition, the global carbon management director and team are responsible for developing an  
+optimized list of projects to reduce carbon emissions and to increase efficiency and to ensure the  
+present and future cost of carbon is included in all capital investment and maintenance decisions.
+
+• 
+
+Dow tracks progress in reducing emissions through three specific goals as part of its 2025  
+Sustainability Goals:
+I)  Dow will obtain 750 MW of its power demand from renewable sources by 2025;
+II)  Though Dow will grow globally over the next 10 years, Dow’s absolute greenhouse gas emissions  
+  will not exceed the 2006 baseline;
+III) Dow will grow but offset emissions of priority compounds, volatile organic compounds and  
+
+nitrogen oxides.
+
+The case for GHG emissions reductions: Dow is well on track to meet these goals. The company has 
+long-term contracts to procure clean energy in the United States, Latin America and Europe.  
+Approximately 9.5% of purchased electricity is from renewable sources. Similarly, its new plants have 
+significantly improved efficiency, enabling them to increase sales significantly with stable emissions.
+
+Impacts/lessons learned: The integrated central management approach for reporting greenhouse 
+gas emissions and their cost allows Dow to minimize the cost of emissions while maximizing the 
+profitability of the company over the long term.
+
+28
+
+29
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ford Motor Company – Applying GEMI’s Quick Guide to Strategic Buyer/ 
+
+                           Supplier Collaboration on Sustainability25
+
+Ford Motor Company has a strategy to reduce the environmental impacts from its operations and is 
+working to promote similar commitments with suppliers and across the automotive industry through 
+its Partnership for A Cleaner Environment (PACE). PACE enables Ford to share details on best 
+practices related to the use of water and energy and on carbon dioxide emissions reductions. Through 
+PACE, Ford has already implemented such best practices with 50 of its suppliers. The company asks 
+suppliers to create a roadmap to improve their environmental performance, collect baseline environ-
+mental data, implement successful practices, measure performance improvements, and share best 
+practices. Ford periodically updates and shares best practices among suppliers and its own facilities.
+
+One of the ways Ford engages with its key strategic suppliers is through the Aligned Business 
+Framework. This dialogue helps to drive quality and innovation, identify operational synergies and 
+encourages collaboration in areas such as ethical business practices, working conditions and 
+responsible sourcing. For these suppliers, Ford has established a three-stage process to manage and 
+verify compliance with sustainability measures: (i) the supplier has a code of conduct that aligns with 
+Ford Policy Letter 24 on Human Rights, Basic Working Conditions, and Corporate Responsibility; 
+(ii) the supplier provides internal training to ensure its employees understand and comply with the 
+code of conduct and Ford validates the processes to ensure ongoing alignment; (iii) the supplier 
+verifies that its own suppliers are compliant with the shared standards and expectations.
+
+The case for GHG emissions reductions: Ford liaises with its suppliers and with wider industry 
+partners to reduce the environmental impacts not just of its supply chain but of the automotive 
+industry as a whole.
+
+Impacts/lessons learned: To offer value and to reduce its footprint in the long run, Ford is managing 
+the impacts of its products across their life cycle.
+
+HEINEKEN – Boosting internal initiatives to achieve supply chain sustainability [*]
+
+The carbon reduction ambition of the company is driven by management and it is cascading to all 
+teams by two main initiatives:
+•  Linking personal targets to sustainability. All logistics-related buyers have the target to have three 
+projects related to sustainability. There are a few standard projects (e.g., increasing the usage of  
+telematics by carriers). A local team can identify and do its own projects and the global functions  
+have the overview to ensure that they can select best practices that can be considered for  
+implementation in other regions as well.
+
+•  Motivating via internal competition. The company has established a Supply Chain Implementation  
+  Award, for which different efficiency or sustainability topics are selected every year. The Global  
+  Supply Chain department organizes the related events and relevant regional or local teams have  
+the opportunity to submit projects that are interesting and impactful. Then the jury selects the  
+best submissions, and these are invited to the final competition event where the finalists have  
+the opportunity to showcase and present their projects to the other finalists and to the top  
+  management (including the CEO). The winning team will have dinner with the top management.
+
+The case for GHG emissions reductions: The personnel is encouraged to undertake initiatives to 
+improve supply chain sustainability. These include GHG emissions reductions.
+
+Impacts/lessons learned: The initiatives have motivated the personnel to include sustainability –  
+including GHG emissions reductions – in their daily activities, as this impacts their personal targets. 
+Furthermore, local teams are motivated via competition. The Supply Chain Implementation Award 
+also allows the company to show the commitment of the top management.
+
+IKEA – IWAY Standard on Purchasing Products, Materials and Services26
+
+IWAY is the IKEA code of conduct, first introduced in 2000. It specifies the requirements, including 
+some specific to emissions, placed on product and service suppliers and details benefits they can 
+expect in return from IKEA. In addition to the main document, there are several industry-specific 
+supplements and a special code of conduct for child labor; there is also a specific transport section, 
+which details requirements for all services (road, rail, ocean, customer distribution including home 
+delivery, shunting, barge and consolidation points) involved in transporting IKEA products. IWAY is 
+based on eight core conventions defined in the Fundamental Principles of Rights at Work, the United 
+Nations International Labour Organization declaration of June 1998, the Rio Declaration on Sustainable 
+Development of 1992, The UN Johannesburg Summit on Sustainable Development and the Ten 
+Principles of the UN Global Compact of 2000.
+
+The steps for procuring supplier services are: (i) start-up requirements must be complied with before 
+signing a business contract; (ii) the IKEA supplier shall acknowledge and accept the IWAY requirements 
+by signing the IWAY Compliance Commitment document; (iii) the IKEA supplier shall appoint one or 
+several persons who shall have defined responsibilities and the authority to ensure compliance with 
+requirements; (iv) the IKEA supplier shall communicate the IWAY requirements to all workers and 
+sub-suppliers and ask the latter to accept it in writing.
+
+The case for GHG emissions reductions: By specifying the requirements for suppliers, with a focus 
+on transport, IWAY pushes suppliers to adopt CO2 emissions reductions programs and practical 
+actions and/or plans to reduce environmental impacts related to their own facilities.
+
+Impacts/lessons learned: IWAY creates a common approach to procurement for the IKEA Group, 
+applying high standards to all services and materials sourced. This includes exploring ways to work 
+with circular procurement models to save materials, increasing the share of renewable, recyclable or 
+recycled materials in the non-home furnishing range, working with suppliers to ensure compliance 
+with the IWAY supplier code of conduct, and developing a sustainable approach for food, including 
+animal welfare standards. It sets specific requirements for ocean transport, land transport and 
+consolidation points; suppliers have to update and submit related surveys to IKEA annually.
+
+Johnson & Johnson – Using sustainability to strengthen carrier relationships27 
+
+The Johnson & Johnson logistics operation in North America has a long track record of attracting 
+carriers that share the company’s commitment to customer service, efficiency and sustainable 
+transportation. This includes the United States Environmental Protection Agency’s (US EPA)  
+SmartWay  Transport Partnership, a public-private initiative between the EPA and the freight  
+transportation industry aimed at improving efficiency and sustainability. Johnson & Johnson has 
+been a SmartWay partner since 2005 and works exclusively with freight carriers that participate  
+in the program.
+
+Johnson & Johnson has several initiatives to back up that commitment:
+•  The logistics incentive order program incentivizes customers to place orders in quantities that  
+
+legally optimize space use on trailers, which reduces the number of deliveries and makes it more  
+efficient to schedule, load and unload goods. These financial and service-oriented incentives are  
+available to all customers that meet a certain order and volume threshold. Furthermore, the  
+company also promotes reductions in idle time and faster turnaround times at distribution centers  
+by scheduling deliveries, allowing dropped trailers and, where available, offering shore-power  
+electrical connections for trucks. 
+
+30
+
+31
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+•  Dedicated trucks operate as a regional fleet for a distribution center in the northeastern US.  
+The company has precisely matched its truck specifications to the characteristics of the load,  
+using day cabs instead of sleepers. 
+
+•  A modal shift in North America has allowed the company to shift approximately 700 shipments on five  
+lanes from truckload to intermodal transport; and in 2017 it improved intermodal use from 69% to 78%.
+•  The exclusive use of 50 SmartWay carriers in its North American logistics operations ensures that  
+
+the company measures, benchmarks and shares fuel use and emissions.
+
+The case for GHG emissions reductions: The optimization of deliveries, the use of trucks, promoting 
+modal shifts and the use of carriers that are able to measure their performance have allowed John-
+son & Johnson to double its miles-per-gallon fuel savings throughout its logistics operations in North 
+America. Consequently, GHG emissions from the Johnson & Johnson supply chain have decreased.
+
+Impacts/lessons learned: 
+•  The financial and service-oriented incentives enable customers to improve truck space use and  
+
+reduce the number of deliveries.
+
+•  The use of dedicated trucks matched with specific loads had allowed savings of about 5,000  
+
+pounds of tare weight per truck and another four to five pallets of payload per trip compared to the  
+tractor-trailers the company used previously.
+
+•  The mode-shifting initiative has doubled miles-per-gallon fuel savings (6.3 miles per gallon for  
+truckload vs. 12 miles per gallon for intermodal), removed 420 trucks from the road, and kept  
+truckload capacity free for other lanes.
+
+•  The exclusive use of SmartWay carriers gives Johnson & Johnson the possibility to evaluate  
+carriers’ performance. Furthermore, it gives the company opportunities to collaborate with  
+carriers and customers on more efficient and sustainable transportation practices.
+
+Multinational Shippers (China) – Smart Transport Manager Training30 
+
+Four Multinational Shippers (IKEA, Heineken, H&M and Walmart) in China defined their long-term 
+sustainability strategy to include GHG emissions reductions throughout the entire supply chain.  
+They requested that the transport managers from several of their key carriers attend Smart  
+Transport Manager Training. Carriers’ transport managers play key roles in the operations of road 
+freight operators as they look after the operation’s resources and are responsible for safety, compliance 
+and customer service, as well as for maximizing resource use and reducing operating costs. 
+
+Smart Transport Manager Training, a training course offered by the SFC, equips transport managers 
+with the skills and expertise they need to develop a robust, credible and effective action plan to increase 
+fleet fuel efficiency. The action plan is based on the five principles of efficient truck fleet management: 
+1.  Fuel management – managing your fuel use;
+2.  Driver and staff skills – develop skills and motivate drivers and staff;
+3.  Vehicles and maintenance – optimize vehicle specifications, operations and maintenance;
+4.  Performance monitoring – continuously monitor and improve your truck fleet’s performance;
+5.  Information technology – use the right information technology efficiently.
+
+The case for GHG emissions reductions: By raising awareness of the holistic approach to fleet fuel 
+efficiency, carriers typically reduce fuel consumption by a minimum of 5% per tonne kilometer, which 
+reduces the carrier’s Scope 1 GHG emissions and the shipper’s Scope 3 emissions. 
+
+Impacts/lessons learned: Trained transport managers who prepare an action plan during the Smart 
+Transport Manager Training will start implementing it by themselves or seek follow up support to 
+work on specific activities, such as eco-driver training or implementing new technologies.
+
+Jumbo – Collaboration between retailer, product suppliers and LSPs29
+
+Nike’s Sustainable Manufacturing & Sourcing Index31 
+
+In 2015, Dutch retailer giant Jumbo, five product suppliers (SCA Hygiene, Heinz, FrieslandCampina, 
+Hero Benelux and Refresco) and logistics service provider Nabuurs decided to focus on CO2 reductions 
+and a more responsive supply chain as a common goal. They understood the everyday challenge that 
+Jumbo was facing when getting products to shops and consumers across the Netherlands using 
+hundreds of carriers. Suppliers transported products from different brands separately to Jumbo's 
+distribution center in Woerden, only for trucks to then return empty. The five product suppliers  
+and Nabuurs arranged to bundle orders for Jumbo in shared trucks and avoid empty running on 
+freight backhauls. 
+
+The case for GHG emissions reductions: Their actions paid off: 40% fewer supplies stacked at  
+the distribution center; 40% fewer deliveries; 30% higher truck load factors; 35% fewer transport 
+kilometers; and 35% lower carbon footprint. This has translated into cost savings for all partners. 
+While these have not been the same for each, everyone has benefitted in some way, at the very least 
+by contributing to a greener and more responsive supply chain and being able to position themselves 
+as a supply chain partner striving for excellence in logistics.
+
+Impacts/lessons learned: Logistics supply chains involve several stakeholders. Collaboration among 
+them is key to accelerating the decarbonization of the sector.
+
+Part of Nike’s growth strategy is to seek partners who are developing agile and resilient management 
+systems to drive sustainable business growth by minimizing their environmental impacts, fostering  
+a strong culture of safety and developing an engaged and valued workforce. In 2012, Nike launched  
+its Sustainable Manufacturing and Sourcing Index, a system combining factory ratings for lean 
+manufacturing and human resource management, and health, safety and the environment. Nike’s 
+sourcing strategy prioritizes and favors suppliers who show demonstrable leadership in corporate 
+responsibility and sustainability and who seek to move beyond minimum sustainability standards.
+
+Nike measures contract factory performance through the index and works only with factories  
+achieving at least the bronze level. Reaching a bronze rating demonstrates baseline factory  
+compliance with Nike’s Code of Conduct and Code Leadership Standards, which the company  
+designed to respect the rights of workers and create a safe working environment. 
+
+Nike monitors and audits supplier compliance (for finished goods) through its Factory Compliance 
+Ownership Program, which is based on the company’s Code of Conduct and Code Leadership Standards. 
+Internal and accredited third parties, including the Fair Labor Association (a neutral industry body) 
+and assessments by Better Work – a joint initiative of the United Nations International Labor Organization 
+and the International Finance Corporation, a member of the World Bank Group – conduct regular 
+announced and unannounced audits. Suppliers with higher compliance ratings receive contractual 
+preference. When a supplier does not reach the bronze rating, Nike works with factory managers to 
+ensure that they take corrective actions. A supplier that fails to remedy the issues identified is subject 
+to review and sanctions, including potential termination of the supply agreement. As a requirement 
+for working with Nike, factories must comply with Nike’s Code of Conduct and Code Leadership 
+Standards, which align with International Labor Organization standards. 
+
+32
+
+33
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The case for GHG emissions reductions: Nike seeks partners with management systems that enable 
+them to minimize the environmental impact of their activities. Nike’s Sustainable Manufacturing and 
+Sourcing Index allows it to rate suppliers according to their level of commitment to corporate respon-
+sibility and sustainable practices, giving precedence in contract decisions to those that would result 
+in decreased emissions.
+
+Impacts/lessons learned: The Sustainable Manufacturing and Sourcing Index gives environmental 
+and human resource management performance equal weight alongside business metrics in Nike 
+sourcing, increases transparency to reduce non-compliant practices, and creates targets and 
+incentives for suppliers to go well beyond compliance.
+
+Philips – Case from SPLC Guidance for Leadership in Sustainable Purchasing32 
+
+Philips invests in improving operations and achieving its sustainability goals with innovative strategies 
+that require a new way of doing business, moving away from the traditional linear economy towards  
+a holistic and circular one. In 2015, the company’s Procurement and Sustainability groups worked 
+together to develop a strategy to achieve carbon neutrality, a commitment the company made as part 
+of the 21st Conference of the Parties to the United Nations Framework Convention on Climate Change. 
+The strategy includes energy efficiency initiatives, the deployment of onsite renewable resources, the 
+purchase of renewable energy credits, and the purchase of a long-term power purchase agreement. 
+Philips undertook the process to develop its cross-functional strategy to carbon neutrality, along with 
+an analysis of power purchase agreement benefits and the business case.
+
+The case for GHG emissions reductions: The strategy includes energy efficiency initiatives, the 
+deployment of onsite renewable resources, the purchase of renewable energy credits, and the 
+establishment of a long-term power purchase agreement, which will allow the company to achieve 
+carbon-neutral operations in the US and reduce its global carbon footprint by 8.3%. 
+
+Impacts/lessons learned: Already a leader in sustainability, the Philips power purchase agreement 
+has helped the company take a leap forward in reducing the impact of its North American operations. 
+Though not specific to transport and Scope 3 emissions, the company’s cross-functional carbon 
+reduction strategy is a good example.
+
+•  The use of dedicated trucks matched with specific loads had allowed savings of about 5,000  
+
+pounds of tare weight per truck and another four to five pallets of payload per trip compared to  
+the tractor-trailers the company used previously.
+
+•  The mode-shifting initiative has doubled miles-per-gallon fuel savings (6.3 miles per gallon for  
+truckload vs. 12 miles per gallon for intermodal), removed 420 trucks from the road, and kept  
+truckload capacity free for other lanes.
+
+•  The exclusive use of SmartWay carriers gives Johnson & Johnson the possibility to evaluate  
+carriers’ performance. Furthermore, it gives the company opportunities to collaborate with  
+carriers and customers on more efficient and sustainable transportation practices.
+
+Port of Rotterdam – Discounts on port dues for sustainable vessels33 [*] 
+
+The Port of Rotterdam Authority offers several discount options on port dues. Vessels that regularly 
+visit the Port of Rotterdam or handle a large amount of cargo are rewarded, but sustainable vessels 
+are eligible for a specific incentive scheme. In particular, the following discounts on port dues may 
+apply to sustainable vessels:34 
+
+•  Seagoing LNG tankers, chemicals/gas tankers and oil/product tankers provided with a Green  
+  Award Certificate qualify for a 15% discount on port dues related to gross tonnage size. The Green  
+  Award35 is a voluntary quality assessment certification scheme; the certificate is issued by the  
+
+independent Green Award Foundation to vessels and shipping companies that have made additional  
+investments in the vessel and crew in order to improve environmental performance, safety and  
+quality. The Green Award system also applies to a wide range of inland vessels. Certification is  
+based on the environmental performance of the engines, various other energy saving equipment,  
+environmental management and safety. Inland vessels with a Green Award certificate qualify for  
+a discount of up to 100% on port dues.
+
+•  Seagoing Vessels that score 31.0 points or more on the Environmental Ship Index (ESI),36 as 
+
+administrated by the International Association of Ports and Harbors (IAPH)37 qualify for a 10%  
+discount on port dues related to gross tonnage size already paid. If the vessel also has an individual  
+
+  ESI nitrogen oxide score of 31.0 points or more, the discount will be doubled. The ESI identifies  
+
+seagoing ships that perform better in reducing air emissions than required by the current emissions  
+standards of the International Maritime Organization; in particular, it evaluates the amount of  
+nitrogen oxide and sulphur oxide that is emitted by a ship and includes a reporting scheme on the  
+greenhouse gas emission of the ship. 
+
+The case for GHG emissions reductions: Both the Green Award certificate and the ESI act as indica-
+tors of the environmental performance of vessels. They are quality marks and can bring benefits to 
+their holders. The Port of Rotterdam Authority rewards vessels that hold the certificate and/or have a 
+good ESI indicator, thereby encouraging more sustainable behavior in the shipping industry.
+
+Impacts/lessons learned: The discount scheme used by the Port of Rotterdam allows the rewarding 
+of ships that have a reduced environmental impact and enables the promotion of cleaner ships. Both 
+the Green Award certificate and the ESI score can also be used by shippers and ship owners as their 
+own promotional instrument. 
+
+Schneider38 – How to create an effective transportation RFP39
+
+A request for proposal (RFP) is the formal call for a carrier to answer a shipper’s business needs 
+once the shipper has chosen a select group to consider for hire. Carriers’ completed proposals 
+provide the opportunity to compare information on a level basis across all submissions. During the 
+process, shippers can narrow down potential carriers to hire to those who will best execute the work. 
+Before compiling the necessary questions and statistics to create an RFP, the shipper makes decisions 
+for components that will affect the final proposal and impact how a carrier crafts its response:
+•  Determine the number of bid rounds;
+• 
+•  Decide the bid/price duration – best practice is a two-year bid term with annual escalation;
+• 
+
+If packaging or bundling lanes, determine in advance how to evaluate this in the bid process;
+
+If splitting bids, implement annual price-adjustment processes for the freight on which your  
+carriers are about to bid;
+
+•  Establish whether to adjust bid rates to value incumbency.
+
+After making these decisions, the shipper can create the RFP. In order to allow carriers to provide the 
+most accurate and comprehensive overview of their capabilities, the RFP should ask for both qualitative 
+and quantitative information: 
+•  Qualitative, to allow carriers to report the details of their expertise and business, often in  
+
+fill-in-the-blank or short-answer formats. Guidelines:
+I)  Create clear, streamlined questions and avoid repetition;
+II) 
+
+Include adequate space for respondents to provide context or add additional information to a  
+numerical answer – numbers do not always tell a complete story;
+
+III)  Format the RFP so that the carrier provides accurate scores and data – outdated formats may  
+
+inhibit the correct reporting of data;
+
+34
+
+35
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IV)  Limit financial questions, as most carriers are unable to answer them due to privacy  
+
+restrictions;
+Consider creating the RFP in Excel for easy data input and tracking.
+
+V) 
+
+•  Quantitative, aiming to provide as many details as possible in order to enable the carriers to  
+
+prepare an accurate proposal. Guidelines are:
+I) 
+
+Pay attention to the details, as the shipper needs to see a clear and accurate picture of the  
+carrier’s capabilities. The carrier’s expertise in the industry, portfolio of services,  
+cultural fit, network and technology use are just a few components to help shippers  
+make the right choice;
+Provide details regarding origin-destination pairings (ZIP/postal codes, states/provinces,  
+regions, freight volume between destination points on each lane;
+Include detailed freight characteristics (e.g., drop and hook);
+
+III) 
+IV)  Describe any seasonality/variability and take into account whether there will first be  
+
+II) 
+
+negotiations with incumbents or if it will be a one-bid round, with key lane negotiations  
+among incumbents;
+List any ancillary requirements (e.g., top-off, trailer detention);
+Identify who is the shipper and who is the consignee;
+Include bid-to-implementation duration and objectives between the shipper and carrier;
+
+V) 
+VI) 
+VII) 
+VIII)  Be prepared to select 2 to 5 alternative carriers as a backup to the primary carrier;
+IX)  Consider creating the RFP in Excel for easy and consistent data input and tracking.
+
+The case for GHG emissions reductions: Reliable and complete upfront information provided in the 
+RFP can help the carrier determine whether the potential business will be the correct fit, mitigating 
+the risk of winning the business and later realizing it is not the right opportunity and/or operating it 
+inefficiently. Inefficiencies in the supply chain exercise can have a negative impact on GHG emissions 
+(e.g., unoptimized deliveries, increased number of needed trips, inefficient use of trucks).
+
+Impacts/lessons learned: To get the most accurate and effective bid from carriers, it is important to 
+have a user-friendly and informative RFP. Thoroughly creating and detailing the RFP at the onset of 
+the process will save shippers time once the carriers return the proposals for consideration. With 
+clear expectations set up front, it will be easier to both eliminate carriers who do not meet the basic 
+requirements of the RFP and spot the ones that are indeed viable candidates.
+
+Home Depot – Supply chain restructuring, bidding process rethinking,  
+
+         carrier rating, collaboration40
+
+Home Depot, a home improvement supplies retailing company41 based in the United States (US), 
+favors a balance between performance and cost when selecting carriers. For the past several years, 
+the company has been revising its approach to the supply chain to better support its retail operations, 
+with three main actions:
+•  Centralized supply chain: More than 10 years ago, the company took transportation responsibilities  
+away from regional offices and centralized them at Home Depot’s headquarters in Atlanta, Canada  
+and Mexico. Prior to centralization, 30% of Home Depot’s freight went through the distribution  
+supply chain and 70% went direct to stores; centralization has led to a reversal in those numbers.  
+In the US, Home Depot operates over 60 distribution centers across the country.42 Moving products  
+between those distribution centers and more than 2,000 US locations requires Home Depot to use  
+
+  multiple forms of transportation: Home Depot does not own its own trucks, but each distribution  
+
+center has a dedicated fleet run by dedicated carriers on three-year contracts. Likewise, it puts its  
+less-than-truckload (LTL) contracts out for bidding every two years. The length of those contracts  
+and the way Home Depot is managing its national trucking and intermodal bids for over-the-road  
+(OTR) shipping is changing the relationship between carrier and customer.
+
+•  Rethinking the bidding process: In 2009, during the recession, declining retail sales slowed activity  
+along transportation lines. As trucking companies had an abundance of capacity and few expiring  
+contracts, Home Depot began to aggressively bid out its trucking rates against the evergreen  
+prices carriers had long held. Carriers needed work and accepted the new, lower rates, but when  
+the economy began rebounding in 2010 those carriers came back to Home Depot looking to raise  
+prices even though the new contracts were still in place. Home Depot held firm at first, but soon  
+its tender (load) acceptance began to go down: therefore, the rate per mile increased because  
+carriers were not accepting Home Depot’s loads, causing many of those loads to move at spot  
+rates. Home Depot responded by quickly adjusting rates for carriers, but the experience made the  
+retailer realize it needed a more standardized process for setting OTR shipping costs. In 2011,  
+  Home Depot held its first national bid for a one-year OTR shipping contract. For the past five years,  
+  Home Depot has rebid approximately 80% of its expiring OTR trucking and intermodal contracts.  
+Incumbent carriers retained the 20% not bid at a neutral rate. This practice allows strong performing  
+carriers to hold on to lanes that are critical parts of their network. Home Depot typically favors  
+asset-owning carriers because it wants to spend money on companies that are investing in their  
+own trucks and drivers: asset-owning carriers handle more than 95% of Home Depot’s overall  
+
+  OTR shipping.
+•  Rating carriers: In order to have a strong understanding of how each transportation partner and  
+how the network as a whole have performed, Home Depot has developed the Carrier Rack and  
+
+  Stack program, a scorecard that rates the performance of all the carriers in its network. The  
+company shares those scorecards with carriers on a weekly basis, showing how the carrier  
+performed that week, in four-week, twelve-week and year-to-date periods against all other  
+transportation providers in the network. Home Depot factors that annual performance into the  
+following year’s bid to choose transportation providers. Based on where the carriers rank, Home  
+
+  Depot artificially inflates the carrier’s rates entered into the biding tool. The reasoning is that a  
+low-performing carrier will actually cost more than a top performing one and accounting for  
+carrier service in the bid helps Home Depot determine the true cost of its contracted rates.  
+The end-process rewards carriers based on a combination of performance, rates and a carrier’s  
+  SmartWay ranking, which encourages the carriers to reduce emissions and support the environment.  
+  Home Depot also uses the scorecards to make service adjustments based on quarterly  
+
+performance reviews.
+
+Furthermore, Home Depot has recognized the importance of collaboration along the supply chain. 
+After transforming how it approaches its transportation contracts, it continues to work with carriers 
+to improve efficiency in its supply chain and capacity by employing supply chain synchronization 
+where freight orders coincide with selling store patterns. This synchronization results in steadier 
+week-over-week shipping and reduces lead times. 
+
+Home Depot is conscious of the difficult work/life balance many truckers experience and is responding 
+by improving efficiencies across its carrier base. This leads to happy drivers who want to run loads for 
+the company. The goal of those efforts is for drivers to make Home Depot a higher priority in shipping. 
+
+The case for GHG emissions reductions: The general restructuring of the supply chain and the bidding 
+process, and the consequent introduction of the carrier rating system, have allowed the company to 
+acquire better knowledge and control of its supply chain. The influence of the new carrier rating system 
+in the selection process allows for the rewarding of carriers based on a combination of performance, 
+rates and its SmartWay ranking, a United States Environmental Protection Agency (US EPA) rating that 
+encourages transportation companies to reduce emissions and support the environment.
+
+Impacts/lessons learned: 
+•  The length of the contracts with shippers and the way Home Depot is managing its national trucking  
+and intermodal bids for OTR shipping is changing the relationship between carrierand customer.
+•  Home Depot has set up a more standardized process for setting OTR shipping costs, holding  
+
+national bids for a one-year OTR shipping contract.
+
+36
+
+37
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+•  Rebidding all of the national carrier contracts each year requires a strong understanding of how  
+
+each transportation partner and the network as a whole have performed. A carrier rating system  
+facilitates this process and makes the selection of best performing carriers easier, including those  
+committed to emissions reductions.
+
+takes measures to reduce the carbon footprint of the project that is awarded to the company by means of 
+the CO2 Performance Ladder. The company remains in dialogue with the water authority to ensure 
+effective CO2 reduction measures are taken. Both Van der Stelt and the commissioning party are 
+investigating various measures to keep the carbon emissions of this project at a minimum.
+
+•  The 12-month bid process allows Home Depot and its carriers to reset based on market conditions  
+and network changes. The process has also encouraged carriers to follow through with their  
+commitments: once the new lanes and rates are set, Home Depot sustains approximately 98% of  
+the volume locked-in during the following 12 months. Further, resetting those contracts annually  
+gives Home Depot an opportunity to adjust its lanes and commitment levels to improve capacity. 
+
+Unilever – Responsible Sourcing Policy43 [*]
+
+Unilever’s Responsible Sourcing Policy (RSP) aims to enable Unilever to work together with suppliers to 
+establish sustainable supply chains. This ambition is also at the core of the Unilever Sustainable Living 
+Plan (USLP), based on 12 fundamental principles anchored in internationally recognized standards (i.e., 
+UN Guiding Principles on Business and Human Rights; International Bill of Human Rights; International 
+Labor Organization’s Declaration on Fundamental Principles and Rights at work).
+
+The RSP includes a set of mandatory requirements that all the suppliers need to meet in order to  
+be able to do business with Unilever. RSP supports the implementation of the Unilever Supplier 
+Qualification System (USQS44) for all suppliers of products and services to Unilever. When invited to 
+register in USQS, suppliers are assessed against the principles detailed in the RSP. Unilever verifies 
+alignment with and the implementation of the policy’s mandatory requirements through the use of 
+supplier self-declaration, online assessments and – for designated high-risk countries and supplier 
+types – independent verification including third-party audits. A three-step process is established: 
+implementing mandatory requirements relevant to the fundamental principles and applying to all the 
+suppliers in a Unilever supply chain; advancing to good practice; achieving and maintaining best 
+practices. Suppliers are also encouraged to move from the mandatory requirements to best practices.
+
+The case for GHG emissions reductions: The RSP embodies the way that Unilever seeks to operate in 
+addition to the standards it expects of its suppliers. This can also be used to push GHG emissions 
+reductions along the supply chain.
+
+Impacts/lessons learned: The policy reinforces Unilever’s commitment to working together with 
+suppliers to ensure that the business objectives are delivered while making a positive social impact 
+on supply chains and reducing environmental impacts and GHG emissions.
+
+Van der Stelt – The CO2 Performance Ladder45 [*]
+
+Van der Stelt is a Dutch freight transportation company with a fleet of 45 trucks that has the ambition to 
+continuously develop its sustainability and CO2 reductions. For this, the organization is certified on the 
+CO2 Performance Ladder.46 Through the award advantage provided by the CO2 Performance Ladder, Van 
+der Stelt won the tender for a project consisting of the transportation of sediment for one of the Dutch 
+water authorities, Hoogheemraadschap Hollands Noorderkwartier. The water authority presented a 
+tender for this project in 2015 in which it used the CO2 Performance Ladder as a procurement instrument. 
+To register in this tender, Van der Stelt set itsCO2 ambition level to 3; the company did not have a certificate 
+on the CO2 Performance Ladder at the time. When Van der Stelt was awarded the contract, it needed to 
+prove that it complied with the CO2 Performance Ladder level 3 within a year, which it did. Van der Stelt 
+
+The case for GHG emissions reductions: In addition to the implementation of CO2 reduction measures 
+in its projects, Van der Stelt also takes measures to cut back carbon emissions within the organization. 
+Examples of the measures taken are the use of LED lighting, the installation of solar panels, as well 
+as stimulating behavioral change, such as efficient driving measures to save fuel. In order to stimulate 
+behavioral change, the company arranges training for its drivers to become more aware of the 
+consequences of carbon emissions in the atmosphere and how to drive more efficiently. These 
+measures led to carbon savings of 2.6% in 2017. The company has the goal to reduce its carbon 
+emissions by 15% in the period 2015 to 2020. To achieve this objective, Van der Stelt is looking into 
+alternative fuels such as hydrotreated vegetable oil (HVO) and hydrogen fuel. The use of alternative 
+fuels will help the company cut most of its carbon emissions, because 97% of the CO2 resulting from 
+its activities are caused by diesel. Moreover, the transportation company is looking for ways to reduce 
+CO2 emissions during the loading and unloading of the goods during transportation.
+
+Impacts/lessons learned: Thanks to the Ladder, Van der Stelt has now has a control mechanism for 
+its ambitions to structurally reduce CO2 and the company is becoming more and more aware of 
+carbon emissions within its operations and within its projects. In addition, the CO2 Performance 
+Ladder contributes to the relevance of discussions to reduce CO2. With this, the importance of carbon 
+emissions reduction is spread throughout the entire organization.
+
+Walmart – Ambitious fleet efficiency targets result in considerable savings
+
+In 2005, Walmart committed to a momentous goal: doubling the efficiency of its fleet by the end of 2015. 
+Walmart achieved such impressive results in part by collaborating with associates to establish more 
+efficient techniques for loading, routing and driving, as well as through collaboration with tractor-trailer 
+manufacturers on new technologies. 
+
+The case for GHG emissions reductions: Its year-end results showed a 102.2% improvement in efficiency 
+over its 2005 baseline, with associated savings of nearly USD $1 billion annually and avoided emissions 
+of almost 650,000 metric tons of CO2.47
+
+Impacts/lessons learned: Collaboration with supply chain partners to optimize operations and to 
+incorporate improvements in equipment and technologies is fundamental to achieving efficiency goals.
+
+38
+
+39
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.3  Examples applicable to many companies
+
+Applicable to many companies – FreightShare Lab’s asset sharing platform48 
+
+Optimizing asset use is one of few decarbonization measures in the logistics sector that closely aligns 
+with good business practice and offers low-carbon mitigation costs.49 FreightShare Lab is developing an 
+advanced platform to improve asset use and reduce the number of freight transport vehicles on the 
+road. The objective is to create “the” platform of platforms where companies can share loading spaces 
+within a common service provider, thus potentially optimizing every journey and avoiding empty running. 
+The heart of the platform is the optimization algorithm developed by Route Monkey, which can reduce 
+total fleet mileage by up to 20% and increase productivity by up to 30%. An estimation with real data 
+shows that one fleet of 1,500 vehicles could increase deliveries per vehicle by one-third after using the 
+advanced platform. The enhancement of the algorithm could effectively collate vehicles, depots and 
+other assets from multiple companies, treating them as if they were one fleet. In this way, it can further 
+reduce empty-running of trucks and vans, reduce the number of vehicles operating in congested urban 
+areas, and therefore substantially cut costs and emissions.
+
+The case for GHG emissions reductions: The Low-Carbon Technology Partnerships initiative’s (LCTPi) 
+2017 annual report found among its key outcomes that “modest asset sharing models that can save 15% 
+[in emissions and mileage] are only being used by 20% of operators, while highly integrated vehicle and 
+depot sharing can lead to a 20% [emissions and mileage] savings and is yet to be taken up in the case of 
+at least 85% of commercial vehicle miles.”50 FreightShare Lab’s dynamic data and asset sharing plat-
+form can enable route and load optimization/consolidation while simultaneously providing development 
+opportunities to small and medium-sized enterprises. The result is a potential reduction in costs and 
+emissions across fleets of approximately 20%.
+
+Impacts/lessons learned: Freight and logistics operations are notoriously difficult to decarbonize. 
+Smart solutions like an asset sharing platform can accelerate emissions reductions and enhance the 
+sector’s efficiency so that there are fewer vehicles carrying the same, or greater, volumes of goods.  
+This collaboration among stakeholders encourages them to consolidate their cargo, resulting in an 
+optimized load factor, a reduction in fleet mileage, and an increase in productivity.
+
+Applicable to many companies – Shippers and LSPs using SmartWay data to 
+inform transportation purchasing decisions54 
+
+SmartWay55 is the United States Environmental Protection Agency’s (EPA) program aiming to help companies 
+advance supply chain sustainability by providing the transportation industry with tools to measure, benchmark 
+and take action to reduce GHG emissions and improve fuel efficiency. Partnering with SmartWay allows 
+shippers and LSPs to equip themselves with actionable data and, in turn, use that information to help 
+further inform customers' buying decisions and improve freight sustainability. Initially, SmartWay focused 
+on gathering data from shippers, carriers and LSPs on factors such as tractor age and emissions, miles per 
+gallon, distance travelled, and trailer load weights. Specific, defined transportation emissions data, controls 
+and operational targets are necessary to drive emissions reporting and meet sustainability goals. Measure- 
+ment is the first step in applying the value of the derived data to reach identified targets. The newest 
+generation of SmartWay allows shippers and third-party logistics providers to evaluate and incorporate 
+environmental data and use it to make educated, meaningful and valuable business decisions. SmartWay 
+compiles information into a standardized, transparent format for reporting carbon footprint data. This allows 
+comparison among carriers' emission profiles and their use as a decision-making factor in procurement.
+
+The case for GHG emissions reductions: Shippers and LPSs can incorporate environmental performance 
+data into purchasing decisions. For example, carriers in all transport modes can have specific CO2, nitrogen 
+oxide and particulate matter emissions factors for their operating fleets. These advancements in fleet-specific 
+emissions factors create measurable ways to incorporate environmental performance into the procurement 
+process. When reducing environmental impact, shippers and LSPs often look first at direct emissions or 
+those they can control. Over time, they can improve these impacts and extend their focus to reducing the 
+indirect emissions that result from global supply chain operations. In the future, shippers and LSPs will not 
+only use SmartWay data as a decision point when purchasing services; they will also come to expect its 
+availability and disclosure.
+
+Impacts/lessons learned: Shippers and LSPs have information on their GHG emissions and use it in the 
+decision-making process. Actively participating in these programs brings value directly to shippers, 
+carriers and LSPs by creating efficiency opportunities, new avenues to advance shipper sustainability 
+initiatives and, ultimately, new ways to improve global freight sustainability.
+
+Applicable to many companies – GLEC Declaration51 
+
+Applicable to many companies – SmartWay’s RFP specification56 
+
+Over the years, many company managers have complained that none of their transport providers 
+provide data in the same format or that none of their customers ask for information in the same  
+way. This leads to wasted efforts in processing and reporting logistics performance data in response 
+to different requests. The Global Logistics Emissions Council’s GLEC52 Declaration is a harmonized 
+template, customized to each target audience, that companies and organizations can use to report 
+GHG emissions to different users/stakeholders. Indeed, it builds on a menu of data/information  
+on logistics emissions that organizations can include in their report/GLEC Declaration. GLEC  
+developed the Declaration in consultation with businesses, starting with a selection of GLEC  
+member companies and then with the wider GLEC community, including additional companies as  
+well as green freight programs, NGOs and policy-makers, as well as the European Commission  
+and LEARN53 partners.
+
+The case for GHG emissions reductions: The use of a standardized reporting template to report GHG 
+emissions publicly and to customers could make better data available, enabling the underpinning of 
+European Commission policy and tracking of logistics emission across the European Union against 
+targets. Furthermore, it means companies can have better data to underpin corporate targets and 
+support decision-making. The GLEC Declaration can help businesses streamline efforts to better 
+understand results, lower costs and allow greater focus on emissions reductions.
+
+Impacts/lessons learned: The main reason to implement the GLEC Declaration is to achieve greater 
+harmonization in the disclosure of data/information and to increase transparency at different levels 
+(e.g., overall company, by region, by customer, per shipment).
+
+The SmartWay Transport Partnership is a voluntary collaboration between the United States Environmental 
+Protection Agency (US EPA) and the freight industry designed to increase energy efficiency while significantly 
+reducing greenhouse gases and air pollution. The program gives some suggestions on the proper wording 
+to adopt in preparing (the shipper) and answering (the carrier) RFPs.
+•  Suggested RFP specification: “Vendors awarded this contract will be required to be an EPA SmartWay  
+  Transport Shipper Partner and commit to shipping at least 50% of goods using an EPA SmartWay  
+  Transport Carrier Partners.”
+•  Suggested RFP questions: “Preference will be for suppliers who are an EPA SmartWay Transport  
+  Shipper Partner and commit to shipping at least 50% of their goods using EPA SmartWay Transport  
+  Carrier Partners. For a list of Partners, see http://www3.epa.gov/smartway/about/partnerlists.htm.
+
+I)  Is your company an EPA SmartWay Transport Shipper Partner? (Yes/No) Prefer YES a. If yes, have you  
+  committed to ship or receive 50% or more of your freight using SmartWay registered carriers? (Yes/No) 
+II) If you have a private fleet of trucks, is your company a registered EPA SmartWay Transport Carrier  
+  Partner? (Yes/No) a. If yes, what bin number are you in (1, 2, 3, 4 or 5) for CO2 g/mile and g/ton-mile?” 
+
+The case for GHG emissions reductions: SmartWay transport partners are leading the way in achieving a cleaner, 
+more efficient transportation future by adopting fuel-saving strategies that increase profits and reduce emissions. 
+
+Impacts/lessons learned: Companies that achieve environmental goals through procurement and 
+contracting strategies built on the success of US government environmental purchasing programs can 
+benefit from the same services that federal, state and local governments require of their suppliers. All 
+suggested strategies are adapted from RFP and contract language used by US state and federal agencies. 
+
+40
+
+41
+
+ 
+ 
+ 
+ 
+Annexes
+
+A.  Smart Freight Leadership
+
+Climate change continues to climb the global agenda, driven by momentum from the Paris Agreement and the 
+Sustainable  Development  Goals.  Within  in  the  framework  of  the  Paris  Agreement,  governments  have 
+developed / are developing Nationally Determined Contributions that embody efforts to reduce emissions and 
+adapt to the impacts of climate change. 
+
+In parallel, businesses are strengthening their strategies to reduce their carbon footprint. What is currently 
+lacking  is  a  global  and  unified  strategy  for  heavy  transport  covering  air,  sea,  and  land  and  transshipment 
+centers. This would both strengthen efforts between businesses and enable corporations to collaborate with 
+governments directly, planning for and achieving compliance with Nationally Determined Contributions.
+
+Smart Freight Centre (SFC) simplifies the pathway for companies to report emissions, implement solutions 
+to reduce emissions, and collaborate and advocate for uptake and recognizes that leaders must come forward, 
+inspire others and set industry norms. Smart Freight Centre calls this Smart Freight Leadership. 
+
+Figure  3  summarizes  the  Smart  Freight  Leadership  concept,  illustrating  actions  companies  can  take  to 
+become Smart Freight Leaders and the support offered by the SFC to help them achieve such recognition.
+
+Figure 3: Smart Freight Leadership chart
+
+Smart Freight Leadership
+
+What companies 
+do across their 
+global logistics 
+supply chain
+
+Report
+credible emissions
+and set science-based
+reduction targets
+
+1
+
+Smart Freight 
+
+GLEC
+
+How Smart 
+Freight Centre 
+supports 
+companies
+
+• GLEC Framework
+• SBTI target setting  
+   guidelines
+• Accreditation of 
+   programs and tools
+
+2
+
+3
+
+Implement
+solutions as buyer 
+and/or supplier that 
+reduce emissions
+
+ Solutions
+
+• Smart Freight  
+   Procurement 
+   Guidelines
+• Smart Transport  
+   Manager Training
+
+Collaborate
+and advocate  
+for sector-wide  
+uptake
+
+ Collaborate
+
+• Advocacy with 
+    influencers
+• Recognition of leaders
+• Smart Freight  
+   Initiatives Map
+• Smart Freight  
+    workshops
+
+Smart Freight Centre recognizes companies that calculate and report logistics GHG emissions using the Global 
+Logistics Council’s GLEC Framework and demonstrate leadership globally by making progress on one or more of 
+the other smart freight leadership behaviors. Visit SFC’s website or contact SFC for further information and for 
+up-to-date news on Smart Freight Leadership,. 
+
+SFP Guidelines role
+The Smart Freight Leadership (SFL) concept supports the SFP Guidelines as one possible solution that supply 
+chain buyers (and consequently suppliers) can implement to reduce logistics GHG emissions. The SFP Guidelines 
+have  the  mission  of  providing  guidance  to  ensure  that  companies  can  leverage  their  transport  and  logistics 
+procurement to achieve GHG emissions reductions.
+
+Both the SFL concept and SFP Guidelines aim to enable companies to move in the same direction. Three guiding 
+principles  –  transparency,  collaboration,  leadership  and  innovation  –  are  the  cornerstones  of  the  SFP  Guidelines  
+(see section 1.6). Such principles are consistent with the SFL concept shown in Figure 3 as the SFP Guidelines provide 
+companies with instructions on how to embed a low-carbon approach in companies’ freight and logistics services 
+procurement processes, along with reference material including examples and sources to illustrate efforts. 
+
+B.  Sector initiatives 
+
+By joining forces in a sector initiative, organizations can address the urgent, systemic challenges that are 
+difficult  to  tackle  alone.  Members  of  a  sector  initiative  bring  their  expertise  and  perspective  together  in  a 
+common approach that enhances the best potential in the industry.
+
+Most industries manage complex value chains and a deeply structured supplier base. As supply chains are 
+global,  it  is  necessary  to  promote  the  standardization  and  harmonization  of  supply  chain  approaches  to 
+achieve long-term impact. It is also important that companies active in a sector send a common message 
+about their sustainability activities and requirements to their providers across the supply chain, including for 
+GHG emissions and air pollutant reductions. 
+
+By joining a sector initiative, organizations show suppliers, other partners and stakeholders that they hold  
+a common and unified position and understanding of and commitment to supply chain sustainability, while 
+maintaining independent supply chain management. Furthermore, they can develop and apply common tools 
+to  drive  change  and  have  a  positive  impact  on  sustainability,  including  in  their  supply  chains  and  its 
+environmental footprint.
+
+Sector initiatives can strive to embed sustainability topics, in particular GHG emissions reductions, into the 
+procurement  processes  of  companies  in  a  targeted  sector.  When  shippers  have  a  common  approach  to 
+sustainability, it also benefits suppliers who clearly understand what the companies’ specific sector expects 
+from them. 
+
+Sector initiative reference table
+The  following  table  summarizes  the  main  sector  initiatives  that  can  be  useful  for  company  procurement 
+teams that are aiming to embed sustainability and GHG emissions and air pollutant reductions in their freight 
+and logistics services procurement process. We may enrich the list of sector initiatives in the future.
+
+Table 3: Sector initiatives reference table
+
+#  Name  
+
+Sector 
+
+Tools
+
+1
+
+CDP’s supply chain program
+
+Cross-industry
+
+• Standardized reporting platform
+• Scope 3 reporting emissions data into  
+  their scope 3 inventory
+• Analytics products to benchmark and 
+  compare suppliers and yourself
+• Facilitation of collaborative projects
+• Safety and Quality Assessment System  
+
+(SQAS)
+
+Cefic
+
+Chemical
+
+2
+
+3
+
+Confederation of European 
+Paper Industries (CEPI)
+
+Pulp and paper
+
+• To Our Roots and Beyond project
+
+42
+
+43
+
+ 
+#  Name  
+
+Sector 
+
+Tools
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+Consumer Goods Forum 
+(CGF)
+
+Consumer goods
+
+Drive Sustainability
+
+Automotive
+
+Green Electronic Council 
+(GEC)
+International Council of 
+Mining and Metals (ICMM)
+International Petroleum 
+Industry Environmental 
+Conservation Association 
+(IPIECA)
+
+Kitchen Cabinet  
+Manufacturers  
+Association (KCMA)
+Pharmaceutical Supply  
+Chain Initiative (PSCI)
+Responsible Business 
+Alliance (RBA) – formerly  
+the Electronic Industry 
+Citizenship Coalition (EICC)
+Retail Industry Leaders 
+Association (RILA)
+
+Information 
+technology
+Mining
+
+Oil and gas
+
+Cabinet 
+manufacturing
+
+Pharmaceuticals 
+and healthcare
+Electronics
+
+Retail
+
+Supplier Ethical Data 
+Exchange (Sedex) 
+Sustainable Apparel 
+Coalition (SAC)
+Together for Sustainability 
+(TfS)
+World Ports Sustainability 
+Program (WPSP)
+
+Cross-industry
+
+Apparel, footwear 
+and textile
+Chemical
+
+Maritime ports
+
+• End-to-end Value Chain Initiative: 
+  Best Practice Sharing, Learning Series
+• Sustainable Supply Chain Initiative  
+(SSCI): SSCI Benchmarking and 
+
+  Recognition
+• Self-assessment questionnaire (SAQ), 
+• Supplier Training Series
+• Raw Material Observatory
+• Electronic Product Environmental 
+• Assessment Tool (EPEAT)
+• Details not available
+
+Reports and guidance on various topics,  
+among them:
+• Low-emission pathways
+• Transparency and reporting
+• Emissions management
+• KCMA Certification Seals: KCMA/ANSI  
+  A161.1 Quality certification
+• Environmental Stewardship Program
+• Common Tools for guidance
+• PSCI audit sharing program
+• RBA Online
+• Self-assessment questionnaire (SAQ)
+• Risk Assessment Platform
+• Risk Readiness Assessment
+• Retail Sustainability Leadership Model
+• Retail Sustainability Management  
+  Resource Library
+• Sustainability recognition opportunities 
+• Sustainability reporting platforms
+• Sedex Advance – collaborative platform
+• Sedex Members Ethical Trade Audit
+• Higg Index
+
+• TfS Sustainability Assessment
+• TfS Sustainability Audit
+• WPSP Portfolio
+• Environmental Ship Index (ESI)
+• Further tools for CO2 reductions available 
+  via the World Ports Climate Initiative  
+  website (guidance document to develop or 
+improve GHG emissions inventories; CO2 
+  calculators; IAPH Tool Box for Port Clean  
+  Air Programs)
+
+Sector initiative cards
+The following cards take a closer look at the sector initiatives listed in Table 3 to better understand how they 
+can  support  organizations  in  achieving  the  intended  outcomes  when  implementing  actions  to  promote 
+emissions reductions through the freight and logistics procurement process. 
+
+CDP’s supply chain program 
+
+Sector: Cross-industry
+
+Active from: 2008
+
+Brief description
+CDP, formerly the Carbon Disclosure Project, runs the global disclosure system that enables compa-
+nies, cities, states and regions to measure and manage their environmental impacts. Over the past 18 
+years, CDP has built a comprehensive collection of self-reported environmental data worldwide.
+
+CDP’s supply chain program enables purchasing organizations to engage their suppliers on environ-
+mental issues to manage risks and drive positive action. Through CDP’s standardized global online 
+reporting platform, supply chain members invite strategic suppliers to report their climate change, 
+deforestation and water security information using CDP’s annual questionnaires.
+
+CDP’s supply chain program supports purchasing organizations in collecting a primary data set, buil-
+ding stronger supplier relationships, joining an established group and benefiting from tried and tested 
+supplier engagement best practices, and changing the way suppliers do business for their customers 
+and for their own economic and environmental benefit.
+
+Tools
+• 
+•  Scope 3 report to help purchasing organizations integrate suppliers’ primary emissions data into  
+
+Internationally recognized and standardized reporting platform.
+
+their scope 3 inventory.
+
+•  Analytics products to benchmark and compare suppliers.
+•  Facilitation of collaborative projects for buyers and suppliers.
+
+Link: www.cdp.net/supplychain 
+
+Cefic 
+
+Sector: Chemical 
+
+Active from: 1972
+
+Brief description
+Based in Brussels, Cefic represents large, medium and small chemical companies across Europe. 
+These companies directly provide 1.2 million jobs and account for 14.7% of the world’s chemical 
+production. Cefic interacts on behalf of its 670 members with international and European Union 
+institutions, non-governmental organizations, the international media, and other stakeholders. 
+
+Cefic is also an active member of the International Council of Chemical Associations, which represents 
+chemical manufacturers and producers all over the world and seeks to strengthen existing cooperation 
+with global organizations, such as the United Nations Environment Programme and the Organisation 
+for Economic Co-operation and Development, to improve chemicals management worldwide.
+
+Tools
+•  The Safety and Quality Assessment System (SQAS) is a standardized assessment that Cefic  
+
+centrally manages and that organizations use to evaluate the quality, safety, security and environ- 
+  mental performance of logistics service providers and chemical distributors. The SQAS covers all  
+key service providers in the land-logistics chain: road transport companies, intermodal operators  
+and terminals, rail carriers, rail tank car maintenance workshops, packaged goods warehouses  
+and tank cleaning stations. Independent assessors carry out assessments.
+
+•  Chemical companies use the SQAS system to support their risk management plan for logistics’  
+
+activities as part of product stewardship. The SQAS reports provide good insights into the  strengths 
+and weaknesses of (potential) service providers. Chemical companies use the assessment reports 
+
+44
+
+45
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cefic 
+
+in their selection processes for new service providers and for the ongoing evaluation of the  
+standards and performance of their existing ones. SQAS reports support the dialogue between  
+chemical companies and their LSPs as part of a continuous improvement process.
+
+Link: http://www.cefic.org/ 
+
+Confederation of European Paper Industries (CEPI)
+
+Sector: Pulp and paper
+
+Active from: 1992
+
+Brief description
+The Confederation of European Paper Industries (CEPI) brings together national associations  
+representing 18 countries from the pulp and paper industry across Europe to coordinate actions at the 
+European level and support the industry’s strategy and objectives. CEPI’s goal is to bring added value  
+to the industry for future growth. Its mission is to promote the uniqueness of the industry as an example 
+to follow, demonstrating how sustainability and competitiveness can go hand in hand.
+
+In order to achieve its mission, CEPI facilitates cooperation throughout the entire forest and paper 
+chain. The European pulp and paper industry uses three basic modes of transport – rail, road and 
+maritime – with road transport as the predominant mode. The organization recognizes that high-quality, 
+flexible, cost-efficient and sustainable transport solutions are essential to maintaining the European 
+pulp and paper industry’s competitiveness. 
+
+Tools
+The To Our Roots and Beyond project helps maintain focus on the industry’s leading role in contributing 
+to a sustainable low-carbon society. The project demonstrates how industry is taking responsibility in 
+reducing its carbon emissions, as well as taking a leading role in providing bio-based solutions to 
+decarbonize society at large. In total, the project has gathered 14 innovative case studies from 10 
+European Union countries involving 12 companies representing a diverse array of projects. The case 
+studies focus on energy efficiency and/or renewables and are indicative of the diverse means the paper 
+industry has at its disposal to reduce emissions while building upon its unique strength as an entirely 
+renewable material.
+
+Link: http://www.cepi.org/ 
+
+Consumer Goods Forum (CGF)
+
+Sector: Consumer goods
+
+Active from: 2009
+
+Brief description
+The Consumer Goods Forum (CGF) is a global, parity-based industry network, driven by its members.  
+ It brings together the CEOs and senior management of over 400 retailers, manufacturers, service 
+providers and other stakeholders across 70 countries and reflects the diversity of the industry in 
+geography, size, product category and format. Its board of directors, which includes 50 manufacturer 
+and retailer CEOs and chairpersons, governs the Forum. The CGF provides a unique global platform for 
+knowledge exchange and initiatives around four strategic pillars: sustainability, product safety, health 
+and wellness, and end-to-end value chain and standards; the CGF's fifth focus area is knowledge and 
+best practice sharing. It actively shares knowledge collectively created under the CGF umbrella with its 
+members, strategic alliances and other key stakeholders.
+
+The Forum’s vision is “Better lives through better business”. To fulfil this vision, its members have given 
+the Forum the mandate to develop common positions on key strategic and operational issues affecting 
+the consumer goods business, with a strong focus on non-competitively sensitive process improvement. 
+
+Tools
+•  End-to-End Value Chain Initiative: Best Practice Sharing, Learning Series.
+•  Sustainable Supply Chain Initiative (SSCI): SSCI Benchmarking and Recognition.
+
+Link: https://www.theconsumergoodsforum.com/ 
+
+Drive Sustainability 
+
+Sector: Automotive
+
+Active from: 2013
+
+Brief description
+Drive Sustainability is a leading automotive partnership based on strong collaboration, innovation and 
+impact. The initiative brings together 10 global automotive companies willing to address sustainability 
+issues in raw material sourcing, committing to improve both its own performance and that of its 
+supply chain.
+
+The vision is to achieve excellence, innovation and performance in a sustainable manner, including 
+ensuring that all individuals making vehicles or components or providing services receive decent 
+working conditions and are treated with dignity and respect, while minimizing the environmental 
+impact of the industry and promoting business integrity. The partnership’s mission is to drive sustain- 
+ability throughout the global automotive supply chain by integrating sustainability in the overall 
+procurement process.
+
+Drive Sustainability’s set of common guidelines – the Global Automotive Sustainability Guiding 
+Principles57 – outline expectations for suppliers on key responsibility issues, including human rights, 
+the environment, working conditions and business ethics. The Guiding Principles represent the global 
+strategy and base of all activities. 
+
+Tools
+• 
+
+It uses a self-assessment questionnaire (SAQ) to assess the sustainability performance of  
+automotive suppliers. It focuses on social and environmental sustainability, business conduct and  
+compliance, and supplier management. It aligns with the Global Automotive Sustainability Guiding  
+  Principles. The SAQ is globally applicable to all suppliers in the automotive supply chain, including  
+
+sourcing, manufacturing, logistics, assembly and retail.
+
+•  The supplier training series aims to build supplier capacity. The training series covers topics in areas  
+such as social and environmental sustainability, business conduct and compliance, and supplier  
+
+  management. The content is based on Global Automotive Sustainability Guiding Principles and  
+
+tailored to the country where it offers training.
+
+•  The Raw Material Observatory is a process to: (i) assess the sustainability risk of the top raw  
+  materials for the automotive sector and (ii) identify potentially impactful activities that Drive  
+  Sustainability partners could pursue collectively to address such risk. The Material Change report  
+presents the results of the first round of raw material assessments. The report examines the  
+responsible sourcing of materials in the automotive and electronics industries.
+
+Link: https://drivesustainability.org/ 
+
+46
+
+47
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Green Electronic Council (GEC)
+
+Sector: Information technology
+
+Active from: 2005
+
+Brief description
+The Green Electronics Council (GEC) is a mission-driven non-profit that collaborates to achieve a world 
+in which companies only design and manufacture and customers only purchase sustainable information 
+technology (IT) products; it acts as the fulcrum point between those who buy (institutional purchasers) 
+and those who make (IT brands) IT products. By deciding to buy sustainable IT products, institutional 
+purchasers can help the world achieve greater sustainability: GEC supports them implement sustainable 
+procurement and, through its flagship Electronic Product Environmental Assessment Tool (EPEAT) 
+program, provides additional tools and resources. 
+
+Tools
+EPEAT is a leading global ecolabel for the IT sector and an easy-to-use resource for purchasers, 
+manufacturers, resellers and others wanting to find or promote electronic products with positive 
+environmental attributes. The EPEAT system evaluates electronics on more than 50 environmental 
+criteria, some required and some optional, that measure a product's efficiency and sustainability 
+attributes: products are rated gold, silver or bronze depending on how many optional criteria they meet.
+
+EPEAT provides independent verification of manufacturers’ claims and the EPEAT online registry lists 
+sustainable products from a broad range of manufacturers. National governments and private and public 
+institutional purchasers around the world use EPEAT as part of their sustainable procurement decisions.
+
+GEC developed EPEAT using a grant from the US Environmental Protection Agency. GEC manages it  
+and maintains EPEAT's website and product registry; it also documents the environmental benefits 
+resulting from the purchase of EPEAT-registered products.
+
+Link: https://greenelectronicscouncil.org/ 
+
+International Council of Mining and Metals (ICMM)
+
+Sector: Mining and metals
+
+Active from: 2001
+
+Brief description
+The ICMM is an international organization dedicated to a safe, fair and sustainable mining and metals 
+industry. Bringing together 27 mining and metals companies and over 30 regional and commodity 
+associations, the ICMM strengthens environmental and social performance. The council aims to serve 
+as a catalyst for change, enhancing mining’s contribution to society. The ICMM is currently working on 
+numerous programs and activities that relate to climate change, socio-economic development, and 
+health and safety matters and involving a large number of companies and organizations.
+
+The ICMM supports greater use of renewable energy, other cost-effective low-emissions technolo-
+gies, and improved efficiency, including in member company operations. It recognizes that implemen-
+ting cost-effective energy efficiency has the dual benefit of reducing operational greenhouse gas 
+emissions while improving productivity and reducing costs. 
+
+Tools
+The ICMM encourages member companies to take voluntary actions to reduce GHG emissions by:
+•  Developing greenhouse gas emissions reduction strategies (e.g., carbon reduction cost curve assessments,  
+
+energy-efficiency studies) and implementing economical emissions reductions measures.
+
+•  Ensuring the efficient use of natural resources.
+•  Supporting research into and the development of low greenhouse gas emissions technologies relevant  
+
+to the industry.
+
+•  Measuring progress and reporting results.
+
+Link: https://www.icmm.com/
+
+International Petroleum Industry Environmental Conservation Association (IPIECA) 
+
+Sector: Oil and gas
+
+Active from: 1974
+
+Brief description
+The International Petroleum Industry Environmental Conservation Association (IPIECA) is a non-profit 
+association providing a forum to encourage continuous improvement in the industry’s performance. 
+It is a global association involving both the upstream and downstream oil and gas industry. It is also the 
+industry’s principal channel of communication with the United Nations. 
+
+IPIECA convenes industry and stakeholders to work on issues across the environmental spectrum, 
+including oil spill preparedness and response, biodiversity and ecosystem services and water 
+management. The association promotes environmentally responsible operations across the oil and 
+gas sector by developing, sharing and promoting good practices and knowledge while its member 
+companies continue to meet society’s demands for fuels and petroleum products.
+
+Tools
+Reports and guidance on various topics, among them:
+•  Low emissions pathways.
+•  Transparency and reporting; emissions management.
+
+Link: http://www.ipieca.org/ 
+
+Kitchen Cabinet Manufacturers Association (KCMA)
+
+Sector: Cabinet manufacturing
+
+Active from: 1955
+
+Brief description
+The Kitchen Cabinet Manufacturers Association (KCMA) is a non-profit organization that represents 
+companies that manufacture kitchen cabinets, bath cabinets and other residential cabinets, and key 
+kitchen and bath industry suppliers. With a membership of more than 300 companies throughout North 
+America, KCMA works to advance the cabinet industry through standardization, advocacy, setting 
+cabinet quality standards, and sponsoring kitchen and bath cabinet-related research, and by providing 
+the cabinet industry with management tools and educational programs.
+
+Tools
+The KCMA Certification Seals:
+•  KCMA/ANSI A161.1 Quality Certification, which certifies that products meet the established and  
+
+proven standards for performance and durability.
+
+•  The Environmental Stewardship Program (ESP), which proves that manufacturers build cabinets  
+  with sustainable and responsible practices that benefit the environment and communities. As part  
+of this certification, the manufacturer must enroll in the US Environmental Protection Agency’s  
+
+  SmartWay Transport Partnership as a registered partner.
+
+Link: https://www.kcma.org/
+
+Pharmaceutical Supply Chain Initiative (PSCI)
+
+Sector: Pharmaceuticals and healthcare
+
+Active from: 2006
+
+Brief description
+The Pharmaceutical Supply Chain Initiative (PSCI) is a non-profit business membership organization in 
+the United States. Its aim is to create a better supply chain in the pharmaceutical and healthcare 
+
+48
+
+49
+
+ 
+ 
+ 
+ 
+Cefic 
+industry. Its vision is to establish and promote responsible practices that will continuously improve 
+social, health, safety and environmentally sustainable outcomes for the supply chains of its members. 
+This includes:
+•  Fair and safe work conditions and practices;
+•  Responsible business practices;
+•  Environmental sustainability and efficient use of resources.
+
+The purpose of the initiative is to bring together the pharmaceutical industry to define, implement and 
+champion responsible supply chain practices. Members of the PSCI share knowledge and expertise 
+across the industry to drive complex, global change more effectively than any one organization can alone.
+
+Its three strategic pillars are: (i) leadership; (ii) a community of improving suppliers; (iii) partnering.
+
+Tools
+•  PSCI develops common guidance tools assessing performance and risk and tailors them to the  
+
+industry.
+
+•  The PSCI audit sharing program enables suppliers to share audits with more than one member via  
+a web-based platform, thus avoiding the replication of audits for each supplier and resulting in  
+efficiency gains for members.
+
+Link: https://pscinitiative.org/home 
+
+Responsible Business Alliance (RBA)
+
+Sector: Electronics
+
+Active from: 2004
+
+Brief description
+The Responsible Business Alliance (RBA) is the world’s largest industry coalition dedicated to corporate 
+social responsibility in global supply chains. Founded by a group of leading electronics companies, and 
+formerly named the Electronic Industry Citizenship Coalition (EICC),58 RBA is committed to supporting 
+the rights and well-being of workers and communities worldwide affected by global supply chains. RBA 
+members commit to a common Code of Conduct and RBA holds them accountable for their actions 
+under the code. Members use a range of RBA training and assessment tools to support continuous 
+improvement in the social, environmental and ethical responsibility of their supply chains. 
+
+Today the RBA is comprised of more than 140 companies, with combined annual revenue of over $5 
+trillion, directly employing more than 6 million people. 
+
+Tools
+•  RBA Online, a sustainability data management system designed to help companies manage and  
+
+share sustainability data.
+
+•  A self-assessment questionnaire (SAQ).
+•  The Risk Assessment Platform, which assesses inherent/potential risks of supplier sites for an early  
+
+high-level risk assessment within supply chains.
+
+•  The Risk Readiness Assessment, which assesses risks in raw material supply chains.
+
+Link: http://www.responsiblebusiness.org/ 
+
+Retail Industry Leaders Association (RILA)
+
+Sector: Retail
+
+Active from: 2007
+
+Cefic 
+Brief description
+The Retail Industry Leaders Association (RILA) is a trade association in the US that promotes consumer 
+choice and economic freedom through public policy and industry operational excellence. Executives participate 
+in RILA for its educational forums, its public policy advocacy, and its advancement of the industry.
+
+RILA focuses on core areas where retailers can collaborate to make a difference, including supply 
+chains, sustainability, and technology and innovation.
+
+RILA has three types of members: retailer, consumer product manufacturer and service provider.
+
+Tools
+RILA helps retailers become sustainability leaders through its Retail Sustainability Initiative (RSI). The RSI 
+offers various programs and working groups that provide education, sharing and networking, such as:
+•  The Retail Sustainability Leadership Model, which is a tool for retail sustainability executives to  
+
+identify management practices that will drive improved corporate and sustainability performance.  
+It represents the collective knowledge of many industry experts and numerous retailers.
+
+•  The Retail Sustainability Management Resource Library composed of the Retail Sustainability  
+  Management Maturity Matrix. Retailers can refer to the resource library for specific tools, case  
+
+studies and further opportunities to help them advance the maturity of their programs.
+•  Sustainability Recognition Opportunities, a matrix that summarizes a variety of recognition  
+opportunities available through third parties to showcase leadership in areas ranging from  
+operations to consumer engagement, with links to learn more.
+
+•  Sustainability Reporting Platforms, a matrix providing an initial overview of the platforms most  
+
+often used and referenced in the industry, with links to learn more about reporting on sustainability  
+efforts and accomplishments. 
+
+Link: https://www.rila.org/Pages/default.aspx 
+
+Supplier Ethical Data Exchange (Sedex) 
+
+Sector: Cross-industry
+
+Active from: 2004
+
+Brief description
+The Supplier Ethical Data Exchange (Sedex) is a global membership organization that aims to make 
+doing business that is good for everyone simpler by working with the right standards, information and 
+technologies.
+
+Sedex hosts one of the world’s largest collaborative platforms for the sharing of responsible sourcing 
+data on supply chains. More than 50,000 members in over 150 countries use it to manage labor rights, 
+health and safety, the environment and business ethics performance. Sedex services enable members 
+to bring together many kinds of data, standards and certifications, to make informed business decisions, 
+and to drive continuous improvement across their value chains.
+
+Sedex works in partnership with many of the world’s most recognizable brands and thousands of 
+factories, producers and industry experts to shape the future of global trade and to have an increasingly 
+positive impact worldwide.
+
+Tools
+•  Sedex Advance is a collaborative platform for buyers, suppliers and auditors to store, share and  
+
+report on information quickly and easily. It includes a self-assessment questionnaire (SAQ), which  
+supplier and buyer members complete when they register.
+
+•  The Sedex Members Ethical Trade Audit is a social audit procedure that provides a globally recognized  
+  way to assess responsible supply chain activities, including labor rights, health and safety, the  
+
+environment and business ethics.
+
+Link: https://www.sedexglobal.com/ 
+
+50
+
+51
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sustainable Apparel Coalition (SAC)
+
+Sector: Apparel, footwear and textile
+
+Active from: 2010
+
+Brief description
+The Sustainable Apparel Coalition (SAC) is a leading apparel, footwear and textile industry alliance for 
+sustainable production. Its vision is of an apparel, footwear and textiles industry that produces no 
+unnecessary environmental harm and has a positive impact on the people and communities associated 
+with its activities.
+
+Tools
+The Coalition develops the Higg Index, a standardized supply chain measurement suite of tools for all 
+industry participants that enables brands, retailers and facilities of all sizes – at every stage in their 
+sustainability journey – to accurately measure and score a company’s or product’s sustainability perfor-
+mance. The Higg Index delivers a holistic overview that empowers businesses to make meaningful 
+improvements that protect the well-being of factory workers, local communities and the environment.
+
+The index measures environmental and social labor impacts across the supply chain. With this data, the 
+industry can address inefficiencies, resolve damaging practices, and achieve the environmental and 
+social transparency consumers are demanding. 
+
+Link: https://apparelcoalition.org/ 
+
+Together for Sustainability (TfS)
+
+Sector: Chemical
+
+Active from: 2011
+
+Brief description
+In order to enhance sustainability within the supply chain, a group of leading chemical companies joined 
+forces in 2011 for the Together for Sustainability (TfS) initiative. The goal of the TfS initiative is to drive 
+and foster global supply chain resilience, efficiency and sustainability in the chemical industry. 
+
+The TfS initiative aims to build the industry’s standard for sustainable supply chains and has established 
+a common approach to evaluating and improving the sustainability performance of chemical industry 
+suppliers through a global program that assesses, audits and improves sustainability practices.
+
+World Ports Sustainability Program (WPSP)
+
+Sector: Maritime ports
+
+Active from: 2017
+
+Brief description
+In May 2017, the International Association of Ports and Harbors (IAPH) set up the World Ports  
+Sustainability Program (WPSP) to enhance and coordinate the future sustainability efforts of ports 
+worldwide and foster international cooperation with supply chain partners. The WPSP builds on the 
+World Ports Climate Initiative (WPCI) that IAPH started in 2008 and extends it to other sustainable 
+development areas.59 
+
+In this context, the WPSP aims to illustrate the global leadership of ports that contribute to the United 
+Nations Sustainable Development Goals (SDGs). The program seeks to empower port community actors 
+worldwide to engage with business, government and society stakeholders and create sustainable added 
+value for local communities and wider regions where they operate. The WPSP implements the SDGs 
+along five themes, including climate and energy. This supports the Paris Agreement climate goal aiming 
+to keep global warming well below 2°C. Building on the output of the WPCI, port community actors can 
+collaborate in refining and developing tools to facilitate CO2 emissions reductions from shipping, port 
+and landside operations. In addition, they can run programs to enable the energy transition, improve air 
+quality and stimulate the circular economy.
+
+Tools
+•  The WPSP Portfolio is a global database of port-related sustainable development projects. Through  
+the WPSP portfolio, ports worldwide and WPSP partner organizations raise awareness of their  
+ongoing work on sustainability, share their experiences and provide inspiration.
+
+•  The Environmental Ship Index (ESI) is a WPSP project that allows the identification of seagoing ships  
+that perform better in reducing air emissions than required by the International Maritime Organization’s  
+current emission standards. Several ports offer a substantial discount on harbor dues for ships with  
+a high ESI score.
+
+•  Further resources to facilitate CO2 emissions reductions are available via the WPCI website:
+•  A guidance document that serves as a reference for ports looking to develop or improve their GHG  
+
+emissions inventories.
+
+•  CO2 calculators (Scopes 1 & 2; Scope 3 under construction).
+• 
+
+IAPH Tool Box for Port Clean Air Programs,60 which complements and supports the WPCI website by  
+providing a resource for GHG case studies and emissions reduction strategies.
+
+Link: https://sustainableworldports.org/  
+
+Within the TfS initiative, members conduct assessments and audits based on a pre-defined set of 
+criteria and then share them across members, improving efficiency for all involved.
+
+C.   Sources
+
+Tools
+•  The TfS Initiative Sustainability Assessment is based on established international sustainability  
+
+standards and provides expert feedback to both members and suppliers. The assessment covers  
+the supplier’s sustainability management approach to the environment, labor practices and human  
+rights, ethics and sustainable procurement. To ensure a consistent and reliable supplier assessment  
+approach, the TfS initiative selected EcoVadis as its partner and service provider. A typical industry- 
+specific assessment uses an online web-based questionnaire; the assessment is valid for three  
+years, though members can ask their suppliers for more frequent assessments to show continuous  
+improvement.
+
+•  The TfS initiative Sustainability Audit is an onsite examination of a company’s sustainability practices.  
+Independent companies perform audits using a pre-approved auditor pool. The scope typically  
+covers a single or combined business location, such as a production site, warehouse or office  
+building. The TfS initiative’s audit process verifies the supplier’s sustainability performance  
+against a pre-defined set of management, environmental, health and safety, labor and human rights,  
+and governance criteria.
+
+Link: https://tfs-initiative.com/ 
+
+Professional literature and company practices
+•  A.P. Moller-Maersk A/S. 2017. “Sustainability Strategy 2014–2018”. Retrieved from https://www.maersk. 
+
+com/en/about/sustainability/read-more-about-sustainability/sustainability-strategy. 
+
+•  A.P. Moller-Maersk A/S. 2017. “Third Party Code of Conduct”. Retrieved from https://www.maersk.com/ 
+
+en/about/sustainability/third-party-code-of-conduct. 
+
+•  A.P. Moller-Maersk A/S. 2017. Sustainability Report 2017. Retrieved from https://www.maersk.com/en/ 
+
+about/sustainability/reports. 
+
+•  A.P. Moller-Maersk A/S. 2018. “Responsible Procurement”. Retrieved from https://www.maersk.com/ 
+
+en/procurement/responsible-procurement. 
+
+•  Association Club Déméter. 2018. “Dispositif FAIR FRET”. Retrieved from http://www.club-demeter.fr/. 
+•  BICEPS (Boosting Initiatives for Collaborative Emission-reduction with the Power of Shippers) Network.  
+
+2016. “BICEPS Rating System”. https://bicepsnetwork.org/rating-system/. 
+
+52
+
+53
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+•  BMW Group. 2017. BMW Group supplier sustainability policy. Retrieved from https://www.bmwgroup.com/ 
+content/dam/grpw/websites/bmwgroup_com/responsibility/downloads/en/2017/Supplier_Sustainability_ 
+
+  Policy.pdf.
+•  BMW Group. 2017. Sustainable Supply Chain Management – Due Diligence in the Supply Chain. Retrieved  
+
+from https://www.bmwgroup.com/content/dam/grpw/websites/bmwgroup_com/responsibility/ 
+downloads/en/2017/BMW_Group_due_diligence_in_the_supply_chain.pdf.
+
+•  BMW Group. 2018. “BMW Group International Terms and Conditions for the Purchase of Production  
+  Materials and Automotive Components”. Retrieved from https://b2b.bmw.com/documents/14402/
+
+7501963/180331_IPC+2018_EN_clean_v2.pdf/150a812c-228b-7ffc-323e-f576133c39ae. 
+
+•  Carbon Disclosure Project – CDP. 2017. Missing link: Harnessing the power of purchasing for a sustainable  
+future. Retrieved from https://www.cdp.net/en/research/global-reports/global-supply-chain-report-2017 
+
+•  Clean Cargo Working Group – CCWG. 2015. How to Calculate and Manage CO2 Emissions from Ocean  
+Transport. Retrieved from https://www.bsr.org/en/our-insights/report-view/how-to-calculate-and- 
+
+  manage-co2-emissions-from-ocean-transport.
+•  Foundation for Climate Friendly Procurement and Business – SKAO. 2017. How to use the CO2 Performance  
+Ladder – A practical manual for companies, Part 1 and Part 2. Retrieved from https://www.skao.nl/ 
+home_en. 
+
+•  Foundation for Climate Friendly Procurement and Business – SKAO. 2015, Handbook: CO2 Performance  
+
+Ladder 3.0. Retrieved from https://www.skao.nl/home_en. 
+
+Academic literature/papers
+•  Andersson, D., Dubois, A., Halldorsson, A. & Hulthén, K. 2016. “Purchasing transport services:  
+  Relationships and conditions for ‘green connectivity’”. Paper 32. Green Logistics Management: Balancing  
+
+environmental and shareholder priorities Colloquium. 29 September 2016. 
+
+•  Broman, G. & Robèrt, K.H. 2015. “A Framework for Strategic Sustainable Development”. Journal of  
+  Cleaner Production. 140. 10.1016/j.jclepro.2015.10.121. 
+
+•  Celik, E., Erdogan, M. & Gumus, A.T. 2016. “An extended fuzzy TOPSIS–GRA method based on different  
+separation measures for green logistics service provider selection”. Int. J. Environ. Sci. Technol. (2016)  
+13: 1377. https://doi.org/10.1007/s13762-016-0977-4.
+
+•  Evangelista, P., Colicchia, C. & Creazza, A. 2017. “Is environmental sustainability a strategic priority for  
+logistics service providers?”. Journal of Environmental Management. 198. 353-362. 10.1016/j.jenvman. 
+2017.04.096. 
+
+•  Evangelista, P., Huge-Brodin, M., Isaksson, K., & Sweeney, E. 2013. “Purchasing Green Transport and  
+Logistics Services: Implications from the Environmental Sustainability Attitude of 3PLs”. In D. Folinas  
+(Ed.), Outsourcing Management for Supply Chain Operations and Logistics Service (pp. 449-465). Hershey,  
+
+•  Foundation for Climate Friendly Procurement and Business – SKAO. 2016. Procurement Guide Version  
+
+  PA: IGI Global. doi:10.4018/978-1-4666-2008-7.ch026.
+
+3.0. Retrieved from https://www.skao.nl/home_en. 
+
+• 
+
+• 
+
+•  Global Environmental Management Initiative. 2018. GEMI Quick Guide: Strategic Buyer/Supplier Collaboration  
+on Sustainability. Retrieved from http://gemi.org/solutions/solutions-quick-guides/gemi-quick-guide-on- 
+buyer-supplier-collaboration-on-sustainability/. 
+IKEA. 2013. “IWAY Standard: Transport section”. Retrieved from https://www.ikea.com/ms/en_US/pdf/ 
+reports-downloads/IWAY-standard-transport-section.pdf. 
+IKEA. 2016. “IWAY Standard”. Retrieved from https://www.ikea.com/ms/en_US/pdf/reports-downloads/ 
+IWAY-standard-ed-5.2.pdf. 
+INGKA Holding. 2018. Sustainability Summary Report FY17. Retrieved from https://www.ikea.com/ms/ 
+en_US/pdf/sustainability_summary/INGKA_Sustainability_Summary_Report_FY17.pdf 
+International Organization for Standardization – ISO. 2017. “ISO 20400:2017 standard on Sustainable  
+
+• 
+  Procurement”. Retrieved from https://www.iso.org/standard/63026.html. 
+•  McKinnon, A. 2018. Decarbonizing Logistics: Distributing Goods in a Low Carbon World. Kogan Page Ltd.  
+
+• 
+
+ISBN 978-0-7494-8047-9.
+
+•  New Zealand Sustainable Business Council – NZSBC. 2016. Sustainable procurement guidelines for  
+freight. Retrieved from https://www.sbc.org.nz/__data/assets/pdf_file/0011/119783/Sustainable- 
+procurement-guidelines-for-freight.pdf.
+
+•  Evangelista, P., Santoro, L. & Thomas, A. 2018. “Environmental Sustainability in Third-Party Logistics  
+  Service Providers: A Systematic Literature Review from 2000–2016”. Sustainability. 10. 1627. 10.3390/ 
+
+su10051627.
+
+•  Govindan, K., Agarwal, V., Dhingra Darbari, J. & C. Jha, P. 2017. “An integrated decision making model for  
+the selection of sustainable forward and reverse logistic providers”. Annals of Operations Research. 273.  
+10.1007/s10479-017-2654-5.
+
+•  Kähkönen, A.K., Lintukangas, K., Hallikas, J. & Evangelista, P. 2016. “Responsible buying practices in  
+supply risk management”. International Journal of Integrated Supply Management. 2016 Vol.10 No.3/4.
+
+•  L. Kudla, N. & Klaas-Wissing, T. 2012. “Sustainability in shipper-logistics service provider relationships:  
+  A tentative taxonomy based on agency theory and stimulus-response analysis”. Journal of Purchasing  
+
+and Supply Management. 18. 218-231. 10.1016/j.pursup.2012.04.001.
+
+•  McKinnon, A. 2014. “The possible influence of the shipper on carbon emissions from deep-sea container  
+
+•  Nike Inc. 2018. “Sourcing and Manufacturing standards”. Retrieved from https://sustainability.nike.com/ 
+
+supply chains: An empirical analysis”. Maritime Economics & Logistics. 16. 10.1057/mel.2013.25. 
+
+sourcing-manufacturing-standards. 
+
+•  Nike Inc. 2018. FY16/17 Sustainable Business Report. Retrieved from https://sustainability.nike.com/ 
+
+•  O. Large, R., Kramer, N. & Katharina Hartmann, R. 2013. “Procurement of logistics services and  
+
+reports. 
+
+•  Railsponsible website. http://railsponsible.org/. 
+•  Railsponsible. 2018. Annual Report 2017-2018. Retrieved from http://railsponsible.org/download/ 
+
+annual-report-2017-2018/. 
+
+•  Railsponsible. 2018. “Railsponsible Position Paper on Climate”. Retrieved from http://railsponsible.org/ 
+  wp-content/uploads/2018/07/Railsponsible_Climate-Position-Paper.pdf. 
+•  Sustainable Purchasing Leadership Council – SPLC. 2016. Guidance for Leadership in Sustainable  
+  Purchasing. Retrieved from https://www.sustainablepurchasing.org/guidance/. 
+•  Unilever. 2017. Responsible Sourcing Policy – Working in partnership with our suppliers. Retrieved from  
+
+https://www.unilever.com/Images/responsible-sourcing-policy-interactive-final_tcm244-504736_ 
+en.pdf. 
+
+•  United Nations Global Compact and Business for Social Responsibility (BSR). 2015. Supply Chain  
+  Sustainability – A Practical Guide for Continuous Improvement. Retrieved from https://www.unglobal 
+
+compact.org/library/205. 
+
+sustainable development in Europe: Fields of activity and empirical results”. Journal of Purchasing and  
+
+  Supply Management. 19. 122–133. 10.1016/j.pursup.2013.05.002. 
+
+•  Raut, R., Kharat, M., Kamble, S. & Shekhar Kumar, C. 2016. “Sustainable Evaluation & Selection of  
+potential Third Party Logistics providers (3PL): an Integrated MCDM Approach”. Benchmarking An  
+International Journal 25(2):00-00 January 2018.
+
+•  Rizet, C., Cruz, C. & de Lapparent, M. 2013. “Impact of logistical choices on freight transport carbon  
+
+efficiency”. World Conference on Transport Efficiency. July 2013, France. 
+
+54
+
+55
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SFP Guidelines Contributors
+
+Notes
+
+The people who contributed to the SFP Guidelines are mostly from the Transforming Heavy Transport 
+project and from the Global Logistics Emissions Council (GLEC). We would like to highlight the input of the 
+following companies and experts.
+
+Shippers 
+•  H&M
+•  Heineken
+• 
+Intel 
+•  PepsiCo
+•  Signify
+•  Smurfit Kappa
+•  Unilever
+•  Walmart
+
+LSPs/carriers
+•  A.P. Moller-Maersk
+•  DB Schenker
+•  Deutsche Post DHL Group
+•  Ewals
+•  RCS Logistics
+•  STEF 
+
+Agencies/NGOs  
+•  ADEME
+•  CDP
+•  Global Logistics Emissions Council
+•  SKAO
+•  TK Blue
+
+Ian Wainwright – Futurecitylogistics
+
+Experts
+• 
+•  David Coleman – Transficient
+•  Marcio Dagosto – UFRJ
+•  Alan Dirks – Port of Rotterdam
+•  Pietro Evangelista – CNR-IRISS
+•  Alan McKinnon – KHL University
+•  Buddy Polovick – US Environmental Protection Agency
+•  Jorge Tesler – Centro de Logistica y Sostenibilidad
+•  Laetitia Dablanc – IFSTTAR
+
+1  WBCSD and Smart Freight Centre developed a project concept to unify business in the low-carbon transition of freight transport with 
+the working title Transforming Heavy Transport. The goal is to help create demand for low-carbon heavy transport and enhance 
+collaboration. In particular, the project aims to: 
+
+• 
+
+• 
+
+• 
+
+Establish a global business community by identifying interdependencies between We Mean Business coalition partners,  
+Smart freight Centre and external organizations;
+Develop a We Mean Business strategy for heavy transport that builds on existing initiatives and covers the three Smart  
+Freight Leadership behaviors;
+Create a framework for logistics procurement that considers GHG emissions as guidance for companies that subcontract  
+freight services. This will help mobilize action by logistics service providers and transport operators.
+
+2  See the Low Carbon Technology Partnerships (LCTPi) initiative at https://www.wbcsd.org/Programs/Climate-and-Energy/Climate/
+Low-Carbon-Technology-Partnerships-initiative. 
+3  Smart Freight Leadership, as described in Annex A.
+4  As they are global in scale, the issues that dominate the sustainable development agenda – i.e., climate and energy, environmental 
+and social issues, including GHG emissions reductions – are too big for individual companies to tackle alone. Therefore, companies 
+must work together to achieve improvements that have a real impact. Sector initiatives help to achieve this goal. By joining a sector 
+initiative, companies can: share experiences and information; develop and apply common tools; work together on common projects 
+to improve the sustainability of their supply chains and work to achieve GHG emissions reductions; and send a common message to 
+their supply chains about sustainability.
+5  For each action, we estimated the complexity of implementation by assessing all the sub-actions suggested in the Toolbox (see 
+chapter 3) and expressed that as a percentage from 0% to 100%. We present this in a graph through the following equivalences:
+
+0-20% = complexity of implementation 1 on 5;
+21-40% = complexity of implementation 2 on 5;
+41-60% = complexity of implementation 3 on 5;
+61-80% = complexity of implementation 4 on 5;
+81-100% = complexity of implementation 5 on 5.
+
+6  A non-exhaustive list of interesting investor initiatives providing sustainability requirements includes CDP – Carbon Disclosure 
+Project; DJSI – Dow Jones Sustainability Indices; MSCI – Morgan Stanley Capital International; Natural Capital Coalition; SASB – 
+Sustainability Accounting Standards Board Foundation; and the TCFD – Task Force on Climate-Related Disclosure.
+7  See Annex B: Sector initiatives.
+8  Agency theory explains the relationship between principals and agents in business. Agency theory aims to resolve problems that 
+can exist in agency relationships due to unaligned goals or different levels of aversion to risk. The most common agency relationship 
+in finance occurs between shareholders (principal) and company executives (agents). See https://www.investopedia.com/terms/a/
+agencytheory.asp. 
+9  In terms of the agency problems of sustainability in a shipper-LSP relationship, the main findings are: 
+
+• 
+
+• 
+
+• 
+
+Companies should better design and implement stimuli for sustainability (i.e., selection criteria and incentives) aimed at  
+shippers; agency theory can support traditional problems, such as moral hazards and adverse selection;
+The proactiveness of small and medium-sized enterprises and larger companies are different and impacts and drivers are  
+different; you should take this into account when establishing procurement processes;
+Sustainability in one-on-one or supply chain relationships demands different points of view and datasets, such as from a  
+local firm or from a network perspective.
+
+10  This action logically follows the establishment of KPIs as per Action 0.2 – Award scheme establishment.
+11  For instance, we propose a two-phase model based on data envelopment analysis (DEA) and analytic network process (ANP) 
+techniques:
+• 
+
+The methodology allows for the evaluation and selection of LSPs and freight operators in two steps: initial screening of   
+maximally efficient third-party logistics providers using DEA; and ANP-based final ranking and selection. ANP enables   
+companies to consider the degree of inter-dependences among the criteria.
+Selection criteria could be transportation charge per metric ton per km; fleet capacity/strength; vehicle type and quality  
+(rejection %); driver rejection %; LSP/freight operator performance with desired output; flexibility; vehicle lead (response)  
+times. Eco-efficient transportation leads to better transportation planning, better inventory and warehouse management,  
+lower inventory costs and sustainable supply chain operations.
+
+• 
+
+12  Agency theory explains the relationship between principals and agents in business. Agency theory aims to resolve problems that 
+can exist in agency relationships due to unaligned goals or different levels of aversion to risk. The most common agency relationship 
+in finance occurs between shareholders (principal) and company executives (agents). See https://www.investopedia.com/terms/a/
+agencytheory.asp.
+13  The final KPIs and their benchmark values can be definitively agreed in the Contracting phase, but we recommend that you start 
+their elaboration in the Planning phase so as to ensure their alignment with the shipper’s objectives of cutting CO2 emissions and 
+monitoring supplier performance throughout the entire smart freight procurement process.
+14  Govindan, K., Agarwal, V., Dhingra Darbari, J. & C. Jha, P. 2017. “An integrated decision making model for the selection of sustainable 
+forward and reverse logistic providers”. Annals of Operations Research. 273. 10.1007/s10479-017-2654-5.
+15  This can immensely improve the sustainable performance value of the supply chain network and secure reasonable profits. You 
+can achieve this by introducing 7 economic criteria in LSP evaluation: financial position, asset ownership, optimization capabilities, cost 
+of service, reputation and market position, experience in a similar industry, geographical location. Through this, it is possible to obtain a 
+reasonable trade-off between financial gains and association with sustainable partners. Emphasis must be put on evaluating logistics 
+partners on social and environmental criteria along with the traditional economic criteria to enhance the firm’s sustainability image.
+16  O. Large, R., Kramer, N. & Katharina Hartmann, R. 2013. “Procurement of logistics services and sustainable development in 
+
+56
+
+57
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+42   Eighteen (18) of them are Rapid Deployment Centers (RDCs) and roughly half of Home Depot’s products flow through those RDCs. 
+At the RDCs, vendor freight delivers to Home Depot’s mechanized cross-dock buildings and the company swiftly delivers products 
+straight to stores and places them directly on store shelves. Stores receive daily deliveries from the RDCs, which has allowed Home 
+Depot to cut the amount of inventory each retail location must keep.
+43  See https://www.unilever.com/Images/responsible-sourcing-policy-interactive-final_tcm244-504736_en.pdf. 
+44  See https://www.unilever.com/about/suppliers-centre/unilever-supplier-qualification-system/. 
+45  See https://www.skao.nl/news_en/%E2%80%98The_CO2_Performance_Ladder_is_a_driver_for_structural_CO2_ reducti-
+on%E2%80%99 _-6666.
+46  The CO2 Performance Ladder is an accredited certification scheme originally developed by the Dutch railway in 2009; since 2011, 
+the Foundation for Climate Friendly Procurement and Business (SKAO) owns and manages the system. The CO2 Performance 
+Ladder helps organizations gain insights into and reduce their carbon emissions internally, in projects and in their supply chain 
+business sector. It covers energy use and CO2 emissions. The instrument is both a CO2 management system as well as a procure-
+ment tool that awards advantages to companies and projects with specific CO2 policies, in accordance with European Union 
+procurement law. The Organisation for Economic Co-operation and Development mentions the Ladder among best practices for 
+sustainable procurement (2015).
+47  See https://corporate.walmart.com/2016grr/enhancing-sustainability/reducing-energy-intensity-and-emissions. 
+48  See https://www.freightsharelab.com/freightsharelab2018/en/page/home. 
+49  McKinnon, A. (2018). Decarbonizing Logistics: Distributing Goods in a Low Carbon World. Kogan Page Ltd. ISBN 978-0-7494-8047-9.
+50  See https://www.wbcsd.org/Programs/Climate-and-Energy/Climate/Low-Carbon-Freight/
+Resources/A-Low-Carbon-Freight-report-under-WBCSDs-LCTPi. 
+51  See http://www.nucms.nl/tpl/learn/upload/LEARN%20Summary%202019%20-%20GLEC%20Declaration%20-%20online 
+%20%281%29.pdf.
+52  See http://www.smartfreightcentre.org/glecframework/glecframework. 
+53  See http://www.learnproject.net/. 
+54  See https://www.inboundlogistics.com/cms/article/using-smartway-data-to-inform-transportation-purchasing-decisions. 
+55  See https://www.epa.gov/smartway. 
+56  See https://practicegreenhealth.org/pubs/epp/FiveEasyWays.pdf and https://practicegreenhealth.org/sites/default/files/
+upload-files/smartway_supplier_disclosure.pdf.
+57  See https://drivesustainability.org/wp-content/uploads/2017/12/Guiding-Principles.pdf. 
+58  In October 2017, the Electronic Industry Citizenship Coalition (EICC) became the Responsible Business Alliance (RBA) to reflect its 
+expanded reach and influence.
+59  The World Ports Climate Initiative’s mission is to:
+
+Raise awareness of the need for action in the port and maritime community;
+Initiate studies, strategies and actions to reduce GHG emissions and improve air quality;
+Provide a platform for the maritime port sector to exchange information;
+
+• 
+• 
+• 
+•  Make information on the effects of climate change on the maritime port environment and measures for its mitigation available.
+
+60  The purpose of the International Association of Ports and Harbors (IAPH) Air Quality and Greenhouse Gas Tool Box is to provide  
+ports, both members and non-members of the IAPH, with quick access to the tools needed to start the planning process to address 
+port-related air quality and climate change issues. See http://wpci.iaphworldports.org/iaphtoolbox/.
+
+Europe: Fields of activity and empirical results”. Journal of Purchasing and Supply Management. 19. 122–133. 10.1016/j.
+pursup.2013.05.002.
+17  The Incoterms specify who organizes and pays for the physical movement of goods, their insurance while in transit and customs 
+clearance. It is known that the amount of leverage that a shipper can exert on “carbon-sensitive” decisions depends partly on the 
+Incoterms employed and the use of freight forwarders, as the Incoterms can give the shippers a substantial degree of control over 
+their global supply chains, in particular for inbound transport. (See McKinnon, A. 2014. “The possible influence of the shipper on 
+carbon emissions from deep-sea container supply chains: An empirical analysis”. Maritime Economics & Logistics. 16. 10.1057/
+mel.2013.25.)
+18  Agency theory explains the relationship between principals and agents in business. Agency theory aims to resolve problems that 
+can exist in agency relationships due to unaligned goals or different levels of aversion to risk. The most common agency relationship 
+in finance occurs between shareholders (principal) and company executives (agents). See https://www.investopedia.com/terms/a/
+agencytheory.asp.
+19  Evangelista, P., Huge-Brodin, M., Isaksson, K., & Sweeney, E. 2013. “Purchasing Green Transport and Logistics Services: Implications 
+from the Environmental Sustainability Attitude of 3PLs”. In D. Folinas (Ed.), Outsourcing Management for Supply Chain Operations and 
+Logistics Service (pp. 449-465). Hershey, PA: IGI Global. doi:10.4018/978-1-4666-2008-7.ch026.
+20  Evangelista, P., Huge-Brodin, M., Isaksson, K., & Sweeney, E. 2013. “Purchasing Green Transport and Logistics Services: Implications 
+from the Environmental Sustainability Attitude of 3PLs”. In D. Folinas (Ed.), Outsourcing Management for Supply Chain Operations and 
+Logistics Service (pp. 449-465). Hershey, PA: IGI Global. doi:10.4018/978-1-4666-2008-7.ch026.
+21  Green Freight Programs promote the use of technologies and practices able to improve the efficiency of the freight sector, while 
+ensuring the possibility to benchmark and track performance. The final objectives are cost cutting, carbon tracking and creating 
+environmental benefits. See “What are Green Freight Programs” at http://www.globalgreenfreight.org/why-green-freight/what-
+are-green.
+22  See https://www.maersk.com/en/procurement/responsible-procurement 
+23  The Carbon Disclosure Project (CDP) highlights this case as part of its Global Supply Chain Report to support collaboration and 
+transparency in the value chain. The 2017 edition explores how purchasers and suppliers are working together to improve sustainability 
+across global supply chains and taking advantage of low-carbon opportunities. It includes the Braskem case as an example of the 
+framework approach for reducing carbon emissions and water impacts in the supply chain, in the section “Act”. See https://www.
+cdp.net/en/research/global-reports/global-supply-chain-report-2017. The CDP is an initiative that supports companies and cities in 
+disclosing the environmental impact of major corporations. It aims to make environmental reporting and risk management a 
+business norm and to drive disclosure, insight and action to achieve a sustainable economy. CDP works with purchasing organizations 
+and suppliers to reduce climate, water and forest risks. 
+24  See the Dow Corporate Sustainability Report 2017 at https://corporate.dow.com/en-us/science-and-sustainability/reporting. 
+25  GEMI brings together leading companies dedicated to fostering global environmental, health and safety and sustainability 
+excellence through the sharing of tools and information to help business achieve environmental sustainability excellence. Through 
+the collaborative efforts of its members, GEMI also promotes a worldwide business ethic for environmental, health and safety 
+management and sustainable development through example and leadership. GEMI provides guidance for companies in a wide range 
+of industrial sectors to work together in a cost-effective manner. Among the solutions, its Quick Guide aims to support companies in 
+engaging with their suppliers in more collaborative ways to create shared value. See https://corporate.ford.com/microsites/
+sustainability-report-2017-18/operations/supplier-impact/reducing-footprint.html.
+26  Download the IWAY Standard from https://www.ikea.com/ms/en_US/pdf/reports-downloads/IWAY-standard-ed-5.2.pdf. 
+27  See https://www.inboundlogistics.com/cms/article/jj-uses-sustainability-to-strengthen-carrier-relationships. 
+28  See https://www.epa.gov/smartway.
+29  See https://www.smartfreightcentre.org/en/news/blog/849/?token=XB1IUltvYhmcjSSLs-BPysiaJWuo3WL9. 
+30  See https://www.smartfreightcentre.org/en/what-is-smart-transport-managers-training/. 
+31  See https://sustainability.nike.com/sourcing-manufacturing-standards. 
+32  The reported example is based on the Sustainable Purchasing Leadership Council (SPLC) case “Carbon Neutrality: How Philips’ 
+Procurement & Sustainability Teams Delivered Results”, available at https://www.sustainablepurchasing.org/library/. The SPLC is a 
+non-profit organization whose mission is to support and recognize purchasing leadership that accelerates the transition to a 
+prosperous and sustainable future. It has defined 5 principles (understanding; commitment; results; innovation; transparency), 
+along with guidance. It has developed maturity levels (initiating; developing; improving; leading) to allow purchasers to benchmark 
+where they are at themselves. The SPLC guide aims to be a comprehensive handbook to help organizations to iteratively grow their 
+sustainable purchasing efforts into a comprehensive sustainable purchasing program, thus improving environmental, social and 
+economic performance within their supply chains. The guidance also helps them link sustainable purchasing to business processes 
+and financial performance. SPLC Benchmark is a program released in 2017 that enables diverse organizations to assess their own 
+sustainable purchasing activities against the recommendations in SPLC’s Guidance and to benchmark the maturity of their sustaina-
+ble purchasing activities against those of other organizations. This voluntary program is the basis for the SPLC Awards, a rating 
+system rewarding organizations that demonstrate leadership in sustainable purchasing; it also aims to provide standardization to 
+suppliers and purchasers. SPLC adds all awarded case studies to its Case Study Library and cross links them with the SPLC 
+Guidance. 
+33  See https://www.portofrotterdam.com/en/shipping/sea-shipping/port-dues/discounts-on-port-dues 
+34  See https://www.portofrotterdam.com/en/files/general-terms-and-conditions-including-port-tariffs 
+35  See https://www.greenaward.org/ 
+36  See http://www.environmentalshipindex.org/Public/Home 
+37  See http://wpci.iaphworldports.org 
+38  Schneider is a provider of truckload, intermodal and logistics services in North and Central America and China. Its services 
+include regional, long-haul, expedited, dedicated, bulk and intermodal transport, brokerage, cross-dock logistics, supply chain 
+management, and port logistics. Its website includes a Knowledge Hub that aims to be a source of answers. It is organized by shipper 
+challenges, services and type of content and includes an article dedicated to requests for proposals (RFPs).
+39  See https://schneider.com/knowledge-hub/best-practices/how-to-create-an-effective-transportation-request-for-proposal 
+40  See http://www.tlimagazine.com/sections/trucking-and-freight/2236-home-depot 
+41  At the end of the second quarter, the company operated a total of 2,270 retail stores in all 50 U.S. states, the District of Columbia, 
+Puerto Rico, the U.S. Virgin Islands, Guam, 10 Canadian provinces and Mexico. The company employs more than 370,000 associates. 
+Home Depot is the largest home improvement retailer in the world.
+
+58
+
+59
+
+ 
+ 
+ 
+ 
+Contact
+
+Smart Freight Centre
+Keizersgracht 560, 1017 EM
+
+Amsterdam, Netherlands
+
+P.O. Box 11772, 1001 GT
+Amsterdam, Netherlands
+
+Tel office: +31 6 4695 4405
+www.smartfreightcentre.org
+
+info@smartfreightcentre.org
+
+

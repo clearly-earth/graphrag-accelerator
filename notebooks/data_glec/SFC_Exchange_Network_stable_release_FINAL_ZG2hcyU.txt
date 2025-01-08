@@ -1,0 +1,698 @@
+SFC Exchange Network  
+Stable Release 1.0 Report 
+
+April 2024 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SFC Exchange Network 
+
+Stable Release v 1.0 Report 
+April 2024 
+
+© Smart Freight Centre, 2024 
+Suggested citation: Smart Freight Centre and Think-it. SFC Exchange Network—Stable Release v 1.0 Report. 2024. 
+This publication may be reproduced in whole or in part in any form for educational or non-profit purposes without special permission from 
+the copyright holder, provided acknowledgment of the source is made. Smart Freight Centre would appreciate receiving a copy of any 
+publication that uses SFC Exchange Network as a source.  No use of this publication may be made for resale or for any other commercial 
+purpose whatsoever, without prior permission in writing from Smart Freight Centre. 
+
+Disclaimer 
+The views expressed in this publication are those of Smart Freight Centre and staff, consultants and management, and do not necessarily 
+reflect the views of the Board of Trustees of Smart Freight Centre.  Smart Freight Centre does not guarantee the accuracy of the data 
+included in this publication and does not accept responsibility for consequence of their use. 
+
+Acknowledgements 
+
+This report was written by Tuul Erdenebold of Smart Freight Centre.  
+
+Technology Partner 
+
+Participants and contributors 
+
+About Smart Freight Centre 
+Smart Freight Centre is an international non-profit organization focused on reducing greenhouse gas emissions from freight transportation. 
+Smart Freight Centre’s vision is an efficient and zero emission global logistics sector. Smart Freight Centre’s mission is to collaborate with 
+the organization’s global partners to quantify impacts, identify solutions, and propagate logistics decarbonization strategies. Smart Freight 
+Centre’s  goal  is  to  guide  the  global  logistics  industry  in  tracking  and  reducing  the  industry’s  greenhouse gas  emissions by  one  billion 
+tonnes by 2030 and to reach zero emissions by 2050 or earlier, consistent with a 1.5°C future. 
+
+Contact 
+Smart Freight Centre 
+Keizersgracht 560, 1017 EM, Amsterdam, Netherlands 
+P.O. Box 11772, 1001 GT, Amsterdam, Netherlands 
+Tel office: +31 6 4695 4405 
+www.smartfreightcentre.org 
+info@smartfreightcentre.org
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SFC Exchange Network - Stable Release 1.0 Report 
+Smart Freight Centre 
+
+Executive Summary 
+
+The  SFC  Exchange  Network  is  a  sociotechnical  project  creating  and  proving  the  feasibility  of  a 
+decentralized data exchange for capturing logistics GHG emissions. Transparency over GHG emissions is 
+fundamental to the decarbonization of logistics, as it informs business decisions and can optimize logistics 
+operations. This requires access to reliable data from supply chain operations. Data is both an opportunity 
+and a necessity to extract information and operationalize into valuable insights that will be key towards full 
+emissions  transparency.  Specifically,  within  the  logistics  industry,  there  are  known  structural  challenges 
+from  data  gaps,  lack  of  interoperability  between  various  IT  systems  and  reluctancy  to  share  data  often 
+considered as business sensitive.  
+
+The SFC Exchange Network aims to address these issues by supporting organizations progress towards 
+acquiring reliable data and facilitate a peer-to-peer exchange. It is a succession project following previous 
+SFC led projects, Data Access project and the End-to-End Guidance, based on the need of organizations 
+to access reliable data whilst promoting data sharing collaboration efforts. It also integrates the data model 
+proposed  within  the  iLEAP  project.  The  vision  of  SFC  Exchange  Network  is  to  create  full  emissions 
+transparency and catalyze decarbonization within transport chains based on decentralized principles.  
+
+Decentralized  data  exchanges  are  based  on  the  concept  of  dataspaces  in  which  secure,  open  and 
+seamless  data  sharing  is  enabled.  This  allows  for  an  efficient  yet  sovereign  way  to  share  data  as  the 
+dataspace stakeholders govern the ecosystem in which they co-create and abide by. Such an ecosystem 
+benefits from varied representation of logistics actors as it relies heavily on collaboration and accordance 
+to demarcate the ‘playbook’ of how the data exchange is done. 
+
+The SFC Exchange Network project began in late 2022. Since then, the project has undergone two phases, 
+Proof-of-Concept  (PoC)  and  Stable  Release  v  1.0.  The  PoC  covered  governance,  technology,  and 
+assurance  workstreams  for  the  SFC  Exchange  Network.  The  workstreams  are  crucial  in  which  the 
+sociotechnical nature of the project is fortified.  
+
+After  the  PoC  phase,  an  interim  phase  of  Stable  Release  v  1.0  kicked  off  with  focus  on  technology 
+improvements to demonstrate the feasibility of the technology at scale. These improvements would be the 
+cornerstone of a scalable and a stable solution. The Stable Release v 1.0 phase concluded with a testing 
+period  in  February  2024  with  a  larger  scope.  This  report  delves  into  Stable  Release  v  1.0  technology 
+improvements and outlines key takeaways. 
+
+In November 2023, Smart Freight Centre made an announcement in which the SFC Exchange Network is 
+transitioning to a purpose driven organization in order to scale the project with the required expertise and 
+resources. The dedicated organization will become a for-profit for-good venture with the necessary know-
+how to establish a long-term vision. 
+
+April 2024 
+
+3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SFC Exchange Network - Stable Release 1.0 Report 
+Smart Freight Centre 
+
+Contents 
+
+1    Introduction ............................................................................................................... 5 
+
+1.1  Background .................................................................................................................... 5 
+
+1.2  Stable Release v 1.0 ...................................................................................................... 5 
+
+2  Technology ............................................................................................................... 6 
+
+3  Testing and Deployment .......................................................................................... 7 
+
+3.1 
+
+Infrastructure choices ................................................................................................... 7 
+
+3.2  Results ............................................................................................................................ 7 
+
+3.3  Lessons Learned ........................................................................................................... 7 
+
+Next Steps ....................................................................................................................... 8 
+
+April 2024 
+
+4 
+
+ 
+ 
+ 
+ 
+ 
+SFC Exchange Network - Stable Release 1.0 Report 
+Smart Freight Centre 
+
+1 
+
+Introduction 
+
+1.1  Background 
+
+The  Smart  Freight  Centre  has  been  involved  in 
+data and digitalization related projects since 2019. 
+The  Data  Access  project  and  the  End-to-End 
+guidance are a couple of exemplary projects which 
+defined  the  importance  of  a  standardized  data 
+model  and  the  parameters  required  to  ease  the 
+interoperability between different IT systems. The 
+projects were vital preliminary work to set the stage 
+for  the  SFC  Exchange  Network  to  flourish  by 
+means of participatory pilots. 
+
+The SFC Exchange Network is a project dedicated 
+to  proving  the  feasibility  of  decentralized  data 
+exchange. The objective is to reduce logistics data 
+gaps  by  promoting  standardized  semantics, 
+improve interoperability between siloed IT systems 
+trust  and  commitment  between 
+and  boost 
+stakeholders.  Accessing  reliable  data  goes  in 
+tandem  with  the  state  of  digitalization  of  an 
+organization  both  internally  and  externally.  This 
+means without the refinement of either, a desirable 
+outcome  will  not  be  easily  achieved.  Hence  data 
+and  digitalization  are  in  conjunction  with  one 
+another. 
+
+The SFC Exchange Network officially kicked-off in 
+October 2022. The initial launch period defined the 
+scope  of  decentralized  peer-to-peer  exchange. 
+From this focal point, the project kicked-off its PoC 
+phase  from  February  2023  to  June  2023.  The 
+deliverables 
+participatory 
+included  multiple 
+workshops, exploratory research on requirements 
+and a technical prototype. The technical prototype 
+was  fundamental  to  demonstrate  the  feasibility  of 
+peer-to-peer  exchange,  willingness  to  share  data 
+and technical implementation. The SFC Exchange 
+Network  is  the  first  Smart  Freight  Centre  project 
+with  a  product  deliverable  being  a  technical 
+prototype as an output.  
+
+1.2  Stable Release v 1.0  
+
+Following the success of the PoC, an interim phase 
+of  Stable  Release  v  1.0  began.  This  phase  was 
+marked by an improved technical first iteration that 
+is stable and scalable. The initial work of the interim 
+phase  was  to  formulate  the  PoC  feedback  into 
+improvements  with  a  strong  strategic  direction. 
+This required the interim phase to be divided into 
+two  parts:  PoC  evaluation  and 
+scaling 
+preparations. 
+
+of 
+
+The  first  part,  PoC  evaluation,  was  to  dissect 
+collected  feedback  from  the  participants.  This 
+dictated  the  focus  of  PoC  evaluation  to  be  the 
+grounding  work 
+brainstorm 
+consisting 
+discussions,  revision  sessions,  and  planning. 
+Taking  in  the  feedback  as  the  core  guide,  it  was 
+important to translate the input into a working vision 
+and match it to the capacity of operating teams—
+SFC  and  Think-it.  Think-it  is  an  instrumental 
+technology  partner  and  led  the  IT  development. 
+The vision and the capacity were dually integrated 
+so that the most viable project approach was taken.  
+
+Based  on  the  outcomes  of  the  primary  part,  PoC 
+evaluation,  it  was  evident  to  strategize  on  the 
+technology improvements for Stable Release v 1.0 
+and  demonstrate  its  feasibility.  In  parallel,  a 
+governance structure was proposed and discussed 
+extensively  to  set  up  an  organization  ready  to 
+scale. The subject of assurance was decided to be 
+deprioritized within this phase. 
+
+in 
+
+the 
+
+scaling 
+
+the  project 
+
+Hence,  the  second  part  of  the  interim  phase  of 
+Stable Release v 1.0 was the scaling preparations. 
+This also explains the title Stable Release v 1.0, as 
+technology 
+stability  and  scalability  of 
+is 
+readiness  and 
+instrumental 
+competitiveness.  The 
+preparations 
+concentrated  on  technology  development  and 
+extensive  documentation  creation  to  support  the 
+overall comprehensibility of the project as well as 
+to  empower  participants  take  ownership  in  the 
+process.  Therefore,  the  goal  of  the  phase  was  to 
+improve the technology to ensure a Stable Release 
+v 1.0 is ready and set out a governance structure 
+that is ready for scaling. 
+
+April 2024 
+
+5 
+
+ 
+ 
+ 
+ 
+SFC Exchange Network - Stable Release 1.0 Report 
+Smart Freight Centre 
+
+2  Technology 
+
+share 40,000 lines of data, which was capped but 
+could have been scaled further.  
+
+The  improvements  in  the  technology  include  key 
+work around improving the data model, enhancing 
+the  technical  features  and  functionalities,  and 
+the  onboarding  and  deployment 
+streamlining 
+experience.  Firstly,  it  was  evident  to  improve  the 
+data  model  according  to  the  collected  feedback 
+from  PoC.  The  data  semantics  model  utilized 
+during the PoC consisted of 13 data variables. For 
+Stable  Release  v  1.0,  the  data  model  was 
+expanded  to  32  data  variables.  The  increased 
+number  of  data  variables  reflected  use  case  1  of 
+improving  accuracy  of  reported  emissions.  Using 
+the  data  model  allowed  participants  to  organize 
+and  structure 
+in  accordance  with 
+standardized semantics model which is based on 
+the GLEC Framework and the iLEAP project. This 
+improvement also came with a change in the data 
+grouping  requirement.  During  the  PoC,  the  data 
+shared  by 
+‘data  providers’  was  grouped  by 
+shipments  whilst  in  Stable  Release  v  1.0—it  is 
+grouped  by  month.  This  allows 
+for  multiple 
+shipments to be shared based on a chosen month 
+and  enables  higher  amounts  of  data  to  be 
+exchanged.  The  exchange  of  data  on  a  monthly 
+basis is also closer to operational reality.  
+
+their  data 
+
+rules  were  embedded  within 
+
+Furthermore,  data  model  compliance  and 
+validation 
+the 
+technology. The technical prototype’s API enforces 
+these  rules  linking  the  enhancement  of  technical 
+features  and  functionalities.  For  example,  the 
+content  of  data  shared  would  need  to  adhere  to 
+data model validation rules and if it did not follow—
+there would be error messages stating the rows of 
+data that needed to be corrected. This immediately 
+pointed  to  the  very  rows  easing  the  overall  data 
+exchange process and enforcing data quality. The 
+API was further worked upon which made up most 
+of the developments for the technical features and 
+functionalities. The improved API is apparent from 
+the  capability  of  handling  and  sharing  higher 
+volume of data. During the PoC participants were 
+able to share less than 10 lines of data whereas in 
+Stable  Release  v  1.0—participants  were  able  to 
+
+The  final  area  of  focus  for  the  technological 
+improvement was the streamlined onboarding and 
+deployment  experience  to  the  SFC  Exchange 
+Network.  Although  this  is  not  a  purely  technical 
+work,  the  creation  and  design  of  documentation 
+was essential in fostering a project that is scalable 
+and  stable.  Learning  from  the  PoC,  to  set-up 
+participants  for  success  is  to  ensure  a  smooth 
+onboarding  process.  Therefore,  Stable  Release 
+v1.0 offered an extensive onboarding package with 
+numerous  documents  with  the  goal  to  ensure 
+participants have a good grasp of the project and 
+completed  all  necessary  preliminary  steps.  This 
+also allowed the participants to identify the required 
+right  profiles  as  active 
+resources  with 
+engagement and efforts are necessary to carry out 
+the  project  successfully.  Helping  participants  find 
+the  right  team  was  a  particular  focus  of  the 
+onboarding package which stemmed from the PoC 
+phase. As much efforts and flexibility the operating 
+teams of the project offered, it would not amount to 
+the 
+the 
+participants.  Additionally 
+technical  documents, 
+specifically  helpful  for  the  testing  period,  was 
+provided  with  the  intention  for  it  to  be  more 
+simplified and digestible. 
+
+involvement  and  engagement 
+
+from 
+
+the 
+
+In addition to the documents, numerous workshops 
+took place to gauge participants’ understanding on 
+the  project  as  well  as  co-shape  to  progress 
+together. For instance, the use case workshop was 
+conducted to inform participants about use case 1 
+on improving accuracy of reported emissions and 
+determine  associated  key  performance  indicators 
+together. Use cases are important to the objective 
+of SFC Exchange Network as they are participant 
+driven  and  capture  the  value  proposition  of  the 
+project  to  address  realistic  problems  within  the 
+industry.  Simultaneously,  the  key  performance 
+indicators are targets which measure the extent of 
+the attainment.  
+
+April 2024 
+
+6 
+
+ 
+ 
+ 
+ 
+ 
+SFC Exchange Network - Stable Release 1.0 Report 
+Smart Freight Centre 
+
+3  Testing and 
+Deployment 
+
+The  aim  of  Stable  Release  v  1.0  testing  was  to 
+prove  that  the  technology  is  scalable,  easy  to 
+deploy and fulfills key objectives of the project. The 
+testing period was the second time the technology 
+was  tested  and  validated  since  the  inception  of 
+SFC Exchange Network. The testing would assess 
+the  resiliency  of  the  system  and  its  updated 
+technical  features  amongst  four  testing  goals: 
+assess 
+reliability;  prove 
+business  value  and  gather  feedback.  The  goals 
+were crafted with the notion that feedback loop is 
+instrumental  in  inspecting  and  evaluating  the 
+technology. Thus, participants were encouraged to 
+complete  the  testing  autonomously  to  enable  the 
+participants to “own” the technology and simulate a 
+potential scenario in which the technology can be 
+adopted and integrated within their IT systems.   
+
+functionality;  assess 
+
+3.1 
+
+Infrastructure choices 
+
+In  terms  of  infrastructure  choices,  participants 
+could  choose  between  deploying  on  SFC 
+infrastructure as a managed service or in their own 
+cloud  environment.  The 
+first  option  of  SFC 
+infrastructure can be considered as Software as a 
+Service (SaaS) in which the deployment is handled 
+fully  by  Think-it 
+thereby  providing  automatic 
+configuration  and  ease.  The  second  option  of 
+deployment on own environment is cloud agnostic 
+meaning  the  technology  can  run  on  any  cloud 
+infrastructure—in  this  case  the  deployment  takes 
+place  on  participants’  own  infrastructure.  This 
+offers flexibility and customization for participants. 
+There  was  a  step-by-step  Deployment  Guide 
+provided to facilitate participants to self-deploy and 
+truly utilize the technology for its intended purpose 
+of sovereignty, scalability, and stability.   
+
+3.2  Results  
+
+There were six companies partaking in the project 
+as  participants  resulting 
+four  pairs.  One 
+participating  company,  in  the  role  of  a  ‘data 
+consumer’  was  paired  with  two  of  its  carriers. 
+
+in 
+
+Another participant acted both as a ‘data provider’ 
+and 
+‘data  consumer’  exchanging  data  by 
+themselves  across  potential  business  units.  The 
+data  exchange  between  a  ‘data  provider’  and  a 
+‘data  consumer’  is  solely  contingent  upon  the 
+contractual relationship between the parties. Such 
+a  trusted  relationship  attests  to  the  ‘playbook’  of 
+how the exchange is done based on the user who 
+permitted  authorization  and  in  turn  the  user  who 
+has the authorization to access the data.  
+
+the 
+
+technology  and  exchange  data. 
+
+In terms of deployment, SFC infrastructure was the 
+final choice of infrastructure for all participants. In 
+general,  majority  of  the  participants  were  able  to 
+use 
+In 
+comparison  with  the  PoC  testing  journey,  Stable 
+Release  v  1.0  testing  was  marked  by  greater 
+autonomy  from  the  participants.  Any  potential 
+blockers  and 
+the 
+participants with thorough details which allowed for 
+addressing them quickly and efficiently resulting in 
+a smooth testing process.   
+
+issues  were 
+
+reported  by 
+
+3.3  Lessons Learned 
+
+Overall,  the  improved  Stable  Release  of  the  API 
+was  well  received  and  functioned  in  line  with  the 
+requirements  set  out.  However,  the  following 
+improvements could be considered: 
+
+time 
+
+All the deployments were completed utilizing SFC 
+infrastructure. Unfortunately, the participants which 
+opted for deployment on their own chose to switch 
+to  SFC  infrastructure  due  to  rigorous  internal 
+limitations. 
+cybersecurity  policies  and 
+Consequently,  checking  on  other 
+IT  and 
+cybersecurity  policies  in  place  is  an  important 
+prerequisite before diving deeper into the project. 
+Not only will the duration be potentially lengthy but 
+also  every  company  follows  different  protocols 
+therefore  the  varying  procedures  may  require 
+additional  efforts.  Moreover,  decision  making  will 
+require  coordination  and  availability  of 
+the 
+stakeholders with authority.  
+
+Despite extended timelines, the project participants 
+were not able to deploy on own environment due to 
+capacity constraints in their IT departments. Hence 
+
+April 2024 
+
+7 
+
+ 
+ 
+ 
+SFC Exchange Network - Stable Release 1.0 Report 
+Smart Freight Centre 
+
+cross-department onboarding is important. Taking 
+this  into  account,  the  further  scaling  of  the  SFC 
+Exchange  Network  recognizes  the  need  to  think 
+holistically  whilst  relying  on  active  participation 
+from  the  participants.  This  requires  a  design 
+thinking  approach  yet  keeping  an  equilibrium 
+between customization and collective strategy will 
+need to be prioritized and addressed. 
+
+Another  aspect  to  the  testing  was  the  supporting 
+documents  that  were  created  and  sent  out  to 
+streamline 
+the  onboarding  and  deployment 
+experience.  Such  documents  turned  out  to  be 
+the  hands-on 
+straight-forward  demonstrating 
+approach  of  the  testing.  Aside  from  testing,  an 
+evaluation  survey  was  created  to  assess  the 
+testing  experience  and  gain  insights  on  the 
+project’s progression and trajectory. Despite only a 
+few fill-outs, the feedback from the survey pointed 
+to data model compliance and validation rules to be 
+helpful in the testing and strengthened the overall 
+future, 
+functionalities. 
+features  and 
+participants  would  like  to  be  able  to  share  even 
+higher amounts of data—within the millions range 
+rather  than  being  restricted  by  40,000.  Another 
+highly  requested  feature  was  user  interface  and 
+front-end  design  which  eases  the  interaction  with 
+the technology.  
+
+the 
+
+In 
+
+scale-up  and  advance  the  decentral  technology. 
+The  new  organization,  with  a  neutral  trusted 
+governance  structure,  will  build  on  the  SFC 
+Exchange Network and is designed to scale-up in 
+an accelerated manner and help logistics industry 
+actors address their most urgent challenges.  
+
+The spin-off is already underway, focusing on the 
+ability 
+to  exchange  with  small  and  medium 
+enterprises and between logistics actors. As stable 
+release v 1.0 was the next iteration after the PoC, 
+there  are  promising  outcomes  given  proper 
+identification  and  prioritization  of  focus  areas.    A 
+couple of the most pressing challenges include the 
+versatility in IT systems resulting in siloed data as 
+well  as  lack  of  access  to  primary  data.  The 
+dedicated company will lead the logistics industry 
+with the collaboration of external partners with the 
+mission to facilitate end-to-end emissions data.  
+
+Smart  Freight  Centre  will  maintain  its  role  as  a 
+steering  guide  for  the  future  of  SFC  Exchange 
+Network  as  well  as  advocate  for  the  overall 
+industry.  This 
+alignment  within 
+requires 
+the 
+polishing 
+to  ensure  checks  and 
+governance  structure 
+balances  of  representation  between 
+logistics 
+stakeholders.  
+
+logistics 
+and 
+
+strengthening 
+
+the 
+
+All  in  all,  participants  can  resonate  with  the 
+business  value  proposition  of  the  project,  and  it 
+mostly 
+organization’s 
+decarbonization pursuits.  
+
+aligns  with 
+
+their 
+
+Next Steps  
+
+Based on the results from Stable Release v 1.0, it 
+is  indicative  the  SFC  Exchange  Network  can 
+provide  a  valuable  infrastructure  to  decentral 
+exchange. However, for the technology to succeed 
+it requires to be scaled to participate and work with 
+all  logistics  actors,  including  the  freight  buyers, 
+service providers, and carriers.  
+
+Due  to  the  required  need  to  scale,  the  SFC 
+Exchange  Network  will  transition  to  a  dedicated 
+purpose  driven  organization,  with  the  mission  to 
+
+Additionally  utilizing  the  know-how  of  the  GLEC 
+community, Smart Freight Centre will continuously 
+push  for  and  establish  industry  consensus  for 
+primary  data  adoption  and  accounting  guidance, 
+including 
+interoperable  data 
+models  and  a  universal  structure  for  logistics 
+emissions.  
+
+the  provision  of 
+
+facilitate  end-to-end 
+
+A forthcoming step for the organization is to shape 
+the solution on need basis in the form of use cases 
+-  increasing  access  for  primary  data  for  SME 
+logistics 
+solutions  and 
+emissions 
+transparency.  The  SFC  Exchange 
+Network  is  an  ever-evolving,  agile  project  that  is 
+participatory  and  is  now  in  pursuit  under  the  new 
+organization  to  become  the  de-facto  industry 
+emissions exchange. 
+
+April 2024 
+
+8 
+
+ 
+ 
+ 
+Join our journey towards 
+
+efficient and zero-emission 
+
+global freight and logistics 
+
+Contact 
+Smart Freight Centre 
+Keizersgracht 560, 1017 EM 
+Amsterdam, Netherlands 
+
+P.O. Box 11772, 1001 GT 
+Amsterdam, Netherlands 
+
+Tel. office: +31 6 4695 4405 
+www.smartfreightcentre.org 
+info@smartfreightcentre.org  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

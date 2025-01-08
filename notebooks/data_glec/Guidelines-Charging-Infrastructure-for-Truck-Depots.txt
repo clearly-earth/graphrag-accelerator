@@ -1,0 +1,2204 @@
+Guidelines – Charging Infrastructure 
+for Truck Depots 
+
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Guidelines – Charging Infrastructure for Truck Depots 
+
+Authors 
+
+Jan Engelhardt, Technical University of Denmark 
+
+Peter Bach Andersen, Technical University of Denmark 
+
+Tharsis Teoh, Smart Freight Centre 
+
+Release date 
+July 2023 
+
+Class 
+Public 
+
+The report was sponsored by the European Copper Institute 
+
+Disclaimer 
+The views expressed in this report are those of the authors and may not be regarded as stating an 
+official position of the European Copper Institute. 
+
+Image credits 
+The cover image is based on a photo provided by ARC, Copenhagen, Denmark. 
+
+Technical University of Denmark 
+Department of Wind and Energy Systems 
+Frederiksborgvej 399, DTU Risø Campus 
+4000 Roskilde, Denmark 
+
+https://windenergy.dtu.dk/english 
++45 46 77 50 85 
+
+Smart Freight Centre  
+Keizersgracht 560 
+1017 EM Amsterdam 
+The Netherlands 
+
+https://www.smartfreightcentre.org/en/ 
++31 6 46 95 44 05 
+
+European Copper Institute 
+Avenue de Tervueren, 168 b-10 
+1150 Brussels, Belgium 
+
+Any questions? Please contact: 
+
+Diego Carvajal 
+European Copper Institute 
+
+https://copperalliance.org/regional-hubs/europe/ 
++32 2 777 7070 
+
+Email: diego.carvajal@copperalliance.org 
+
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Content 
+
+Nomenclature ......................................................................................................................................... 3 
+
+1. 
+
+Introduction .................................................................................................................................... 4 
+
+1.1. 
+
+Reasons to go electric ............................................................................................................. 4 
+
+1.2. 
+
+The importance of charging infrastructure ............................................................................. 4 
+
+1.3. 
+
+How this guide can help .......................................................................................................... 5 
+
+2.  Charging solutions – an overview ................................................................................................... 7 
+
+2.1. 
+
+Charging options for trucks ..................................................................................................... 7 
+
+2.2. 
+
+Diagram of typical installation .............................................................................................. 10 
+
+3.  Key questions for your depot ........................................................................................................ 12 
+
+4. 
+
+Establishing charging infrastructure – phases and costs .............................................................. 13 
+
+4.1. 
+
+Timeline for deploying charging infrastructure .................................................................... 13 
+
+4.2. 
+
+Infrastructure CapEx ............................................................................................................. 14 
+
+5.  Choosing a solution ....................................................................................................................... 16 
+
+5.1. 
+
+Establish your charging demand ........................................................................................... 16 
+
+5.2. 
+
+Identify charging solutions .................................................................................................... 18 
+
+5.3. 
+
+Assess the depot ................................................................................................................... 20 
+
+5.4. 
+
+Selected cases ....................................................................................................................... 24 
+
+6. 
+
+Summary – main recommendations ............................................................................................. 25 
+
+Relevant Literature ............................................................................................................................... 26 
+
+  
+ 
+ 
+ 
+ 
+ 
+Nomenclature 
+
+AC 
+
+AFIR 
+
+CapEx 
+
+CCS 
+
+CO2 
+
+CPO 
+
+DC 
+
+EU 
+
+EV 
+
+Alternating current  
+
+Alternative fuels infrastructure regulation 
+
+Capital expenditure 
+
+Combined charging system  
+
+Carbon dioxide 
+
+Charge point operator 
+
+Direct current  
+
+European Union 
+
+Electric vehicle 
+
+GCWR 
+
+Gross combined vehicle weight rating 
+
+HDV 
+
+kW 
+
+kWh 
+
+LCA 
+
+MCS 
+
+SOC 
+
+TCO 
+
+Heavy-duty vehicles  
+
+Kilowatt 
+
+Kilowatt hour 
+
+Life cycle assessment 
+
+Megawatt charging system 
+
+State of charge 
+
+Total cost of ownership 
+
+Nomenclature 
+
+3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Introduction 
+
+1.1. Reasons to go electric 
+
+All European countries, citizens, and businesses share a common mission to strive for sustainability. 
+As part of this mission, all modes of transport, including commercial freight vehicles, must undergo 
+electrification in order to reach national and European carbon dioxide (CO2) emission targets.  
+
+According to the European commission, heavy-duty vehicles (HDV) contribute to more than a quarter 
+of CO2 emissions from road transport1, although only representing 2.5 % of the road fleet2. This means 
+that the over  6.4 million medium and heavy commercial vehicles on EU roads  play a major role  in 
+achieving sustainability. To promote truck electrification, the European Union (EU) will continuously 
+strengthen legislation and requirements for vehicle emissions.  
+
+As  such,  in  2023,  the  European  commission  has  proposed  to  strengthen  the  regulation  on 
+CO2 emission standards for heavy-duty vehicles.3 The new regulation would aim at a 45% reduction 
+in heavy-duty vehicle emissions (compared to 2019 levels) in 2030, and a 90% reduction in 2040. This 
+means  that  converting  to  electric  trucks  ultimately  will  be  a  requirement  and  a  prerequisite  to 
+participate and compete in the market. 
+
+Electrification, however, should not only be seen as a duty and a requirement. It is also an opportunity 
+for truck owners and depot operators to proactively prepare for the transition to achieve economic 
+benefits  and  a  competitive  edge.  Despite  the  initial  investment  costs  on  vehicles  and  charging 
+infrastructure,  electric  transportation  holds  long-term  total  cost  of  ownership  (TCO)  benefits, 
+including  lower  maintenance  costs  for  vehicles  and  lower  fuel  costs  (current  energy  prices 
+notwithstanding). 
+
+TNO - Traffic & Transport has found that, by 2026, 90% of all truck segments investigated will reach a 
+lower TCO, assuming an increasing parity in truck acquisition costs4. This will happen faster for low or 
+medium milage trucks compared to long-haul trucks, due to the lower investment cost of the lighter 
+truck segments. For a truck in a specific segment, however, the overall TCO will improve compared to 
+a fossil-driven alternative, the more that it is driven.  
+
+1.2. The importance of charging infrastructure 
+
+A sufficient and effective charging infrastructure is the foundation for electrifying transportation. This 
+is  also  clearly  visible  though  the  large  emphasis  the  European  commission  has  put  on  charging 
+infrastructure as a prerequisite to achieve electrification targets. 
+
+1 https://climate.ec.europa.eu/eu-action/transport-emissions/road-transport-reducing-co2-emissions-
+vehicles_en 
+2 https://www.acea.auto/publication/report-vehicles-in-use-europe-2023/ 
+3 https://eur-lex.europa.eu/eli/reg/2019/1242/oj 
+4 https://www.tno.nl/publish/pages/3655/tno_2022_r11862_techno-economic_uptake_potential_of_zero-
+emission_trucks_in_europe.pdf 
+
+1. Introduction 
+
+4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Alternative Fuels Infrastructure Regulation (AFIR) sets targets for the available charging power 
+and spatial distribution of charging infrastructure for light and heavy-duty EVs5. 
+
+Along the the Trans-European Network (TEN-T), charging options for heavy-duty vehicles should be 
+no more than 60 km apart by 2025 and with power values of 1.4 MW by the end of 2030 and 3.5 MW 
+by 2035, with at least one 350 kW station being required for each location.  
+
+Though this will help long-haul transport, the vast majority of HDV charging will happen at depots – 
+making  this  the  single  most  important  infrastructure.  According  to  the  European  EV  Charging 
+Infrastructure Masterplan6 for a 30% reduction scenario in 2030, around 84% of the 279,000 charging 
+outlets needed for electrical trucks will be located at fleet hubs (opposed to “Public fast – highway” 
+and “Public overnight”). In terms of energy, fleet hubs are expected to cover 53% of the total energy 
+demand for electric trucks. For urban/regional trucks, addressed by this guide, the dependence on 
+charging hubs (including private depots) will be even greater. 
+
+It is therefore important for fleet and depot owners to proactively prepare this depot infrastructure. 
+A risk however is that initial costs and technical uncertainties will hold back this development. This 
+guide is made to help getting started on electrifying truck depots. 
+
+1.3. How this guide can help 
+
+This guide will provide information and guidance to companies owning and operating private truck 
+depots and aims at supporting better and more informed decisions on investing in charging solutions. 
+
+The guide is specifically aimed at private depots established to serve a single fleet of trucks for hour-
+long inter-shift layovers in the daytime or during night – and not charging hubs or logistics centers 
+established to provide B2B charging, logistics and parking services. 
+
+The depots aimed at by this guide would service as base for trucks of a single company serving an 
+urban or regional area.  
+
+Based on the above, we assume that the company owning the fleet and the depot to be the same, 
+although this may not always be the case. While it may complicate the investment strategy and costs 
+if the depot owner and fleet owner are different, we still believe the guide can provide help in such 
+situations. 
+
+The guide is organized as follows: 
+
+First, we provide a brief overview of charging solutions for trucks in order to provide the reader with 
+basic knowledge and terminology on the topic. 
+
+Next, we list the most important questions which the depot operator should start considering, all of 
+which determine the type of charging infrastructure needed. This list is useful when communicating 
+with possible providers of charging infrastructure and services. 
+
+The  guide  then  describes  the  high-level  phases  of  charging  infrastructure  procurement  including 
+timelines and CapEx. While most of the numbers are based on the authors’ experience from Denmark, 
+
+5 https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/12251-Low-emission-vehicles-
+improving-the-EUs-refuelling-recharging-infrastructure_en 
+6 https://www.acea.auto/publication/european-electric-vehicle-charging-infrastructure-masterplan/ 
+
+1. Introduction 
+
+5 
+
+ 
+ 
+ 
+ 
+they  are  complemented  with  figures  from  European  reports,  where  available.  Next,  the  guide 
+summarizes the main considerations to be made during the preparational phase, allowing to choose 
+the best possible charging infrastructure. To this end, the infrastructure will meet the demand at the 
+lowest possible cost while adhering to spatial constraints and the available grid capacity. 
+
+The most important steps in the preparational phase are to (1) establish your charging needs, to (2) 
+identify charging solutions, and finally to (3) assess the depot. Throughout these steps the guide will 
+also  provide  recommendations  and  tips  which  may  provide  improvements  and  savings  when 
+establishing the infrastructure. 
+
+Finally, we summarize the most important recommendations and lessons described throughout the 
+guide in section six. We believe that the information provided will be useful for fleet and depot owners 
+– and may accelerate the electrification of trucks in Europe. 
+
+1. Introduction 
+
+6 
+
+ 
+ 
+ 
+ 
+ 
+2. Charging solutions – an overview 
+
+2.1. Charging options for trucks 
+
+The type of chargers chosen for a depot depends primarily on the charging power needed by the trucks 
+to  fulfill  their  daily  energy  requirements  (driving,  refrigerating,  concrete  mixing,  refuse  collecting, 
+etc.).  The  two  main  categories  of  charging  are  so-called  alternating  current (AC)  and  direct 
+current (DC)  charging.  AC charging  is  used for  lower  charging  powers  up  to 43  kW  –  while  DC  can 
+provide up to 350 kilowatts (KW) with CCS and several megawatts (MW) with MCS. While DC charging 
+is more widely used and supported by trucks, and adds several additional advantages (see Section B 
+below), the costs are also greater – keeping AC charging as a relevant option for lighter urban trucks. 
+
+This part of the guide will present three important aspects to charging. (A) The charging power that 
+contemporary e-trucks typically support, (B) charging levels supported by the CCS and MCS plug, and 
+finally (C) examples of real chargers and their physical characteristics. 
+
+We use the term charger to describe the entire physical asset/enclosure used to charge the vehicles. 
+The term charge point is used to describe the individual outlets used to physically connect the trucks. 
+Some chargers have two or more charge points allowing multiple trucks to share a single charger.  
+
+A.  Supported charging powers in trucks today 
+
+Different models of trucks will support different charging power levels for AC and DC charging. For 
+some trucks there are different options for charging powers that can be specified at the time of order 
+or that can be added as a retrofit later. It is of course important to ensure that the trucks will match 
+the charging equipment in terms of power. 
+
+Figure  1  illustrates  a  few  examples  of  contemporary  e-trucks  and  the  charging  power  that  they 
+support.  
+
+Figure 1: Examples of charging power in trucks. 
+
+Be aware that charging of above 22 kW AC or 150-200 kW DC is less common in contemporary trucks. 
+Several trucks do not support AC – while DC charging support should be seen as mandatory.  
+
+2. Charging solutions – an overview 
+
+7 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+💡 
+
+Especially for high-power charging it is common that the experienced charging power will 
+be lower than the nominal charging power specified by charging equipment and truck. 
+This is determined by the so-called “charging curve” of electric vehicles and is influenced 
+by the temperature, the state of charge of the battery, and several other factors. 
+
+B.  Charging levels supported by the CCS and MCS plug 
+
+The majority of charging at depots is facilitated using the Combined Charging System (CCS) - type 2 
+inlet defined by the IEC 62196 standard. The inlet allows trucks to use both AC and DC chargers using 
+the same physical plug opening.  
+
+The  same  association  who  has  promoted  CCS,  CharIN,  is  also  behind  the  development  of  a  new 
+charging standard to support higher charging powers, in the Megawatt range, especially designed for 
+the heavy transport sector, including trucks. The Megawatt Charging System (MCS) standard will be 
+more suitable to meet the demand from trucks in situations where short parking and layover periods 
+will have to support the driving needs. This is especially relevant for long-haul transport where trucks 
+charge along the route – or at destinations during loading/unloading.  
+
+Figure  2  shows  some  typical  options  for  charging  power,  the  corresponding  charging  speed,  and 
+associated cost range. The charging speed is based on the nominal charging power of the charge point 
+and should be considered as the maximum charging speed obtained – the typical charging speed will 
+be lower, especially for higher charging powers. Costs are based on ACEA estimates7. 
+
+• 
+
+AC charging vs. DC charging – what’s the difference?  
+
+💡 
+•  Our common electricity system runs on alternating current (AC) which must be converted to 
+direct current (DC) needed by the truck batteries. This means that a conversion from AC to 
+DC needs to take place before the electric energy can be delivered to the truck battery.  
+If that conversion happens in the truck we call this AC charging – the charger simply delivers 
+AC power to the vehicle which then takes care of the conversion. Conversely, if the charging 
+station does the conversion, it is called DC charging. 
+The power components taking care of the conversion will add cost and weight – this is why 
+DC chargers are typically larger and cost more. Onboard chargers are typically small (with 
+relatively limited power) to save costs and weight. 
+The  immediate  benefit  of  DC  charging  is  the  increase  in  charging  speed  and  the  broader 
+support among trucks. Moreover, the  communication mode  used in DC charging typically 
+allows for more advanced options including pre-heating, pre-conditioning, and information 
+on the battery SOC. 
+
+• 
+
+• 
+
+7 ACEA, Research Whitepaper, European EV Charging Infrastructure Masterplan, 2022 
+
+2. Charging solutions – an overview 
+
+8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2: AC and DC charging using CCS and MCS inlet. Charging speeds are based on an assumed consumption of 1-1.5 kWh 
+per km, the maximum/nominal charging power and cost provided by “European EV Charging Infrastructure Masterplan”, 
+ACEA, 2022. The placing of the inlets on the truck is for illustrative purposes only. 
+
+In this guide, the emphasis is put charging powers between 22 kW AC and 150 kW DC charging, since 
+this range represents best the needs encountered at private depots within the scope of this guide. If 
+the fleet has an extraordinary charging demand and limited layover time available for charging at the 
+depot – we recommend talking to a consultant about the possibility of 350 kW and MCS charging. 
+
+In case AC chargers are sufficient to meet the demand it is also worth considering including one or a 
+few DC chargers to handle special events where a more pressing need for charging arises. 
+
+C.  Charging solution examples – placement and physical footprint 
+
+Depending  on  the  chosen  solution,  the  physical  charging  hardware  will  have  different  dimensions 
+which influence the placement and protection needed in the environment in which they are installed. 
+While equipment is continuously developed and specialized to fit into many types of environments – 
+depending  on  specific  user  needs  and  special  constraints  –  we  here  define  three  main  types  as 
+illustrated in Figure 3, supporting either AC type-2 (Mennekes) or CCS type plugs. The main difference 
+between these categories is the space they will take up at the depot and the specific placement of the 
+hardware relative to the trucks. 
+
+2. Charging solutions – an overview 
+
+9 
+
+ 
+ 
+ 
+ 
+ 
+Figure 3 – Type 2 /CCS charger types and dimensions a) Charging box (AC Type 2) mounted on pole. Source:zapp.dk b) Free 
+standing DC charger (DC CCS). Source: hypercharger.it c) Satellite chargers (DC CCS). Source: kempower.com 
+
+a)  AC/DC Charging box 
+
+The small size of charging boxes allows for many placement options. The boxes are typically either 
+mounted on a wall, or on a dedicated charging pole in sets of one-two. This design is typically used for 
+AC charging – although charging boxes for DC charging are also available for moderate power levels 
+(typically 50 kW). The charger in Figure 3 measures (H*W*D) 392 x 258 x 112 mm.  
+
+b)  DC charger – free standing 
+
+The most common solution for DC chargers is the classical free stranding version. The chargers are 
+placed on the terrain relatively close to where the trucks can park. The “fridge” size of such chargers 
+increases the considerations which must be made for the maneuverability of the trucks and takes up 
+the  most  space  estate  compared  to  the  two  other  categories.  The  solution  illustrated  in  Figure  3 
+measures (H*W*D) 2250 x 420 x 854 mm. 
+
+c)  DC charger - Satellite 
+
+An alternative solution is the option of collecting the power electronics in a separate enclosure which 
+can be placed separately from the charging outlets themselves. This means that the charging solution 
+will take up less space in the area where the trucks operate and can have advantages regarding safety 
+and maneuverability. The solution shown in Figure 3 measures (H*W*D) 1500 x 300 x 300 mm. 
+
+2.2. Diagram of typical installation  
+
+When  building  charging  infrastructure  at  a  depot,  the  chargers  will  be  integrated  into  the  existing 
+electricity installation. Figure 4 provides an overview of the components and key connection points. 
+Commonly,  depots  are  connected  via  underground  cables  to  the  public  distribution  grid.  The 
+connection point is equipped with an electricity meter measuring the consumption of the depot. The 
+grid  connection  point  is marked  with  number  .  The  consumption  of  the  already  existing electric 
+installation including all appliances is in the following referred to as the “base load”, indicated by . 
+The chargers are integrated into the existing electric installation at point , which can be equipped 
+with  an  electricity  meter  dedicated  to  measuring  the  aggregated  consumption  of  the  charging 
+infrastructure. 
+
+2. Charging solutions – an overview 
+
+10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+One of the key questions when building charging infrastructure at a depot is if the existing electric 
+installation of the building is sufficient for incorporating the additional load imposed by the chargers. 
+The added consumption of the chargers at point  and the base load at point  must always be lower 
+than the power rating of the grid connection point . This topic will be, among other items, discussed 
+in the following section.  
+
+ 
+
+
+
+Grid connection of depot
+
+Depot base load
+
+Connection point of chargers
+
+Already installed cables
+New cables for chargers
+
+Electricity meter
+
+Connection to 
+other buildings
+
+
+
+Transformer 
+substation
+
+ 
+
+
+
+Figure 4: Overview of depot with charging infrastructure. 
+
+2. Charging solutions – an overview 
+
+11 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3. Key questions for your depot 
+
+Before choosing a charging solution for the depot there are a number of important questions that will 
+determine the need in terms of chargers and grid connection. Having answers ready for most of these 
+questions  will  help  when  going  through  the  rest  of  the  guide,  but  also  when  talking  to  potential 
+subcontractors or consultants. 
+
+Establish your 
+charging needs 
+
+Identify charging 
+solutions 
+
+1.  How many electric trucks will use the depot now and in the future? 
+Make a forward-looking plan for how much of your fleet you will 
+electrify and when. 
+
+2.  What are the usage patterns of the trucks using your depot?  
+
+Determine how long the trucks are parked at the depot and when. 
+
+3.  What distances do the trucks drive between visiting the depot? 
+
+Both on average and “worst-case”. 
+
+4.  How much energy are the electric trucks spending per km driven? 
+Provided by truck manufacturer, but also take practical experience 
+of other fleet operators into account. 
+
+5.  What charging power will the electric trucks be able to support for 
+
+AC and DC charging, respectively? 
+If you can customize the trucks charging options, you may first 
+consider if you will charge AC or DC at the depot.  
+
+6.  What are your long-term plans for charging opportunities at the 
+
+depot?  
+How many charging options will you ultimately need at the depot. 
+
+Assess the depot  
+
+7.  What is the grid connection capacity at your depot?  
+
+If in doubt, consult an electrician and your grid company. 
+8.  Are there size constraints at the depot which may limit the 
+
+possibility of placing chargers or having the trucks access them?  
+Especially free-standing DC chargers take up space and custom 
+solutions may be necessary. 
+
+9.  What regulations and safety considerations apply for the depot?  
+National/regional/local and technical regulations regarding the 
+installation of charging infrastructure need to be consulted. 
+10. Is the depot co-located with PV or battery storage are there any 
+
+plans for this? 
+Both may decrease grid-associated costs and carbon footprint. 
+
+3. Key questions for your depot 
+
+12 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4. Establishing charging infrastructure – phases and costs 
+
+This guide is meant to support the first, preparational phase of establishing charging infrastructure. 
+As illustrated in Figure 5 this guide focuses on the main steps that need to be taken to assess the best 
+solutions for charging. We recommend contacting the  local grid company even before making this 
+assessment as the possibilities, costs and lead times that they can indicate will have a large bearing 
+on the economy and time needed for the project.  
+
+Figure 5: main phases of establishing charging infrastructure 
+
+In the following chapter “Choosing a solution” you can read about the considerations which will go 
+into  dimensioning  the  infrastructure  to  the  depot’s particular  needs  –  so you are  better equipped 
+when reaching out to consultants, technicians and your grid company. 
+
+In this section we will provide time and CapEx estimates for establishing a charging infrastructure 
+
+4.1. Timeline for deploying charging infrastructure 
+
+Establishing a charging infrastructure can take from a few months up to several years (worst case) 
+depending on the chosen charger solutions and the grid’s ability to accommodate that demand. 
+
+A  rise  in  demand  for  charging  infrastructure  means  that  bottlenecks  may  arise  –  and  should  be 
+anticipated in the project plan. Establishing  early contact and coordination with providers (charger 
+providers, technicians, grid company) will provide the depot operator with a better estimate of the 
+time needed. 
+
+The  time  it  will  take  to  establish  a  charging  infrastructure  depends  on  four  main  processes  in  the 
+implementation phase8; delivery, permits, installation and potential grid extensions. 
+
+While the duration of each process varies significantly over time and for each country/region, we here 
+provide examples from Denmark to provide a rough estimate on the order of magnitude which may 
+be expected. 
+
+8 EU EV Charging Masterplan, expert interviews, Eurelectric, CLEPA 
+
+4. Establishing charging infrastructure – phases and costs 
+
+13 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 1 - Estimated lead times for 22 kW AC and 150 DC chargers, Denmark 2023. 
+
+Time  for  delivering  chargers:  Especially  high-
+power chargers may have longer lead times. 
+
+AC 22 kW 
+
+DC 50 kW  
+
+DC 150 kW 
+
+1-2 months 
+
+2-5 months 
+
+2-5 months 
+
+Construction permits: For high-power charging, 
+re-constructions/depot 
+requiring 
+retrofits,  getting  the  appropriate  permits  may 
+take time. 
+
+larger 
+
+- 
+
+- 
+
+1-6 months 
+
+Installation:  Electricians  with  experience  in 
+charging infrastructure are in high demand. 
+
+2-3 months 
+
+2-3 months 
+
+2-5 months 
+
+DSO  approval  and  grid  extension:  Grid 
+companies  may  have  longer  lead  times  for 
+approving and delivering extra capacity due to 
+high demand.  
+
+1-3 months 
+
+1-3 months 
+
+3-24 months 
+
+Total time 
+
+3-6 months 
+
+4-8 months 
+
+6-24 months 
+
+The table illustrates the differences time depending on the charging powers required – but also the 
+uncertainties associated with the respective processes. It is assumed that some of the above processes 
+can be carried out in parallel.  
+
+4.2. Infrastructure CapEx 
+
+The  main  determining  factor  to  the  CapEx  is  the  size  of  the  infrastructure  in terms of  numbers  of 
+charge points and the power rating of each. Faster chargers will in general cost more and result in 
+larger costs for grid upgrades. The following table present estimates for the main costs of establishing 
+a  single  AC  or  DC  outlet  based  on  numbers  from  ACEA9  supplemented  by  input  from  a  Danish 
+installation company. 
+
+The main costs of establishing a charging infrastructure are listed below.  
+
+Planning and administration 
+
+1 k€ 
+
+1.5 k€ 
+
+2 k€ 
+
+AC 22 kW 
+
+DC 50 kW 
+
+DC 150 kW 10 
+
+Charging equipment 
+
+1 k€ 
+
+10 k€ 
+
+70 k€ 
+
+9 ACEA, Research Whitepaper, European EV Charging Infrastructure Masterplan, 2022 
+10 Source AFIR Impact Assessment 1/2 Table 48, https://ec.europa.eu/info/law/better-regulation/have-your-
+say/initiatives/12251-Low-emission-vehicles-improving-the-EUs-refuelling-recharging-infrastructure_en 
+
+4. Establishing charging infrastructure – phases and costs 
+
+14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Installation 
+
+1 k€ 
+
+5 k€ 
+
+60 k€ 
+
+Cost per outlet (excl. grid upgrades) 
+
+1.5 k€ 
+
+16.5 k€ 
+
+132 k€ 
+
+:
+E
+S
+A
+C
+
+k
+r
+a
+m
+n
+e
+D
+
+Grid upgrades – from best to worst 
+case. Based on Danish connection 
+fees of ~130 EURO/Amp. 
+
+0–4 k€ 
+
+0–10.5 k€ 
+
+0–50 k€ 
+
+Cost per outlet (with grid upgrades) 
+
+1.5–5.5 k€ 
+
+16.5k – 27 k€ 
+
+132–182 k€ 
+
+Danish customers would pay a fixed grid connection tarif per Ampere required at the facility – this will 
+differ from country to country and it is best to recieve an early cost indication from the grid company 
+as soon as the power requirements have been estimated.  
+
+💡 
+• 
+
+• 
+
+• 
+
+Key remarks on costs and installation times 
+
+A 22 kW AC charger can cost 1.5–5.5 k€ and takes up to 6 months to install, a 150 kW DC 
+charger can cost 132–182 k€ and takes up to 24 months to install.  
+As  such,  it  is  important  to  establish  an  early  understanding  of  the  charging  power 
+requirement, as this will determine both CapEx and time needed to complete the charging 
+infrastructure.  
+Regardless of the charging infrastructure, depot operators should start the implementation 
+process as early as possible to accommodate for possible delays and lead times in charger 
+acquisition, installation, and grid upgrades. 
+
+4. Establishing charging infrastructure – phases and costs 
+
+15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5. Choosing a solution  
+
+When establishing charging infrastructure, three main steps are imperative: 
+
+Step 1 
+
+Step 2 
+
+Step 3 
+
+Establish your charging needs: First, it is essential to assess the 
+charging demand of the trucks at the depot. This is done under 
+consideration of  truck  properties  and operating  profile.  All  in 
+all, this step estimates energy needs and power consumption of 
+each truck. 
+
+Identify charging solutions: This step aims at identifying charger 
+types that are suitable for fulfilling the charging demand of the 
+trucks,  as  well  as  determining  the  corresponding  number  of 
+charge points needed at the depot. 
+
+Assess the depot: To fulfill the energy needs of the trucks, the 
+grid connection capacity and space requirements at the depot 
+need to be assessed. This step analyses how the depot can be 
+prepared to accomplish the shift to electric trucks. 
+
+Figure 6: Establishing charging infrastructure in three steps. 
+
+The following subsections provide detailed information on each of the three steps. Although the steps 
+build up on each other, the overall methodology is still considered part of the preparation phase. This 
+means that decisions on the charging solution should only be made after the assessment of all three 
+steps. For clarifying the theoretical aspects, an exemplary fleet profile is used to demonstrate each 
+step.  
+
+5.1. Establish your charging demand 
+
+To  determine  the  charging  demand  of  a  single  truck,  the  daily  driving  distance  (in  km)  and  the 
+ of the truck is 
+consumption of the truck (in kWh/km) need to be considered. The energy demand 
+calculated as: 
+
+𝐸
+
+While the driving distance is usually well known by the fleet operator, the consumption of the truck 
+𝐸 =  𝑑𝑖𝑠𝑡𝑎𝑛𝑐𝑒 ⋅ 𝑐𝑜𝑛𝑠𝑢𝑚𝑝𝑡𝑖𝑜𝑛 + 𝑎𝑢𝑥𝑖𝑙𝑖𝑎𝑟𝑦
+can be provided by the truck manufacturer. However, like for diesel trucks, the actual consumption 
+can differ from the stated values. For this reason, practical experience and test drives can help identify 
+the realistic truck consumption and provide important insights, since the consumption can largely vary 
+with the driving style. If present, auxiliary systems of the truck should also be taken into account, for 
+instance, refrigeration, concrete mixing, or refuse collecting. 
+
+The energy charged at the depot cannot exceed the usable battery capacity of the truck. For instance, 
+if  the  daily  driving  distance  is  larger  than  the  maximum  vehicle  range,  public  chargers  or  charging 
+opportunities at logistic centers need to be used in addition to depot charging. In these cases, the 
+
+5. Choosing a solution 
+
+16 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+      
+   
+ 
+ 
+ 
+ 
+ 
+ 
+considerations for depot charging only take into account the truck’s battery capacity as the energy 
+demand, and not the overall consumption between depot charging.  
+
+Once the energy demand of a truck is known, the minimum charging power that needs to be provided 
+ (in 
+at the depot is calculated. The calculation is based on the truck’s energy demand at the depot, 
+kWh), the time at the depot 
+ (in hours), and the charging efficiency 
+
+ (in percent): 
+
+𝐸
+
+𝑡
+
+𝜂
+
+𝑃𝑚𝑖𝑛 =  
+
+𝐸
+𝑡
+
+⋅
+
+1
+𝜂
+
+𝑃𝑚𝑖𝑛
+
+The minimum power 
+ indicates the power a truck would need to charge continuously at during 
+its time at the depot to fulfill the energy needs. The equation shows that for shorter layover times at 
+the depot, the required power level increases. Furthermore, the efficiency 
+ takes into account the 
+power losses in charger and truck battery. With lower efficiency, more energy needs to be provided 
+by  the  depot  to  compensate  for  the  losses  during  the  charging  process.  The  charging  efficiency 
+depends on various factors such as the specific battery type, the charger type, and charging power. 
+To provide a simple figure, we recommend calculating with an efficiency of 90%.  
+
+𝜂
+
+💡 
+
+In case the fleet comprises different types of trucks and/or different operating profiles, 
+the method should be applied to each truck group individually. This is necessary since the 
+different trucks might require different chargers to fulfill their individual energy needs. 
+
+CASE – exemplary fleet profile 
+
+The  presented  methodology  is  demonstrated  with  an  exemplary  fleet  profile,  presented  in  the 
+following table. 
+
+Truck properties  
+
+Category 
+Weight  
+Usable battery capacity 
+Consumption 
+AC charging power 
+DC charging power 
+
+Weight category 1, rigid 
+18 t. (GCWR) 
+316 kWh  
+0.95 kWh/km 
+22 kW 
+150 kW 
+
+Operation 
+
+Distance between depot charging 
+Time at depot 
+Number of vehicles 
+
+130 km 
+17:00 – 7:00 (14 hours) 
+5 
+
+Source:  www.volvotrucks.dk 
+
+First, the daily energy needs of a single truck are calculated based on the driving distance and the 
+truck consumption: 
+
+𝐸 =  𝑑𝑖𝑠𝑡𝑎𝑛𝑐𝑒 ⋅ 𝑐𝑜𝑛𝑠𝑢𝑚𝑝𝑡𝑖𝑜𝑛 = 130 km ⋅  0.95 kWh/km =  123.5 kWh
+The battery capacity of 316 kWh is sufficient to cover the daily energy needs. Therefore, the daily 
+charging demand at the depot is 
+
+. 
+
+123.5 kWh
+
+5. Choosing a solution 
+
+17 
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The minimum charging power is estimated based on the energy demand, the time at the depot, 
+and  the  charging  efficiency.  For  the  present  case,  a charging  efficiency of 
+  is  assumed, 
+considering  power  losses  in  charger  and  truck  battery.  The  minimum  power  is  calculated  as: 
+
+𝜂 = 90%
+
+123.5 kWh
+= 9.8 kW
+⋅
+14 h
+ during the time at 
+The truck would need to charge continuously with an average power of 
+the depot to fulfill the energy needs. Building on this, the following section presents the selection 
+process for the chargers.  
+
+1
+90%
+
+𝑃𝑚𝑖𝑛 =
+
+9.8 kW
+
+𝐸
+𝑡
+
+  =  
+
+1
+𝜂
+
+⋅
+
+5.2. Identify charging solutions 
+
+The decision on the charging infrastructure layout centers around two main questions, addressing 
+the type and the number of charge points. 
+
+1)  What type of chargers are needed? 
+
+ per truck was estimated, as well as the minimum charging 
+In the previous step the energy need 
+power 
+.  This  power  corresponds  to  continuous  charging  between  arrival  and  departure.  The 
+power  rating  of  the  charger  should  clearly  exceed  this  value  to  ensure  that  the  truck  reaches  its 
+energy needs with a sufficient time buffer before departure.  
+
+𝑃𝑚𝑖𝑛
+
+𝐸
+
+The time buffer should be considered for several reasons. First, if the truck arrives late at the depot, 
+the charger has less time to provide the required energy. Second, in case of increased energy needs 
+on single days, e.g., due to traffic or unanticipated detours, the charger must recharge more energy 
+in the given layover time at the depot. Third, a truck commonly reduces the charging power when 
+the  battery  approaches  its  upper  charge  limit.  Hence,  the  average  charging  power  of  a  charging 
+process is lower than the rated power of the charger.  
+
+When  selecting  an  AC  charger,  the  rated  power  should  be  at  least  50%  more  than  the  minimum 
+average power calculated in step 1: 
+
+𝑃𝐴𝐶 𝑐ℎ𝑎𝑟𝑔𝑒𝑟 > 1.5 ⋅ 𝑃𝑚𝑖𝑛
+When selecting a DC charger, the rated power should be at least double the minimum average power 
+calculated in step 1: 
+
+𝑃𝐷𝐶 𝑐ℎ𝑎𝑟𝑔𝑒𝑟 > 2 ⋅ 𝑃𝑚𝑖𝑛
+The reason for this distinction lies in the overall higher power rating at DC chargers. Generally, trucks 
+will  reduce  their  charging power when their  battery approaches  100%  SOC.  At high  power  levels, 
+which  are  experienced  at  fast  chargers,  the  truck  will  reduce  the  charging  power  from  an  earlier 
+charge level, requiring a larger time buffer.  
+
+It should be noted that the values for 
+ are minimum requirements for the 
+ and 
+power rating of the charge points. The rating can also be chosen higher to achieve more flexibility for 
+shifting  the  charging  processes  to  preferable  time  windows,  for  instance,  to  periods  with  lower 
+electricity prices. Besides  considerations on both investment  and operating costs  for the  charging 
+
+𝑃𝐷𝐶 𝑐ℎ𝑎𝑟𝑔𝑒𝑟
+
+𝑃𝐴𝐶 𝑐ℎ𝑎𝑟𝑔𝑒𝑟
+
+5. Choosing a solution 
+
+18 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+infrastructure, it is indispensable to assess the existing electric installation at the depot including the 
+grid connection capacity, which is further addressed in Section 5.3. 
+
+Another crucial aspect in the selection of suitable chargers is compatibility with the truck properties. 
+For instance, assuming a truck can charge up to 22 kW at an AC charger, and up to 150 kW at a DC 
+charger: If 
+ was estimated at 25 kW, only DC charge points with 50 kW or more are suitable. In 
+this example, AC charge points of 43 kW are not suitable since the truck would only charge at 22kW 
+and therefore not reach the energy needs.  
+
+𝑃𝑚𝑖𝑛
+
+2)  How many charge points are needed? 
+
+The number of charge points depends to a large extent on the fleet size, but is also influenced by their 
+coincidence factor at the depot, i.e., if they are using the depot at the same time. For fleets with a 
+homogeneous schedule where all trucks arrive and leave at the same time, a truck/charge point ratio 
+of 1:1 is needed, meaning that there is one functional charge point per truck. For fleets where the 
+trucks have different operating schedules the number of charge points may be chosen to be less than 
+the  number  of  trucks,  presuming  that  their  schedules  allow  to  use  the  same  charge  points 
+consecutively.  
+
+Special  considerations  apply  to  DC  chargers,  which  are  often  built  with  two  charge  points 
+(connectors/plugs) per charger. In this case, one charger can be used by two trucks simultaneously. 
+When  selecting  the  charger  rating,  it  is  important  to  consider  that  each  of  the  charge  points  can 
+provide the power levels required for fulfilling the trucks’ charging needs. Assuming a scenario where 
+. In this case, a DC 
+the minimum power rating for the charger was estimated as 
+charger with two connectors à 75 kW can charge two trucks simultaneously. Hence, the total power 
+rating of the DC charger is 150 kW.  
+
+𝑃𝐷𝐶 𝑐ℎ𝑎𝑟𝑔𝑒𝑟 = 60 kW
+
+In case AC chargers are sufficient to meet the demand it is also worth considering installing one or 
+more  high-power  DC  chargers,  depending  on the  fleet  size.  This  can  help  to  handle  special  events 
+where a more pressing need for charging arises for individual trucks.  
+
+💡 
+
+Heterogeneous fleets with diverse truck types and/or operating profiles might require a 
+mix of AC and DC chargers. 
+
+CASE – exemplary fleet profile 
+
+In the previous step the minimum average charging power of the truck at the depot was estimated 
+as 
+
+ This value corresponds to continuous charging between arrival and departure.  
+
+9.8 kW.
+
+The  power  rating  of  the  charge  point  should  clearly  exceed  this 
+value to ensure that the truck reaches the required energy with a 
+sufficient  time  buffer.  The  minimum  power  rating  of  the  charge 
+point is estimated as 
+
+𝑃𝐴𝐶 𝑐ℎ𝑎𝑟𝑔𝑒𝑟 > 1.5 ⋅ 9.8 kW = 14.7 kW
+In the present example, an AC charge point with a rated power of 
+22 kW  is  suitable  for  fulfilling  the  charging  needs.  A  charge  point 
+
+Source: https://new.abb.com/ 
+
+5. Choosing a solution 
+
+19 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+with a rated power of 11 kW should not be considered, as it does not provide a sufficient time 
+buffer in case of delayed arrivals at the depot or an increased energy demand due to unanticipated 
+detours. The  following figure  shows  the truck charging profile  at a 22 kW AC charge  point. The 
+truck arrives at the depot at 17:00 and leaves at 7:00 the next morning. The charging process is 
+completed around midnight. 
+
+Arrival
+
+Departure
+
+22 kW
+
+14:00
+
+16:00
+
+18:00
+
+20:00
+
+22:00
+
+00:00
+
+02:00
+
+04:00
+
+06:00
+
+08:00
+
+10:00
+
+Time
+
+Figure 7: Charging profile of a single truck at a 22 kW AC charge point. 
+
+For the fleet of 5 trucks, a total of 5 AC charge points with a rated power of 22 kW each are needed. 
+This corresponds to a truck/charge point ratio of 1:1. The aggregated consumption of all charging 
+processes is crucial to assess in relation to the available grid connection capacity, which is addressed 
+in the following section. 
+
+5.3. Assess the depot 
+
+To facilitate the successful implementation of charging infrastructure at a depot, both electrical and 
+spatial  requirements  need  to  be  considered.  This  step  addresses  related  questions  and  further 
+provides recommendations for the management and operation of the depot. 
+
+1) 
+
+Is the grid connection sufficient? 
+
+When installing charging infrastructure at a depot, it is crucial to assess if the existing grid capacity is 
+sufficient  to  incorporate  the  demand  added  by  the  chargers,  under  consideration  of  the  already 
+existing consumption at the depot. Assuming the “worst case” of simultaneous charging at the rated 
+power of all chargers, the maximum total added load is calculated as 
+
+𝑃𝑐ℎ𝑎𝑟𝑔𝑖𝑛𝑔 = 𝑛𝑢𝑚𝑏𝑒𝑟 𝑜𝑓 𝑐ℎ𝑎𝑟𝑔𝑒𝑟𝑠 ⋅ 𝑝𝑜𝑤𝑒𝑟 𝑝𝑒𝑟 𝑐ℎ𝑎𝑟𝑔𝑒𝑟
+The  grid  connection  capacity  must  be  able  to  satisfy  both  the  charging  needs  and  the  base  load 
+consisting of the other appliances of the depot (e.g., lights, air conditioning units), as introduced in 
+Section 2.2.  If  the  additional  load  imposed  by  the  added  charging  infrastructure  cannot  be 
+incorporated  in  the  existing  electric  installation  of  the  depot,  the  grid  connection  needs  to  be 
+upgraded.  It  is  noteworthy  that  grid  connection  upgrades  commonly  entail  significant  investment 
+costs for equipment and installation, as well as higher grid connection fees to the distribution grid 
+operator  (Section 4).  Due  to the  high  costs,  it  is  essential  to consider  solutions for minimizing  grid 
+connection upgrades. This includes load management systems, which ensure that the collective power 
+consumption of all chargers always stays below a certain limit – and that the available power is shared 
+among the trucks.  
+
+💡 
+
+Battery  and  photovoltaic  systems  can  reduce  both  the  grid  impact  and  the  operating 
+costs. The battery system can be charged during hours with low electricity prices and with 
+locally produced energy, and later discharged to cover parts of the truck demand. 
+
+5. Choosing a solution 
+
+20 
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CASE – exemplary fleet profile 
+
+In the present example we assume a grid capacity of the depot of 43 kW. This corresponds to a 
+standard 3 phase grid connection of 230V and 63A.  
+
+The  following  figure  illustrates  the  base  load  by  other  appliances,  aggregated with  the charging 
+processes of the 5 trucks, assuming immediate charging after arrival at the depot. The trucks add 
+ to the base load. As visible in the figure, the existing grid 
+an additional load of 
+capacity of 43 kW is not sufficient to incorporate the additional load imposed by truck charging. 
+Assuming a maximum base load of 15 kW during the time of truck charging, the grid connection 
+must  be  increased  to  at  least  125  kW,  which  is  approximately  three  times  the  current  grid 
+connection.  
+
+5 ⋅ 22 kW = 110 kW
+
+The need for large grid connection upgrades can be reduced by using load management solutions 
+for the chargers. This allows to actively control and coordinate the charging processes of all trucks, 
+utilizing the temporal flexibility of the charging processes. The effect is also demonstrated in the 
+following  figure.  By  shifting  the  energy  consumption  of  the  chargers,  the  overall  power 
+consumption at the depot can be kept below a given threshold, in the given example below 70 kW. 
+Despite the imposed power limit, the charging processes are finished around 2h before departure.  
+
+Arrival
+
+Departure
+
+125 kW
+
+70 kW
+
+43 kW
+
+Base load
+
+Chargers
+
+Shifted peak
+
+14:00
+
+16:00
+
+18:00
+
+20:00
+
+22:00
+
+00:00
+
+02:00
+
+04:00
+
+06:00
+
+08:00
+
+Figure 8: Truck charging with load management. The peak consumption can be effectively mitigated by shifting the load 
+to later times, reducing the need for extensive grid upgrades. 
+
+To  facilitate  load  management,  it  is  important  to  select  chargers  that  comply  with  application 
+protocols,  such  as  OCPP  (Open  Charge  Point  Protocol).  The  protocol  allows  chargers  and  central 
+management systems to communicate with each other. This is particularly important if the chargers 
+are from different manufacturers.  
+
+Besides limiting the overall power consumption to a desired threshold, load management solutions 
+offer additional advantages. The controllability of the individual charging processes allows to shift the 
+charging to preferable time windows, for instance, to hours with low electricity prices, or to hours of 
+own solar production. This can reduce operating costs, especially with fluctuating electricity prices. As 
+previously highlighted in Section 5.2, the temporal flexibility can be increased by selecting chargers 
+
+5. Choosing a solution 
+
+21 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ derived in 
+with connector power levels above the minimum values for 
+Step 2. The considerations on the optimal power level for the chargers center around the following 
+points. 
+
+𝑃𝐷𝐶 𝑐ℎ𝑎𝑟𝑔𝑒𝑟
+
+𝑃𝐴𝐶 𝑐ℎ𝑎𝑟𝑔𝑒𝑟
+
+ and 
+
+The higher the power level of the chargers, the higher the flexibility to shift the charging processes to 
+low-price  time  windows,  which  reduces  operating  costs.  However,  the  investment  costs  for  the 
+chargers  are  higher, as  illustrated  in  Section 4.  Furthermore,  the  grid  connection capacity  must  be 
+suitable for utilizing this flexibility. Potential upgrades of the grid connection increase investment costs 
+and may entail a significant implementation period. Moreover, preventing high power consumption 
+at the grid connection point effectively reduces operating costs in case network charges to utilities 
+consider  the  peak  power  during  a  given  billing  period.  All  in  all,  the  optimal  power  rating  of  the 
+chargers depends on various factors, which are location-specific and might change over time (e.g., 
+electricity  prices,  tariffs).  In  this  context,  the  minimum  required  power  rating  derived  in  Step  2 
+(Section 5.2) provides a lower bound to identify technically feasible solutions. 
+
+2) 
+
+What are the space and safety requirements at the depot? 
+
+When planning the installation of charging infrastructure at a depot, space and safety requirements 
+must be taken into account. The considerations center around the following aspects:  
+
+•  The  installation  of  chargers  requires  sufficient  space  for  both  the  actual  hardware  and  the 
+accessibility of the trucks to the chargers. Considerations regarding the trucks’ maneuverability 
+at the depot are imperative, so parking and swing-out collisions are avoided. 
+
+•  The exact charger position next to the truck’s parking spot must be chosen carefully. The position 
+of the plug inlet must be considered at the correct side (left/right), and with the correct distance 
+from the front of the truck. 
+
+•  Technical standards regarding the installation of charging infrastructure must be consulted. This 
+concerns aspects such as maximum and minimum distances between technical components, or 
+compliance with EMC (electro-magnetic compatibility) requirements. 
+
+•  That  depot  must  comply  with  national,  regional,  and  local  regulations  related  to  charging 
+infrastructure and parking of electric vehicles. It is recommended to get in dialogue with local 
+entities such as fire brigades. 
+Insurance  policies  should  be  checked  for  specific  requirements  concerning  charging 
+infrastructure.  
+
+• 
+
+💡 
+
+When electrifying only parts of the fleet, it is worth considering to already prepare the 
+underground infrastructure (cable tube) for additional chargers. 
+
+5. Choosing a solution 
+
+22 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3) 
+
+Management and operation 
+
+After  assessing  the  depot  with  respect  to  electrical,  spatial,  and  environmental  requirements,  a 
+decision  is  to  be  made  whether  the  installation  of  charging  infrastructure  is  feasible  at  the  given 
+location. If not, it should be considered to move the depot site to a different location that can meet 
+the requirements. 
+
+To ensure smooth fleet management, information on the charging processes of the individual trucks 
+can be linked to the fleet management software used for planning and monitoring the fleet operation. 
+In  this  way,  the  fleet operator  receives  updated  information  on  the  status  of each  truck,  e.g.,  the 
+connection  status  (not  connected/plugged-in/charging),  the  charge  level,  and  the  estimated  time 
+when charging will be completed. 
+
+Closely tied to the selection of charging infrastructure and software solution is whether to contract 
+with a charge point operator (CPO). CPOs are companies which are specialized in providing, installing, 
+and  operating  charging  equipment.  The  equipment  can  either  be  owned  by  the  CPO  or  they  can 
+operate  the  equipment  on  behalf  of  a  third  party  (e.g.  the  depot  operator).  While  it  is  generally 
+recommended that the depot has ownership of the hardware, it might make sense to let the technical 
+operation and maintenance to an external company. This can either be a CPO or another company 
+with  the  necessary  technical  expertise.  The  tradeoff  is  that  the  CPO  can  provide  a  package  which 
+simplifies the infrastructure acquisition and operation – but that adds operational costs long-term.  
+
+With the current electricity mix, the LCA emissions of electric trucks are already better than the ones 
+of  diesel  trucks  and  continue  to  improve  with  increasing  shares  of  renewables  and  improved 
+production practices for battery cells. To further decrease their carbon footprint, fleet operators can 
+select electricity retailers who offer green electricity options.  
+
+💡 
+
+It is worth to consider offering public access to the chargers during times when trucks are 
+on duty. If larger parts of the fleet are driving during the day and returning to the depot 
+in the evening, the idle infrastructure could be operated as public chargers offering an 
+additional source of income. 
+
+5. Choosing a solution 
+
+23 
+
+ 
+ 
+ 
+ 
+ 
+ 
+5.4. Selected cases  
+
+The methodology presented in Section 5 was applied to various fleet profiles, shown in Table 2. The 
+blue section of the table summarizes the inputs and assumptions for each fleet. In addition to the 
+operating schedule, exemplary truck properties such as the battery capacity and maximum charging 
+powers were made. The green section of the table presents the results obtained by applying the three-
+step methodology from Section 5. If the driving demand exceeds the battery capacity of the truck, 
+additional  charging  along  the  way  is  necessary,  as  previously  highlighted  in  Section 5.1.  For  the 
+calculation of the results, it was assumed that the fleet has a homogeneous schedule, i.e., all trucks 
+have similar arrival and departure times. The selected DC chargers power levels were assumed with 
+incremental steps of 25 kW. It is noteworthy that different manufacturers offer different product lines 
+that may provide finer steps for the power rating. For the calculation of the total charging cluster load 
+two  values  are  given.  The  first  value  (“max”)  indicates  the  maximum  power  consumption  of  the 
+charging  infrastructure  assuming  all  trucks  are  charging  simultaneously.  The  second  value  (“min”) 
+provides a lower bound of the possible power consumption, under the ideal assumption that a load 
+management system is used to control the charging processes of the different trucks. 
+
+Table 2: Overview of charging infrastructure examples for seven different fleet profiles. 
+
+Profile no. 
+
+Use case 
+
+2 
+
+1 
+Food retail – delivery to 
+supermarkets 
+
+4 
+
+3 
+Non-food retail –  
+delivery to retail outlets 
+
+6 
+
+5 
+Middle mile – between 
+distribution centers 
+
+7 
+
+Long haul 
+
+Fleet size 
+
+25 
+
+25 
+
+5 
+
+2 
+
+10 
+
+10 
+
+1 
+
+Daily distance  
+
+175 km 
+
+450 km 
+
+130 km 
+
+240 km 
+
+240 km 
+
+360 km 
+
+1000 km 
+
+Time at depot 
+
+14 h 
+
+8 h 
+
+14 h 
+
+12 h 
+
+16 h 
+
+10 h 
+
+12 h 
+
+Consumption  
+
+1.00 
+kWh/km 
+
+1.00 
+kWh/km 
+
+0.95 
+kWh/km 
+
+0.95 
+kWh/km 
+
+1.35 
+kWh/km 
+
+1.35 
+kWh/km 
+
+1.24 
+kWh/km 
+
+Battery capacity 
+
+316 kWh 
+
+316 kWh 
+
+316 kWh 
+
+316 kWh 
+
+468 kWh 
+
+468 kWh 
+
+432 kWh 
+
+Max. AC 
+charging power 
+Max. DC 
+charging power 
+Truck energy 
+demand 
+Min. truck 
+charging power  
+
+22 kW 
+
+22 kW 
+
+22 kW 
+
+22 kW 
+
+22 kW 
+
+22 kW 
+
+43 kW 
+
+150 kW 
+
+150 kW 
+
+150 kW 
+
+150 kW 
+
+375 kW 
+
+375 kW 
+
+250 kW 
+
+175 kWh 
+
+316 kWh 
+
+124 kWh 
+
+228 kWh 
+
+324 kWh 
+
+468 kWh 
+
+432 kWh 
+
+14 kW 
+
+44 kW 
+
+10 kW 
+
+21 kW 
+
+23 kW 
+
+52 kW 
+
+40 kW 
+
+Charger type 
+
+AC 22kW 
+
+DC 100kW 
+
+AC 22kW 
+
+DC 50kW 
+
+DC 50kW 
+
+DC 125kW 
+
+DC 100kW 
+
+Number of 
+charge points 
+Max. charging 
+cluster load  
+Min. charging 
+cluster load 
+
+25 
+
+25 
+
+5 
+
+2 
+
+10 
+
+10 
+
+1 
+
+550 kW 
+
+2500 kW 
+
+110 kW 
+
+100 kW 
+
+500 kW 
+
+1250 kW 
+
+100 kW 
+
+350 kW 
+
+1100 kW 
+
+50 kW 
+
+42 kW 
+
+230 kW 
+
+520 kW 
+
+40 kW 
+
+Operation 
+
+Truck 
+properties 
+
+1) Charging 
+demand 
+
+2) Charging 
+infrastructure 
+
+3) Grid 
+infrastructure 
+
+5. Choosing a solution 
+
+24 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6. Summary – main recommendations  
+
+1.  Establish your 
+charging needs 
+
+✓  Determine how many trucks will use the depot now and in the future. Identify key truck 
+
+properties, such as the battery capacity and possible charging power levels. 
+
+✓  Find the energy needed by the trucks at your depot, based on how much they drive and 
+
+2. Identify 
+charging solutions 
+
+consume between depot stops.  
+
+✓  You can then calculate the average power needed to meet the energy demand, in order 
+
+to understand which power levels the chargers should support. 
+
+  In case the fleet comprises different types of trucks and/or different operating profiles, 
+
+the trucks might require different chargers to fulfill their individual energy needs. 
+
+✓  Choose a charger type with a power rating at least 1.5 times (AC) or 2 times (DC) higher 
+
+than your average power demand estimated in the previous step. 
+
+✓  As a simple rule, we recommend one charge point per truck. However, if parts of the fleet 
+have  opposing  schedules,  the  number  of  charge  points  may  be  chosen  lower  than  the 
+number of trucks. 
+
+✓  Select  chargers  with  smart  charging  capability.  This  allows  to  control  the  charging 
+
+infrastructure through a load management system. 
+
+  Especially for high-power charging it is common that the experienced charging power will 
+be lower than the nominal charging power specified by the charging equipment and truck. 
+  AC charging is cheaper than DC,  and may  primarily  be  sufficient  for  use  cases  in  urban 
+areas.  For  higher  charging  demand,  we  recommend  DC  charging  due  to  additional 
+advantages in terms of charging powers and communication capabilities.  
+
+  Heterogeneous fleets with diverse truck types and/or operating profiles might require a 
+
+mix of AC and DC chargers. 
+
+3. Assess the 
+depot 
+
+✓  The grid company should be contacted immediately to discuss potential grid connection 
+limitations. Upgrading the grid may take a significant amount of time to complete and has 
+a considerable cost associated with it. 
+
+✓  Determine  if  the  grid  connection  capacity  is  sufficient  to  support  the  charging 
+
+infrastructure. 
+
+✓  A load management system may reduce the grid capacity costs significantly. On the other 
+hand, underinvesting in grid capacity while relying on load management too heavily might 
+constrain  future  extensions  of  the  depot,  and  further  reduces  the  flexibility  for  smart 
+charging.  
+It is important to identify potential size constraints at the depot which may impact the 
+placement of chargers. Similarly, the access to the chargers needs to be assessed, taking 
+into account the maneuverability of the trucks. 
+
+✓ 
+
+✓  Consult  technical  and  safety  regulations  regarding  the 
+infrastructure, as well as implications on insurance policies. 
+It  is  worth  considering  delegating  the  operation  and  maintenance  to  a  charge  point 
+operator. 
+
+installation  of  charging 
+
+✓ 
+
+  Battery systems and PVs are highly  complementary. Investigate the potential of adding 
+
+these to the depot. 
+
+  Be  aware  of  national  requirements  regarding  the  installation  of  chargers  and  make  a 
+
+proactive plan for having enough to fulfill both legislation and your own needs. 
+
+  When installing the  first  chargers, prepare  underground channels,  tubes,  and cables so 
+
+you may continuously add chargers. 
+
+6. Summary – main recommendations 
+
+25 
+
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+Relevant Literature 
+
+Reports and Guidelines 
+
+[1]  “Charging  Handbook  for  Transport  Depots  –  A  practical  checklist  for  e-truck  charging 
+
+infrastructure”, NAL (Nationale Agenda Laadinfrastructuur), November 2022. Online link. 
+
+[2]  O. MacDonnell, Y. Qiu, X. Wang, S. Song, C. Dobbelaere, and C. Façanha. „Zero-Emission Truck and 
+
+Bus Market Update“, CALSTART, October 2022, Online link.  
+
+[3]  “Megawatt  Charging  System  (MCS)  –  Recommendations  and  requirements  for  MCS  related 
+standards bodies and solution suppliers”, CharIN, Whitepaper, Version 1.0, 2022, Online link. 
+[4]  “Connecting Your Fleet – A guide for businesses in Greater London”, Energy UK, October 2020, 
+
+Online link. 
+
+[5]  “Electric Trucks Recharged – Understanding commercial vehicle charging requirements”, Porsche 
+
+Consulting, December 2019, Online link. 
+
+[6]  “Electrifying the charge ahead – How eTrucks can join the transition on the road”, Heliox Energy, 
+
+Online link. 
+
+[7]  “Einfach laden an Rastanlagen – Auslegung des Netzanschlusses für E-LKW-Lade-Hubs”, Nationale 
+
+Leistelle Infrastruktur, 2022, Online link.  
+
+[8]  „Kosten  laadinfrastructuur  logistiek  laden  op  privaat  terrein“,  Report  on  costs  of  charging 
+infrastructure for logistics charging on private land, by NAL (Nationale Agenda Laadinfrastructuur), 
+December 2022, Online link. 
+
+Websites 
+
+[9]  “Electric 
+
+Trucks”,  North  American  Council 
+
+for 
+
+Freight 
+
+Efficiency, 
+
+June  2023,  
+
+URL: https://nacfe.org/research/electric-trucks/ 
+
+[10] 
+
+“Electric  Depot 
+
+Education”, 
+
+Run  On 
+
+Less 
+
+– 
+
+by  NACFE, 
+
+April 
+
+2023,  
+
+URL: https://runonless.com/electric-depot/electric-depot-bootcamp/ 
+
+[11] 
+
+“Connecting electric vehicle chargepoints to the electricity network”, UK Gov., Department 
+for  Energy  Security  and  Net  Zero,  and  Department  for  Business,  Energy  &  Industrial  Strategy,  
+URL: https://www.gov.uk/government/publications/connecting-electric-vehicle-chargepoints-to-
+the-electricity-network 
+
+[12] 
+
+“Heavy Vehicles”, Collection of reports by the International Council on Clean Transportation,  
+
+URL: https://theicct.org/sector/heavy-vehicles/ 
+
+[13] 
+
+“De werkgroep Logistiek van de NAL”, Collection of guidelines, roadmaps, and action plans, 
+
+provided by the logistics working group of the NAL (Nationale Agenda Laadinfrastructuur), URL. 
+[14]  M.  Muratori  and  B.  Borlaug,  “Perspectives  on  Charging  Medium-  and  Heavy-Duty  Electric 
+Vehicles”, NREL, IEA Public Webinar on Public Charging Infrastructure Deployment Strategies and 
+Business Models, December 2021, URL: https://www.nrel.gov/docs/fy22osti/81656.pdf 
+
+Relevant Literature 
+
+26 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Scientific publications 
+
+[15] 
+
+B.  Borlaug  et  al.  “Heavy-duty  truck  electrification  and  the  impacts  of  depot  charging  on 
+
+electricity distribution systems,” In: Nature Energy, vol. 6, no. 6, pp. 673–682, 2021. Online link. 
+
+[16] 
+
+J. Engelhardt, J. M. Zepter, T. Gabderakhmanova, and M. Marinelli. “Energy management of a 
+multi-battery  system  for  renewable-based  high  power  EV  charging.”  In:  eTransportation  14,  p. 
+100198, 2022. Online link. 
+
+[17] 
+
+J. Engelhardt. “Reconfigurable Batteries in Electric Vehicle Fast Chargers: Towards Renewable-
+
+Powered Mobility”, Technical University of Denmark, 2022. Online link. 
+
+[18] 
+
+R.  M.  Jahn,  A.  Syré,  A.  Grahle,  K.  Martins-Turner,  and  D.  Göhlich.  “Methodology  for 
+Determining Charging Strategies for Freight Traffic Vehicles based on Traffic Simulation Results.” 
+In: Procedia Computer Science 184, pp. 656–661, 2021. Online link. 
+
+[19] 
+
+J. Engelhardt, S. Grillo, L. Calearo, M. Agostini, M. Coppo, M. Marinelli. “Optimal Control of a 
+DC  Microgrid  with  Busbar  Matrix  for  High  Power  EV  Charging.”  In:  Electric  Power  Systems 
+Research, vol. 224, p. 109680, 2023. Online link. 
+
+[20] 
+
+D.  Nicolaides,  D.  Cebon,  and  J.  Miles.  “An  Urban  Charging  Infrastructure  for  Electric  Road 
+Freight Operations: A Case Study for Cambridge UK,” In: IEEE Systems Journal, vol. 13, no. 2, pp. 
+2057–2068, Jun. 2019. Online link. 
+
+[21] 
+
+J. Engelhardt, J. M. Zepter, J. Sparresø, and M. Marinelli. “Real-life demonstration of a hybrid 
+EV  fast  charging  station  with  reconfigurable  battery  technology  enabling  renewable-powered 
+mobility.” In: Proceedings of the 18th Conference on Sustainable Development of Energy, Water 
+and Environment Systems (SDEWES), 2023. Online link. 
+
+[22] 
+
+T. Teoh, O. Kunze, C.-C. Teo, and Y. Wong, “Decarbonisation of Urban Freight Transport Using 
+Electric Vehicles and Opportunity Charging,” In: Sustainability, vol. 10, no. 9, p. 3258, 2018. Online 
+link. 
+
+Relevant Literature 
+
+27 
+
+ 
+

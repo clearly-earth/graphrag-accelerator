@@ -1,0 +1,1540 @@
+2023 Global Ocean 
+Container Greenhouse 
+Gas Emission Intensities 
+
+2  CLEAN CARGO | 2023 GLOBAL OCEAN CONTAINER GREENHOUSE GAS EMISSION INTENSITIES   
+
+© Smart Freight Centre. 2024.
+
+This publication may be reproduced in whole or in part in any form for educational or 
+non-profit purposes without special permission from Smart Freight Centre, provided that 
+Smart Freight Centre is acknowledged as the source of the information. Smart Freight 
+Centre would appreciate receiving a copy of any publication that uses this publication 
+as a source. This publication may be used for resale or commercial purposes, provided 
+that the user provides written notification to info@smartfreightcentre.org prior to using the 
+publication for resale or commercial purposes. 
+
+Suggested citation
+Smart Freight Centre. Clean Cargo 2023 Global Ocean Container Greenhouse Gas 
+Emission Intensities. July 2024. 
+
+Disclaimer
+The information presented in this publication is based on analyses conducted by Smart 
+Freight Centre staff and does not necessarily reflect the views of the Smart Freight Centre 
+Board of Trustees. Smart Freight Centre does not guarantee the accuracy of the content 
+included in this publication and does not accept any responsibility for the consequences 
+of its use. 
+
+3  CLEAN CARGO | 2023 GLOBAL OCEAN CONTAINER GREENHOUSE GAS EMISSION INTENSITIES   
+
+Smart Freight Centre 
+
+Smart Freight Centre (SFC) is an international non-profit organization 
+focused on reducing the emission impacts of global freight 
+transportation. Smart Freight Centre’s vision is a zero-emission 
+global logistics sector by 2050 or earlier, consistent with 1.5° 
+pathways . Smart Freight Centre’s mission is to accelerate the 
+reduction of logistics emissions by fostering collaboration within 
+the global logistics ecosystem . 
+
+The SFC’s goal is to mobilize the global logistics ecosystem, 
+particularly members and partners, to track and reduce its 
+greenhouse gas emissions to achieve 1.5° pathways . 
+
+Clean Cargo
+
+Clean Cargo is a collaborative initiative between ocean container 
+carriers, freight forwarders, and cargo owners. 
+
+Clean Cargo serves as a source of high-quality containership 
+greenhouse gas emission performance information that supports 
+members in their work to decarbonize containerized ocean cargo 
+transportation. Specifically, the Clean Cargo secretariat collects 
+operational and technical data from ocean container carriers to 
+generate containership emission performance information that: 
+
+• Offers access to primary data following the GLEC standardized  
+  framework and ISO 14083. 
+• By providing a standardized methodology and guideline for  
+  measuring and reporting carbon emissions associated with 
+  ocean container carriers enables members to identify areas for   
+  improvement and track progress in reducing emissions.  
+• Facilitates accurate greenhouse gas emissions inventory  
+  calculations for Clean Cargo members. 
+• This data-driven approach allows members to make informed    
+  decisions about their supply chain choices on ocean 
+  freight procurement decisions to minimize their carbon   
+  emission impact.  
+
+Clean Cargo also serves as a forum for sharing best practices for 
+decarbonization amongst members. 
+
+ 
+ 
+ 
+ 
+ 
+4  CLEAN CARGO | 2023 GLOBAL OCEAN CONTAINER GREENHOUSE GAS EMISSION INTENSITIES   
+
+2023 Greenhouse gas emission 
+performance information 
+
+The emission performance information presented in this report is 
+calculated using the Clean Cargo methods for a series of ocean 
+container transportation trade lanes. The information in Table 1 
+represents the average annual performance1 across all reporting 
+Clean Cargo ocean container carrier members. For 2023, there were 
+18 reporting Clean Cargo carriers. These carriers accounted for 
+approximately 88.3% of global ocean container freight capacity (by 
+volume). By number, Clean Cargo carriers operated 4098 cellular 
+vessels, representing 68.6% of the total container vessels at the 
+end of 2023. 
+
+Clean Cargo emission intensities are based on emission factors that 
+incorporate greenhouse gas emissions related to combustion and 
+energy use resulting from all United Nations Framework Convention 
+on Climate Change Kyoto Protocol greenhouse gases (currently, CO2, 
+methane (CH4), nitrous oxide (N2O), hydrofluorocarbons (HFCs), 
+perfluorocarbons (PFCs), sulphur hexafluoride (SF6), and nitrogen 
+trifluoride (NF3)). The emission factors that underly the Clean Cargo 
+emission intensities include emissions associated with the entire life 
+cycle of the production and use of each energy source. 
+
+Clean Cargo greenhouse gas emission intensities are shown in Table 1: 
+
+• Are calculated based on each vessel’s nominal capacity,  
+  assuming a 70% vessel capacity utilization factor 
+  (roundtrip voyage).  
+• Differentiate between emission intensities for refrigerated cargo  
+  (refrigerated) and non-refrigerated cargo (dry) based on each  
+  vessel’s nominal refrigerated container capacity (reefer plugs) and  
+  the vessel’s reported number of days of operation. 
+• Reflect emissions associated with the entire life cycle of the fuel  
+  consumed in the carriers’ vessels (that is, the Table 1 emission   
+  intensities are Well-to-Wake intensities). 
+
+Clean Cargo carrier member data used in calculating the emission 
+intensities undergoes third-party verification. 
+
+Additional information on the methods behind the emission intensities 
+included in Table 1 is accessible here. 
+
+1 Ocean cargo shippers and freight forwarders interested in carrier-specific emissions performance 
+information are welcome to contact Smart Freight Centre at info@smartfreightcentre.org to learn 
+more about membership in Clean Cargo.
+
+ 
+ 
+5  CLEAN CARGO | 2023 GLOBAL OCEAN CONTAINER GREENHOUSE GAS EMISSION INTENSITIES   
+
+Table 1 Average carrier dry and refrigerated 
+container emission intensities in grams of carbon 
+dioxide equivalent per twenty-foot equivalent 
+unit-kilometer (gCO2e / TEU-km). Intensities 
+reflect “Well-to-Wake” emission factors and 
+assume 70% vessel capacity utilization. 
+
+In addition, for the trade from North Europe to/
+from North America’s West Coast, there are no 
+figures available for the report 20232 
+
+Additional information on the methods behind 
+the emission intensities included in Table 1 is 
+accessible here.
+
+TRADE LANE
+
+Asia to-from Africa
+
+Asia to-from Mediterranean/Black Sea
+
+Asia to-from Middle East/India
+
+Asia to-from North America East Coast/Gulf
+
+Asia to-from North America West Coast
+
+Asia to-from North Europe
+
+Asia to-from Oceania
+
+Asia to-from South America (Including Central America)
+
+Europe (North and Med) to-from Africa
+
+Europe (North and Med) to-from S America (Inc Cent America)
+
+Europe (North and Med) to-from Middle East/India
+
+Europe (North and Med) to-from Oceania (via Suez/via Panama)
+
+Mediterranean/Black Sea to-from North America East Coast/Gulf
+
+Mediterranean/Black Sea to-from North America West Coast
+
+2023
+
+Number
+of vessels:
+4,098
+
+2022
+
+Number
+of vessels:
+3,971 
+
+2021
+
+Number
+of vessels:
+3,737 
+
+2020
+
+Number 
+of vessels:
+3,740
+
+2019
+
+Number
+of vessels:
+3,493
+
+d
+e
+t
+a
+r
+e
+g
+i
+r
+f
+e
+R
+
+140.6
+
+109.0
+
+127.9
+
+114.0
+
+120.7
+
+100.6
+
+152.4
+
+120.7
+
+163.9
+
+138.3
+
+121.1
+
+139.6
+
+152.0
+
+130.6
+
+y
+r
+D
+
+83.8
+
+48.7
+
+68.6
+
+63.1
+
+65.7
+
+39.6
+
+96.0
+
+70.8
+
+99.7
+
+81.6
+
+63.2
+
+81.9
+
+92.0
+
+48.9
+
+d
+e
+t
+a
+r
+e
+g
+i
+r
+f
+e
+R
+
+151.0
+
+114.5
+
+133.1
+
+123.4
+
+131.7
+
+102.1
+
+y
+r
+D
+
+87.7
+
+48.0
+
+73.7
+
+64.7
+
+71.3
+
+42.3
+
+d
+e
+t
+a
+r
+e
+g
+i
+r
+f
+e
+R
+
+155.4
+
+111.4
+
+137.5
+
+120.4
+
+138.2
+
+102.0
+
+165.6
+
+100.7
+
+168.6
+
+127.3
+
+71.5
+
+125.9
+
+y
+r
+D
+
+75.3
+
+46.6
+
+60.5
+
+57.8
+
+64.1
+
+44.1
+
+88.4
+
+63.1
+
+d
+e
+t
+a
+r
+e
+g
+i
+r
+f
+e
+R
+
+143.5
+
+104.7
+
+121.3
+
+111.6
+
+121.7
+
+100.5
+
+149.2
+
+118.2
+
+y
+r
+D
+
+74.3
+
+50.3
+
+56.2
+
+60.2
+
+67.1
+
+42.3
+
+86.4
+
+60.5
+
+d
+e
+t
+a
+r
+e
+g
+i
+r
+f
+e
+R
+
+133.1
+
+104.8
+
+111.1
+
+107.4
+
+116.5
+
+93.1
+
+138.6
+
+109.9
+
+172.7
+
+102.2
+
+174.0
+
+100.2
+
+171.3
+
+100.9
+
+164.9
+
+142.8
+
+129.5
+
+141.4
+
+167.0
+
+122.8
+
+79.6
+
+68.5
+
+82.8
+
+88.4
+
+62.3
+
+139.7
+
+132.6
+
+139.5
+
+154.0
+
+131.1
+
+68.8
+
+58.9
+
+81.9
+
+77.1
+
+71.9
+
+126.2
+
+119.2
+
+138.7
+
+139.2
+
+129.9
+
+67.4
+
+55.8
+
+80.0
+
+80.1
+
+77.8
+
+121.2
+
+108.3
+
+131.2
+
+136.6
+
+134.4
+
+y
+r
+D
+
+72.3
+
+42.1
+
+64.2
+
+54.1
+
+56.8
+
+38.7
+
+85.0
+
+61.0
+
+89.4
+
+71.7
+
+54.6
+
+78.6
+
+80.4
+
+56.4
+
+North America East Coast/Gulf/West Coast to-from Africa
+
+111.3
+
+180.1
+
+131.7
+
+192.2
+
+134.2
+
+193.5
+
+124.3
+
+201.1
+
+138.9
+
+190.7
+
+North America East Coast/Gulf/West Coast to-from Oceania
+
+N America E Coast/Gulf/W Coast to-from S America (Inc Cent America)
+
+N America E Coast/Gulf/W Coast to-from Middle East/India
+
+North Europe to-from North America East Coast/Gulf
+
+North Europe to-from North America West Coast
+
+74.1
+
+84.1
+
+72.8
+
+78.0
+
+133.1
+
+152.6
+
+135.0
+
+143.6
+
+80.0
+
+88.1
+
+75.3
+
+88.9
+
+76.4
+
+145.1
+
+109.7
+
+173.7
+
+103.5
+
+156.0
+
+106.4
+
+156.7
+
+153.3
+
+138.6
+
+160.6
+
+142.0
+
+91.6
+
+79.9
+
+92.2
+
+88.6
+
+156.5
+
+137.7
+
+159.5
+
+170.0
+
+82.5
+
+70.9
+
+84.5
+
+75.9
+
+143.2
+
+125.9
+
+144.4
+
+134.2
+
+82.3
+
+66.0
+
+86.9
+
+64.0
+
+134.7
+
+115.9
+
+141.1
+
+117.5
+
+South America (Including Central America) to-from Africa
+
+101.0
+
+174.9
+
+138.2
+
+206.6
+
+110.6
+
+186.8
+
+122.4
+
+200.0
+
+115.9
+
+174.0
+
+Intra Africa
+
+115.1
+
+214.0
+
+133.7
+
+224.9
+
+135.2
+
+233.0
+
+127.1
+
+219.0
+
+118.3
+
+201.2
+
+Intra North America East Coast/Gulf/West Coast
+
+214.5
+
+294.5
+
+202.9
+
+283.0
+
+171.5
+
+233.7
+
+177.6
+
+241.8
+
+143.2
+
+203.3
+
+Intra South America (Including Central America)
+
+100.1
+
+176.3
+
+116.4
+
+193.0
+
+108.4
+
+176.0
+
+103.9
+
+177.0
+
+103.1
+
+169.9
+
+South East Asia to-from North East Asia
+
+90.1
+
+157.8
+
+98.6
+
+169.6
+
+98.1
+
+168.3
+
+84.0
+
+148.4
+
+91.3
+
+150.6
+
+Intra North East Asia
+
+Intra South East Asia
+
+100.7
+
+177.1
+
+110.7
+
+184.8
+
+118.9
+
+187.8
+
+103.5
+
+182.8
+
+101.7
+
+173.7
+
+116.1
+
+195.2
+
+125.2
+
+202.1
+
+117.4
+
+193.2
+
+112.5
+
+194.2
+
+102.6
+
+176.8
+
+North Europe to-from Mediterranean/Black Sea
+
+64.4
+
+131.0
+
+73.1
+
+140.5
+
+104.2
+
+173.9
+
+95.8
+
+160.1
+
+98.8
+
+158.0
+
+Intra Mediterranean/Black Sea
+
+137.5
+
+240.2
+
+158.8
+
+264.8
+
+148.2
+
+250.2
+
+134.3
+
+239.4
+
+128.3
+
+220.6
+
+Intra North Europe
+
+Intra Middle East/India
+
+Other
+
+141.3
+
+234.9
+
+140.3
+
+232.9
+
+143.3
+
+233.2
+
+138.4
+
+221.6
+
+139.8
+
+221.4
+
+106.3
+
+187.2
+
+117.6
+
+197.1
+
+126.1
+
+223.2
+
+108.9
+
+197.1
+
+84.9
+
+162.9
+
+85.9
+
+164.3
+
+106.7
+
+179.2
+
+110.9
+
+182.5
+
+95.9
+
+78.3
+
+171.6
+
+139.9
+
+Average Across all Trade Lanes
+
+63.7
+
+129.7
+
+70.6
+
+136.5
+
+74.4
+
+138.3
+
+66.4
+
+126.5
+
+66.2
+
+120.1
+
+2  None of the Clean Cargo Ocean Container Carriers reported Vessel on this tradelane.
+
+ 
+6  CLEAN CARGO | 2023 GLOBAL OCEAN CONTAINER GREENHOUSE GAS EMISSION INTENSITIES   
+
+Emission intensity trends 
+
+Clean Cargo carrier GHG emission intensities for 2023, 
+averaged across all reporting carriers and all trade lanes, were 
+approximately 10% (dry) and 5% (refrigerated) lower than the 
+2022 emission intensities. 
+
+Figure 1 The 2019-2023 trend in global average Clean Cargo carrier 
+emission intensities (gCO2e/ TEU-km, assuming 70% vessel capacity 
+utilization and using Well-to-Wake emission factors). 
+
+r
+a
+e
+y
+s
+u
+o
+i
+v
+e
+r
+p
+m
+o
+r
+f
+
+e
+g
+n
+a
+h
+c
+
+e
+g
+a
+t
+n
+e
+c
+r
+e
+P
+
+)
+n
+o
+i
+t
+a
+z
+
+i
+l
+i
+t
+
+U
+%
+0
+7
+,
+e
+k
+a
+W
+-
+o
+t
+-
+l
+l
+
+e
+W
+
+(
+
+m
+k
+-
+U
+E
+T
+
+/
+e
+2
+O
+C
+g
+
+%
+2
+1
+
+%
+9
+
+%
+5
+
+%
+6
+-
+
+%
+3
+-
+
+%
+0
+
+%
+5
+-
+
+%
+1
+-
+
+%
+0
+1
+-
+
+%
+5
+-
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+1
+.
+0
+2
+1
+
+5
+.
+6
+2
+1
+
+1
+3
+.
+8
+3
+1
+
+5
+.
+6
+3
+1
+
+9
+6
+.
+9
+2
+1
+
+2
+.
+6
+6
+
+4
+.
+6
+6
+
+5
+3
+.
+4
+7
+
+6
+.
+0
+7
+
+6
+6
+.
+3
+6
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+Dry
+
+Refrigerated
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7  CLEAN CARGO | 2023 GLOBAL OCEAN CONTAINER GREENHOUSE GAS EMISSION INTENSITIES   
+
+Overall trends  
+
+Geopolitical tensions continued to leave their mark in 2023. 
+Russia-Ukraine war and deteriorating US-China relations strained 
+the atmosphere on the global stage. The complexity deepened with 
+the eruption of the Israel–Hamas war in October. The world has 
+again become more fragmented, with widespread consequences 
+for the global economy and trade. The year saw a gradual easing of 
+inflationary pressures from peak levels. However, economies are still 
+experiencing inflation at elevated levels, forcing central banks to act 
+and posing ongoing challenges for the global economy. Striking a 
+delicate balance between taming high inflation and fostering economic 
+growth remains a crucial concern for central banks worldwide. 
+
+Technological advancements in artificial intelligence (AI) accelerated 
+during 2023, bringing a wave of optimism to the shipping industry. 
+AI’s potential contribution to reducing emissions and improving 
+energy efficiency is gaining prominence, paving the way for a more 
+sustainable future for global seaborne transport.  
+
+World seaborne trade volumes increased by around 3% in 2023. 
+However, the increased cost of living has shifted consumption 
+patterns, leading to decreased demand for containerized goods and 
+container vessels. This shift in consumer behaviour has significantly 
+impacted the shipping industry, affecting both trade volumes and 
+vessel demand.   
+
+The shipping industry is volatile, and shipowners are used to 
+adjusting accordingly. During 2023, container shipowners and 
+operators reduced vessel speeds and idled capacity to cope with 
+the significant fall in demand.  
+
+The climate agenda is front and centre in the shipping industry. No 
+silver bullets exist, but the maritime sector is fortunate to navigate a 
+global regulatory framework governed by the International Maritime 
+Organization (IMO). In 2023, the IMO reached a consensus to tighten 
+GHG regulations, closing some of the gap with the objectives of the 
+Paris Agreement. Starting in 2024, the shipping industry will begin 
+operating by new rules introduced by the IMO. 
+
+The IMO has introduced technical and operational measures to 
+ensure the shipping industry reduces its climate footprint. The 
+Energy Efficiency Design Index (EEDI) requires new vessels to be 
+built to reduce the industry’s climate impact. At the same time, the 
+Carbon Intensity Indicator (CII) targets the operational efficiency of 
+existing vessels. 
+
+ 
+ 
+ 
+ 
+ 
+8  CLEAN CARGO | 2023 GLOBAL OCEAN CONTAINER GREENHOUSE GAS EMISSION INTENSITIES   
+
+Regional initiatives supplement global regulations. The European 
+Union has included the shipping industry in its Emission Trading 
+System (ETS) from 2024. This introduces a carbon tax on CO2 
+emissions from vessels entering EU ports. Moreover, a vital 
+component of the EU’s Fit for 55 packages is the FuelEU Maritime 
+initiative, which aims to stimulate demand for renewable and low-
+emission fuels in the maritime sector. The FuelEU Maritime regulation 
+is expected to take effect in 2025. 
+
+The container market has continued its downward ride after stellar 
+years during the pandemic.  
+
+The fleet’s cargo-carrying capacity increased significantly during 2023, 
+when high inflation and soaring interest rates reduced demand for 
+containerized goods. As a result, both freight rates and second-hand 
+ship prices experienced substantial declines. A massive inflow of 
+vessels is still projected for 2024 and next year, while high inflation is 
+expected to continue to weigh on the outlook for the global economy. 
+The container market is, therefore, expected to suffer from surplus 
+vessel capacity in the coming years, likely leading to further declines 
+in freight rates and increased scrapping of vessels.
+
+ 
+ 
+9  CLEAN CARGO | 2023 GLOBAL OCEAN CONTAINER GREENHOUSE GAS EMISSION INTENSITIES   
+
+Potential drivers of 
+the intensity changes 
+
+The volume of international maritime trade has steadily increased 
+over the last decade, with over 80% of world merchandise trade 
+shipped by sea. Efficient, environmentally friendly, and low-cost 
+maritime transport systems that connect global supply chains are the 
+driving force for sustainable economic growth.  
+
+Given the competitive business environment, an ocean container 
+shipping company seeks efficient freight solutions through on-
+time delivery by enhancing service schemes and fleet deployment. 
+Finding the optimal routes, schedules, and plans for a fleet of various 
+container vessels is challenging and becomes more so when, in 
+most cases, considering the uncertainty that governs the maritime 
+shipping environment. 
+
+Uncertainty in maritime transport is either because of variations 
+in operating parameters or unexpected disruptions. Some important 
+operation parameters relate to port bottlenecks, container terminals, 
+and waiting time before berthing. Unexpected disruptions refer to 
+rare or one-off occurrences, like port closure, congestion, berth 
+prioritization, and inclement weather. This is significant for an ocean 
+container carrier with many container vessels dispersed in the seas. 
+For example, on November 19, 2023, missiles were fired from 
+Houthi rebels in Yemen, backed by Iran and siding with Palestine in 
+the conflict. This happened in the Red Sea and the Bab al-Mandab 
+Strait. The situation risks seafarers’ lives and is unsustainable for 
+global trade.  
+
+Subsequently, Ocean Container Lines announced diverting several 
+vessels due to the threat in the Red Sea, giving new extended 
+sailing plans through the Cape of Good Hope in Africa. It is a similar 
+example; in March 2021, a 20125 TEU container vessel, buffeted by 
+winds, blocked the Suez Canal for six days, resulting in a long queue 
+of vessels lining up to pass, delaying reaching their destinations on 
+time. In this regard, 70–80% of vessel round trips experience delays 
+(sometimes for days) in at least one port. (See following Chart 1) 
+
+ 
+ 
+ 
+10  CLEAN CARGO | 2023 GLOBAL OCEAN CONTAINER GREENHOUSE GAS EMISSION INTENSITIES   
+
+Chart 1  Suez Canal Congestion 
+(only container ships) 
+
+40
+
+30
+
+20
+
+10
+
+t
+n
+u
+o
+c
+p
+h
+S
+
+i
+
+0
+Jan 2022
+
+Jul 2022
+
+Jan 2023
+
+Jul 2023
+
+Jan 2024
+
+North Queue Suez Canal 
+
+South Queue Suez Canal
+
+Source: Alphaliner Market info 2022-2023 
+
+Ocean container vessels need to take several countermeasures to 
+reduce the adverse effects of sudden disruptions. A vessel’s schedule 
+can be recovered by actions like (a) omitting a port, (b) adjusting the 
+vessel speed, and (c) swapping the order of ports. To mitigate delays 
+caused by one or more call ports, a ship would increase its speed to 
+get back on schedule, significantly increasing the fuel consumption 
+rate and, consequently, the amount of CO2 emitted.  However, 
+swapping of call ports is impractical for a vessel with a fixed order 
+of calls or one that needs to load and unload goods. 
+
+ 
+ 
+11  CLEAN CARGO | 2023 GLOBAL OCEAN CONTAINER GREENHOUSE GAS EMISSION INTENSITIES   
+
+What factors might have contributed to the decreased fleetwide 
+average greenhouse gas emission intensity for 2023, and could 
+other external factors influence this reduction? 
+
+The decreased fleetwide average GHG emission intensity for 2023 
+compared to 2022 can be attributed to several factors closely related 
+to better fleet operations. Reduced port congestion has led to fewer 
+speed-ups, resulting in more balanced and lower average speeds 
+(See Chart 2). This operational improvement directly affects carbon 
+intensity, as vessel congestion negatively impacts it. Therefore, 
+alleviating congestion has contributed significantly to the reduction 
+in carbon intensity. 
+
+Chart 2 Global Container ships
+– Average Speed (knots)
+
+16.5
+
+16.0
+
+15.5
+
+15.0
+
+Jan 2022
+
+Jul 2022
+
+Jan 2023
+
+Jul 2023
+
+Jan 2024
+
+Jul 2024
+
+Source: Alphaliner Market info 2022-2023 
+
+ 
+12  CLEAN CARGO | 2023 GLOBAL OCEAN CONTAINER GREENHOUSE GAS EMISSION INTENSITIES   
+
+Improvements to existing vessels, such as modifications to the 
+bulbous bow and other retrofitting measures, along with adding 
+significant new buildings to the fleet, have further supported 
+emission reductions. The stabilization of maritime transportation 
+supply chains following COVID-induced disruptions that impacted 
+vessel activities in 2021 and 2022 has also played a role. As vessel 
+operations normalize (See Chart 3), the need to increase speed to 
+recover from delays decreases, allowing for more opportunities for 
+speed optimization. 
+
+Chart 3 Container Vessels W/T - Seasonality 
+
+)
+s
+r
+u
+o
+h
+(
+
+i
+
+e
+m
+T
+g
+n
+i
+t
+i
+a
+W
+
+12
+
+10
+
+8
+
+100
+
+200
+
+300
+
+Number of Vessels
+
+2022
+
+2023
+
+2024
+
+Source: Alphaliner Market info 2022-2023 
+
+ 
+ 
+13  CLEAN CARGO | 2023 GLOBAL OCEAN CONTAINER GREENHOUSE GAS EMISSION INTENSITIES   
+
+Another contributing factor is the high vessel capacity utilization. 
+Larger vessels, when fully utilized, often operate at lower emission 
+intensities than smaller vessels. If the increase in capacity is due to 
+the upsizing of each vessel, it leads to an improvement in carbon 
+intensity. The fleet’s upsizing and the anticipated positive effects of 
+this on carbon intensity also support the observed reduction in GHG 
+emission intensity. 
+
+Additionally, several external factors might be influencing this 
+reduction. Stricter international regulations on GHG emissions from 
+shipping are pushing the industry towards more efficient operations. 
+Technological advancements in marine propulsion systems, hull 
+designs, and fuel types contribute to lower emissions. Economic 
+factors, such as fluctuations in fuel prices, can incentivize more 
+fuel-efficient practices and technologies. Environmental awareness 
+and corporate responsibility pressures from stakeholders, including 
+investors and customers, are driving shipping companies to focus 
+more on reducing their carbon footprint. Collaborative efforts within 
+the maritime industry to reduce emissions and improve efficiency, 
+such as data sharing and joint development projects, also play a 
+significant role. 
+
+In summary, the decrease in fleetwide average GHG emission 
+intensity in 2023 compared to 2022 results from improved fleet 
+operations, technological enhancements, supply chain stabilization, 
+and efficient capacity utilization. External factors such as regulatory 
+changes, technological advances, economic considerations, 
+increased environmental awareness, and collaborative industry 
+efforts contribute to this positive trend. 
+
+ 
+ 
+Using the 2023 emission 
+performance intensities 
+
+For further information on how to apply the 2023 Clean Cargo greenhouse 
+gas emission intensities in greenhouse gas emission footprint calculations, 
+please see the Global Logistics Emissions Council Framework.  
+
+Information 
+
+For more information on Smart Freight Centre or Clean Cargo, 
+please visit our website at  www.smartfreightcentre.org. 
+
+You can also contact Smart Freight Centre directly by email at  
+info@smartfreightcentre.org, or by phone at +31 6 4695 4405.
+
+

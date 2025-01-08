@@ -167,3 +167,5 @@ main.parameters.json
 **/Chart.lock
 
 .history
+
+.DS_Store

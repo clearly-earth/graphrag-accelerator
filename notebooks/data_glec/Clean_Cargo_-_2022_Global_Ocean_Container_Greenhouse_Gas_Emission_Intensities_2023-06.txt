@@ -1,0 +1,1375 @@
+2022 Global Ocean 
+Container Greenhouse 
+Gas Emission Intensities
+
+2  CLEAN CARGO | 2022 GLOBAL OCEAN CONTAINER GREENHOUSE GAS EMISSION INTENSITIES   
+
+© Smart Freight Centre. 2023.
+
+This publication may be reproduced in whole or in part in any form for educational or 
+non-profit purposes without special permission from Smart Freight Centre, provided that 
+Smart Freight Centre is acknowledged as the source of the information. Smart Freight 
+Centre would appreciate receiving a copy of any publication that uses this publication as 
+a source. This publication may be used for resale or for commercial purposes, provided 
+that the user provides written notification to info@smartfreightcentre.org prior to the use 
+of the publication for resale or commercial purposes.
+
+Smart Freight Centre. Clean Cargo 2022 Global Ocean Container Greenhouse Gas 
+Emission Intensities. June 2023.
+
+Disclaimer
+The information presented in this publication is based on analyses conducted by Smart 
+Freight Centre staff and does not necessarily reflect the views of the Board of Trustees 
+of Smart Freight Centre. Smart Freight Centre does not guarantee the accuracy of 
+the content included in this publication and does not accept any responsibility for 
+consequences of its use.
+
+3  CLEAN CARGO | 2022 GLOBAL OCEAN CONTAINER GREENHOUSE GAS EMISSION INTENSITIES   
+
+About Smart Freight Centre 
+
+Smart Freight Centre is an international nonprofit organization 
+focused on reducing greenhouse gas emissions from freight 
+transportation. Smart Freight Centre’s vision is an efficient and 
+zero emission global logistics sector. Smart Freight Centre works 
+to guide the global logistics industry in tracking and reducing the 
+industry’s greenhouse gas emissions by one billion tonnes by 
+2030 and to reach zero emissions by 2050 or earlier, consistent 
+with a 1.5°C future.
+
+About Clean Cargo
+
+Clean Cargo is a collaborative initiative between ocean container 
+carriers, freight forwarders, and cargo owners.
+
+Clean Cargo serves as a source of high-quality containership 
+greenhouse gas emission performance information that supports 
+members in their work to decarbonize containerized ocean cargo 
+transportation. Specifically, the Clean Cargo secretariat collects 
+operational and technical data from ocean container carriers to 
+generate containership emission performance information that:
+
+• Facilitates accurate greenhouse gas emissions inventory  
+  calculations for Clean Cargo members.
+
+• Guides member companies in making educated ocean freight  
+  procurement decisions.
+
+Clean Cargo also serves as a forum for decarbonization best 
+practice sharing amongst members.
+
+ 
+4  CLEAN CARGO | 2022 GLOBAL OCEAN CONTAINER GREENHOUSE GAS EMISSION INTENSITIES   
+
+2022 Greenhouse gas emission 
+performance information 
+
+The emission performance information presented in this report 
+is calculated according to the Clean Cargo methods for a series 
+of Clean Cargo ocean container transportation trade lanes. The 
+information in Table 1 represents average annual performance1  
+across all reporting Clean Cargo ocean container carrier members. 
+For 2022, there were 17 reporting Clean Cargo carriers. These 
+carriers were responsible for approximately 85% of global ocean 
+container freight capacity (by volume).
+
+Clean Cargo emission intensities are based on emission factors 
+that incorporate greenhouse gas emissions resulting from all 
+United Nations Framework Convention on Climate Change Kyoto 
+Protocol greenhouse gases (currently, carbon dioxide (CO2), 
+methane (CH4), nitrous oxide (N2O), hydrofluorocarbons (HFCs), 
+perfluorocarbons (PFCs), sulphur hexafluoride (SF6), and nitrogen 
+trifluoride (NF3)). The emission factors that underly the Clean Cargo 
+emission intensities include emissions associated with the entire 
+life cycle of the production and use of each energy source2.
+
+Clean Cargo greenhouse gas emission intensities shown in Table 1:
+
+• Are calculated based on each vessel’s nominal capacity,  
+  assuming a 70% vessel capacity utilization factor. 
+
+• Differentiate between emission intensities for refrigerated cargo  
+  (refrigerated) and non-refrigerated cargo (dry) based on each  
+  vessel’s nominal refrigerated container capacity and the vessel’s  
+  reported number of days of operation.
+
+• Reflect emissions associated with the entire life cycle of the fuel  
+  consumed in the carriers’ vessels (that is, the Table 1 emission  
+  intensities are “Well to Wake” intensities).
+
+Clean Cargo carrier member data used in calculating the emission 
+intensities undergoes third-party verification.
+
+Additional information on the methods behind the emission 
+intensities included in Table 1 is accessible here. 
+
+1 Ocean cargo shippers and freight forwarders interested in carrier-specific emissions performance 
+information are welcome to contact Smart Freight Centre at info@smartfreightcentre.org to learn 
+more about membership in Clean Cargo.
+
+2 Except in selected instances, where the emission intensities will be clearly marked “Tank to 
+Wake,” or “TTW.”
+
+ 
+5  CLEAN CARGO | 2022 GLOBAL OCEAN CONTAINER GREENHOUSE GAS EMISSION INTENSITIES   
+
+Table 1 Average carrier dry and refrigerated 
+container emission intensities in grams of 
+carbon dioxide equivalent per twenty foot 
+equivalent unit-kilometer (gCO2e / TEU-km). 
+Intensities reflect Well to Wake emission factors 
+and assume 70% vessel capacity utilization.
+
+2022
+
+2021
+
+2020
+
+2019
+
+2018
+
+Number
+of vessels:
+3,971 
+
+Number
+of vessels:
+3,737 
+
+Number 
+of vessels:
+3,740
+
+Number
+of vessels:
+3,493
+
+Number 
+of vessels:
+3,275
+
+TRADE LANE
+
+Asia to-from Africa
+
+Asia to-from Mediterranean/Black Sea
+
+Asia to-from Middle East/India
+
+Asia to-from North America East Coast/Gulf
+
+Asia to-from North America West Coast
+
+Asia to-from North Europe
+
+Asia to-from Oceania
+
+Asia to-from South America (Including Central America)
+
+Europe (North and Mediterranean) to-from Africa
+
+Europe (North and Mediterranean) to-from South America
+
+(Including Central America)
+
+d
+e
+t
+a
+r
+e
+g
+i
+r
+f
+e
+R
+
+151.0
+
+114.5
+
+133.1
+
+123.4
+
+131.7
+
+102.1
+
+y
+r
+D
+
+87.7
+
+48.0
+
+73.7
+
+64.7
+
+71.3
+
+42.3
+
+d
+e
+t
+a
+r
+e
+g
+i
+r
+f
+e
+R
+
+155.4
+
+111.4
+
+137.5
+
+120.4
+
+138.2
+
+102.0
+
+165.6
+
+100.7
+
+168.6
+
+127.3
+
+71.5
+
+125.9
+
+y
+r
+D
+
+75.3
+
+46.6
+
+60.5
+
+57.8
+
+64.1
+
+44.1
+
+88.4
+
+63.1
+
+d
+e
+t
+a
+r
+e
+g
+i
+r
+f
+e
+R
+
+143.5
+
+104.7
+
+121.3
+
+111.6
+
+121.7
+
+100.5
+
+149.2
+
+118.2
+
+y
+r
+D
+
+74.3
+
+50.3
+
+56.2
+
+60.2
+
+67.1
+
+42.3
+
+86.4
+
+60.5
+
+d
+e
+t
+a
+r
+e
+g
+i
+r
+f
+e
+R
+
+133.1
+
+104.8
+
+111.1
+
+107.4
+
+116.5
+
+93.1
+
+138.6
+
+109.9
+
+172.7
+
+102.2
+
+174.0
+
+100.2
+
+171.3
+
+100.9
+
+164.9
+
+d
+e
+t
+a
+r
+e
+g
+i
+r
+f
+e
+R
+
+128.4
+
+108.9
+
+116.9
+
+111.1
+
+120.1
+
+92.1
+
+141.5
+
+111.7
+
+151.8
+
+y
+r
+D
+
+72.9
+
+56.9
+
+64.0
+
+63.7
+
+71.0
+
+43.4
+
+89.4
+
+63.4
+
+91.6
+
+y
+r
+D
+
+83.8
+
+48.7
+
+68.6
+
+63.1
+
+65.7
+
+39.6
+
+96.0
+
+70.8
+
+99.7
+
+81.6
+
+142.8
+
+79.6
+
+139.7
+
+68.8
+
+126.2
+
+67.4
+
+121.2
+
+77.5
+
+132.5
+
+Europe (North and Mediterranean) to-from Middle East/India
+
+Europe (North and Med) to-from Oceania (via Suez/via Panama)
+
+Mediterranean/Black Sea to-from North America East Coast/Gulf
+
+Mediterranean/Black Sea to-from North America West Coast
+
+63.2
+
+81.9
+
+92.0
+
+48.9
+
+129.5
+
+141.4
+
+167.0
+
+122.8
+
+68.5
+
+82.8
+
+88.4
+
+62.3
+
+132.6
+
+139.5
+
+154.0
+
+131.1
+
+58.9
+
+81.9
+
+77.1
+
+71.9
+
+119.2
+
+138.7
+
+139.2
+
+129.9
+
+55.8
+
+80.0
+
+80.1
+
+77.8
+
+108.3
+
+131.2
+
+136.6
+
+134.4
+
+North America East Coast/Gulf/West Coast to-from Africa
+
+131.7
+
+192.2
+
+134.2
+
+193.5
+
+124.3
+
+201.1
+
+138.9
+
+190.7
+
+58.5
+
+94.5
+
+89.1
+
+96.5
+
+83.4
+
+111.5
+
+146.5
+
+143.9
+
+153.9
+
+133.4
+
+North America East Coast/Gulf/West Coast to-from Oceania
+
+80.0
+
+145.1
+
+109.7
+
+173.7
+
+103.5
+
+156.0
+
+106.4
+
+156.7
+
+111.0
+
+158.9
+
+North America East Coast/Gulf/West Coast to-from 
+
+South America (Including Central America)
+
+North America East Coast/Gulf/
+
+West Coast to-from Middle East/India
+
+88.1
+
+153.3
+
+91.6
+
+156.5
+
+82.5
+
+143.2
+
+82.3
+
+134.7
+
+89.8
+
+141.1
+
+75.3
+
+138.6
+
+79.9
+
+137.7
+
+70.9
+
+125.9
+
+66.0
+
+115.9
+
+74.0
+
+121.1
+
+North Europe to-from North America East Coast/Gulf
+
+North Europe to-from North America West Coast
+
+88.9
+
+76.4
+
+160.6
+
+142.0
+
+92.2
+
+88.6
+
+159.5
+
+170.0
+
+84.5
+
+75.9
+
+144.4
+
+134.2
+
+86.9
+
+64.0
+
+141.1
+
+117.5
+
+South America (Including Central America) to-from Africa
+
+138.2
+
+206.6
+
+110.6
+
+186.8
+
+122.4
+
+200.0
+
+115.9
+
+174.0
+
+88.8
+
+70.6
+
+68.6
+
+141.1
+
+122.9
+
+118.5
+
+Intra Africa
+
+133.7
+
+224.9
+
+135.2
+
+233.0
+
+127.1
+
+219.0
+
+118.3
+
+201.2
+
+115.7
+
+186.9
+
+Intra North America East Coast/Gulf/West Coast
+
+202.9
+
+283.0
+
+171.5
+
+233.7
+
+177.6
+
+241.8
+
+143.2
+
+203.3
+
+118.2
+
+175.8
+
+Intra South America (Including Central America)
+
+116.4
+
+193.0
+
+108.4
+
+176.0
+
+103.9
+
+177.0
+
+103.1
+
+169.9
+
+112.2
+
+181.3
+
+South East Asia to-from North East Asia
+
+98.6
+
+169.6
+
+98.1
+
+168.3
+
+84.0
+
+148.4
+
+91.3
+
+150.6
+
+110.7
+
+184.8
+
+118.9
+
+187.8
+
+103.5
+
+182.8
+
+101.7
+
+173.7
+
+125.2
+
+202.1
+
+117.4
+
+193.2
+
+112.5
+
+194.2
+
+102.6
+
+176.8
+
+109.3
+
+178.9
+
+94.5
+
+72.5
+
+154.5
+
+129.2
+
+Intra North East Asia
+
+Intra South East Asia
+
+North Europe to-from Mediterranean/Black Sea
+
+73.1
+
+140.5
+
+104.2
+
+173.9
+
+95.8
+
+160.1
+
+98.8
+
+158.0
+
+103.3
+
+163.0
+
+Intra Mediterranean/Black Sea
+
+158.8
+
+264.8
+
+148.2
+
+250.2
+
+134.3
+
+239.4
+
+128.3
+
+220.6
+
+100.2
+
+174.3
+
+Intra North Europe
+
+Intra Middle East/India
+
+Other
+
+140.3
+
+232.9
+
+143.3
+
+233.2
+
+138.4
+
+221.6
+
+139.8
+
+221.4
+
+117.6
+
+197.1
+
+126.1
+
+223.2
+
+108.9
+
+197.1
+
+85.9
+
+164.3
+
+106.7
+
+179.2
+
+110.9
+
+182.5
+
+95.9
+
+78.3
+
+171.6
+
+139.9
+
+98.3
+
+96.7
+
+68.2
+
+162.7
+
+169.5
+
+120.5
+
+Average Across all Trade Lanes
+
+70.6
+
+136.5
+
+74.4
+
+138.3
+
+66.4
+
+126.5
+
+66.2
+
+120.1
+
+70.6
+
+123.5
+
+6  CLEAN CARGO | 2022 GLOBAL OCEAN CONTAINER GREENHOUSE GAS EMISSION INTENSITIES   
+
+Emission intensity trends 
+
+Clean Cargo carrier carbon dioxide emission intensities for 2022, 
+when averaged across all reporting carriers and across all trade 
+lanes, were approximately 5% (dry) and 1.2% (refrigerated) lower 
+than the 2021 emission intensities.3
+
+Figure 1 2012-2022 trend in global average Clean Cargo carrier 
+emission intensities (grams CO2 / TEU-km, assuming 100% vessel 
+capacity utilization, and using Tank to Wake emission factors).
+
+3
+
+.
+
+0
+1
+
+8
+.
+7
+
+4
+.
+0
+
+6
+.
+4
+-
+
+2
+.
+1
+-
+
+0
+.
+5
+-
+
+4
+.
+2
+-
+
+6
+.
+7
+-
+
+6
+.
+4
+-
+
+7
+.
+5
+-
+
+4
+.
+8
+-
+
+4
+.
+8
+-
+
+5
+.
+2
+-
+
+4
+.
+2
+-
+
+6
+.
+0
+-
+
+0
+.
+1
+-
+
+2
+.
+3
+-
+
+5
+.
+2
+-
+
+4
+.
+6
+-
+
+7
+.
+5
+-
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+0
+1
+.
+4
+9
+
+0
+8
+.
+1
+9
+
+0
+6
+.
+7
+8
+
+0
+6
+.
+2
+8
+
+0
+6
+.
+0
+8
+
+0
+1
+.
+0
+8
+
+0
+5
+.
+7
+7
+
+0
+6
+.
+5
+7
+
+0
+9
+.
+5
+7
+
+0
+8
+
+.
+
+1
+8
+
+0
+8
+
+.
+
+0
+8
+
+0
+1
+.
+3
+6
+
+0
+3
+.
+8
+5
+
+0
+4
+.
+3
+5
+
+0
+9
+.
+8
+4
+
+0
+7
+.
+7
+4
+
+0
+2
+.
+7
+4
+
+0
+2
+.
+4
+4
+
+0
+7
+.
+1
+4
+
+0
+8
+.
+9
+3
+
+9
+8
+.
+3
+4
+
+0
+7
+.
+1
+4
+
+r
+a
+e
+y
+s
+u
+o
+i
+v
+e
+r
+p
+m
+o
+r
+f
+
+e
+g
+n
+a
+h
+c
+
+e
+g
+a
+t
+n
+e
+c
+r
+e
+P
+
+m
+k
+-
+U
+E
+T
+2
+
+/
+
+O
+C
+g
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+Dry
+
+Refrigerated 
+
+3  For most of the years between 2012 and 2022, Clean Cargo emission intensities were reported 
+based on CO2 (versus CO2e), Tank to Wake emission factors, assuming 100% vessel capacity 
+utilization. In order to present the longest meaningful time series, the percent change information 
+discussed here (and the information shown in Figure 1) therefore reflects Tank to Wake CO2 
+emissions and a 100% vessel capacity utilization factor.
+
+ 
+ 
+ 
+ 
+7  CLEAN CARGO | 2022 GLOBAL OCEAN CONTAINER GREENHOUSE GAS EMISSION INTENSITIES   
+
+Potential drivers of 
+the intensity changes 
+
+The decreased fleetwide average greenhouse gas emission 
+intensity for 2022 is likely to be the result of several related 
+factors. It is difficult to determine the contribution of each factor 
+to the decreased intensity without conducting a detailed analysis 
+of global container fleet activities in 2022. However, contributing 
+factors could include:
+
+• Stabilization of marine transportation supply chains following  
+  COVID-induced disruptions that impacted vessel activities    
+  in 2021. Congestion and port delays, although still present 
+  (especially at the start of the year), reduced in 2022 (compared 
+  to 2021). Reduced supply chain disruptions may also be  
+  associated with decreased vessel speeds. Above a certain  
+  threshold, decreases in vessel speeds can be associated with  
+  increases in the energy efficiency (per transport activity)  
+  of a vessel.
+
+• A slight increase of the average capacity of vessels for 2022   
+  activities as reported through Clean Cargo. Provided that vessel  
+  capacity utilization is high, larger vessels can often operate at  
+  lower emission intensities than can smaller vessels. This factor  
+  has been a significant driver in overall sector efficiency during  
+  the past decade.
+
+Using the 2022 emission 
+performance intensities 
+
+For further information on how to apply the 2022 Clean Cargo 
+greenhouse gas emission intensities in greenhouse gas emission 
+footprint calculations, please see the Global Logistics Emissions 
+Council Framework.
+
+ 
+ 
+Information 
+
+For more information on Smart Freight Centre or Clean Cargo, 
+please visit our website at  www.smartfreightcentre.org. 
+
+You can also contact Smart Freight Centre directly by email at  
+info@smartfreightcentre.org, or by phone at +31 6 4695 4405.
+
+
